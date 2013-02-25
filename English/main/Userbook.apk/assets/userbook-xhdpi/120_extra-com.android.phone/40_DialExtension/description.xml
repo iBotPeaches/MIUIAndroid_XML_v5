@@ -1,0 +1,5 @@
+<feature>
+    <title>Pause dialing and extensions</title>
+    <header>Long press the * key to insert the , delimiter which allows pauses to be inserted when dialing a number</header>
+    <footer></footer>
+</feature>

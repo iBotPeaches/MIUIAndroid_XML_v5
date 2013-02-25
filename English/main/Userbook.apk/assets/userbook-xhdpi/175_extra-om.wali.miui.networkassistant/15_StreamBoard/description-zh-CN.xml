@@ -1,0 +1,5 @@
+<feature>
+    <title>流量排行</title>
+    <header>流量排行页查看已安装软件的使用情况，按菜单键查看WLAN和系统软件的流量情况</header>
+    <footer>点击单项可查单个软件更详细的流量使用分布</footer>
+</feature>

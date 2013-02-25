@@ -1,0 +1,5 @@
+<feature>
+    <title>批量刪除通話記錄</title>
+    <header>在通話記錄列表上長按進入編輯模式，選擇要刪除的項，點刪除按鈕即可</header>
+    <footer>想刪除陌生人電話？試試選單中「顯示過濾」吧</footer>
+</feature>

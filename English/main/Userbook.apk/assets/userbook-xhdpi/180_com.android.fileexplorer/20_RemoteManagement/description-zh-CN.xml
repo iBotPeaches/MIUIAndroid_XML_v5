@@ -1,0 +1,6 @@
+<feature>
+    <title>远程管理</title>
+    <header>“SD卡”选项卡中点击“远程管理”，启动服务后可在电脑上以ftp的方式访问手机目录，不用
+USB连接也可以访问SD卡</header>
+    <footer></footer>
+</feature>

@@ -1,0 +1,5 @@
+<feature>
+    <title>Bulk delete call records</title>
+    <header>Press on a call log entry to entering editing mode, you can batch select logs to be deleted</header>
+    <footer>You can also filter out and add numbers to the blacklist</footer>
+</feature>

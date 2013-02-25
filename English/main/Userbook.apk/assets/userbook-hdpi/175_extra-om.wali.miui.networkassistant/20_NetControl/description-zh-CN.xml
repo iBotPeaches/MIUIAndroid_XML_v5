@@ -1,0 +1,5 @@
+<feature>
+    <title>联网控制</title>
+    <header>在流量排行页点击下方“批量联网控制”，可快速对每个软件进行联网控制</header>
+    <footer>还可以对新安装的程序默认联网与否进行限制</footer>
+</feature>

@@ -1,0 +1,5 @@
+<feature>
+    <title>批量操作</title>
+    <header>在簡訊列表或會話中長按列表中的任意項，就可以進入批量選擇模式，按返回鍵或取消按鈕退出批量模式</header>
+    <footer></footer>
+</feature>

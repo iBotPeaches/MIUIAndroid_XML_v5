@@ -1,0 +1,5 @@
+<feature>
+    <title>插入表情</title>
+    <header>點擊曲別針圖標打開簡訊附件選單，點擊「表情」。前2頁是通用字符表情，後3頁是Emoji表情</header>
+    <footer>只有支援Emoji的系統(如MIUI，iOS等)才能看到你傳送的Emoji表情</footer>
+</feature>

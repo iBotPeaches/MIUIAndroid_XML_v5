@@ -1,0 +1,5 @@
+<feature>
+    <title>查看歌词</title>
+    <header>播放面板中点击屏幕中央，可切换到歌词和高级视图，再次点击则返回</header>
+    <footer></footer>
+</feature>

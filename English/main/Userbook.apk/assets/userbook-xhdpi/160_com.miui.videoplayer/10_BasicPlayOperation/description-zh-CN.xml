@@ -1,0 +1,5 @@
+<feature>
+    <title>基本播放操作</title>
+    <header>播放时点击屏幕出现控制面板，点播放/暂停按钮可切换播放状态，点上一个/下一个按钮可切换视频</header>
+    <footer></footer>
+</feature>

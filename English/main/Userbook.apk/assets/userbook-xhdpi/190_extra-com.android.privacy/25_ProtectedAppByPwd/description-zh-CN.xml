@@ -1,0 +1,6 @@
+<feature>
+    <title>密码保护应用程序</title>
+    <header>在“系统设置 > 安全和隐私 > 隐私保护”中，打开“启用访问限制”，选择要保护的程序，再访
+问该程序时需要输入密码</header>
+    <footer></footer>
+</feature>

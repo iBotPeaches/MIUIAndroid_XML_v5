@@ -1,0 +1,5 @@
+<feature>
+    <title>流量監控和校正</title>
+    <header>監控手機網路數據，超流自動提醒和斷網。定時向電信業者查流量，校正監控數據</header>
+    <footer>拖動流量盤上的指針可以直接調節警戒值噢～</footer>
+</feature>

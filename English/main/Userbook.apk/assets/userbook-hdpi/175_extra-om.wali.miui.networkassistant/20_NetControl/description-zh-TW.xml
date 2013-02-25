@@ -1,0 +1,5 @@
+<feature>
+    <title>連線控制</title>
+    <header>在流量排行頁點擊下方「批量連線控制」，可快速對每個軟體進行連線控制</header>
+    <footer>還可以對新安裝的程式預設連線與否進行限制</footer>
+</feature>

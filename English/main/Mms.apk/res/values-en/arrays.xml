@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>Once</item>
+        <item>Twice</item>
+        <item>Three times</item>
+        <item>Five times</item>
+        <item>Ten times</item>
+    </string-array>
+</resources>

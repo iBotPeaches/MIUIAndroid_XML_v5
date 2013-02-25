@@ -1,0 +1,5 @@
+<feature>
+    <title>Remote FTP</title>
+    <header>From the "SD card" tab select the FTP icon at the bottom of the screen to enable the FTP service. You can use your PC to access files using FTP without the need for USB</header>
+    <footer></footer>
+</feature>

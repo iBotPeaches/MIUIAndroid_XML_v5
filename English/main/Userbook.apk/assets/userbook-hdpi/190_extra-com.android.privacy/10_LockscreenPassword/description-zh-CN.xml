@@ -1,0 +1,5 @@
+<feature>
+    <title>锁屏密码</title>
+    <header>在“系统设置 > 安全和隐私 > 屏幕安全保护”中开启“屏幕密码”，设置后解锁就需要输入密码</header>
+    <footer>打开桌面的安全中心文件夹，可设置锁屏密码</footer>
+</feature>

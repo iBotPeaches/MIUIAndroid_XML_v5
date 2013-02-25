@@ -1,0 +1,5 @@
+<feature>
+    <title>音乐均衡器</title>
+    <header>播放面板中，可点击开启/关闭均衡器。点击菜单中设置均衡器，可调节各种音效</header>
+    <footer></footer>
+</feature>

@@ -1,0 +1,5 @@
+<feature>
+    <title>Task Manager Part 2</title>
+    <header>You can remove a running task by dragging the icon upwards. You can also lock / unlock a task by dragging the icon downwards</header>
+    <footer>Long press an app icon to view tasks full details</footer>
+</feature>

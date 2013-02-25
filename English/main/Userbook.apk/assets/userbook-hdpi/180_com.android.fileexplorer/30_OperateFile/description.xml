@@ -1,0 +1,5 @@
+<feature>
+    <title>File operations</title>
+    <header>By long pressing on a file name you can copy, cut (move) or delete it or compress to a zip archive</header>
+    <footer></footer>
+</feature>

@@ -1,0 +1,5 @@
+<feature>
+    <title>插入表情</title>
+    <header>点击曲别针图标打开短信附件菜单，点击“表情”。前2页通用字符表情，后3页Emoji表情</header>
+    <footer>只有支持Emoji的系统(如MIUI，iOS等)才能看到你发送的Emoji表情</footer>
+</feature>

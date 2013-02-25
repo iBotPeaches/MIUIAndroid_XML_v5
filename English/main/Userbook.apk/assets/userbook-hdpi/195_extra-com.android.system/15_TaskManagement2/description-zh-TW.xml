@@ -1,0 +1,5 @@
+<feature>
+    <title>任務管理-2</title>
+    <header>向上滑動某圖標可清除該任務，向下滑動某圖標可鎖定/解鎖該任務</header>
+    <footer>長按某圖標可查看該應用詳情</footer>
+</feature>

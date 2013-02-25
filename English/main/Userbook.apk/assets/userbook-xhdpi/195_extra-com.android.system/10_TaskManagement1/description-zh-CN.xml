@@ -1,0 +1,5 @@
+<feature>
+    <title>任务管理-1</title>
+    <header>长按Home键，会显示近期任务和当前的程序运行情况，左右滑动可浏览更多任务</header>
+    <footer>一键清理可关闭正在运行的程序，释放内存</footer>
+</feature>

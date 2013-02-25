@@ -1,0 +1,5 @@
+<feature>
+    <title>发送彩信</title>
+    <header>在附件菜单中可以给短信插入图片、音频、视频等附件</header>
+    <footer>点击已插入附件可进行查看、删除、替换操作</footer>
+</feature>

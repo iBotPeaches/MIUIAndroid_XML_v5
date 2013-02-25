@@ -1,0 +1,5 @@
+<feature>
+    <title>批量操作</title>
+    <header>在短信列表或会话中长按列表中的任意项，就可以进入批量选择模式，按返回键或取消按钮退出批量模式</header>
+    <footer></footer>
+</feature>

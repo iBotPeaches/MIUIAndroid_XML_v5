@@ -1,0 +1,5 @@
+<feature>
+    <title>垃圾短信过滤</title>
+    <header>在“详细设置>高级拦截”中设置“过滤垃圾短信”功能，然后自行设置拦截关键词</header>
+    <footer>只要陌生人发给你的短信中出现你设置的关键词，就会被拦截</footer>
+</feature>

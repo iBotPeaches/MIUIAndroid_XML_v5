@@ -1,0 +1,5 @@
+<feature>
+    <title>修改歌曲信息</title>
+    <header>播放面板界面点菜单键，可修改歌曲信息，在此能修改ID3信息、下载歌词等</header>
+    <footer></footer>
+</feature>

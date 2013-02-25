@@ -1,0 +1,5 @@
+<feature>
+    <title>查看通知</title>
+    <header>有通知时，屏幕顶部状态栏左侧会出现图标。下拉通知栏可查看通知</header>
+    <footer></footer>
+</feature>

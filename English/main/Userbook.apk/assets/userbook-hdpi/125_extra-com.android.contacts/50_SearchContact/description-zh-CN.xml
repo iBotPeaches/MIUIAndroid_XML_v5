@@ -1,0 +1,5 @@
+<feature>
+    <title>搜索联系人</title>
+    <header>在搜索框中输入联系人姓名或拼音，可查找目标联系人，更支持按公司查找</header>
+    <footer>搜索结果根据联系频度智能排序</footer>
+</feature>

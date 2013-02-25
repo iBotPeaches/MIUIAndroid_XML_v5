@@ -1,0 +1,5 @@
+<feature>
+    <title>解鎖密碼</title>
+    <header>在「系統設定 > 安全和隱私 > 螢幕安全保護」中開啟「螢幕密碼」，設定後解鎖就需要輸入密碼</header>
+    <footer>打開桌面的安全中心資料夾，可設定解鎖密碼</footer>
+</feature>

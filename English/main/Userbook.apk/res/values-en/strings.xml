@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Handbook</string>
+  <string name="grid_list_title">Learn how to use MIUI ROM!</string>
+  <string name="loading_userbook">Loading...</string>
+  <string name="read_progress_format">%1$s/%2$s</string>
+  <string name="read_progress_title">Completed:</string>
+  <string name="total_read_progress_format">%1$s%%</string>
+</resources>

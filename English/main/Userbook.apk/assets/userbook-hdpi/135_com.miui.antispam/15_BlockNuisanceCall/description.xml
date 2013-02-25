@@ -1,0 +1,5 @@
+<feature>
+    <title>Block unwanted callers</title>
+    <header>If you have been harrassed by calls or unknown callers you can choose to block numbers or unknown callers via the Settings menu</header>
+    <footer>Blocked calls will be displayed in the notification bar to inform of a blocked call</footer>
+</feature>

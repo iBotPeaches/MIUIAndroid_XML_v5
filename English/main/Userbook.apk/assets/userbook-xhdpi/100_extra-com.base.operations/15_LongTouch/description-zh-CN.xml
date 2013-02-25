@@ -1,0 +1,5 @@
+<feature>
+    <title>长按与拖动</title>
+    <header>按住一个条目不动，会弹出功能菜单或激发其他操作，还可以拖动它到其他地方</header>
+    <footer>电话、短信、桌面等多个地方都支持长按与拖动操作</footer>
+</feature>

@@ -1,0 +1,5 @@
+<feature>
+    <title>垃圾簡訊過濾</title>
+    <header>在「詳細設定>進階攔截」中設定「過濾垃圾簡訊」功能，然後自行設定攔截關鍵詞</header>
+    <footer>只要陌生人發給你的簡訊中出現你設定的關鍵詞，就會被攔截</footer>
+</feature>

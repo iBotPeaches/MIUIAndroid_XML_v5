@@ -1,0 +1,5 @@
+<feature>
+    <title>快捷开关</title>
+    <header>通知栏中包括常用的快捷开关，方便快速控制亮度、静音、无线网络等设置</header>
+    <footer>长按某开关，可直接进入对应项的详细设置</footer>
+</feature>

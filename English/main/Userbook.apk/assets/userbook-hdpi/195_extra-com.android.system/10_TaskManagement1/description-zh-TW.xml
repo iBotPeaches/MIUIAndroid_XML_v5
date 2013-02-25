@@ -1,0 +1,5 @@
+<feature>
+    <title>任務管理-1</title>
+    <header>長按Home鍵，會顯示最近的任務和目前程式執行的情況，左右滑動可瀏覽更多任務</header>
+    <footer>一鍵清理可關閉正在執行的程式，釋放記憶體</footer>
+</feature>

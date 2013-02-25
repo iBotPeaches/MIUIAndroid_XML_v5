@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Contacts Storage</string>
+  <string name="create_contact">New contact</string>
+  <string name="default_directory">Contacts</string>
+  <string name="edit_contact">Add to contact</string>
+  <string name="local_invisible_directory">Other</string>
+  <string name="pound_search_tip">Input number after \"#\" to search contacts</string>
+  <string name="provider_label">Contacts</string>
+  <string name="read_write_all_voicemail_description">Allows the application to store and retrieve all voicemails that this device can access.</string>
+  <string name="read_write_all_voicemail_label">Access all voicemails</string>
+  <string name="send_sms">Send message</string>
+  <string name="sharedUserLabel">Android Core Apps</string>
+  <string name="upgrade_msg">Upgrading Contacts database.</string>
+  <string name="upgrade_out_of_memory_notification_text">Select to complete the upgrade.</string>
+  <string name="upgrade_out_of_memory_notification_ticker">Contact upgrade needs more memory</string>
+  <string name="upgrade_out_of_memory_notification_title">Upgrading contact storage</string>
+  <string name="voicemail_from_column">"Voicemail from "</string>
+</resources>

@@ -1,0 +1,5 @@
+<feature>
+    <title>锁屏界面</title>
+    <header>向下滑动直接解锁，向上、左、右分别进入相机、电话、短信界面</header>
+    <footer></footer>
+</feature>

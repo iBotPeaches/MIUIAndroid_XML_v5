@@ -1,0 +1,5 @@
+<feature>
+    <title>Reject call with message</title>
+    <header>When recieving an incoming call hold centre icon and drag up to reject and reply with an SMS.</header>
+    <footer>Incoming calls are quickly muted using the volume keys</footer>
+</feature>

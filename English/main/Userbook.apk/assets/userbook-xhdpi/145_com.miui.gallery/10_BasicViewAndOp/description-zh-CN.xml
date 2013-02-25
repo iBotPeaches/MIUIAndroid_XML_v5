@@ -1,0 +1,5 @@
+<feature>
+    <title>基本浏览操作</title>
+    <header>查看图片时，左右划动可切换到上/下一张图片，用两指缩放可以放大/缩小图片</header>
+    <footer></footer>
+</feature>

@@ -1,0 +1,5 @@
+<feature>
+    <title>Network control</title>
+    <header>In the traffic details page you can select which apps have access to Wi-Fi or mobile data</header>
+    <footer>You can also set apps by default to not be monitored by the traffic monitor function</footer>
+</feature>

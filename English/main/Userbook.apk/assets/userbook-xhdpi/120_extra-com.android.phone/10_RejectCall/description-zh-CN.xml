@@ -1,0 +1,5 @@
+<feature>
+    <title>来电拒接</title>
+    <header>来电时，按住中间解锁按钮向上滑动，就能拒接并发送短信</header>
+    <footer>来电时按一下音量键就能快速静音</footer>
+</feature>

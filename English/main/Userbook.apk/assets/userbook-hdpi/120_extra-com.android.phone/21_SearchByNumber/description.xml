@@ -1,0 +1,5 @@
+<feature>
+    <title>Direct number search</title>
+    <header>If you only want to search for a number first prefix the search with the # symbol to return only number searches</header>
+    <footer></footer>
+</feature>

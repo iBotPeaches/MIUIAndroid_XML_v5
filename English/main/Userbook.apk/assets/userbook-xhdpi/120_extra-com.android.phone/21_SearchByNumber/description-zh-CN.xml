@@ -1,0 +1,5 @@
+<feature>
+    <title>直接搜索号码</title>
+    <header>只搜索号码时，可按#号键直接搜索，支持输入任意位号码</header>
+    <footer></footer>
+</feature>

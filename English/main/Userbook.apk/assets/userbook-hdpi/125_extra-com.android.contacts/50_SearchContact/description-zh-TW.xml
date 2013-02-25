@@ -1,0 +1,5 @@
+<feature>
+    <title>搜尋聯絡人</title>
+    <header>在搜尋框中輸入聯絡人姓名或拼音，可查找目標聯絡人，更支援按公司查找</header>
+    <footer>搜尋結果根據聯繫頻度智慧排序</footer>
+</feature>

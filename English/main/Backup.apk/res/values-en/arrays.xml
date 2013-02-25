@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Wi-Fi data</item>
+        <item>All programs</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Browser</item>
+        <item>File Explorer</item>
+        <item>Gallery</item>
+        <item>Permission Manager</item>
+        <item>Weather Storage</item>
+	<item>Camera</item>
+        <item>Network Assistant</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Contacts</item>
+        <item>Call log</item>
+        <item>Messages</item>
+        <item>Multimedia Messages</item>
+        <item>System settings</item>
+        <item>Wi-Fi settings</item>
+        <item>Desktop layout</item>
+        <item>Alarm settings</item>
+        <item>Notes</item>
+        <item>DND</item>
+        <item>Account</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>Data</item>
+        <item>Programs</item>
+        <item>Programs and Data</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Contacts</item>
+        <item>Call log</item>
+        <item>Messages</item>
+        <item>Wi-Fi settings</item>
+        <item>Notes</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Contacts</item>
+        <item>Wi-Fi settings</item>
+        <item>Notes</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Call logs</item>
+        <item>Messages</item>
+    </string-array>
+</resources>

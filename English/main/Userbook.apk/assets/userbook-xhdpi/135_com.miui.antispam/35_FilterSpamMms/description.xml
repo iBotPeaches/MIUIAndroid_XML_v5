@@ -1,0 +1,5 @@
+<feature>
+    <title>Spam Filtering</title>
+    <header>You can select keywords to be blocked when receiving SMS messages</header>
+    <footer>Set your own keyword filters to trigger the spam filter</footer>
+</feature>

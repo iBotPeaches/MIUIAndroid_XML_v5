@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Xiaomi Sync</string>
+  <string name="find_device">Find device</string>
+  <string name="find_device_stop_noise">Click \"OK\" to stop alert tone</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Recommended to enable, otherwise it may consume your data allowance</string>
+  <string name="pref_title_sync_contacts_title">Sync contact</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Use only Wi-Fi to display photo</string>
+  <string name="sub_sync_item_sms_summary">Recommended to enable, otherwise it may consume your data allowance</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Use only Wi-Fi to sync MMS / SMS</string>
+  <string name="sync_item_sms_summary">Read SMS messages will be automatically synchronised</string>
+  <string name="sync_item_sms_title">Sync SMS</string>
+</resources>

@@ -1,0 +1,5 @@
+<feature>
+    <title>拨打分机和充值</title>
+    <header>输入号码时长按*键可插入分隔符“，”。拨号时会在“，”处停顿，然后再继续拨后面的号码</header>
+    <footer>事先输好，充值再也不怕输错密码啦</footer>
+</feature>

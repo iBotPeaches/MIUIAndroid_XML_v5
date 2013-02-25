@@ -1,0 +1,5 @@
+<feature>
+    <title>进度跳转</title>
+    <header>拖拽控制面板的进度条可跳转影片播放进度，在其余位置左右拖拽则可局部跳转</header>
+    <footer></footer>
+</feature>

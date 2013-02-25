@@ -1,0 +1,5 @@
+<feature>
+    <title>全局搜索</title>
+    <header>在桌面按菜单键，选择搜索，会进入全局搜索界面。输入你想找的东西名称吧〜</header>
+    <footer>全局搜索界面中按菜单键可进入“搜索设置”</footer>
+</feature>

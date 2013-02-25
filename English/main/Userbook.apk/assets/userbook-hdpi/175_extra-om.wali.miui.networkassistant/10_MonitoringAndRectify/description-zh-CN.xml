@@ -1,0 +1,5 @@
+<feature>
+    <title>流量监控和校正</title>
+    <header>监控手机网络数据，超流自动提醒和断网。定时向运营商查流量，校正监控数据</header>
+    <footer>拖动流量盘上的指针可以直接调节警戒值噢〜</footer>
+</feature>

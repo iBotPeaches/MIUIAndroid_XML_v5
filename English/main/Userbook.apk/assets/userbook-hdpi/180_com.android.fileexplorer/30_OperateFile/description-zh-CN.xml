@@ -1,0 +1,5 @@
+<feature>
+    <title>操作文件</title>
+    <header>长按一个文件，就可以对其进行复制、剪切、删除等操作</header>
+    <footer></footer>
+</feature>

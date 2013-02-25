@@ -1,0 +1,5 @@
+<feature>
+    <title>撥打分機和充值</title>
+    <header>輸入號碼時長按*鍵可插入分隔符「，」。撥號時會在「，」處停頓，然後再繼續撥後面號碼</header>
+    <footer>事先輸好，充值再也不怕輸錯密碼啦</footer>
+</feature>

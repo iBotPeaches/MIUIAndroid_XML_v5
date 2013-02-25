@@ -1,0 +1,5 @@
+<feature>
+    <title>Click and drag gestures</title>
+    <header>Most basic operations require click or drag gestures. Experiment to find the best way of using the UI.</header>
+    <footer>Some functions require double-tap operation</footer>
+</feature>

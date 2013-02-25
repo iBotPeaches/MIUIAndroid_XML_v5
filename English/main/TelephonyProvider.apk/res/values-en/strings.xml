@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Phone/Messaging Storage</string>
+  <string name="mms_provider_label">MMS</string>
+  <string name="mms_sms_provider_label">Messaging</string>
+  <string name="sms_provider_label">SMS</string>
+</resources>
