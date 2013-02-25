@@ -1,5 +1,6 @@
 MIUI v5 - MIUIAndroid XML Strings
 
+
 License of this work is covered below, for more information contact github@miuiandroid.com
 
 ---------------------------------------------------------------------------------------------
