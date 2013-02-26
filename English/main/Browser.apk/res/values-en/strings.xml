@@ -262,7 +262,6 @@
   <string name="pref_content_search_engine">Set search engine</string>
   <string name="pref_content_search_engine_summary">Choose a search engine</string>
   <string name="pref_content_title">Page content</string>
-  <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
   <string name="pref_data_preload_dialogtitle">Search result preloading</string>
   <string name="pref_data_preload_summary">Allow browser to preload high confidence search results in the background</string>
   <string name="pref_data_preload_title">Search result preloading</string>
@@ -320,13 +319,9 @@
   <string name="pref_lab_quick_controls">Quick controls</string>
   <string name="pref_lab_quick_controls_summary">Slide thumb from the left or right edge to open quick controls and hide app and URL bars</string>
   <string name="pref_lab_title">Labs</string>
-  <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
   <string name="pref_link_prefetch_dialogtitle">Web page preloading</string>
   <string name="pref_link_prefetch_summary">Allow browser to preload linked web pages in the background</string>
   <string name="pref_link_prefetch_title">Web page preloading</string>
-  <string name="pref_link_prefetch_value_always">ALWAYS</string>
-  <string name="pref_link_prefetch_value_never">NEVER</string>
-  <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_min_font_size">Minimum font size</string>
   <string formatted="false" name="pref_min_font_size_value">%d pt</string>
   <string name="pref_privacy_clear_cache">Clear cache</string>
