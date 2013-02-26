@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="continues">Continue</string>
-  <string name="data_usage_summary">If you have not applied for a data plan, it is recommended to turn off mobile data. Otherwise, your carrier may charge you additional fees.</string>
   <string name="next">Next</string>
   <string name="other_service_label">Other Services</string>
   <string name="other_service_location">Location services</string>
@@ -22,5 +21,4 @@
   <string name="traffic_protection_summary">Data traffic monitoring will remind you when your data plan has reached its limit.</string>
   <string name="traffic_protection_text_hint">Please input your data plan limit.</string>
   <string name="traffic_protection_unknown" />
-  <string name="use_data">Enable data</string>
 </resources>

@@ -85,10 +85,8 @@
   <string name="presetlist_autoselect_title">Confirm Auto-Select</string>
   <string name="radio_text_string">This is the long Radio Text String Message that needs to scroll</string>
   <string name="record_error_unknown">Recording stopped. Unknown error during recording.</string>
-  <string name="record_fail">Recording failed</string>
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">Click to view file %s</string>
-  <string name="record_sucess">Recording successful</string>
   <string name="regional_band">Regional Band will clear all saved stations</string>
   <string name="revert_to_fac">Revert to Factory Defaults</string>
   <string name="search_dialog_title">Scan Stations</string>

@@ -1,26 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="MIUI_homepage">MIUI Home</string>
-  <string name="MIUI_startpage">Start page</string>
   <string name="accessibility_button_addbookmark">Bookmark page</string>
   <string name="accessibility_button_back">Go back</string>
-  <string name="accessibility_button_bookmark">Bookmark</string>
   <string name="accessibility_button_bookmarks">Bookmarks</string>
   <string name="accessibility_button_clear">Clear input</string>
   <string name="accessibility_button_closetab">Close tab</string>
   <string name="accessibility_button_forward">Go forward</string>
   <string name="accessibility_button_go">Go</string>
   <string name="accessibility_button_goto">Go</string>
-  <string name="accessibility_button_larger">Larger</string>
   <string name="accessibility_button_more">More options</string>
   <string name="accessibility_button_navscreen">Page manager</string>
   <string name="accessibility_button_newincognitotab">Open new incognito tab</string>
   <string name="accessibility_button_newtab">Open new tab</string>
   <string name="accessibility_button_refresh">Refresh page</string>
   <string name="accessibility_button_search">Search</string>
-  <string name="accessibility_button_smaller">Smaller</string>
   <string name="accessibility_button_stop">Stop page load</string>
-  <string name="accessibility_button_tabs">Tabs</string>
   <string name="accessibility_button_uaswitch">Switch user agent</string>
   <string name="accessibility_button_voice">Start voice search</string>
   <string name="accessibility_state_frozen">Saved page</string>
@@ -194,7 +189,6 @@
   <string name="import_bookmarks_wizard_next">Next</string>
   <string name="import_bookmarks_wizard_previous">Previous</string>
   <string name="importing_favorite_files">Importing Data ...</string>
-  <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
   <string name="instant_search_label">Google with Instant (Labs)</string>
   <string name="is_first_history_item">Is the first history item</string>
   <string name="is_first_tab">Is the first tab</string>
@@ -222,10 +216,6 @@
   <string name="move_to_up_folder">Up a level</string>
   <string name="multi_select_title">Selected %1$s item(s)</string>
   <string name="name">Label</string>
-  <string name="navigator_permissions_prompt_dont_share">Decline</string>
-  <string formatted="false" name="navigator_permissions_prompt_message">%s wants to access %s on your device</string>
-  <string name="navigator_permissions_prompt_remember">Remember preference</string>
-  <string name="navigator_permissions_prompt_share">Allow</string>
   <string name="new_folder">New folder</string>
   <string name="new_incognito_tab">New incognito tab</string>
   <string name="new_tab">New tab</string>
@@ -299,7 +289,6 @@
   <string name="pref_development_uastring">UAString</string>
   <string name="pref_development_viewport">Use wide viewport</string>
   <string name="pref_development_visual_indicator">Enable Visual Indicator</string>
-  <string name="pref_development_woff">Enable WOFF</string>
   <string name="pref_exit_on_closing_last_tab_enabled_summary">Check this to exit browser on closing last tab in navigation screen. Uncheck to show homepage</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Exit on closing last tab</string>
   <string name="pref_extras_reset_default">Reset to default</string>
@@ -329,8 +318,6 @@
   <string name="pref_lab_fullscreen_summary">Use fullscreen mode to hide the status bar</string>
   <string name="pref_lab_quick_controls">Quick controls</string>
   <string name="pref_lab_quick_controls_summary">Slide thumb from the left or right edge to open quick controls and hide app and URL bars</string>
-  <string name="pref_lab_slide_tab_transitions">Slide Tab Transitions</string>
-  <string name="pref_lab_slide_tab_transitions_summary">Swipe from the edge to reveal the next/previous tab in the list.</string>
   <string name="pref_lab_title">Labs</string>
   <string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
   <string name="pref_link_prefetch_dialogtitle">Web page preloading</string>
@@ -397,7 +384,6 @@
   <string name="preview">Preview</string>
   <string name="progress_dialog_setting_wallpaper">Setting wallpaper…</string>
   <string name="readmode_reach_last_page">Last page has been reached</string>
-  <string name="readmodelist_bookmarks">_readinglist_in_database_</string>
   <string name="readmodelist_bookmarks_to_show">Reading List</string>
   <string name="recover">Recover</string>
   <string name="recover_from_crash">Continue with last browser session</string>
@@ -427,8 +413,6 @@
   <string name="search_yahoo">Yahoo</string>
   <string name="security_warning">Security warning</string>
   <string name="select_dot">Select text</string>
-  <string name="selection_all">Select all</string>
-  <string name="send_bookmark_to_home_screen">Send to home screen</string>
   <string name="set_as_homepage">Set as homepage</string>
   <string name="share_link">Share link</string>
   <string name="share_page">Share page</string>
@@ -464,7 +448,6 @@
   <string name="too_many_windows_dialog_title">Tab limit reached</string>
   <string name="ua_switcher_desktop">Request desktop site</string>
   <string name="uploads_disabled">File uploads are disabled.</string>
-  <string name="url_copy_done">URL copied</string>
   <string name="url_hint">Search or type URL</string>
   <string name="username">Name</string>
   <string name="view_certificate">View certificate</string>

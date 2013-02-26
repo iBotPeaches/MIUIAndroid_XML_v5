@@ -13,6 +13,8 @@
   <string name="apply_update_dialog_cancel_button">Cancel</string>
   <string name="apply_update_dialog_update_button">Update</string>
   <string name="apply_update_fail">System update failed</string>
+  <string name="apply_update_guide">Updating in background. Does not affect normal use.</string>
+  <string name="apply_update_refuse">System update is in progress, please reselect and install later</string>
   <string name="apply_upload_info_message">Clicking Update now will automatically restart the phone to apply the update</string>
   <string name="apply_upload_info_message_manually">After shutdown, you can manually enter Recovery to apply %s in SD Card. If you want to backup, you may perform it and then return to system update.</string>
   <string name="applying_rom_message">Applying update</string>
@@ -20,9 +22,8 @@
   <string name="best_update">2. Best update</string>
   <string name="boot_recovery">Reboot to Recovery</string>
   <string name="cancel_download_buton_text">Cancel</string>
-  <string name="check_update">Check for update</string>
-  <string name="check_update_policy">Check for updates</string>
-  <string name="check_update_when_wifi_available">Only with Wi-Fi</string>
+  <string name="check_update_policy">Check update settings</string>
+  <string name="check_update_when_wifi_available">Check for updates only using WLAN</string>
   <string name="checking_for_updates">Checking for updates...</string>
   <string name="choose_recommend">Please choose whether or not to recommend</string>
   <string name="confirm_download_cancelation_dialog_message">Are you sure you want to cancel the current download?</string>
@@ -38,9 +39,10 @@
   <string name="download_whole_rom">Download full ROM (%s)</string>
   <string name="downloading_description">Downloading...</string>
   <string name="emegency_build">Build:</string>
+  <string name="emegency_update_helper">It will require a reboot to apply the update</string>
+  <string name="emegency_update_size">Size: %s</string>
   <string name="exception_while_downloading">Error while downloading update</string>
   <string name="expect">4. Expectations</string>
-  <string name="experimental_build">Experimental Build</string>
   <string name="file_not_found_error_message">Requested file not found on server</string>
   <string name="finish">Finish</string>
   <string name="finish_download">Download completed</string>
@@ -51,7 +53,6 @@
   <string name="install_rom_from_sd">Select installation pack</string>
   <string name="install_sina">Install Sina app</string>
   <string name="install_whole_rom">Download full ROM package is recommended</string>
-  <string name="internal_build">Internal Build</string>
   <string name="kernel_upgrade_link" />
   <string name="kernel_upgrade_version" />
   <string name="loading">Requesting</string>
@@ -101,11 +102,13 @@
   <string name="share_update">Share system update info</string>
   <string name="share_update_content_sign">I’ve updated MIUI to %1$s! My update user rank is %2$s. For detailed changelog, please visit %3$s</string>
   <string name="share_update_content_unsign">I’ve updated MIUI to %1$s! For detailed changelog, please visit %2$s</string>
-  <string name="sign_in_add_account">Please activate your Xiaomi account</string>
   <string name="sign_in_add_account_helper">Your phone has no active MIUI account, add one to receive user-points</string>
-  <string name="sign_in_info">"Your update ranking is %1$s %2$s users have signed in for MIUI %3$s"</string>
-  <string name="sign_in_info_rank_more">"Your update ranking is after %1$s Over %2$s users have signed in for MIUI %3$s"</string>
-  <string name="sign_in_info_total_more">"Your update ranking is %1$s Over %2$s users have signed in for MIUI %3$s"</string>
+  <string name="sign_in_info">"Your update ranking is %1$s
+%2$s users have signed in for MIUI %3$s"</string>
+  <string name="sign_in_info_rank_more">"Your update ranking is after %1$s
+Over %2$s users have signed in for MIUI %3$s"</string>
+  <string name="sign_in_info_total_more">"Your update ranking is %1$s
+Over %2$s users have signed in for MIUI %3$s"</string>
   <string name="stable_build">Stable Build</string>
   <string name="start_update">Begin update</string>
   <string name="submit">Submit</string>
@@ -117,7 +120,6 @@
   <string name="system_backup_error_message">MIUI backup was not found, please backup manually</string>
   <string name="system_backup_ok_text">Backup</string>
   <string name="sytemt_backup_helper">System update will not wipe user data. However,it is recommended to make a backup of your user data before updating</string>
-  <string name="top_secret_build">Secret build</string>
   <string name="update_comment_hint">(optional)</string>
   <string name="update_comment_title">Your comments</string>
   <string name="update_feedback">Four-grid Update Feedback</string>
@@ -129,16 +131,18 @@
   <string name="update_sad">Sad</string>
   <string name="update_success">Congratulations, update successfully applied!</string>
   <string name="update_success_body">System has been successfully updated to %s</string>
-  <string name="update_success_title">Congratulations. Update Complete</string>
+  <string name="update_success_title">Congratulations,update succeeded</string>
   <string name="upgrade_close">Close</string>
-  <string name="upgrade_kernel">Current kernel requires upgrade</string>
-  <string name="upgrade_kernel_msg">"Current kernel version doesn't match the MIUI ROM. You need upgrade the kernel manually. Please refer to upgrade tutorial:"</string>
+  <string name="upgrade_kernel">Current kernel version need upgrade</string>
+  <string name="upgrade_kernel_msg">"Current kernel version doesn't match the MIUI ROM.You need upgrade the kernel manually.Please refer to upgrade tutorial:
+"</string>
   <string name="verify_and_apply_dialog_message">Verifying MD5 checksum...</string>
   <string name="verify_and_apply_dialog_title">Check file integrity</string>
+  <string name="view_details">View details</string>
   <string name="view_install_log">View error log</string>
   <string name="view_upgrade_tutorial">View tutorial</string>
   <string name="weekly_build">Weekly Build</string>
-  <string name="wifi_not_available_body">It is recommended to use Wi-Fi to download updates as file sizes can be large. You are not currently using Wi-Fi, are you sure you wish to continue?</string>
-  <string name="wifi_not_available_title">Wi-Fi not connected</string>
+  <string name="wifi_not_available_body">It is recommended to use WLAN to download updates as file sizes can be large. you are not currently using WLAN, are you sure to continue?</string>
+  <string name="wifi_not_available_title">WLAN not connected</string>
   <string name="worst_update">3. Worst update</string>
 </resources>

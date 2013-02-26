@@ -1,19 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="altitude">%.1f</string>
-  <string name="altitude_title">Altitude</string>
-  <string name="altitude_unit">m</string>
+  <string name="altitude">Altitude %.1fm</string>
   <string name="app_label">Compass</string>
   <string name="calibrate_failed_no_location">Calibration failed: Unable to get the current latitude and longitude</string>
   <string name="calibrate_failed_timeout">Calibration failed: Server timeout occurred</string>
   <string name="calibrate_success">Calibration complete</string>
   <string name="cannot_get_location">Unknown location</string>
   <string name="dialog_calibrat_altitude">Calibrating altitude through the internet connection.</string>
-  <string name="dialog_title_no_network">No network found, connect via Wi-Fi or enable Data</string>
-  <string name="direction_east">E</string>
-  <string name="direction_north">N</string>
-  <string name="direction_south">S</string>
-  <string name="direction_west">W</string>
+  <string name="dialog_content">Compass calibration is not complete and may result in inaccuracies. Are you sure you want to cancel？</string>
+  <string name="dialog_title">Cancel calibration</string>
+  <string name="dialog_title_no_network">Compass calibration is not complete and may result in inaccuracies. You sure you want to cancel？</string>
   <string name="getting_location">Getting location...</string>
   <string name="latitude">LAT</string>
   <string name="location_east">%s E</string>
@@ -23,7 +19,8 @@
   <string name="longitude">LON</string>
   <string name="menu_calibrate">Calibrate</string>
   <string name="menu_calibrate_altitude">Calibrate altitude</string>
-  <string name="pressure">%.1f</string>
-  <string name="pressure_title">Pressure</string>
-  <string name="pressure_unit">hPa</string>
+  <string name="pressure">Pressure %.1fhPa</string>
+  <string name="toast_accuracy_low">"The accuracy is low.
+Please press Menu to calibrate compass."</string>
+  <string name="user_guide_calibrate">Press Menu to calibrate compass</string>
 </resources>

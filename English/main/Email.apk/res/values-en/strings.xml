@@ -17,7 +17,6 @@
   <string name="account_security_dialog_title">Security update</string>
   <string name="account_security_policy_explanation_fmt">The server %s requires that you allow it to remotely control some security features of your Android device.</string>
   <string name="account_security_title">Device security</string>
-  <string name="account_security_waiting_policy_key_message">%s needs security settings information from server，please wait...</string>
   <string name="account_settings_action">Account settings</string>
   <string name="account_settings_background_attachments_label">Download attachments</string>
   <string name="account_settings_background_attachments_summary">Auto-download attachments to recent messages via Wi-Fi</string>
@@ -65,9 +64,6 @@
   <string name="account_setup_account_type_instructions">What type of account is this?</string>
   <string name="account_setup_account_type_pop_action">POP3</string>
   <string name="account_setup_account_type_title">Account setup</string>
-  <string name="account_setup_basic_description_label">Account name (optional)</string>
-  <string name="account_setup_basic_label">Please fill enter information for %s mailbox :</string>
-  <string name="account_setup_basic_name_label">Your name (optional)</string>
   <string name="account_setup_basics_default_label">Send e-mail from this account by default.</string>
   <string name="account_setup_basics_email_label">E-mail address</string>
   <string name="account_setup_basics_exchange_title">Add an Exchange account</string>
@@ -130,9 +126,6 @@
   <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (accept all certificates)</string>
   <string name="account_setup_incoming_title">Account setup</string>
   <string name="account_setup_incoming_username_label">Username</string>
-  <string name="account_setup_index_label">Please choose from the list of e-mail service providers:</string>
-  <string name="account_setup_index_other_mails">Other mail account</string>
-  <string name="account_setup_index_title">Account settings guide</string>
   <string name="account_setup_names_account_name_label">Give this account a name (optional)</string>
   <string name="account_setup_names_headline">Your account is set up, and e-mail is on its way!</string>
   <string name="account_setup_names_title">Account setup</string>
@@ -184,9 +177,6 @@
   <string name="add_account_action">Add account</string>
   <string name="add_cc_bcc_menu">Add Cc/Bcc</string>
   <string name="add_file_attachment">Attach file</string>
-  <string name="add_quick_responses_action">Create new</string>
-  <string name="alert_selected_all_message">" has at least %d messages, select all？"</string>
-  <string name="alert_title_selected">Select all</string>
   <string name="app_name">E-mail</string>
   <string name="application_name">Instant Upload</string>
   <string name="attachment_info_apk_install_disabled">"Apps can't be installed directly from e-mail. First save this app and then install it using the Downloads app."</string>
@@ -320,7 +310,9 @@
   <string name="mailbox_settings_mailbox_check_frequency_label">Check frequency</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Days to sync</string>
   <string name="mailbox_shortcut_picker_title">Select a folder</string>
-  <string name="manager_activity_last_sync_format">"Last Sync: %1$s %2$s"</string>
+  <string name="manager_activity_last_sync_format">"Last Sync:
+%1$s
+%2$s"</string>
   <string name="manager_do_not_upload">Do not upload</string>
   <string name="manager_list_switcher_completed_format">Completed uploads [%d]</string>
   <string name="manager_list_switcher_pending_format">Pending uploads [%d]</string>
@@ -530,7 +522,8 @@ CC: %4$s
   <string name="settings_action">Settings</string>
   <string name="settings_activity_title">Settings</string>
   <string name="show_quick_text_list_dialog_action">Insert quick response</string>
-  <string name="single_new_message_notification_big_text">"%1$s %2$s"</string>
+  <string name="single_new_message_notification_big_text">"%1$s
+%2$s"</string>
   <string name="status_loading_messages">Loading messages…</string>
   <string name="status_network_error">Connection problem.</string>
   <string name="subject_hint">Subject</string>
