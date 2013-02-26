@@ -33,7 +33,6 @@
   <string name="birthday_event_description">"Today is %1$s's birthday!"</string>
   <string name="birthday_event_description_detail_leap" />
   <string name="birthday_event_description_detail_smart" />
-  <string name="birthday_event_title">@string/birthday_notification_title_today</string>
   <string name="birthday_notification_age_term" />
   <string name="birthday_notification_text_three_days_later">3 days until the birthday (%3$s)</string>
   <string name="birthday_notification_text_today">"Don't forget to say happy birthday!"</string>
