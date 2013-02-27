@@ -103,9 +103,7 @@
   <string name="cit_kayboard_volume_down">Test button: VOLUME_DOWN</string>
   <string name="cit_kayboard_volume_up">Test button: VOLUME_UP</string>
   <string name="cit_keyboard_back">Test button: BACK</string>
-  <string name="cit_keyboard_camera">Test button: CAMERA</string>
   <string name="cit_keyboard_current">Keyboard: %s</string>
-  <string name="cit_keyboard_focus">Test button: FOCUS</string>
   <string name="cit_keyboard_menu">Test button: MENU</string>
   <string name="cit_keyboard_test_summary">Shows the currently selected hardware key, this test does not check the home button</string>
   <string name="cit_keyboard_test_title">Test Keyboard</string>
@@ -121,7 +119,6 @@
   <string name="cit_magnetic_sensor_check_title">Test Magnometer</string>
   <string name="cit_main_camera_check_summary">Test checkist:\n\n 1. Click the camera button to open the camera\n 2. Verify flash is turned on\n 3. Click on picture list\n 4. Click the OK button, this will automatically save the image\n 5. Check picture is displayed correctly and then delete</string>
   <string name="cit_main_camera_check_title">Test Camera (main camera)</string>
-  <string name="cit_main_camera_sdcard_error">SD card full, unable to save photo</string>
   <string name="cit_name">Hardware detection</string>
   <string name="cit_not_available">User version does not support this test, only factory version testing is available</string>
   <string name="cit_notificationlight">Notification indicator</string>

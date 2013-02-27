@@ -233,8 +233,6 @@
   <string name="select_video">Select video</string>
   <string name="send">Send</string>
   <string name="send_multiple_files_hint_format">Send multiple files (%s)</string>
-  <string name="sending_image_title">Sending image (File size: %s)</string>
-  <string name="sending_video_title">Sending video (File size: %s)</string>
   <string name="sepia">Sepia</string>
   <string name="set_hidden_album">Hidden album</string>
   <string name="set_image">Set picture as</string>

@@ -91,18 +91,6 @@
   <string name="ftp_username_hint">Username</string>
   <string name="gbk_summary">If you are using GBK encoding, e.g. Windows Explorer, choose this type of encoding to avoid garbled Chinese text</string>
   <string name="gbk_title">GBK</string>
-  <string name="guide_access_files_through_phone">"You can also upload files via webpages, and they will be displayed in MiDrive on your phone"</string>
-  <string name="guide_access_files_through_web">"Your file can be viewed on any computer connected to Internet"</string>
-  <string name="guide_advance_tech">Advanced Techniques</string>
-  <string name="guide_begin_to_use">Start using MiDrive</string>
-  <string name="guide_changes_sync">"Sync changes over all your devices. It's so easy!"</string>
-  <string name="guide_congratulation_know_all">"Congratulations! You have learned all techniques! Start using MiDrive right now!"</string>
-  <string name="guide_copy_to_sdcard">Copy files from SD card to MiDrive</string>
-  <string name="guide_download_install_apk">Download and install the MiDrive client</string>
-  <string name="guide_install_app_on_several_computers">Install the MiDrive client on multiple computers</string>
-  <string name="guide_login_url">"Please visit pan.xiaomi.com on your computer"</string>
-  <string name="guide_manage_files_through_computer">"You can easily manage files in MiDrive on your computer"</string>
-  <string name="guide_senior_tech">Senior Techniques</string>
   <string name="instruction">Enter the following address into your FTP Client:</string>
   <string name="instruction_pre">Start service to enable FTP server</string>
   <string name="kingsoft_account">Kingsoft KuaiPan account</string>
@@ -182,7 +170,6 @@
   <string name="server_control_settings">Server Settings</string>
   <string name="share_link_failed">Generating folder external link failed</string>
   <string name="show_message">File cannot be open without downloading</string>
-  <string name="slide_left_text">Slide to the left</string>
   <string name="space_info">Network space: %1$s available，total: %2$s</string>
   <string name="space_usage">Usage</string>
   <string name="start_server">Start Service</string>

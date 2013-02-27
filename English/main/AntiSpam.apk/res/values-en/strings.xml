@@ -100,7 +100,6 @@
   <string name="fw_notes_hint">Note (optional)</string>
   <string name="fw_notification_settings">Notification settings</string>
   <string name="fw_on">Guard mode running</string>
-  <string name="fw_pattern_settings">Firewall rule</string>
   <string name="fw_period">Enter blocking period</string>
   <string name="fw_restore_ms">Back to messages</string>
   <string name="fw_set_keyword">Configure keyword filter</string>

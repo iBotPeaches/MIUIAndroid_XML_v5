@@ -102,7 +102,6 @@
   <string name="callrecordview_menu_show_stranger">Show unknown calls</string>
   <string name="callrecordview_menu_show_title">Select call log type to be displayed</string>
   <string name="cancel_confirmation_dialog_message">Discard changes?</string>
-  <string name="cancel_confirmation_dialog_title">Discard changes</string>
   <string name="cancel_export_confirmation_message">Cancel export of %s?</string>
   <string name="cancel_import_confirmation_message">Cancel import of %s?</string>
   <string name="cancel_import_dialog_message">Are you sure you want to stop importing contacts?</string>
@@ -140,7 +139,6 @@
   <string name="config_prohibited_phone_number_regexp" />
   <string name="confirm_delete_contact_all_call_logs">"Are you sure you want to delete %s's call logs?"</string>
   <string name="confirm_delete_selected_all_call_logs">"Are you sure you want to delete the contact's call logs?"</string>
-  <string formatted="false" name="confirm_delete_selected_call_log">Delete the %1d selected groups of call records?</string>
   <string name="confirm_export_message">Your contact list will be exported to file: %s.</string>
   <string name="confirm_export_title">Export contacts?</string>
   <string name="connections">Connections</string>
@@ -173,7 +171,6 @@
   <string name="contactsJoinedMessage">Contacts joined</string>
   <string name="contactsList">Contacts</string>
   <string name="contacts_unavailable_add_account">Sign into an account</string>
-  <string name="contacts_unavailable_add_xiaomi_account">Sync Xiaomi contacts</string>
   <string name="contacts_unavailable_create_contact">Create a new contact</string>
   <string name="contacts_unavailable_import_contacts">Import contacts from a file</string>
   <string name="copy_text">Copy to clipboard</string>
@@ -580,7 +577,6 @@ To add a contact to your list of favorites:
   <string name="phone_info_divider">"  |  "</string>
   <string name="phone_primary">Primary</string>
   <string name="photoPickerNotFoundText">No pictures are available.</string>
-  <string name="photo_package_activity_title">Photo package</string>
   <string name="pick_favorites_contacts_list_title">%1$d favorite contacts in total</string>
   <string name="pick_favorites_list_title">%1$d favorite contact numbers in total</string>
   <string name="pick_new_photo">Select new photo from Gallery</string>
