@@ -11,6 +11,7 @@
   <string name="binded_accout_warning">Warning: This operation is not reversible, do you wish to continue?</string>
   <string name="binding_accout_title">Add existing KuaiPan account</string>
   <string name="cancel">Cancel</string>
+  <string name="cancel_cleanup">Cancel cleanup</string>
   <string name="category_all">All</string>
   <string name="category_apk">APKs</string>
   <string name="category_bluetooth">Bluetooth</string>
@@ -30,6 +31,9 @@
   <string name="clean_title">Delete files more than 30 days old in trash</string>
   <string name="clean_trash_box">Empty trash</string>
   <string name="clean_trash_box_failed">Delete files failed 30 days old or more in trash</string>
+  <string name="cleanup_help">Clean up unwanted files in the system to free storage space</string>
+  <string name="cleanup_tab_app">App Cleanup</string>
+  <string name="cleanup_tab_garbage">System Cleanup</string>
   <string name="clear_cache">Clear cache</string>
   <string name="close">Close</string>
   <string name="compress_message">Compress to:</string>
@@ -104,6 +108,7 @@
   <string name="local_cache_size">Local cache size: %s</string>
   <string name="login_reg_content">MiDrive helps you store files and sync them between multiple devices.</string>
   <string name="login_reg_content0">KuaiPan is your Cloud drive</string>
+  <string name="menu_item_cleanup">File Cleanup</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Search</string>
   <string name="menu_item_sort">Sort by</string>
@@ -172,6 +177,7 @@
   <string name="show_message">File cannot be open without downloading</string>
   <string name="space_info">Network space: %1$s available，total: %2$s</string>
   <string name="space_usage">Usage</string>
+  <string name="start_cleanup">Start cleanup</string>
   <string name="start_server">Start Service</string>
   <string name="start_use_xiaomi_account">Login</string>
   <string name="stay_awake_summary">Keeps screen awake when using FTP</string>
@@ -205,7 +211,11 @@
   <string name="uploading">Uploading…</string>
   <string name="used">Used</string>
   <string name="user_guide">User Guide</string>
+  <string name="user_guide_download_other_version">"You can even download Kuaipan to your PC or Mac"</string>
+  <string name="user_guide_kuaipan_copy">"Access your files on multiple devices by uploading to Kuaipan"</string>
+  <string name="user_guide_other_version">Download alternative versions of Kuaipan</string>
   <string name="user_guide_summary">How to use MiDrive</string>
+  <string name="user_guide_upload_to_kuaipan">"From your phone, copy and paste to Kuaipan"</string>
   <string name="utf8_summary">Default encoding type</string>
   <string name="utf8_title">UTF-8</string>
   <string name="waiting">Waiting…</string>

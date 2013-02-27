@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="account_abnormal_state">Error in account information, please try logging in again.</string>
   <string name="all_resources">All</string>
   <string name="all_ringtone_resource">All</string>
   <string name="app_name">Themes</string>

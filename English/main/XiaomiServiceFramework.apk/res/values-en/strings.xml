@@ -45,6 +45,8 @@
   <string name="error_common_summary">System error, please try again later</string>
   <string name="error_common_title">System error</string>
   <string name="error_dup_phone">Phone has been registered</string>
+  <string name="error_frozen_summary">Your account has been locked</string>
+  <string name="error_frozen_title">Account locked!</string>
   <string name="error_has_bought_summary">You have already purchased this product</string>
   <string name="error_has_bought_title">Repeat purchase</string>
   <string name="error_illegal_order_summary">An error has occurred processing your order, please try again later</string>
@@ -78,6 +80,7 @@
   <string name="find_device_success_title">Locate device is enabled</string>
   <string name="find_password_on_web_msg">Please visit account.xiaomi.com to retrieve your password</string>
   <string name="forget_password" />
+  <string name="frozen">(Locked)</string>
   <string name="header_data_and_synchronization">Data &amp; Sync</string>
   <string name="i_know">OK</string>
   <string name="imported_contacts">Imported %s contacts</string>

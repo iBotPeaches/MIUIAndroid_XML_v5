@@ -179,6 +179,7 @@
   <string name="Privacy_App_Uninstall">Uninstall</string>
   <string name="Privacy_Perm_Count">Allowed: %1$d Denied: %2$d</string>
   <string name="Su_Enable_Dialog">%1$s is trying to get system ROOT permission which is disabled by default to ensure system security. If you need to enable it, please go to settings in Permission Manager.</string>
+  <string name="Su_Unavailable">ROOT Permission is disabled in MIUI stable versions. Please install MIUI BETA version to activate ROOT permissions.</string>
   <string name="SysOpt_Boost_AutoStart">Autostart permission</string>
   <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
   <string name="SysOpt_Boost_Boot">Boot</string>

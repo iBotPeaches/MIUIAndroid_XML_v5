@@ -831,4 +831,5 @@ To add a contact to your list of favorites:
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Clear data</string>
+  <string name="zero_items_selected">No items selected</string>
 </resources>
