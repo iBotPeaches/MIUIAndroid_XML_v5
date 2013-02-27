@@ -1282,6 +1282,7 @@ please follow the steps to complete installation"</string>
   <string name="perm_operating">Operating...</string>
   <string name="perm_optimize">Optimize</string>
   <string name="perm_privacy_app_count">%1$d permissions</string>
+  <string name="perm_privacy_app_count_trust_summary">Trust app</string>
   <string name="perm_privacy_app_finish">Finish</string>
   <string name="perm_privacy_app_installed">Installation succeeded!</string>
   <string name="perm_privacy_app_launch">Launch</string>
@@ -1509,6 +1510,7 @@ please follow the steps to complete installation"</string>
   <string name="runningservicedetails_stop_dlg_title">Stop system service?</string>
   <string name="runningservices_settings_summary">View and control currently running services</string>
   <string name="runningservices_settings_title">Running services</string>
+  <string name="safe_relative">Safe permissions</string>
   <string name="scan_list_label">Scan results:</string>
   <string name="screen">Screen</string>
   <string name="screen_button_custom">Customize screen key positions</string>

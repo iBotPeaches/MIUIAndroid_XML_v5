@@ -147,6 +147,7 @@
   <string name="HIPS_Perm_SendSMS_SMSC_Default">Default SMS Centre</string>
   <string name="HIPS_Perm_SendSMS_Text">send SMS to %1$s</string>
   <string name="HIPS_Perm_SilenceRinger">silence the ringer</string>
+  <string name="HIPS_Perm_Title">Title</string>
   <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
   <string name="HIPS_Perm_WIFINetwork_Desc">Access Internet through Wi-Fi</string>
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s apps are allowed to access Internet</string>
