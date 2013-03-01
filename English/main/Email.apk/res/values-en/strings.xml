@@ -213,6 +213,7 @@
   <string name="cc">Cc</string>
   <string name="choose_attachment_dialog_title">Choose attachment</string>
   <string name="choosertitle_sharevia">Share via</string>
+  <string name="cleared_trusted_senders_message">"Clear \"show pictures\", pictures in messages won't be shown automatically."</string>
   <string name="close_action">Close</string>
   <string name="completed_no_file">File not found</string>
   <string name="compose_action">Compose</string>

@@ -59,6 +59,8 @@
   <string name="confirm_delete_message">The message will be deleted.</string>
   <string name="confirm_dialog_locked_title">Delete locked message?</string>
   <string name="confirm_dialog_title">Delete</string>
+  <string name="confirm_export_dialog_description">Remove selected private contact, conversation will be moved to normal SMS. Do you want to continue?</string>
+  <string name="confirm_export_dialog_title">Remove private contact</string>
   <string name="confirm_rate_limit">A large number of multimedia messages are being sent. Is this OK?</string>
   <string name="context_menu_add_contact">Add to Contacts</string>
   <string name="context_menu_browse_web">Browse</string>
@@ -356,6 +358,8 @@
   <string name="status_rejected">Rejected</string>
   <string name="status_unread">Unread</string>
   <string name="stick">Pin</string>
+  <string name="stick_conversation">Pin current conversation</string>
+  <string name="sticked_conversation">Already pinned</string>
   <string name="storage_limits_activity">Storage limits</string>
   <string name="storage_limits_message">Limit the number of messages you save per conversation?</string>
   <string name="storage_limits_setting">Set limits</string>
@@ -389,6 +393,8 @@
   <string name="unknown_num">Unknown number</string>
   <string name="unknown_sender">Unknown sender</string>
   <string name="unstick">Unpin</string>
+  <string name="unstick_conversation">Unpin current conversation</string>
+  <string name="unsticked_conversation">Already unpinned</string>
   <string name="unsupported_media_format">Unsupported %1$s format</string>
   <string name="view">View</string>
   <string name="view_bookmark">View original message</string>

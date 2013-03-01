@@ -10,17 +10,17 @@
   <string name="auth_notif_ticker">Obex authentication request</string>
   <string name="auth_notif_title">Session Key Request for PBAP</string>
   <string name="bluetooth_share_file_name">bluetooth_content_share</string>
-  <string name="bpp_authentication_timeout_message">Timeout occurred inputting session key with %1$s</string>
+  <string name="bpp_authentication_timeout_message">There was time out to input session key with %1$s</string>
   <string name="bpp_cancel">Cancel</string>
   <string name="bpp_main">Bluetooth Printing</string>
   <string name="bpp_printing_button_text">Printing</string>
   <string name="bpp_session_key_dialog_header">Bluetooth session key required</string>
   <string name="bpp_session_key_dialog_title">Type session key for %1$s</string>
-  <string name="bpp_setting_text">Printing Settings</string>
+  <string name="bpp_setting_text">Setting</string>
   <string name="bt_enable_cancel">Cancel</string>
   <string name="bt_enable_line1">To use Bluetooth services, you must first turn on Bluetooth.</string>
-  <string name="bt_enable_line2">Enable Bluetooth now?</string>
-  <string name="bt_enable_ok">Enable</string>
+  <string name="bt_enable_line2">Turn on Bluetooth now?</string>
+  <string name="bt_enable_ok">Turn on</string>
   <string name="bt_enable_title" />
   <string name="bt_error_btn_ok">OK</string>
   <string name="bt_share_picker_label">Bluetooth</string>
@@ -57,8 +57,8 @@
   <string name="enabling_progress_title">Please wait...</string>
   <string name="ftp_acceptance_dialog_header">Phone Folder Access</string>
   <string name="ftp_acceptance_dialog_title">%1$s would like to access your phone folders. Give access to %2$s?</string>
-  <string name="ftp_acceptance_timeout_message">Timeout occurred accepting connection with %1$s</string>
-  <string name="ftp_authentication_timeout_message">Timeout inputting the session key with %1$s</string>
+  <string name="ftp_acceptance_timeout_message">There was time out to accept connection with %1$s</string>
+  <string name="ftp_authentication_timeout_message">There was time out to input session key with %1$s</string>
   <string name="ftp_notif_message">Allow root folder access by %1$s</string>
   <string name="ftp_notif_ticker">Obex authentication request</string>
   <string name="ftp_notif_title">Session Key Request for FTP</string>
@@ -74,7 +74,7 @@
 
  Accept the file?"</string>
   <string name="incoming_file_confirm_ok">OK</string>
-  <string name="incoming_file_confirm_timeout_content">Timeout occurred while accepting an incoming file from \"%1$s\"</string>
+  <string name="incoming_file_confirm_timeout_content">Timeout ocurred while accepting an incoming file from \"%1$s\"</string>
   <string name="incoming_file_confirm_timeout_ok">OK</string>
   <string name="incoming_file_confirm_title">File transfer</string>
   <string name="incoming_file_toast_msg">Incoming file from another device.</string>
@@ -105,7 +105,7 @@
   <string name="ok_button">OK</string>
   <string name="outbound_history_title">"Outbound: "</string>
   <string name="outbound_noti_title">Bluetooth: Sent files</string>
-  <string name="pbap_acceptance_timeout_message">Timeout occurred accepting connection with %1$s</string>
+  <string name="pbap_acceptance_timeout_message">There was time out to accept connection with %1$s</string>
   <string name="pbap_authentication_timeout_message">There was time out to input session key with %1$s</string>
   <string name="pbap_session_key_dialog_header">Bluetooth session key required</string>
   <string name="pbap_session_key_dialog_title">Type session key for %1$s</string>
@@ -113,7 +113,7 @@
   <string name="permdesc_bluetoothWhitelist">Allows the app to temporarily whitelist a Bluetooth device, allowing that device to send files to this device without user confirmation.</string>
   <string name="permdesc_handoverStatus">Allows receiving handover transfer status information from Bluetooth.</string>
   <string name="permlab_bluetoothShareManager">Access download manager.</string>
-  <string name="permlab_bluetoothWhitelist">Bluetooth device whitelist</string>
+  <string name="permlab_bluetoothWhitelist">Whitelist bluetooth device access.</string>
   <string name="permlab_handoverStatus">Receive BT handover transfer broadcasts.</string>
   <string name="process" />
   <string name="share_prepare">Preparing Bluetooth Share</string>
@@ -157,8 +157,8 @@
   <string name="unknownNumber">Unknown</string>
   <string name="unknown_device">Unknown device</string>
   <string name="unknown_file">Unknown file</string>
-  <string name="unknown_file_desc">"There's no application to handle this type of file. "</string>
-  <string name="update_record">Update record</string>
+  <string name="unknown_file_desc">"There's no app to handle this type of file. "</string>
+  <string name="update_record">Confirm record</string>
   <string name="upload_fail_cancel">Cancel</string>
   <string name="upload_fail_line1">"The file wasn't sent to \"%1$s\"."</string>
   <string name="upload_fail_line1_2">File: %1$s</string>

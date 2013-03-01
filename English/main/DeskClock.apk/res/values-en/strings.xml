@@ -121,5 +121,5 @@ You can also cancel this alarm."</string>
   <string name="weekend_alarm_clock">Weekend alarm</string>
   <string name="workday_alarm_clock">Workday alarm</string>
   <string name="worldclock_empty_text">No world clocks</string>
-  <string name="worldclock_title">World clock</string>
+  <string name="worldclock_title">World time</string>
 </resources>

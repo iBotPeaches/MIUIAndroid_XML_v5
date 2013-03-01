@@ -61,6 +61,7 @@
   <string name="resource_comment_edit_text_default">Write a comment</string>
   <string name="resource_comment_edit_title">Edit comment: %1$s</string>
   <string name="resource_comment_entry_tips">%1$s reviews, click to view</string>
+  <string name="resource_comment_expand_full_text">Expand full-text</string>
   <string name="resource_comment_invalid">Touch stars to give a rating</string>
   <string name="resource_comment_name_default">User %1$s</string>
   <string name="resource_comment_publish">Submit</string>

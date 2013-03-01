@@ -28,6 +28,8 @@
   <string name="menu_settings">Search settings</string>
   <string name="remove_from_history">Remove from search history</string>
   <string name="remove_from_history_failed">"Couldn't remove item from history"</string>
+  <string name="search_in_app_store">Search market</string>
+  <string name="search_in_web">Search web</string>
   <string name="search_settings">Search settings</string>
   <string name="search_sources">Searchable items</string>
   <string name="search_sources_summary">Choose what to search on the phone</string>

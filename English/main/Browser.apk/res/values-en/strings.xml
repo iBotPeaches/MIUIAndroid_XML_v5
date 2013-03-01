@@ -9,13 +9,13 @@
   <string name="accessibility_button_closetab">Close tab</string>
   <string name="accessibility_button_forward">Go forward</string>
   <string name="accessibility_button_go">Go</string>
-  <string name="accessibility_button_goto">Go to</string>
+  <string name="accessibility_button_goto">Go</string>
   <string name="accessibility_button_larger">Larger</string>
   <string name="accessibility_button_more">More options</string>
   <string name="accessibility_button_navscreen">Page manager</string>
   <string name="accessibility_button_newincognitotab">Open new incognito tab</string>
   <string name="accessibility_button_newtab">Open new tab</string>
-  <string name="accessibility_button_refresh">Refresh</string>
+  <string name="accessibility_button_refresh">Refresh page</string>
   <string name="accessibility_button_search">Search</string>
   <string name="accessibility_button_smaller">Smaller</string>
   <string name="accessibility_button_stop">Stop page load</string>
@@ -47,7 +47,7 @@
   <string name="autofill_profile_editor_company_name">Company name:</string>
   <string name="autofill_profile_editor_country">Country:</string>
   <string name="autofill_profile_editor_delete_profile">Delete</string>
-  <string name="autofill_profile_editor_email_address">E-mail:</string>
+  <string name="autofill_profile_editor_email_address">Email:</string>
   <string name="autofill_profile_editor_heading">Type the text you want to auto-fill in web forms.</string>
   <string name="autofill_profile_editor_name">Full name:</string>
   <string name="autofill_profile_editor_phone_number">Phone:</string>
@@ -79,7 +79,7 @@
   <string name="bookmark_title">Label</string>
   <string name="bookmark_to_readmodelist_not_saved">"Couldn't save Reading List bookmark."</string>
   <string name="bookmark_to_readmodelist_saved">Saved to Reading List bookmarks.</string>
-  <string name="bookmark_url">URL</string>
+  <string name="bookmark_url">Url</string>
   <string name="bookmark_url_not_valid">"This URL isn't valid."</string>
   <string name="bookmarks">Bookmarks</string>
   <string name="bookmarks_management">Bookmarks</string>
@@ -93,7 +93,7 @@
   <string name="browser_history">Recently-visited pages</string>
   <string name="cancel">Cancel</string>
   <string name="cannot_download">Can only download \"http\" or \"https\" URLs.</string>
-  <string name="choose_upload">Choose file to upload</string>
+  <string name="choose_upload">Choose file for upload</string>
   <string name="choosertitle_sharevia">Share via</string>
   <string name="clear">Clear</string>
   <string name="clear_history">Clear history</string>
@@ -103,7 +103,7 @@
   <string name="contextmenu_add_contact">Add contact</string>
   <string name="contextmenu_copy">Copy</string>
   <string name="contextmenu_copylink">Copy link URL</string>
-  <string name="contextmenu_dial_dot">Dial...</string>
+  <string name="contextmenu_dial_dot">Dial…</string>
   <string name="contextmenu_download_image">Save image</string>
   <string name="contextmenu_download_image_as">Save image as</string>
   <string name="contextmenu_map">Map</string>
@@ -111,7 +111,7 @@
   <string name="contextmenu_openlink_newwindow">Open in new tab</string>
   <string name="contextmenu_openlink_newwindow_background">Open in new background tab</string>
   <string name="contextmenu_savelink">Save link</string>
-  <string name="contextmenu_send_mail">Send e-mail</string>
+  <string name="contextmenu_send_mail">Send email</string>
   <string name="contextmenu_set_wallpaper">Set as wallpaper</string>
   <string name="contextmenu_sharelink">Share link</string>
   <string name="contextmenu_view_image">View image</string>
@@ -176,7 +176,7 @@
   <string name="homepage_set">Homepage set.</string>
   <string name="http">http://</string>
   <string name="import_bookmark">Import bookmarks</string>
-  <string name="import_bookmark_failure">Bookmarks failed to import!</string>
+  <string name="import_bookmark_failure">Bookmarks FAILED To Import!</string>
   <string name="import_bookmark_sucess">Bookmarks imported successfully</string>
   <string name="import_bookmarks_dialog_add">Add bookmarks to Google account</string>
   <string formatted="false" name="import_bookmarks_dialog_confirm_add">Add bookmarks currently on this device and begin syncing bookmarks with %s?</string>
@@ -194,12 +194,12 @@
   <string name="importing_favorite_files">Importing Data ...</string>
   <string name="instant_search_label">Google with Instant (Labs)</string>
   <string name="is_first_history_item">Is the first history item</string>
-  <string name="is_first_tab">First tab</string>
-  <string name="is_last_history_item">Last history item</string>
-  <string name="is_last_tab">Last tab</string>
-  <string name="is_page_bottom">You are at the bottom of the page</string>
-  <string name="is_page_top">You are at the top of the page</string>
-  <string name="js_engine_flags">Set JS Engine flags</string>
+  <string name="is_first_tab">Is the first tab</string>
+  <string name="is_last_history_item">Is the last history item</string>
+  <string name="is_last_tab">Is the last tab</string>
+  <string name="is_page_bottom">At the bottom of the page</string>
+  <string name="is_page_top">At the top of the page already</string>
+  <string name="js_engine_flags">Set JS flags</string>
   <string name="loadSuspended">"The browser can't load this page because there's no Internet connection."</string>
   <string name="loadSuspendedTitle">No connection</string>
   <string name="loading_video">Loading video…</string>

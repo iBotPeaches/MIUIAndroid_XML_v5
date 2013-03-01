@@ -106,6 +106,7 @@
   <string name="key_position_custom">Custom key position</string>
   <string name="label_view">View</string>
   <string name="lockscreen_carrier_default">No service</string>
+  <string name="mdb_restore_label">MDB Restore</string>
   <string name="mount_storage">Yes</string>
   <string name="move_data_to_sdcard_message">"It will move data such as screenshots, pictures and so on from internal storage to SD card. To make sure smooth and stable use experience, it's better to keep SD card in phone for daily use."</string>
   <string name="move_data_to_sdcard_title">Export internal data to SD card</string>
