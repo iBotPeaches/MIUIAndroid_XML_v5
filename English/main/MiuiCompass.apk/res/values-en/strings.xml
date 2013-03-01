@@ -16,10 +16,10 @@
   <string name="direction_west">W</string>
   <string name="getting_location">Getting location...</string>
   <string name="latitude">LAT</string>
-  <string name="location_east">%s E</string>
-  <string name="location_north">%s N</string>
-  <string name="location_south">%s S</string>
-  <string name="location_west">%s W</string>
+  <string name="location_east">E</string>
+  <string name="location_north">N</string>
+  <string name="location_south">S</string>
+  <string name="location_west">W</string>
   <string name="longitude">LON</string>
   <string name="menu_calibrate">Calibrate</string>
   <string name="menu_calibrate_altitude">Calibrate altitude</string>
