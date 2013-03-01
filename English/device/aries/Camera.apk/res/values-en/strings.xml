@@ -477,6 +477,7 @@
   <string name="select_image">Select photo</string>
   <string name="select_item">Select item</string>
   <string name="select_video">Select video</string>
+  <string name="send">Send</string>
   <string name="send_multiple_files_hint_format">Send multiple files (%s)</string>
   <string name="set_as">Set as</string>
   <string name="set_image">Set picture as</string>

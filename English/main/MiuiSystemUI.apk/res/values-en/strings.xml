@@ -106,7 +106,13 @@
   <string name="key_position_custom">Custom key position</string>
   <string name="label_view">View</string>
   <string name="lockscreen_carrier_default">No service</string>
+  <string name="mdb_entering">Entering MDB</string>
+  <string name="mdb_restore_cancel">Cancel</string>
+  <string name="mdb_restore_info1">"Will restore your phone's data"</string>
+  <string name="mdb_restore_info2">"Please don't unplug USB connection"</string>
   <string name="mdb_restore_label">MDB Restore</string>
+  <string name="mdb_restore_mode">MDB Restore Mode</string>
+  <string name="mdb_usb_disconnection_exit">USB disconnected, restore aborting!</string>
   <string name="mount_storage">Yes</string>
   <string name="move_data_to_sdcard_message">"It will move data such as screenshots, pictures and so on from internal storage to SD card. To make sure smooth and stable use experience, it's better to keep SD card in phone for daily use."</string>
   <string name="move_data_to_sdcard_title">Export internal data to SD card</string>
@@ -227,6 +233,9 @@
   <string name="usb_accessory_confirm_prompt">Open %1$s when this USB accessory is connected?</string>
   <string name="usb_accessory_permission_prompt">Allow the app %1$s to access the USB accessory?</string>
   <string name="usb_accessory_uri_prompt">No installed apps work with this USB accessory. Learn more about this accessory at %1$s</string>
+  <string name="usb_debugging_always">Always allow from this computer</string>
+  <string name="usb_debugging_message">"Host RSA key fingerprint is: %1$s"</string>
+  <string name="usb_debugging_title">Allow USB debugging?</string>
   <string name="usb_device_confirm_prompt">Open %1$s when this USB device is connected?</string>
   <string name="usb_device_permission_prompt">Allow the app %1$s to access the USB device?</string>
   <string name="usb_mode_dont_ask">"Don't ask next time"</string>
