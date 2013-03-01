@@ -11,7 +11,8 @@
   <string name="accelerometer_title">Auto-rotate screen</string>
   <string name="access_control_app_entry_multiple">Open %s</string>
   <string name="access_control_app_entry_single">Open selected app</string>
-  <string name="access_control_need_password">"%s has been protected"</string>
+  <string name="access_control_need_password">"%s has been protected 
+"</string>
   <string name="access_control_need_to_unlock">Password required</string>
   <string name="access_control_no_back_footer">Press the [icon] to exit</string>
   <string name="access_control_password_title">Enable password</string>
