@@ -89,9 +89,9 @@
   <string name="overseas_menu_traffic_adjust">Adjust manually</string>
   <string name="overseas_menu_traffic_settings">Data Traffic Limit</string>
   <string name="overseas_unknown_traffic_hint">Data traffic limit has not been configured. Configure now?</string>
-  <string name="plate_traffic_already_used">Used (%s)</string>
-  <string name="plate_traffic_exceed">Exceeded (%s)</string>
-  <string name="plate_traffic_remain">Remaining (%s)</string>
+  <string name="plate_traffic_already_used">Used</string>
+  <string name="plate_traffic_exceed">Exceeded</string>
+  <string name="plate_traffic_remain">Remaining</string>
   <string name="powered_by">Technical support provided by MIUI.com</string>
   <string name="pref_category_adjust_traffic">Adjust Traffic Settings</string>
   <string name="pref_connect_settings_enable_backgroung">Enable background services</string>
