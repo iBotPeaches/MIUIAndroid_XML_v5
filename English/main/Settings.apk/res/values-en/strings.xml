@@ -1126,13 +1126,13 @@ Try the following:
   <string name="msd_install_retry_windows_xp">"If your computer did not detect MI 2 properly,
 try the following:
 "</string>
-  <string name="msd_install_status_done">Already installed driver</string>
+  <string name="msd_install_status_done">Driver already installed</string>
   <string name="msd_install_status_undo">Install driver</string>
-  <string name="msd_install_succeed">Driver already installed</string>
+  <string name="msd_install_succeed">Driver installed successfully</string>
   <string name="msd_install_windows_xp_step_2_1">"1.If the Setup Wizard pops up, 
 please follow the steps to complete installation"</string>
   <string name="multi_sim_settings_summary">Set up Multi Sim Settings for Voice, Data and SMS</string>
-  <string name="multi_sim_settings_title">Multi Sim Settings</string>
+  <string name="multi_sim_settings_title">Multi SIM Settings</string>
   <string name="multi_touch_points_category_title">Multi-touch points</string>
   <string name="multi_touch_points_preference">Reboot to enable</string>
   <string name="musicfx_title">Music effects</string>
@@ -1145,7 +1145,7 @@ please follow the steps to complete installation"</string>
   <string name="new_backup_pw_prompt">Type a new password for full backups here</string>
   <string name="next_button_label">Next</string>
   <string name="next_label">Next</string>
-  <string name="nfc_quick_toggle_summary">Allow data exchange when the phone touches another device</string>
+  <string name="nfc_quick_toggle_summary">Allow data exchange when phone touches another device</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="no">No</string>
   <string name="no_application">Nothing</string>
@@ -1265,7 +1265,7 @@ please follow the steps to complete installation"</string>
   <string name="perm_hips_send_sms_port">Dest Port:</string>
   <string name="perm_hips_send_sms_recipient">Recipient:</string>
   <string name="perm_hips_send_sms_smsc">SMS Center:</string>
-  <string name="perm_hips_send_sms_smsc_default">Default SMS Center</string>
+  <string name="perm_hips_send_sms_smsc_default">Default SMS Centre</string>
   <string name="perm_hips_send_sms_text">send SMS to %1$s</string>
   <string name="perm_hips_silence_ringer">silence the ringer</string>
   <string name="perm_hips_sms_access">read your SMS inbox</string>
@@ -1317,7 +1317,7 @@ please follow the steps to complete installation"</string>
   <string name="perm_summary_enabled">On</string>
   <string name="perm_sysopt_boost_auto_start">Autostart permission</string>
   <string name="perm_sysopt_boost_auto_start_group">Autostart</string>
-  <string name="perm_sysopt_boost_auto_start_summary">Allow this progress autostart</string>
+  <string name="perm_sysopt_boost_auto_start_summary">Allow this process to autostart</string>
   <string name="perm_sysopt_boost_boot">Boot</string>
   <string name="perm_sysopt_boost_receiver">Background</string>
   <string name="perm_system_app">System Apps (%d)</string>
@@ -1326,7 +1326,7 @@ please follow the steps to complete installation"</string>
   <string name="perm_update">Software upgrade</string>
   <string name="perm_user_app">Downloaded Apps (%d)</string>
   <string name="perm_version">Version: %1$s</string>
-  <string name="permission_detail_info">Vew permission details</string>
+  <string name="permission_detail_info">View permissions info</string>
   <string name="permission_detail_info_summary">All permissions: Safe %1$d，Private %2$d，Others %3$d</string>
   <string name="permission_manage">Permission management</string>
   <string name="permission_manage_summary">Auto start, privacy, secure permission management</string>
@@ -1452,7 +1452,7 @@ please follow the steps to complete installation"</string>
   <string name="radio_info_http_client_test">HTTP Client test:</string>
   <string name="radio_info_imei_label">IMEI:</string>
   <string name="radio_info_message_waiting_label">Message waiting:</string>
-  <string name="radio_info_neighboring_location_label">Neighboring CID:</string>
+  <string name="radio_info_neighboring_location_label">Neighbouring CID:</string>
   <string name="radio_info_network_type_label">Network type:</string>
   <string name="radio_info_phone_number_label">Phone number:</string>
   <string name="radio_info_ping_hostname">Ping Hostname(www.google.com):</string>
@@ -1474,7 +1474,7 @@ please follow the steps to complete installation"</string>
   <string name="really_remove_account_title">Remove account?</string>
   <string name="recognizer_settings_summary">"Settings for '%s'"</string>
   <string name="recognizer_settings_title">Voice Search</string>
-  <string name="recognizer_title">Voice recognizer</string>
+  <string name="recognizer_title">Voice recognition</string>
   <string name="recompute_size">Recomputing size…</string>
   <string name="remove_account_failed">This account is required by some apps. You can only remove it by resetting the phone to factory defaults (which deletes all your personal data) in Settings &gt; Backup &amp; reset.</string>
   <string name="remove_account_label">Remove account</string>
@@ -1516,11 +1516,11 @@ please follow the steps to complete installation"</string>
   <string name="screen">Screen</string>
   <string name="screen_button_custom">Customize screen key positions</string>
   <string name="screen_button_key">Screen virtual keys</string>
-  <string name="screen_color_temperature_adjust">Color temperature adjust</string>
+  <string name="screen_color_temperature_adjust">Adjust color temperature</string>
   <string name="screen_compatibility_label">Screen compatibility</string>
   <string name="screen_compatibility_text">This app may not be designed for your screen. You can control how it adjusts to your screen here.</string>
-  <string name="screen_on_proximity_sensor_summary">Prevent misoperation while phone is in pocket (detected by the proximity sensor).</string>
-  <string name="screen_on_proximity_sensor_title">Prevent misoperation</string>
+  <string name="screen_on_proximity_sensor_summary">Prevent misuse while phone is in pocket (detected by the proximity sensor).</string>
+  <string name="screen_on_proximity_sensor_title">Prevent misuse</string>
   <string name="screen_saturation_adjust">Color saturation adjust</string>
   <string name="screen_timeout">Sleep</string>
   <string name="screen_timeout_summary">After %1$s of inactivity</string>
@@ -1566,7 +1566,7 @@ please follow the steps to complete installation"</string>
   <string name="search_airplane">airplane</string>
   <string name="search_android_beam">beam</string>
   <string name="search_battery_indicator">battery indicator</string>
-  <string name="search_bluetooth">blutooth</string>
+  <string name="search_bluetooth">bluetooth</string>
   <string name="search_brightness">brightness</string>
   <string name="search_date_time">date time</string>
   <string name="search_description">Search settings</string>
@@ -1585,7 +1585,7 @@ please follow the steps to complete installation"</string>
   <string name="search_settings">Search</string>
   <string name="search_settings_summary">Manage search settings and history</string>
   <string name="search_silent">silent</string>
-  <string name="search_sms_received">sms received</string>
+  <string name="search_sms_received">SMS received</string>
   <string name="search_status_bar">status bar</string>
   <string name="search_sync">sync</string>
   <string name="search_tether">tether</string>
@@ -1620,8 +1620,8 @@ please follow the steps to complete installation"</string>
   <string name="set_dds_error">Error in set data subscription.</string>
   <string name="set_dds_failed">Error in set data subscription. Clean up any existing data connection and try again.</string>
   <string name="set_dds_success">Set data subscription success</string>
-  <string name="set_sms_error">Error in set sms subscription. Subscription not active.</string>
-  <string name="set_voice_error">Error in set voice subscription. Subscription not active.</string>
+  <string name="set_sms_error">Error setting up SMS subscription. Subscription not active.</string>
+  <string name="set_voice_error">Error setting up voice subscription. Subscription not active.</string>
   <string name="settings_backup">Back up settings</string>
   <string name="settings_backup_summary">Back up my settings</string>
   <string name="settings_button">Settings</string>
@@ -1806,8 +1806,7 @@ Attempts Remaining :"</string>
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Trackball wake</string>
   <string name="transition_animation_scale_title">Transition animation scale</string>
-  <string name="trust_switch_dialog_msg">"Miui will not ask you for confirmation of any security and privacy related operations from this App. Please make sure that you have got it.
-Trust this App？"</string>
+  <string name="trust_switch_dialog_msg">"MIUI will not ask you for confirmation of any security and privacy related operations from this app. Trust this App？"</string>
   <string name="trusted_credentials">Trusted credentials</string>
   <string name="trusted_credentials_disable_confirmation">Disable the system CA certificate?</string>
   <string name="trusted_credentials_disable_label">Disable</string>
@@ -1978,7 +1977,7 @@ Trust this App？"</string>
   <string name="virus_scan_app_finish">Completed</string>
   <string name="virus_scan_app_force_stop">Scan stopped</string>
   <string name="virus_scan_app_is_stop_scan">Stop virus scan?</string>
-  <string name="virus_scan_app_multi_engines">You’ve chosen several engines, the scan may take longer.</string>
+  <string name="virus_scan_app_multi_engines">"You've chosen several engines, the scan may take longer."</string>
   <string name="virus_scan_app_no_risk">No risk found</string>
   <string name="virus_scan_app_passed">Scan passed</string>
   <string name="virus_scan_app_risk">Found risks</string>
@@ -2023,7 +2022,7 @@ Trust this App？"</string>
   <string name="volume_restore_alert">All volume settings will be returned to default. Are you sure?</string>
   <string name="volume_ring_description">Ringtone and notification volume</string>
   <string name="volume_ring_mute">Mute ringtone &amp; notifications</string>
-  <string name="volume_system_description">System volume, for camera Shutter, Lockscreen and Other System Notification</string>
+  <string name="volume_system_description">System volume, for camera Shutter, Lock screen and Other System Notification</string>
   <string name="volume_voice_description">Voice volume</string>
   <string name="vpn_cancel">Cancel</string>
   <string name="vpn_configure">Configuration</string>
@@ -2176,11 +2175,9 @@ Trust this App？"</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">None</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>
@@ -2254,19 +2251,19 @@ Trust this App？"</string>
   <string name="wifi_update">Refresh stats</string>
   <string name="wifi_wapi_as_cert">AS Certificate</string>
   <string name="wifi_wapi_cert_cancel_button">Cancel</string>
-  <string name="wifi_wapi_cert_create_subdir">Create a directroy</string>
+  <string name="wifi_wapi_cert_create_subdir">Create a directory</string>
   <string name="wifi_wapi_cert_delet_subdir">Select a suit certificate</string>
   <string name="wifi_wapi_cert_install">Install WAPI Certificate</string>
   <string name="wifi_wapi_cert_install_button">Install</string>
-  <string name="wifi_wapi_cert_mgmt_as_dont_exist">The SDCard does not has the AS certificate, please checke it!</string>
-  <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">The as certificate format is wrong! Please intall right as certificate</string>
+  <string name="wifi_wapi_cert_mgmt_as_dont_exist">The SDCard does not has the AS certificate, please check it!</string>
+  <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">The as certificate format is wrong! Please install right as certificate</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Please input the as certificate name</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Create directory fail</string>
   <string name="wifi_wapi_cert_mgmt_subdir_exist">Please input the other directory name, this one does exist</string>
   <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Please input the directory name which you want to create!</string>
   <string name="wifi_wapi_cert_mgmt_titlebar">WAPI Certificate Management</string>
   <string name="wifi_wapi_cert_mgmt_user_dont_exist">Please input the user certificate name</string>
-  <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">The user certificate format is wrong! Please intall right user certificate</string>
+  <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">The user certificate format is wrong! Please install right user certificate</string>
   <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Please input the user certificate name</string>
   <string name="wifi_wapi_cert_uninstall">Uninstall WAPI Certificate</string>
   <string name="wifi_wapi_cert_uninstall_button">Uninstall</string>
@@ -2281,9 +2278,9 @@ Trust this App？"</string>
   <string name="wifi_wps_failed_overlap">Another WPS session was detected. Please try again in a few minutes.</string>
   <string name="wifi_wps_failed_tkip">The wireless router security setting (TKIP) is not supported</string>
   <string name="wifi_wps_failed_wep">The wireless router security setting (WEP) is not supported</string>
-  <string name="wifi_wps_in_progress">WPS is already in progress and can take upto two minutes to complete</string>
+  <string name="wifi_wps_in_progress">WPS is already in progress and can take up-to two minutes to complete</string>
   <string name="wifi_wps_onstart_pbc">Press the Wi-Fi Protected Setup button on your router. It may be called \"WPS\" or contain this symbol:</string>
-  <string name="wifi_wps_onstart_pin">Enter pin %1$s on your Wi-Fi router. The setup can take upto two minutes to complete.</string>
+  <string name="wifi_wps_onstart_pin">Enter pin %1$s on your Wi-Fi router. The setup can take up-to two minutes to complete.</string>
   <string name="wifi_wps_overlap_error">Another Wi-Fi protected session was detected. Try again in a few minutes.</string>
   <string name="wifi_wps_setup_msg">Starting WPS...</string>
   <string name="wifi_wps_setup_title">Wi-Fi WPS Setup</string>
