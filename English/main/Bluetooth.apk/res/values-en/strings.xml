@@ -7,7 +7,7 @@
   <string name="app_name">Bluetooth Share</string>
   <string name="app_name_bpp">Bluetooth BPP</string>
   <string name="auth_notif_message">Type session key for %1$s</string>
-  <string name="auth_notif_ticker">Obex authentication request</string>
+  <string name="auth_notif_ticker">OBEX authentication request</string>
   <string name="auth_notif_title">Session Key Request for PBAP</string>
   <string name="bluetooth_share_file_name">bluetooth_content_share</string>
   <string name="bpp_authentication_timeout_message">There was time out to input session key with %1$s</string>
@@ -60,7 +60,7 @@
   <string name="ftp_acceptance_timeout_message">There was time out to accept connection with %1$s</string>
   <string name="ftp_authentication_timeout_message">There was time out to input session key with %1$s</string>
   <string name="ftp_notif_message">Allow root folder access by %1$s</string>
-  <string name="ftp_notif_ticker">Obex authentication request</string>
+  <string name="ftp_notif_ticker">OBEX authentication request</string>
   <string name="ftp_notif_title">Session Key Request for FTP</string>
   <string name="ftp_session_key_dialog_header">Bluetooth session key required</string>
   <string name="ftp_session_key_dialog_title">Input session key for %1$s</string>
@@ -74,7 +74,7 @@
 
  Accept the file?"</string>
   <string name="incoming_file_confirm_ok">OK</string>
-  <string name="incoming_file_confirm_timeout_content">Timeout ocurred while accepting an incoming file from \"%1$s\"</string>
+  <string name="incoming_file_confirm_timeout_content">Timeout occurred while accepting an incoming file from \"%1$s\"</string>
   <string name="incoming_file_confirm_timeout_ok">OK</string>
   <string name="incoming_file_confirm_title">File transfer</string>
   <string name="incoming_file_toast_msg">Incoming file from another device.</string>
@@ -86,7 +86,7 @@
   <string name="map_alert_conn_failed_message">Bluetooth MAP connection failed.</string>
   <string name="map_authentication_timeout_message">Timeout occurred inputting session key with %1$s</string>
   <string name="map_notif_message">Allow root folder access by %1$s</string>
-  <string name="map_notif_ticker">Obex authentication request</string>
+  <string name="map_notif_ticker">OBEX authentication request</string>
   <string name="map_notif_title">Session Key Request for MAP</string>
   <string name="map_session_key_dialog_header">Bluetooth session key required</string>
   <string name="map_session_key_dialog_title">Type session key for %1$s</string>
