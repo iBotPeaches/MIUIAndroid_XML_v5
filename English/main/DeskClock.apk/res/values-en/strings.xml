@@ -32,7 +32,7 @@
   <string name="analog_gadget">Analog clock</string>
   <string name="app_label">Clock</string>
   <string name="battery_charging_level">%d%%</string>
-  <string name="cancel">Back</string>
+  <string name="cancel">Cancel</string>
   <string name="clock_instructions">Choose a clock</string>
   <string name="common_settings">Common settings</string>
   <string name="control_set_alarm">Set alarm</string>
@@ -96,11 +96,11 @@
   <string name="snooze_confirm_message">"Snooze has been delayed，%s snooze again.
 You can also cancel this alarm."</string>
   <string name="snooze_confirm_ok">Got it</string>
-  <string name="start">Start Stopwatch</string>
-  <string name="start_up">Start Timer</string>
-  <string name="stopwatch_lap_empty_text">No recorded laps</string>
+  <string name="start">Start</string>
+  <string name="start_up">Start up</string>
+  <string name="stopwatch_lap_empty_text">No laps</string>
   <string name="stopwatch_title">Stopwatch</string>
-  <string name="system_time_setting">Settings</string>
+  <string name="system_time_setting">Time Settings</string>
   <string name="time">Time</string>
   <string name="timer_continue">Continue</string>
   <string name="timer_got_it">Got it</string>
@@ -121,5 +121,5 @@ You can also cancel this alarm."</string>
   <string name="weekend_alarm_clock">Weekend alarm</string>
   <string name="workday_alarm_clock">Workday alarm</string>
   <string name="worldclock_empty_text">No world clocks</string>
-  <string name="worldclock_title">Clocks</string>
+  <string name="worldclock_title">World time</string>
 </resources>
