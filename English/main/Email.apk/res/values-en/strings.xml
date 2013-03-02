@@ -213,7 +213,6 @@
   <string name="cc">Cc</string>
   <string name="choose_attachment_dialog_title">Choose attachment</string>
   <string name="choosertitle_sharevia">Share via</string>
-  <string name="cleared_trusted_senders_message">"Clear \"show pictures\", pictures in messages won't be shown automatically."</string>
   <string name="close_action">Close</string>
   <string name="completed_no_file">File not found</string>
   <string name="compose_action">Compose</string>
@@ -531,7 +530,8 @@ CC: %4$s
   <string name="settings_action">Settings</string>
   <string name="settings_activity_title">Settings</string>
   <string name="show_quick_text_list_dialog_action">Insert quick response</string>
-  <string name="single_new_message_notification_big_text">"%1$s %2$s"</string>
+  <string name="single_new_message_notification_big_text">"%1$s
+%2$s"</string>
   <string name="status_loading_messages">Loading messages…</string>
   <string name="status_network_error">Connection problem.</string>
   <string name="subject_hint">Subject</string>
