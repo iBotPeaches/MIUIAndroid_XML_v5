@@ -44,7 +44,7 @@
   <string name="answer_widget_title_miui">Answer gesture</string>
   <string name="apn_settings">Access Point Names</string>
   <string name="areacode_required_accept_miui">OK</string>
-  <string name="areacode_required_for_emergency_number_miui">Locale area code required for emergency calls</string>
+  <string name="areacode_required_for_emergency_number_miui">Area code required for emergency calls</string>
   <string name="areacode_required_miui">Area code is required</string>
   <string name="atr_disable">Area Traffic Reports disabled</string>
   <string name="atr_enable">Area Traffic Reports enabled</string>
@@ -71,7 +71,7 @@
   <string name="auto_answer_summary_delay">(delay:%ss)</string>
   <string name="auto_answer_summary_not_enabled">Not enabled</string>
   <string name="auto_country_code_miui">Auto-add the country code</string>
-  <string name="auto_country_code_sum_miui">Auto-add the country code befor the phone number of known contacts, the number with country code will be dailed directly.</string>
+  <string name="auto_country_code_sum_miui">Append country code before phone number for known contacts.</string>
   <string name="auto_ip_add_exception_numbers_miui">Add numbers</string>
   <string name="auto_ip_exception_miui">"Numbers that don't require IP prefix"</string>
   <string name="auto_ip_exception_summary_miui">%d total</string>
@@ -218,7 +218,7 @@
   <string name="cdma_system_select_choices_auto_miui">Automatic</string>
   <string name="cdma_system_select_choices_home_only_miui">Home only</string>
   <string name="cdma_system_select_dialogtitle">System select</string>
-  <string name="cdma_system_select_summary">Change the cdma roaming mode</string>
+  <string name="cdma_system_select_summary">Change CDMA roaming mode</string>
   <string name="cdma_system_select_title">System select</string>
   <string name="cdma_three_way_calls_miui">Three-way Call</string>
   <string name="cell_bc_sms_disable">Cell Broadcast SMS disabled</string>
@@ -250,7 +250,7 @@
   <string name="command_error_sim_absent_miui">ICC card is absent.</string>
   <string name="command_error_sim_pin2_miui">PIN2 required to finish this operation.</string>
   <string name="command_error_sim_puk2_miui">PIN2 is locked, PUK2 is required to unlock it.</string>
-  <string name="command_error_sms_fail_retry_miui">Failed to send sms, please retry later.</string>
+  <string name="command_error_sms_fail_retry_miui">Failed to send SMS, please retry later.</string>
   <string name="command_error_unsupported_mode_miui">The preferred network type is not supported.</string>
   <string name="command_error_unsupported_request_miui">This operation is not supported.</string>
   <string name="confCall">Conference call</string>
@@ -281,7 +281,7 @@
   <string name="count_down">Seconds:</string>
   <string name="count_of_persons_in_conference_miui">Total of %d people</string>
   <string name="countrycode_alert_message_warning_miui">The country code you input may be wrong, are you sure you wish to use it?</string>
-  <string name="countrycode_alert_message_wrong_miui">The country code you input is wrong, please reinput</string>
+  <string name="countrycode_alert_message_wrong_miui">The country code you input is wrong, please re-input</string>
   <string name="countrycode_alert_title_miui">Alert</string>
   <string name="crystaltalk_summary_miui">Call audio configuration optimization</string>
   <string name="crystaltalk_title_miui">NICAM setting</string>
@@ -414,7 +414,7 @@
   <string name="enable_proximity_title_miui">Enable proximity sensor</string>
   <string name="enable_sim_pin">Enable SIM PIN</string>
   <string name="enable_sim_pin_miui">Enable SIM PIN</string>
-  <string name="enable_telocation_title_miui">Show location</string>
+  <string name="enable_telocation_title_miui">Use My location</string>
   <string name="enforce_proximity_summary_miui">Prevent misuse of phone when not being used</string>
   <string name="enforce_proximity_title_miui">Enforce Proximity sensor</string>
   <string name="enterName">Enter Name:</string>
@@ -459,7 +459,7 @@ Switch to the new provider anyway?"</string>
   <string name="general_news_settings">General News</string>
   <string name="get_pin2">Enter PIN2</string>
   <string name="get_smsc_address_error_miui">Failed to get SMS centre number, please try again later.</string>
-  <string name="get_smsc_address_timeout_miui">Timed out when get SMS cente number, please try again later.</string>
+  <string name="get_smsc_address_timeout_miui">Timed out when get SMS center number, please try again later.</string>
   <string name="goPrivate">go private</string>
   <string name="go_private_miui">go private</string>
   <string name="gsm_umts_options">GSM/UMTS Options</string>
@@ -496,7 +496,7 @@ Switch to the new provider anyway?"</string>
   <string name="incall_error_supp_service_switch">Unable to switch calls.</string>
   <string name="incall_error_supp_service_transfer">Unable to transfer call.</string>
   <string name="incall_error_supp_service_unknown">Unsupported service.</string>
-  <string name="incall_screen_background_summary_miui">"Use lockscreen wallpaper when there's no avatar"</string>
+  <string name="incall_screen_background_summary_miui">"Use lock screen wallpaper when there's no avatar"</string>
   <string name="incall_screen_background_title_miui">In call screen background</string>
   <string name="incall_status_dialed_mmi">Starting MMI sequence…</string>
   <string name="international_disable">International news disabled</string>
@@ -514,7 +514,7 @@ Switch to the new provider anyway?"</string>
   <string name="ip_prefix_miui">IP prefix</string>
   <string name="ip_prefix_required_miui">IP Prefix is required</string>
   <string name="ip_prefix_sum_miui">"Carrier's IP prefix: %s"</string>
-  <string name="jituan_number_format_error_message_miui">%s only supports numbers and wildcards</string>
+  <string name="jituan_number_format_error_message_miui">%s only supports numbers or wildcards</string>
   <string name="labelCDMAMore">CDMA call settings</string>
   <string name="labelCF">Call forwarding</string>
   <string name="labelCFB">Forward when busy</string>
@@ -767,7 +767,7 @@ Switch to the new provider anyway?"</string>
   <string name="preferred_network_type_3g_only_warning_miui">"You selected 3G only as preferred network type, so there will be no signal if your SIM card has no 3G functionality! Click OK to continue."</string>
   <string name="preferred_network_type_cdma_miui">CDMA</string>
   <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
-  <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G prefered</string>
+  <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G preferred</string>
   <string name="preferred_network_type_pref_entries_auto_miui">Automatic</string>
   <string name="preferred_network_type_pref_entries_global_miui">Global</string>
   <string name="preferred_network_type_pref_entries_only_2g_miui">Only 2G (power-saving)</string>
@@ -824,7 +824,7 @@ Switch to the new provider anyway?"</string>
   <string name="requesting_nw_unlock">Requesting SIM network unlock…</string>
   <string name="requesting_puk_unlock">Requesting PUK unlock...</string>
   <string name="requesting_rc_unlock">Requesting UIM corporate unlock…</string>
-  <string name="requesting_rhrpd_unlock">Requesting UIM hrpd unlock…</string>
+  <string name="requesting_rhrpd_unlock">Requesting UIM HRPD unlock…</string>
   <string name="requesting_rnw1_unlock">Requesting UIM network1 unlock…</string>
   <string name="requesting_rnw2_unlock">Requesting UIM network2 unlock…</string>
   <string name="requesting_rsp_unlock">Requesting UIM service provider unlock…</string>
@@ -853,8 +853,8 @@ Switch to the new provider anyway?"</string>
   <string name="retail_directory_disable">Retail Directory disabled</string>
   <string name="retail_directory_enable">Retail Directory enabled</string>
   <string name="reverting_settings">Reverting settings…</string>
-  <string name="rhrpd_unlock_failed">UIM Hrpd unlock request unsuccessful.</string>
-  <string name="rhrpd_unlock_success">RUIM Hrpd unlock successful.</string>
+  <string name="rhrpd_unlock_failed">UIM HRPD unlock request unsuccessful.</string>
+  <string name="rhrpd_unlock_success">RUIM HRPD unlock successful.</string>
   <string name="ringtone_title">Phone ringtone</string>
   <string name="rnw1_unlock_failed">UIM Network1 unlock request unsuccessful.</string>
   <string name="rnw1_unlock_success">UIM Network1 unlock successful.</string>
@@ -884,7 +884,7 @@ Switch to the new provider anyway?"</string>
   <string name="set_primary_summary">Used for outbound calls</string>
   <string name="set_primary_title">Set as primary account</string>
   <string name="set_smsc_address_error_miui">Failed to set the SMS centre number, please try again later.</string>
-  <string name="set_smsc_address_timeout_miui">Timed out when set SMS cente number, please try again later.</string>
+  <string name="set_smsc_address_timeout_miui">Timed out when set SMS center number, please try again later.</string>
   <string name="set_smsc_address_title_miui">Set SMS centre number</string>
   <string name="set_sub_1">Subscription 1:</string>
   <string name="set_sub_2">Subscription 2:</string>
@@ -898,7 +898,7 @@ Switch to the new provider anyway?"</string>
   <string name="set_sub_no_change">No change in Subscription</string>
   <string name="set_sub_success">Set subscription success</string>
   <string name="set_subscription">Select subscriptions</string>
-  <string name="set_subscription_error_atleast_one">Select atleast one subscription</string>
+  <string name="set_subscription_error_atleast_one">Select at least one subscription</string>
   <string name="set_uicc_subscription_progress">Set subscription in progress...</string>
   <string name="settings_label">Network settings</string>
   <string name="simContacts_airplaneMode">To import contacts from SIM card, please turn off Airplane mode.</string>
@@ -919,7 +919,7 @@ Switch to the new provider anyway?"</string>
   <string name="sim_ndp_unlock_text">Unlock</string>
   <string name="sim_pin_change_miui">Change SIM PIN</string>
   <string name="sim_pin_toggle_miui">Lock SIM card</string>
-  <string name="sim_unlock_failed">SIM SIM unlock request unsuccessful.</string>
+  <string name="sim_unlock_failed">SIM SIM unlock request failed.</string>
   <string name="sim_unlock_success">SIM SIM unlock successful.</string>
   <string name="sip_account_list">SIP accounts</string>
   <string name="sip_accounts">Internet calling (SIP) accounts</string>
@@ -930,8 +930,8 @@ Switch to the new provider anyway?"</string>
   <string name="sip_always_send_keepalive">Always send</string>
   <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">For all calls when data network is available</string>
-  <string name="sip_call_options_entry_2">Only for Internet calls</string>
-  <string name="sip_call_options_entry_3">Ask for each call</string>
+  <string name="sip_call_options_entry_2">Internet calls only</string>
+  <string name="sip_call_options_entry_3">Prompt for each call</string>
   <string name="sip_call_options_title">Use Internet calling</string>
   <string name="sip_call_options_wifi_only_entry_1">For all calls</string>
   <string name="sip_call_options_wifi_only_title">Use Internet calling (Wi-Fi only)</string>
@@ -950,7 +950,7 @@ Switch to the new provider anyway?"</string>
   <string name="sliding_up_hint_miui">Slide up to reject</string>
   <string name="sms_content">Message content</string>
   <string name="sms_sender">From</string>
-  <string name="sp_unlock_failed">SIM Service Provider unlock request unsuccessful.</string>
+  <string name="sp_unlock_failed">SIM Service Provider unlock request failed.</string>
   <string name="sp_unlock_success">SIM Service Provider unlock successful.</string>
   <string name="sports_news_settings">Sports News</string>
   <string name="stk_cc_ss_to_dial_error">SS request modified to DIAL request.</string>
@@ -1001,8 +1001,8 @@ Switch to the new provider anyway?"</string>
   <string name="t9_indexing_rebuilding_message">Rebuilding T9 Indexes, please wait...</string>
   <string name="technology_news_disable">Technology News disabled</string>
   <string name="technology_news_enable">Technology News enabled</string>
-  <string name="telocation_setting_miui">Location setting</string>
-  <string name="telocation_setting_summary_countrycode_off">Dont auto-add country code</string>
+  <string name="telocation_setting_miui">Location settings</string>
+  <string name="telocation_setting_summary_countrycode_off">"Don't auto-add country code"</string>
   <string name="telocation_setting_summary_countrycode_on">Auto-add country code</string>
   <string name="telocation_setting_summary_teloc_off">Hide location</string>
   <string name="telocation_setting_summary_teloc_on">Show location</string>

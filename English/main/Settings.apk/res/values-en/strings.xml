@@ -470,8 +470,8 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="clear_failed_dlg_text">"Couldn't clear data for app."</string>
   <string name="clear_failed_dlg_title">Clear data</string>
   <string name="clear_user_data_text">Clear data</string>
-  <string name="common_settings">Common settings</string>
-  <string name="complete_settings">Complete settings</string>
+  <string name="common_settings">Quick settings</string>
+  <string name="complete_settings">All settings</string>
   <string name="computing_size">Computing…</string>
   <string name="config_list_label">Configured networks</string>
   <string name="config_mass_storage_function_name">mass_storage</string>
