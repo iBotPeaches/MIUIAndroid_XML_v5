@@ -7,7 +7,7 @@
   <string name="apply_font_btn_exclude">Apply without font</string>
   <string name="apply_font_btn_reboot">Apply and reboot</string>
   <string name="apply_font_tip">Theme contains font. Reboot is required.</string>
-  <string name="apply_lockscreen_paper_tips">The lockscreen currently in use does not support lockscreen wallpaper changes. New lockscreen wallpaper may not be visible.</string>
+  <string name="apply_lockscreen_paper_tips">"Wallpaper changes not supported by the current lock scree. New lock screen wallpaper may not be visible."</string>
   <string name="apply_theme_no_select_message">Please select components</string>
   <string name="backup_preference_title">Backup theme</string>
   <string name="backup_theme_dialog_message">"Backup the current theme to %1$s"</string>
@@ -38,7 +38,7 @@
   <string name="live_wallpaper">Live wallpaper</string>
   <string name="loading">Loading...</string>
   <string name="loading_resource_detail_info">Loading...</string>
-  <string name="lockscreen_wallpaper">Lockscreen</string>
+  <string name="lockscreen_wallpaper">Lock screen</string>
   <string name="lockstyle_personal_settings">Customization</string>
   <string name="long_ringtone_resource">Long</string>
   <string name="menu_refresh">Refresh</string>
@@ -82,11 +82,11 @@
   <string name="resource_download">Download</string>
   <string name="resource_downloaded_title">Downloaded resources</string>
   <string name="resource_downloading">Downloading</string>
-  <string name="resource_get_auth_checking">Checking authorization...</string>
+  <string name="resource_get_auth_checking">Checking authorisation...</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Theme cannot run on the current device. You have reached the maximum of 10 Xiaomi accounts. Please try another account.</string>
-  <string name="resource_get_auth_exceed_max_limit_title">Authrorisation limit reached!</string>
+  <string name="resource_get_auth_exceed_max_limit_title">Authorisation limit reached!</string>
   <string name="resource_get_auth_missing">Theme was not downloaded from theme market, please download from official theme market.</string>
-  <string name="resource_get_auth_retrieving">Retrieving authorization...</string>
+  <string name="resource_get_auth_retrieving">Retrieving authorisation...</string>
   <string name="resource_importing">Importing</string>
   <string name="resource_list_title">Latest selected</string>
   <string name="resource_local">Local %1$s</string>
@@ -126,7 +126,7 @@
   <string name="theme_component_title_framework">Framework</string>
   <string name="theme_component_title_icon">Icon</string>
   <string name="theme_component_title_launcher">Home</string>
-  <string name="theme_component_title_lockstyle">Lockscreen</string>
+  <string name="theme_component_title_lockstyle">Lock screen</string>
   <string name="theme_component_title_lockwallpaper">Lock-wallpaper</string>
   <string name="theme_component_title_miwallpaper">Wallpaper</string>
   <string name="theme_component_title_mms">SMS</string>
@@ -176,6 +176,6 @@
   <string name="wallpaper_loading_text">Loading...</string>
   <string name="wallpaper_set_as_both">Set as both</string>
   <string name="wallpaper_set_as_destop">Set as wallpaper</string>
-  <string name="wallpaper_set_as_lockscreen">Set as lockscreen</string>
+  <string name="wallpaper_set_as_lockscreen">Set as lock screen</string>
   <string name="wallpaper_settings">Wallpaper settings</string>
 </resources>
