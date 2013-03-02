@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Apps</string>
-  <string name="Dashboard_HIPS_Disable_Content">Disabling it will make MIUI stop monitoring application requests and no longer protecting your security and privacy. Are you sure you wish to disable it?</string>
+  <string name="Dashboard_HIPS_Disable_Content">MIUI will stop monitoring application requests and will no longer protect your security and privacy. Are you sure you wish to disable it?</string>
   <string name="Dashboard_HIPS_Disable_Title">LBE Guard</string>
   <string name="Dashboard_Log">Logs</string>
   <string name="Dashboard_Log_Clear_Content">All logs will be erased. Are you sure you wish to continue?</string>
@@ -33,7 +33,7 @@
   <string name="Generic_Check">Check</string>
   <string name="Generic_Clean">Clean</string>
   <string name="Generic_Configuration">Settings</string>
-  <string name="Generic_Copyright">Powered by Team LBE</string>
+  <string name="Generic_Copyright">Support provided by Xiaomi</string>
   <string name="Generic_Disable">Disable</string>
   <string name="Generic_Enable">Enable</string>
   <string name="Generic_Good">Good</string>
