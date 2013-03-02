@@ -421,7 +421,7 @@ CC: %4$s
   <string name="more_than_999">999+</string>
   <string name="move_action">Move</string>
   <string name="move_to_folder_dialog_title">Move to</string>
-  <string name="multiple_new_message_notification_item" />
+  <string name="multiple_new_message_notification_item">"%1$s  %2$s"</string>
   <string name="next_action">Next</string>
   <string name="notification_multiple_new_messages_fmt">%1$d new messages</string>
   <string name="notification_to_account">to %1$s</string>
