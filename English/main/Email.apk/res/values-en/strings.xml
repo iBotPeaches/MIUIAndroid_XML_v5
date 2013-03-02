@@ -234,7 +234,7 @@
   <string name="debug_clear_webview_cache">Clear WebView cache</string>
   <string name="debug_disable_graphics_acceleration_label">Disable hardware graphics acceleration</string>
   <string name="debug_enable_debug_logging_label">Enable extra debug logging?</string>
-  <string name="debug_enable_exchange_file_logging_label">Enable exchange sd card logging?</string>
+  <string name="debug_enable_exchange_file_logging_label">Enable exchange SD card logging?</string>
   <string name="debug_enable_exchange_logging_label">Enable exchange parser logging? (extremely verbose)</string>
   <string name="debug_enable_strict_mode_label">Enable strict mode (with logging)</string>
   <string name="debug_force_one_minute_refresh_label">Force 1-minute refresh for POP/IMAP</string>
@@ -291,7 +291,7 @@
   <string name="general_preferences_clear_trusted_senders_summary">"Pictures in messages won't be shown automatically"</string>
   <string name="general_preferences_clear_trusted_senders_title">Ask to show pictures</string>
   <string name="header_label_general_preferences">General</string>
-  <string name="login_failed_ticker">%s signin failed.</string>
+  <string name="login_failed_ticker">%s login failed.</string>
   <string name="login_failed_title">"Couldn't sign in"</string>
   <string name="long_string">-----------------------------------------------------------------</string>
   <string name="mailbox_list_account_selector_account_header">Accounts</string>
@@ -556,7 +556,7 @@ CC: %4$s
   <string name="toast_account_not_found">"Account wasn't found. It may have been removed."</string>
   <string name="toast_failed_auth">There was a problem signing into your account.</string>
   <string name="toast_file_error">File not available.</string>
-  <string name="toast_intent_error">Upload initialization failed.</string>
+  <string name="toast_intent_error">Upload initialisation failed.</string>
   <string name="toast_mailbox_not_found">"Folder wasn't found. It may have been removed."</string>
   <string name="trusted_senders_cleared">\"Show pictures\" cleared.</string>
   <string name="unread_action">Mark unread</string>
