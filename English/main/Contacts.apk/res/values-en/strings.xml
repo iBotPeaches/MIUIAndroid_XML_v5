@@ -2,7 +2,7 @@
 <resources>
   <string name="account_container_title">From the following account</string>
   <string name="account_default">Phone</string>
-  <string name="account_phone">Phone-only, unsynced</string>
+  <string name="account_phone">Phone-only, un-synced</string>
   <string name="account_sim">Only saved on SIM card</string>
   <string name="account_type_format">%1$s contact</string>
   <string name="actionIncomingCall">Incoming calls</string>
@@ -164,7 +164,7 @@
   <string name="contact_read_only">Not editable from this app.</string>
   <string name="contact_status_update_attribution">via %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s via %2$s</string>
-  <string name="contact_unfavorite_toast">Contact unfavorited successfully</string>
+  <string name="contact_unfavorite_toast">Contact removed from favorites</string>
   <string name="contactsAllLabel">Contacts</string>
   <string name="contactsFavoritesLabel">Favorites</string>
   <string name="contactsGroupsLabel">Groups</string>
@@ -387,8 +387,8 @@
   <string name="import_to_xiaomi_account_progress_title">Import contacts to Xiaomi account</string>
   <string name="import_to_xiaomi_account_title">Do you want to import the following contacts to Xiaomi account?</string>
   <string name="import_vcard_description">Import contacts from your storage</string>
-  <string name="import_weibo_dialog_title">Import sina weibo contacts</string>
-  <string name="import_weibo_notification_title">Importing sina weibo contacts…</string>
+  <string name="import_weibo_dialog_title">Import Sina weibo contacts</string>
+  <string name="import_weibo_notification_title">Importing Sina weibo contacts…</string>
   <string name="import_weibo_notification_title_done">Import complete</string>
   <string name="import_weibo_progress_hint">Importing…</string>
   <string name="import_weibo_progress_name">%1$s</string>
@@ -489,8 +489,8 @@
   <string name="move_and_resize">Move and scale</string>
   <string name="multipleContactDeleteConfirmation">Deleting this contact will delete information from multiple accounts.</string>
   <string name="multipleContactDeleteConfirmationDetail">Deleting \"%s\" will delete information from multiple accounts.</string>
-  <string name="my_phone_not_provider_bluetooth">my phone dont provider bluetooth</string>
-  <string name="my_phone_provider_bluetooth">my phone provider bluetooth</string>
+  <string name="my_phone_not_provider_bluetooth">Phone does not support Bluetooth/string>
+  <string name="my_phone_provider_bluetooth">Phone supports Bluetooth</string>
   <string name="nameLabelsGroup">Name</string>
   <string name="name_family">Family name</string>
   <string name="name_given">Given name</string>
@@ -599,7 +599,7 @@ To add a contact to your list of favorites:
   <string name="postal_address">Address</string>
   <string name="postal_city">City</string>
   <string name="postal_country">Country</string>
-  <string name="postal_neighborhood">Neighborhood</string>
+  <string name="postal_neighborhood">Neighbourhood</string>
   <string name="postal_pobox">PO box</string>
   <string name="postal_postcode">Postcode/ZIP</string>
   <string name="postal_region">State</string>
@@ -703,7 +703,7 @@ To add a contact to your list of favorites:
   <string name="select_none">Nothing selected, the operation is invalid</string>
   <string name="select_show_contacts">To display the contact</string>
   <string name="select_vcard_title">Choose vCard file</string>
-  <string name="send_contact_shortcut_todesktop_success">Added contact shortcut to homescreen successfully</string>
+  <string name="send_contact_shortcut_todesktop_success">Added contact shortcut to home screen successfully</string>
   <string name="send_to_voicemail_checkbox">Send calls directly to voicemail</string>
   <string name="separatorJoinAggregateAll">All contacts</string>
   <string name="separatorJoinAggregateSuggestions">Suggested contacts</string>
