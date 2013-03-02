@@ -221,8 +221,8 @@
   <string name="status_bar_toggle_power_mid">Normal</string>
   <string name="status_bar_toggle_ring">Ring</string>
   <string name="status_bar_toggle_ringtone">Ringtone</string>
-  <string name="status_bar_toggle_screenshot">Screenshot</string>
   <string name="status_bar_toggle_screen_button">Buttons</string>
+  <string name="status_bar_toggle_screenshot">Screenshot</string>
   <string name="status_bar_toggle_sync_auto">Auto sync</string>
   <string name="status_bar_toggle_sync_manual">Sync</string>
   <string name="status_bar_toggle_syncing">Syncing</string>
