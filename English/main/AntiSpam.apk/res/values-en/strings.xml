@@ -24,7 +24,7 @@
   <string name="add_blacklist">Add to blacklist</string>
   <string name="add_button">Add</string>
   <string name="add_whitelist">Add to whitelist</string>
-  <string name="anti_private_summary">Intercept and block private or witheld numbers and log them</string>
+  <string name="anti_private_summary">Intercept and block private or withheld numbers and log them</string>
   <string name="anti_private_title">Block private numbers</string>
   <string name="anti_stranger_summary">Non address book contacts are filtered</string>
   <string name="anti_stranger_title">Anti-stranger mode</string>
