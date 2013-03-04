@@ -7,7 +7,7 @@
   <string name="apply_font_btn_exclude">Apply without font</string>
   <string name="apply_font_btn_reboot">Apply and reboot</string>
   <string name="apply_font_tip">Theme contains font. Reboot is required.</string>
-  <string name="apply_lockscreen_paper_tips">"Wallpaper changes not supported by the current lock scree. New lock screen wallpaper may not be visible."</string>
+  <string name="apply_lockscreen_paper_tips">"Wallpaper changes not supported by the current lock screen. New lock screen wallpaper may not be visible."</string>
   <string name="apply_theme_no_select_message">Please select components</string>
   <string name="backup_preference_title">Backup theme</string>
   <string name="backup_theme_dialog_message">"Backup the current theme to %1$s"</string>

@@ -6,7 +6,7 @@
   <string name="clear_shortcuts_agree">Clear shortcuts</string>
   <string name="clear_shortcuts_disagree">"Don't clear shortcuts"</string>
   <string name="clear_shortcuts_prompt">"This will clear all shortcuts and recently chosen search suggestions. (To clear your Browser history, use the Browser's settings.)"</string>
-  <string name="clear_shortcuts_summary">Clear shortcuts an recently chosen search suggestions</string>
+  <string name="clear_shortcuts_summary">Clear shortcuts and recently chosen search suggestions</string>
   <string name="corpus_description_apps">Names of installed applications</string>
   <string name="corpus_description_web">Web search, bookmarks and browser history</string>
   <string name="corpus_hint_apps">Search Apps</string>

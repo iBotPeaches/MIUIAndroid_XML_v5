@@ -2255,7 +2255,7 @@ Attempts Remaining :"</string>
   <string name="wifi_wapi_cert_delet_subdir">Select a suit certificate</string>
   <string name="wifi_wapi_cert_install">Install WAPI Certificate</string>
   <string name="wifi_wapi_cert_install_button">Install</string>
-  <string name="wifi_wapi_cert_mgmt_as_dont_exist">The SDCard does not has the AS certificate, please check it!</string>
+  <string name="wifi_wapi_cert_mgmt_as_dont_exist">AS certificate not found on SD card, please check and try again</string>
   <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">The as certificate format is wrong! Please install right as certificate</string>
   <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Please input the as certificate name</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Create directory fail</string>
