@@ -1368,6 +1368,11 @@ please follow the steps to complete installation"</string>
   <string name="pref_volume_wake_summary">Pressing the volume up/down wakes the device. Intended for devices with a hard to press power key.</string>
   <string name="pref_volume_wake_title">Volume rocker wake</string>
   <string name="preference_change_password_title">Change password</string>
+  <string name="preferred_launcher_title">Preferred Launcher</string>
+  <string name="preferred_launcher_warning_message">Replacing the default launcher may consume more resources than the default launcher. Are you sure you wish to continue?</string>
+  <string name="preferred_launcher_warning_replace">Replace Launcher</string>
+  <string name="preferred_launcher_warning_title">Replacing default launcher</string>
+  <string name="preferred_launcher_warning_use_system">Use default launcher</string>
   <string name="preferred_media_app_summary">Choose music player</string>
   <string name="privacy_mode_enable_sum">Hide call log, messages and so on to protect privacy.</string>
   <string name="privacy_mode_enable_title">Guarded mode</string>

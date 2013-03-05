@@ -8,8 +8,10 @@
   <string name="alert_message_delete_note">Are you sure you want to delete this note?</string>
   <string name="alert_message_delete_notes">Are you sure you want to delete the selected %1$s notes?</string>
   <string name="alert_message_discard_changes">Discard all changes?</string>
+  <string name="alert_message_exceed_image_limit">A maximum of 15 pictures can be attached to a note, make a new note to attach more pictures</string>
   <string name="alert_title_delete">Delete selected notes</string>
   <string name="alert_title_discard">Discard changes?</string>
+  <string name="alert_title_exceed_image_limit">Limit of pictures per note has been reached!</string>
   <string name="app_name">Notes</string>
   <string name="app_widget">Notes</string>
   <string name="attachment_camera">Camera</string>
@@ -17,6 +19,7 @@
   <string name="attachment_gallery">Gallery</string>
   <string name="button_new_note">New Note</string>
   <string name="call_record_folder_name">Call notes</string>
+  <string name="close">Close</string>
   <string name="default_folder_name">Notes</string>
   <string name="enable_sync">Sync</string>
   <string name="enable_sync_desc">Notes can be synced with your Xiaomi account %1$s, sync now?</string>
