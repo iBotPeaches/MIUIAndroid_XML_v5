@@ -5,7 +5,7 @@
   <string name="add_to_favorite">Add to Favorites</string>
   <string name="add_to_playlist">Add to Playlist</string>
   <string name="add_tracks">Add songs</string>
-  <string formatted="false" name="album_artist_format">%s , %s</string>
+  <string name="album_artist_format" formatted="false">%s , %s</string>
   <string name="album_display_settings">Display album art</string>
   <string name="album_display_summary">Display album cover in the player interface</string>
   <string name="album_download">Download album art</string>
@@ -21,7 +21,7 @@
   <string name="android_album_settings">Use embedded album art</string>
   <string name="android_album_summary">Automatically using the album art from songs may cause errors.</string>
   <string name="artist_albums">All Albums</string>
-  <string formatted="false" name="artist_details_format">%1$s, %2$s</string>
+  <string name="artist_details_format" formatted="false">%1$s, %2$s</string>
   <string name="artist_edit">Artist</string>
   <string name="artist_hot_audios">Popular Audio</string>
   <string name="artists_title">Artists</string>
@@ -34,7 +34,7 @@
   <string name="cancel_sleep_mode">Sleep timer stopped</string>
   <string name="cancle_warining">Sleep Mode stopped</string>
   <string name="channel">FM</string>
-  <string formatted="false" name="channel_format">"%s  %s MHZ"</string>
+  <string name="channel_format" formatted="false">"%s  %s MHZ"</string>
   <string name="channel_postfix">MHZ</string>
   <string name="click_to_shuffle">Click to shuffle all</string>
   <string name="complete">Complete</string>
@@ -97,7 +97,7 @@
   <string name="filter_by_size_prefix">"Minimum size:"</string>
   <string name="filter_by_size_summary">Filter is too small for audio files</string>
   <string name="filter_notification">Filter has been filtered, you can change these settings in the filter settings.</string>
-  <string formatted="false" name="folder_title_format">%s(%d)</string>
+  <string name="folder_title_format" formatted="false">%s(%d)</string>
   <string name="folders_title">Folders</string>
   <string name="frequentlyplayed_title">Frequently played</string>
   <string name="hot_artists">Hot Artists</string>
@@ -233,7 +233,7 @@
   <string name="start_to_download_album">Downloading album art for your song(s) library</string>
   <string name="start_to_download_avatar">Downloading artist avatar for your music library</string>
   <string name="streamloadingtext">Connecting to %s</string>
-  <string formatted="false" name="track_album_format">%s - %s</string>
+  <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_edit">Song</string>
   <string name="track_num_format">(%s)</string>
   <string name="tracks_title">All Songs</string>

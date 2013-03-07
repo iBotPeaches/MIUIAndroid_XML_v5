@@ -43,7 +43,7 @@
   <string name="callAgain">Redial</string>
   <string name="callBack">Call back</string>
   <string name="callDetailTitle">Call details</string>
-  <string formatted="false" name="callDetailsDurationFormat">%s mins %s secs</string>
+  <string name="callDetailsDurationFormat" formatted="false">%s mins %s secs</string>
   <string name="callShortcutActivityTitle">Choose a number to call</string>
   <string name="call_assistant">Call %s</string>
   <string name="call_callback">Call callback</string>
@@ -130,13 +130,13 @@
   <string name="composer_has_no_exportable_contact">There are no exportable contacts. If you do have contacts on your phone, some data providers may not allow the contacts to be exported from the phone.</string>
   <string name="composer_not_initialized">"The vCard composer didn't start properly."</string>
   <string name="config_export_dir">/mnt/sdcard</string>
-  <string name="config_export_extensions_to_consider" />
+  <string name="config_export_extensions_to_consider"/>
   <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix" />
-  <string name="config_export_file_suffix" />
+  <string name="config_export_file_prefix"/>
+  <string name="config_export_file_suffix"/>
   <string name="config_export_vcard_type">default</string>
   <string name="config_import_vcard_type">default</string>
-  <string name="config_prohibited_phone_number_regexp" />
+  <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">"Are you sure you want to delete %s's call logs?"</string>
   <string name="confirm_delete_selected_all_call_logs">"Are you sure you want to delete the contact's call logs?"</string>
   <string name="confirm_export_message">Your contact list will be exported to file: %s.</string>
@@ -311,13 +311,13 @@
   <string name="exporting_contact_failed_message">"The contact data wasn't exported. Reason: \"%s\""</string>
   <string name="exporting_contact_failed_title">"Couldn't export"</string>
   <string name="exporting_contact_list_message">Your contact data is being exported to: %s.</string>
-  <string formatted="false" name="exporting_contact_list_progress">%s of %s contacts</string>
+  <string name="exporting_contact_list_progress" formatted="false">%s of %s contacts</string>
   <string name="exporting_contact_list_title">Exporting contact data</string>
   <string name="exporting_vcard_canceled_title">Exporting %s canceled.</string>
   <string name="exporting_vcard_finished_title">Export finished %s.</string>
   <string name="external_profile_title">My %1$s profile</string>
   <string name="fail_reason_could_not_initialize_exporter">"Couldn't start the exporter: \"%s\"."</string>
-  <string formatted="false" name="fail_reason_could_not_open_file">"Couldn't open \"%s\": %s."</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">"Couldn't open \"%s\": %s."</string>
   <string name="fail_reason_error_occurred_during_export">An error occurred during export: \"%s\".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"Couldn't collect meta information of given vCard file(s)."</string>
   <string name="fail_reason_failed_to_read_files">"One or more files couldn't be imported (%s)."</string>
@@ -359,9 +359,9 @@
   <string name="group_sms_progress_msg">Preparing to group SMS…</string>
   <string name="groupsLabel">Groups</string>
   <string name="groups_list_empty">No groups</string>
-  <string name="help_url_people_add" />
-  <string name="help_url_people_edit" />
-  <string name="help_url_people_main" />
+  <string name="help_url_people_add"/>
+  <string name="help_url_people_edit"/>
+  <string name="help_url_people_main"/>
   <string name="hint_distance">keep the distance</string>
   <string name="hint_findContacts">Find contacts</string>
   <string name="hint_more_contact">use merge contact when exits double contacts</string>
@@ -654,7 +654,7 @@ To add a contact to your list of favorites:
   <string name="previous">previous</string>
   <string name="private_num">Private number</string>
   <string name="profile_display_name">Set up my profile</string>
-  <string formatted="false" name="progress_notifier_message">Importing %s/%s: %s</string>
+  <string name="progress_notifier_message" formatted="false">Importing %s/%s: %s</string>
   <string name="quickcontact_missing_app">No app was found to handle this action.</string>
   <string name="quit_dialog_confirm_title">To exit the contact merge?</string>
   <string name="readOnlyContactDeleteConfirmation">This contact contains information from multiple accounts. Information from read-only accounts will be hidden in your contacts lists, not deleted.</string>

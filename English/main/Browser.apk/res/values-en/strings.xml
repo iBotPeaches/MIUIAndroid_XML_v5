@@ -86,7 +86,7 @@
   <string name="bookmarks_root_folder">Root folder</string>
   <string name="bookmarks_search">Browser</string>
   <string name="browserFrameFileErrorLabel">File problem</string>
-  <string name="browserFrameFormResubmitLabel" />
+  <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">"The page you're trying to view contains data that has already been submitted (\"POSTDATA\"). If you resend the data, any action the form on the page carried out (such as a search or online purchase) will be repeated."</string>
   <string name="browserFrameNetworkErrorLabel">Connection problem</string>
   <string name="browser_bookmarks_page_bookmarks_text">Bookmarks</string>
@@ -98,7 +98,7 @@
   <string name="clear">Clear</string>
   <string name="clear_history">Clear history</string>
   <string name="containing_folder">Add to</string>
-  <string formatted="false" name="contextheader_folder_bookmarkcount">%d bookmarks</string>
+  <string name="contextheader_folder_bookmarkcount" formatted="false">%d bookmarks</string>
   <string name="contextheader_folder_empty">Empty folder</string>
   <string name="contextmenu_add_contact">Add contact</string>
   <string name="contextmenu_copy">Copy</string>
@@ -121,12 +121,12 @@
   <string name="current_page">"from "</string>
   <string name="defaultBookmarksUpButton">Bookmarks</string>
   <string name="delete">Delete</string>
-  <string formatted="false" name="delete_bookmark_warning">Delete bookmark \"%s\"?</string>
+  <string name="delete_bookmark_warning" formatted="false">Delete bookmark \"%s\"?</string>
   <string name="delete_folder">Delete folder</string>
   <string name="delete_multi_bookmarks_alert_title">Are you sure you want to delete %1$s items?</string>
   <string name="disable_autofill">Disable auto-fill</string>
   <string name="do_not_save">Cancel</string>
-  <string formatted="false" name="download_no_sdcard_dlg_msg">USB storage is required to download %s.</string>
+  <string name="download_no_sdcard_dlg_msg" formatted="false">USB storage is required to download %s.</string>
   <string name="download_no_sdcard_dlg_title">USB storage unavailable</string>
   <string name="download_pending">Starting download...</string>
   <string name="download_sdcard_busy_dlg_msg">The USB storage is busy. To allow downloads, touch Turn Off USB Storage in the notification.</string>
@@ -157,7 +157,7 @@
   <string name="folder_name">Folder name</string>
   <string name="forward">Forward</string>
   <string name="geolocation_permissions_prompt_dont_share">Decline</string>
-  <string formatted="false" name="geolocation_permissions_prompt_message">%s wants to know your location</string>
+  <string name="geolocation_permissions_prompt_message" formatted="false">%s wants to know your location</string>
   <string name="geolocation_permissions_prompt_remember">Remember preference</string>
   <string name="geolocation_permissions_prompt_share">Share location</string>
   <string name="geolocation_permissions_prompt_toast_allowed">This site can access your location. Change this on the Settings &gt; Advanced &gt; Website screen.</string>
@@ -179,11 +179,11 @@
   <string name="import_bookmark_failure">Bookmarks FAILED To Import!</string>
   <string name="import_bookmark_sucess">Bookmarks imported successfully</string>
   <string name="import_bookmarks_dialog_add">Add bookmarks to Google account</string>
-  <string formatted="false" name="import_bookmarks_dialog_confirm_add">Add bookmarks currently on this device and begin syncing bookmarks with %s?</string>
-  <string formatted="false" name="import_bookmarks_dialog_confirm_delete">Delete bookmarks currently on this device and begin syncing bookmarks with %s?</string>
+  <string name="import_bookmarks_dialog_confirm_add" formatted="false">Add bookmarks currently on this device and begin syncing bookmarks with %s?</string>
+  <string name="import_bookmarks_dialog_confirm_delete" formatted="false">Delete bookmarks currently on this device and begin syncing bookmarks with %s?</string>
   <string name="import_bookmarks_dialog_delete_select_account">Delete bookmarks currently on this device and begin syncing with Google account</string>
   <string name="import_bookmarks_dialog_description">"Bookmarks on this device are not yet associated with a Google account. Save these bookmarks by adding them to an account. Delete these bookmarks if you don't want to sync them."</string>
-  <string formatted="false" name="import_bookmarks_dialog_import">Add your Android bookmarks to bookmarks for %s</string>
+  <string name="import_bookmarks_dialog_import" formatted="false">Add your Android bookmarks to bookmarks for %s</string>
   <string name="import_bookmarks_dialog_remove">Delete bookmarks</string>
   <string name="import_bookmarks_dialog_select_add_account">Add bookmarks currently on this device and begin syncing with Google account</string>
   <string name="import_bookmarks_dialog_title">Sync with Google account</string>
@@ -240,7 +240,7 @@
   <string name="pref_autofill_enabled_summary">Fill out web forms with a single touch</string>
   <string name="pref_autofill_profile_editor">Auto-fill text</string>
   <string name="pref_autofill_profile_editor_summary">Set up text to auto-fill in web forms</string>
-  <string formatted="false" name="pref_autologin_progress">Signing into Google sites using %s</string>
+  <string name="pref_autologin_progress" formatted="false">Signing into Google sites using %s</string>
   <string name="pref_autologin_title">Automatic Google signin</string>
   <string name="pref_clear_cache_for_exit">Clear cache on exit</string>
   <string name="pref_clear_history_for_exit">Clear history on exit</string>
@@ -319,7 +319,7 @@
   <string name="pref_link_prefetch_summary">Allow browser to preload linked web pages in the background</string>
   <string name="pref_link_prefetch_title">Web page preloading</string>
   <string name="pref_min_font_size">Minimum font size</string>
-  <string formatted="false" name="pref_min_font_size_value">%d pt</string>
+  <string name="pref_min_font_size_value" formatted="false">%d pt</string>
   <string name="pref_privacy_clear_cache">Clear cache</string>
   <string name="pref_privacy_clear_cache_dlg">Delete locally cached content and databases?</string>
   <string name="pref_privacy_clear_cache_summary">Clear locally cached content and databases</string>
@@ -411,7 +411,7 @@
   <string name="share_page">Share page</string>
   <string name="shortcut_bookmark">Bookmark</string>
   <string name="shortcut_bookmark_title">Choose a bookmark</string>
-  <string formatted="false" name="sign_in_to">Sign in to %s1 \"%s2\"</string>
+  <string name="sign_in_to" formatted="false">Sign in to %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Couldn't save for offline reading."</string>
   <string name="snapshot_go_live">Go live</string>
   <string name="ssl_continue">Continue</string>

@@ -132,7 +132,7 @@
   <string name="pref_wallpaper_scroll_type_title">Wallpaper scroll types</string>
   <string name="preferences_general_title">General settings</string>
   <string name="preferences_title">Launcher Settings</string>
-  <string name="process" />
+  <string name="process"/>
   <string name="processing">Processing...</string>
   <string name="reset_scene_prompt">Scene will be reset to default layout</string>
   <string name="resource_alarm_default">Alarm</string>
@@ -180,7 +180,7 @@
   <string name="sdcard_status_changed_dialog_title">SD card status changed</string>
   <string name="select_frame">Frame</string>
   <string name="select_photo">Photo</string>
-  <string name="sharedUserId" />
+  <string name="sharedUserId"/>
   <string name="sort_by_abc">Sort by name</string>
   <string name="sort_by_frequency">Sort by usage</string>
   <string name="sort_by_not_defined">Sort by default</string>

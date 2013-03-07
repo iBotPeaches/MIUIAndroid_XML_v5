@@ -79,7 +79,7 @@
   <string name="find_device_notice_p3">to find, lock it, or wipe the data</string>
   <string name="find_device_success_title">Locate device is enabled</string>
   <string name="find_password_on_web_msg">Please visit account.xiaomi.com to retrieve your password</string>
-  <string name="forget_password" />
+  <string name="forget_password"/>
   <string name="frozen">(Locked)</string>
   <string name="header_data_and_synchronization">Data &amp; Sync</string>
   <string name="i_know">OK</string>
@@ -98,7 +98,7 @@
   <string name="micloud_account_name">Xiaomi Account</string>
   <string name="micloud_account_not_actived">Account is not activated</string>
   <string name="micloud_active_email_sent_1">We have sent an activation link to your E-mail:</string>
-  <string name="micloud_active_email_sent_2" />
+  <string name="micloud_active_email_sent_2"/>
   <string name="micloud_active_email_visit">Visit %s</string>
   <string name="micloud_activing_account">Activating your account...</string>
   <string name="micloud_click_email">Click the link in the E-mail to activate your Xiaomi Account</string>
@@ -226,5 +226,5 @@
   <string name="user_agreement_p3"> and </string>
   <string name="user_agreement_p4">Privacy Policy</string>
   <string name="user_agreement_p5">"By signing up, you are agreeing to the "</string>
-  <string name="xmpp_server_addr" />
+  <string name="xmpp_server_addr"/>
 </resources>

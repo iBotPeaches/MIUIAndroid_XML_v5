@@ -52,8 +52,8 @@
   <string name="install_sina">Install Sina app</string>
   <string name="install_whole_rom">Download full ROM package is recommended</string>
   <string name="internal_build">Internal Build</string>
-  <string name="kernel_upgrade_link" />
-  <string name="kernel_upgrade_version" />
+  <string name="kernel_upgrade_link"/>
+  <string name="kernel_upgrade_version"/>
   <string name="loading">Requesting</string>
   <string name="md5_check_cancelled">MD5 check cancelled</string>
   <string name="mione_update_fail_description">Please update again</string>

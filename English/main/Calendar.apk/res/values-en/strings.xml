@@ -31,14 +31,14 @@
   <string name="attendees_label">Guests</string>
   <string name="birthday_calendar_display_name">Birthday Reminder</string>
   <string name="birthday_event_description">"Today is %1$s's birthday!"</string>
-  <string name="birthday_event_description_detail_leap" />
-  <string name="birthday_event_description_detail_smart" />
-  <string name="birthday_notification_age_term" />
+  <string name="birthday_event_description_detail_leap"/>
+  <string name="birthday_event_description_detail_smart"/>
+  <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">3 days until the birthday (%3$s)</string>
   <string name="birthday_notification_text_today">"Don't forget to say happy birthday!"</string>
   <string name="birthday_notification_title_three_days_later">"%1$s's birthday is coming up"</string>
   <string name="birthday_notification_title_today">"%1$s's birthday"</string>
-  <string name="birthday_notification_type_term_lunar" />
+  <string name="birthday_notification_type_term_lunar"/>
   <string name="calendar_refresh">Refresh</string>
   <string name="change_response_title">Change response</string>
   <string name="copy_db">Send database</string>
@@ -52,7 +52,7 @@
   <string name="creating_event_with_guest">Invitations will be sent.</string>
   <string name="custom">"Custom (can't customize on phone)"</string>
   <string name="daily">Daily</string>
-  <string formatted="false" name="date_time_fmt">%s, %s</string>
+  <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Day</string>
   <string name="day_view_new_event_hint">+ New event</string>
   <string name="delete_label">Delete</string>
@@ -102,8 +102,8 @@
   <string name="menu_general_preferences">General settings</string>
   <string name="menu_preferences">Settings</string>
   <string name="menu_select_visible_calendars">Calendars to display</string>
-  <string name="miui_chinese_week_range_double" />
-  <string name="miui_chinese_week_range_single" />
+  <string name="miui_chinese_week_range_double"/>
+  <string name="miui_chinese_week_range_single"/>
   <string name="miui_menu_create_event">New Event</string>
   <string name="modify_all">Change all events in the series</string>
   <string name="modify_all_following">Change this and all future events</string>

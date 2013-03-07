@@ -264,7 +264,7 @@
   <string name="confirm_pin_hint_miui">Confirm new PIN</string>
   <string name="connect_disconnect_vibrate_none_miui">No vibrate</string>
   <string name="connect_disconnect_vibrate_normal_miui">Vibrate</string>
-  <string name="connect_disconnect_vibrate_summary_miui" />
+  <string name="connect_disconnect_vibrate_summary_miui"/>
   <string name="connect_disconnect_vibrate_title_miui">Vibration</string>
   <string name="connect_disconnect_vibrate_weak_miui">Weakly vibrate</string>
   <string name="connect_later">Unable to connect to this network at this time. Please try again later.</string>
@@ -844,7 +844,7 @@ Switch to the new provider anyway?"</string>
   <string name="respond_via_sms_confirmation_format">Message sent to %s.</string>
   <string name="respond_via_sms_custom_message">Custom message...</string>
   <string name="respond_via_sms_edittext_dialog_title">Quick response</string>
-  <string name="respond_via_sms_setting_summary" />
+  <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Quick responses</string>
   <string name="respond_via_sms_setting_title_2">Edit quick responses</string>
   <string name="response_error">Unexpected response from network.</string>

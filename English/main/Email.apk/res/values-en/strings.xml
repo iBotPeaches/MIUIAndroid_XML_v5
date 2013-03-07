@@ -369,7 +369,7 @@ CC: %4$s
   <string name="message_compose_subject_hint">Subject</string>
   <string name="message_compose_to_hint">To</string>
   <string name="message_decode_error">There was an error while decoding the message.</string>
-  <string name="message_delete_dialog_title" />
+  <string name="message_delete_dialog_title"/>
   <string name="message_discarded_toast">Message discarded.</string>
   <string name="message_is_empty_description">No subject</string>
   <string name="message_list_load_more_messages_action">Load more messages</string>
@@ -563,7 +563,7 @@ CC: %4$s
   <string name="upload">Upload</string>
   <string name="upload_state_completed">Completed</string>
   <string name="upload_state_failed">Failed</string>
-  <string name="upload_state_queued" />
+  <string name="upload_state_queued"/>
   <string name="upload_state_uploading">Uploading</string>
   <string name="upload_state_waiting_retry">Waiting to retry</string>
   <string name="upload_state_waiting_wifi">Waiting for Wi-Fi connection</string>

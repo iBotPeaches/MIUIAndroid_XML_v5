@@ -229,7 +229,7 @@
   <string name="phrase_confirm_delete_message">The selected phrase will be deleted</string>
   <string name="phrase_empty">No Phrases</string>
   <string name="phrase_from">From %1s</string>
-  <string formatted="false" name="phrase_list_title">Phrases (%1$d)</string>
+  <string name="phrase_list_title" formatted="false">Phrases (%1$d)</string>
   <string name="pick_too_many_recipients">Too many recipients</string>
   <string name="play">Play</string>
   <string name="prefDefault_ringtone_repeat">1</string>

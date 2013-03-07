@@ -7,7 +7,7 @@
   <string name="adjust_position_prev_media_notice">Prev</string>
   <string name="airkan_control_device_des">You can control video playback via the button at the bottom</string>
   <string name="airkan_device_xiaomi_phone">Xiaomi</string>
-  <string name="airkan_video_playing" />
+  <string name="airkan_video_playing"/>
   <string name="airkan_video_playing_in">Video is playing...</string>
   <string name="app_name">MiVideo</string>
   <string name="buffering">Buffering...</string>

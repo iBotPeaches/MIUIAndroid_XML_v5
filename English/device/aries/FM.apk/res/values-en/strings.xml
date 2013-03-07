@@ -21,7 +21,7 @@
   <string name="button_text_stop">Stop</string>
   <string name="default_audio">Stereo</string>
   <string name="default_band">United States</string>
-  <string name="default_blank" />
+  <string name="default_blank"/>
   <string name="default_station">FM</string>
   <string name="delete_station_title">Delete</string>
   <string name="dialog_sleep_title">Select Auto-Off Sleep Time</string>
@@ -44,7 +44,7 @@
   <string name="frequency_already_exist">Radio frequency already exists</string>
   <string name="frequency_out_of_range">(%1$s~%2$s) Radio frequency is out of range</string>
   <string name="frequency_should_not_null">Radio frequency cannot be blank</string>
-  <string name="frequency_string" />
+  <string name="frequency_string"/>
   <string name="hint_station_name">Enter Station Name</string>
   <string name="input_station">Radio Frequency (MHz)</string>
   <string name="menu_add_list">Add List</string>
@@ -121,5 +121,5 @@
   <string name="toast_save_station">%sMHz has been saved</string>
   <string name="toast_sleep_mode">Stop FM in %s</string>
   <string name="transmit_msg_string">Transmitting at:</string>
-  <string name="type_rd" />
+  <string name="type_rd"/>
 </resources>

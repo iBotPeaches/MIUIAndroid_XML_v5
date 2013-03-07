@@ -52,7 +52,7 @@
   <string name="edit_frame_free_traffic_title">Edit traffic allowance</string>
   <string name="edit_frame_month_start_title">Billing start date</string>
   <string name="edit_frame_warning_title">Warning Threshold</string>
-  <string name="empty" />
+  <string name="empty"/>
   <string name="finish_traffic_settings_hint">Settings saved!</string>
   <string name="finish_traffic_settings_message">"Used traffic is %s. Is the data correct? If not you may adjust it."</string>
   <string name="finish_traffic_settings_title">Adjust traffic data</string>
@@ -127,7 +127,7 @@
   <string name="sync_traffic_no_cmd_detail">"Submit your City, Province and ICC's brand and carrier to the following thread on the forums: http://www.miui.com/forum-172-1.html. Thank you."</string>
   <string name="sync_traffic_no_cmd_title">No SMS template</string>
   <string name="sync_traffic_success">"Synchronised operator's data, traffic adjusted successfully"</string>
-  <string name="text_day" />
+  <string name="text_day"/>
   <string name="text_done">Done</string>
   <string name="text_save">Save</string>
   <string name="traffic_none">N/A</string>

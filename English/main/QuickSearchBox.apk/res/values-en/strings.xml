@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Search</string>
-  <string name="apps_search_activity" />
+  <string name="apps_search_activity"/>
   <string name="clear_shortcuts">Clear shortcuts</string>
   <string name="clear_shortcuts_agree">Clear shortcuts</string>
   <string name="clear_shortcuts_disagree">"Don't clear shortcuts"</string>

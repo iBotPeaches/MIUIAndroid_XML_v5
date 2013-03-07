@@ -22,7 +22,7 @@
   <string name="error_mediadb_new_record">Unable to save recorded audio</string>
   <string name="error_sdcard_access">Unable to access external or internal storage</string>
   <string name="fm_record">FM recording (%d)</string>
-  <string formatted="false" name="hour">%d hour(s)</string>
+  <string name="hour" formatted="false">%d hour(s)</string>
   <string name="insert_sd_card">SD card is required</string>
   <string name="low_battery_error">Battery has less than 5% left, to ensure that the recording is not lost, recording has been stopped and saved.</string>
   <string name="low_battery_message_title">Low battery</string>
@@ -31,15 +31,15 @@
   <string name="max_length_reached">Maximum length reached</string>
   <string name="menu_setting">Settings</string>
   <string name="menu_view_record_list">View recordings</string>
-  <string formatted="false" name="minute">%d minute</string>
+  <string name="minute" formatted="false">%d minute</string>
   <string name="no_file">No recordings</string>
   <string name="notification_playback">Playing back recording…</string>
   <string name="notification_playback_paused">Playback paused...</string>
   <string name="notification_recording">Recording...</string>
   <string name="notification_stopped">Recording has stopped</string>
-  <string formatted="false" name="notification_warning">Low storage (less than %d minutes)...</string>
+  <string name="notification_warning" formatted="false">Low storage (less than %d minutes)...</string>
   <string name="open_file_explorer">Open File Explorer</string>
-  <string formatted="false" name="overwrite_dialog_message">%s already exists. Do you wish to overwrite it?</string>
+  <string name="overwrite_dialog_message" formatted="false">%s already exists. Do you wish to overwrite it?</string>
   <string name="prefDefault_recordType">audio/3gpp</string>
   <string name="prefDialogTitle_recordType">Please select file type</string>
   <string name="pref_summary_enable_high_quality">The audio file with high quality will be larger</string>
@@ -59,12 +59,12 @@
   <string name="rename_duplicate">Duplicate recording name, please re-enter:</string>
   <string name="rename_illegal">Illegal recording name, please re-enter:</string>
   <string name="sd_card_not_available">SD card is not available</string>
-  <string formatted="false" name="second">%d seconds</string>
+  <string name="second" formatted="false">%d seconds</string>
   <string name="send_to">Send to</string>
   <string name="status_bar_anti_disturb">Phone has been muted, adjust volume to resume.</string>
   <string name="status_bar_back">Click to return to Recorder</string>
   <string name="status_bar_recording">Recording...</string>
   <string name="storage_is_full">Storage is full</string>
-  <string formatted="false" name="timer_format">%02d:%02d</string>
+  <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="unknown_caller">Unknown caller</string>
 </resources>
