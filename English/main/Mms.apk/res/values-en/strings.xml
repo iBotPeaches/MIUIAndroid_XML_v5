@@ -322,6 +322,8 @@
   <string name="select_bottom_text">Text on bottom</string>
   <string name="select_different_media">Please select a different %1$s.</string>
   <string name="select_link_title">Select action</string>
+  <string name="select_local_audio">Select local audio</string>
+  <string name="select_local_video">Select local video</string>
   <string name="select_top_text">Text on top</string>
   <string name="send">Send</string>
   <string name="send_signature_confirm_dialog_message">No message body found. Are you sure you wish to send only the signature?</string>

@@ -214,7 +214,7 @@
   <string name="status_bar_style_settings">Status bar settings</string>
   <string name="status_bar_time_format_12">h:mma</string>
   <string name="status_bar_time_format_24">HH:mm</string>
-  <string name="status_bar_toggle_auto_brightness">Auto-Brightness</string>
+  <string name="status_bar_toggle_auto_brightness">Auto-Backlight</string>
   <string name="status_bar_toggle_drive_mode">Drive</string>
   <string name="status_bar_toggle_power_high">Performance</string>
   <string name="status_bar_toggle_power_low">Power saving</string>
