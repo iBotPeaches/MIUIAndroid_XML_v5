@@ -64,6 +64,8 @@
   <string name="status_bar_anti_disturb">Phone has been muted, adjust volume to resume.</string>
   <string name="status_bar_back">Click to return to Recorder</string>
   <string name="status_bar_recording">Recording...</string>
+  <string name="status_bar_recording_back">Click to return to Recorder</string>
+  <string name="status_bar_recording_pause">"Recording has been paused. "</string>
   <string name="storage_is_full">Storage is full</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="unknown_caller">Unknown caller</string>

@@ -301,6 +301,7 @@
   <string name="pref_force_userscalable_summary">"Override a website's request to control zoom behaviour"</string>
   <string name="pref_general_autofill_title">Auto-fill</string>
   <string name="pref_general_exit_setting_title">Exit settings</string>
+  <string name="pref_general_setting_title">Settings</string>
   <string name="pref_general_sync_title">Sync</string>
   <string name="pref_general_title">General</string>
   <string name="pref_gesture_title">Gesture operations</string>
@@ -356,6 +357,7 @@
   <string name="pref_security_show_security_warning">Show security warnings</string>
   <string name="pref_security_show_security_warning_summary">"Show warning if there's a problem with a site's security"</string>
   <string name="pref_set_homepage_to">Set to</string>
+  <string name="pref_setting_title">Page settings</string>
   <string name="pref_text_zoom">Text scaling</string>
   <string name="pref_ua_mione_entry">MiOne</string>
   <string name="pref_ua_mione_value">6</string>
