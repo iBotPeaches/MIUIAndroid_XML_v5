@@ -125,6 +125,7 @@
   <string name="pref_icon_shadow_title">Icon shadow</string>
   <string name="pref_keep_in_memory_summary">Keep launcher running when memory is low.</string>
   <string name="pref_keep_in_memory_title">Keep in memory</string>
+  <string name="pref_keep_layout_summary">Switching the icon layout may disrupt your desktop layout.</string>
   <string name="pref_keep_layout_title">Keep current layout</string>
   <string name="pref_render_in_truecolor_summary">Turning off this option will improve drawing performance.</string>
   <string name="pref_render_in_truecolor_title">High quality graphics</string>

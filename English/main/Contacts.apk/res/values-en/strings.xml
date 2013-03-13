@@ -22,6 +22,9 @@
   <string name="add_organization">Add organization</string>
   <string name="add_to_my_contacts">Add to My Contacts</string>
   <string name="add_wait">Add wait</string>
+  <string name="add_xiaomi_account_dialog_btn">Use Xiaomi account</string>
+  <string name="add_xiaomi_account_dialog_msg">For the best experience, please considering using your Xiaomi account to sync and backup contact information and manage contacts from your computer.</string>
+  <string name="add_xiaomi_account_dialog_title">Choose sync account</string>
   <string name="aggregation_suggestion_edit_dialog_message">Switch to editing the same-name contact? Information entered so far will be copied.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Same name</string>
   <string name="aggregation_suggestion_join_dialog_message">Merge current contact with the selected contact?</string>
@@ -400,6 +403,7 @@
   <string name="insertGroupDescription">Create group</string>
   <string name="invalidContactMessage">"The contact doesn't exist."</string>
   <string name="keep_local">Keep local</string>
+  <string name="keep_local_btn">Save to phone only</string>
   <string name="label_custom_type">Custom</string>
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Great! No duplicate contacts for now!</string>

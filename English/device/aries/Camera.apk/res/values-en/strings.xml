@@ -518,6 +518,7 @@
   <string name="toast_burst_snap_finished_start">Burst shooting finished</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Burst shooting is not supported when Audio Capture is ON.</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Burst shooting is not supported when HDR is ON.</string>
+  <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Burst shooting is not supported when ISO is not set as 'auto'."</string>
   <string name="toast_start_audio_capture">Make a sound to trigger Sound Shutter</string>
   <string name="undo">UNDO</string>
   <string name="unit_mm">mm</string>

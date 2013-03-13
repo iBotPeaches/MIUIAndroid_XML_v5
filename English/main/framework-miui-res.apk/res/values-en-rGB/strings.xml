@@ -427,6 +427,8 @@
   <string name="the_mid_autumn_festival"/>
   <string name="the_rains"/>
   <string name="the_spring_festival"/>
+  <string name="today">Today</string>
+  <string name="tomorrow">Tomorrow</string>
   <string name="unknown">Unknown number</string>
   <string name="unknown_caller">Unknown caller</string>
   <string name="unlock_string">OK</string>
@@ -460,4 +462,5 @@
   <string name="white_dews"/>
   <string name="winter_begins"/>
   <string name="winter_solstice"/>
+  <string name="yesterday">Yesterday</string>
 </resources>

@@ -25,6 +25,7 @@
   <string name="btn_query">Enquire now</string>
   <string name="btn_recharge_large">Topup now</string>
   <string name="btn_recharge_other">Other topup methods</string>
+  <string name="btn_voucher">Mi Credit card (%1$s)</string>
   <string name="button_cancel">Cancel</string>
   <string name="button_pay">Pay</string>
   <string name="button_recharge">Topup</string>
@@ -159,6 +160,8 @@
   <string name="prev">Back</string>
   <string name="progress_connecting">Connecting...</string>
   <string name="progress_creating">Retrieving order information...</string>
+  <string name="progress_downloading">Downloading...</string>
+  <string name="progress_error_auth">Authentication error has occurred, please try again.</string>
   <string name="progress_error_common">Recharge failed, please try again later.</string>
   <string name="progress_error_network">Failed to connect to network, please check network status.</string>
   <string name="progress_error_server">Server error, please try again later.</string>
@@ -174,6 +177,7 @@
   <string name="progress_submit_title">Topup request submitted</string>
   <string name="progress_success_summary">Account balance: %1$sMi credits</string>
   <string name="progress_success_title">%1$s Mi credits topup complete</string>
+  <string name="progress_voucher_creating">Updating MiCredit...</string>
   <string name="progress_warning_contact_server">"Message was not delivered but will be sent soon:
    1. Contact customer services on: %1$s
    2. Provide this serial number: %2$s"</string>
@@ -190,6 +194,8 @@
   <string name="recharge_record_empty">No topup history</string>
   <string name="recharge_tenpay_summary">Tenpay top-up Support</string>
   <string name="recharge_tenpay_title">Tenpay</string>
+  <string name="recharge_voucher_summary">Support for MiCredit top-up</string>
+  <string name="recharge_voucher_title">MiCredit Vouchers</string>
   <string name="reg_by_email_failure">Registration failed: %1$s</string>
   <string name="reg_failed">Registration failed</string>
   <string name="reg_type_email">Register via E-mail</string>
@@ -217,6 +223,7 @@
   <string name="title_recharge">Topup Mi credits</string>
   <string name="title_recharge_record">Topup history</string>
   <string name="title_reg">Register Xiaomi account</string>
+  <string name="title_voucher">Top-up using MiCredit voucher</string>
   <string name="unactivated_user">Unactivated</string>
   <string name="unbind">De-authorise</string>
   <string name="update_contacts">Update contacts</string>
@@ -226,5 +233,18 @@
   <string name="user_agreement_p3"> and </string>
   <string name="user_agreement_p4">Privacy Policy</string>
   <string name="user_agreement_p5">"By signing up, you are agreeing to the "</string>
+  <string name="voucher_btn_exchange">Use voucher</string>
+  <string name="voucher_btn_exchange_error">Invalid</string>
+  <string name="voucher_btn_has_exchanged">Voucher redeemed</string>
+  <string name="voucher_denom">MiCredits</string>
+  <string name="voucher_edit_hint">Password:</string>
+  <string name="voucher_edit_limit">Edit limit</string>
+  <string name="voucher_empty">No stored MiCredit data</string>
+  <string name="voucher_error_code">An error occurred with your MiCredit voucher code</string>
+  <string name="voucher_exchange">Exchange</string>
+  <string name="voucher_exchange_count">Vouchers used (%1$s)</string>
+  <string name="voucher_exchange_success">%1$s MiCredit(s) redemption complete</string>
+  <string name="voucher_expire">%1$s-%2$s-%3$s expired</string>
+  <string name="voucher_input">Input</string>
   <string name="xmpp_server_addr"/>
 </resources>

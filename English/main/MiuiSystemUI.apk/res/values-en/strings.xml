@@ -202,6 +202,8 @@
   <string name="status_bar_recent_inspect_item_title">App info</string>
   <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
   <string name="status_bar_recent_remove_item_title">Remove from list</string>
+  <string name="status_bar_recording_back">Click to return to Recorder</string>
+  <string name="status_bar_recording_pause">"Recording has been paused. "</string>
   <string name="status_bar_settings_airplane">Airplane mode</string>
   <string name="status_bar_settings_auto_brightness_label">AUTO</string>
   <string name="status_bar_settings_auto_rotation">Auto-rotate screen</string>
