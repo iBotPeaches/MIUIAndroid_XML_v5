@@ -284,6 +284,7 @@
   <string name="pref_camera_picturesize_entry_320x240">QVGA</string>
   <string name="pref_camera_picturesize_entry_352x288">CIF</string>
   <string name="pref_camera_picturesize_entry_4000x3000">12MP</string>
+  <string name="pref_camera_picturesize_entry_4208x2368">Full screen 16:9</string>
   <string name="pref_camera_picturesize_entry_640x480">VGA</string>
   <string name="pref_camera_picturesize_entry_800x480">WVGA</string>
   <string name="pref_camera_picturesize_entry_800x600">SVGA</string>
@@ -295,6 +296,7 @@
   <string name="pref_camera_picturesize_professional_entry_2592x1944">5M (2592x1944)</string>
   <string name="pref_camera_picturesize_professional_entry_3200x1800">6M (3264x1836)</string>
   <string name="pref_camera_picturesize_professional_entry_3200x2400">8M (3264X2448)</string>
+  <string name="pref_camera_picturesize_professional_entry_4208x2368">10M(4208x2368)</string>
   <string name="pref_camera_picturesize_professional_entry_4208x3120">13M(4208x3120)</string>
   <string name="pref_camera_picturesize_title">Picture size</string>
   <string name="pref_camera_picturesize_title_simple_mode">Camera frame</string>
