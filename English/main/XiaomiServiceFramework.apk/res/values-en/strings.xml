@@ -119,7 +119,7 @@
   <string name="micloud_use_existing">Existing</string>
   <string name="micloud_val_sms_alert">An SMS will be sent to validate your phone number, continue?</string>
   <string name="micloud_welcome_skip_login">Skip registration</string>
-  <string name="mili_center">Mi credit centre</string>
+  <string name="mili_center">MiCredit</string>
   <string name="next">Next</string>
   <string name="no_sim">SIM card not found, unable to synchronise</string>
   <string name="nobind">No authorised</string>
