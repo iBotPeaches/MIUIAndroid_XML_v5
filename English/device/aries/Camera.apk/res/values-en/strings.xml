@@ -297,6 +297,7 @@
   <string name="pref_camera_picturesize_professional_entry_3200x2400">8M (3264X2448)</string>
   <string name="pref_camera_picturesize_professional_entry_4208x3120">13M(4208x3120)</string>
   <string name="pref_camera_picturesize_title">Picture size</string>
+  <string name="pref_camera_picturesize_title_simple_mode">Camera frame</string>
   <string name="pref_camera_powermode_default">Normal_Power</string>
   <string name="pref_camera_powermode_entry_lp">Low_Power</string>
   <string name="pref_camera_powermode_entry_np">Normal_Power</string>
