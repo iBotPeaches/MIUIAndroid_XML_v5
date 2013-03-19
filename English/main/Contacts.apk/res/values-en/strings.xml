@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="account_abnormal_state">Abnormal account information, try to login in again or try again later!</string>
   <string name="account_container_title">From the following account</string>
   <string name="account_default">Phone</string>
   <string name="account_phone">Phone-only, un-synced</string>
@@ -29,10 +30,15 @@
   <string name="aggregation_suggestion_edit_dialog_title">Same name</string>
   <string name="aggregation_suggestion_join_dialog_message">Merge current contact with the selected contact?</string>
   <string name="all_list_empty">No contacts</string>
+  <string name="all_resources">All</string>
   <string name="attach_photo_dialog_title">Contact photo</string>
   <string name="audio_chat">Voice chat</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
+  <string name="batch_delete">Batch delete contacts</string>
+  <string name="batch_delete_msg">"Are you sure you want to delete the selected %d contacts?
+
+If you are using the contact sync service, contact info in the cloud will also be deleted."</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth connection interrupted</string>
   <string name="blurbJoinContactDataWith">Choose the contact you want merge with %s:</string>
   <string name="btn_delete_multi_contacts">Delete %d contacts</string>
@@ -198,6 +204,7 @@
   <string name="delete_group_dialog_title">Delete group</string>
   <string name="delete_unknown_contact_calllog_title">"Are you sure you want to delete unknown contact's call logs?"</string>
   <string name="description_add_contact">Add contact</string>
+  <string name="description_author">Author:</string>
   <string name="description_call">Call %1$s</string>
   <string name="description_call_log_incoming_call">Incoming call</string>
   <string name="description_call_log_missed_call">Missed call</string>
@@ -207,9 +214,11 @@
   <string name="description_call_log_voicemail">Voicemail</string>
   <string name="description_contact_photo">contact photo</string>
   <string name="description_delete_button">backspace</string>
+  <string name="description_designer">Designer:</string>
   <string name="description_dial_button">dial</string>
   <string name="description_dial_phone_number">Dial phone %1$s</string>
   <string name="description_digits_edittext">number to dial</string>
+  <string name="description_download">Download:</string>
   <string name="description_image_button_eight">eight</string>
   <string name="description_image_button_five">five</string>
   <string name="description_image_button_four">four</string>
@@ -228,7 +237,11 @@
   <string name="description_search_button">search</string>
   <string name="description_send_message">Send message to %1$s</string>
   <string name="description_send_text_message">Send text message to %1$s</string>
+  <string name="description_size">Size:</string>
   <string name="description_star">favorite</string>
+  <string name="description_summary">Summary:</string>
+  <string name="description_uploadtime">Updated:</string>
+  <string name="description_version">Version:</string>
   <string name="description_view_contact">View contact %1$s</string>
   <string name="description_view_contact_detail">View contact</string>
   <string name="description_voicemail_button">voicemail</string>
@@ -289,6 +302,8 @@
   <string name="display_sim_contacts">Show SIM contacts</string>
   <string name="display_ungrouped">All other contacts</string>
   <string name="display_warn_remove_ungrouped">Removing \"%s\" from sync will also remove any ungrouped contacts from sync.</string>
+  <string name="download_failed">Download failed!</string>
+  <string name="download_preview_failed">Failed to load preview</string>
   <string name="editContactDescription">Edit contact</string>
   <string name="editGroupDescription">Edit group</string>
   <string name="edit_contact">Edit contact</string>
@@ -391,6 +406,7 @@
   <string name="import_to_xiaomi_account_title">Do you want to import the following contacts to Xiaomi account?</string>
   <string name="import_vcard_description">Import contacts from your storage</string>
   <string name="import_weibo_dialog_title">Import Sina weibo contacts</string>
+  <string name="import_weibo_fetch_followers">Retrieving Sina Weibo followers…</string>
   <string name="import_weibo_notification_title">Importing Sina weibo contacts…</string>
   <string name="import_weibo_notification_title_done">Import complete</string>
   <string name="import_weibo_progress_hint">Importing…</string>
@@ -425,9 +441,11 @@
   <string name="list_filter_customize">Customize</string>
   <string name="list_filter_phones">All contacts with phone numbers</string>
   <string name="list_filter_single">Contact</string>
+  <string name="loading">Loading...</string>
   <string name="loading_group_members">Loading group members…</string>
   <string name="loading_groups">Loading groups…</string>
   <string name="loading_recent">Loading recent contacts…</string>
+  <string name="loading_resource_detail_info">Loading resource info...</string>
   <string name="local_invisible_directory">Other</string>
   <string name="local_profile_title">My local profile</string>
   <string name="local_search_label">All contacts</string>
@@ -558,6 +576,8 @@ To add a contact to your list of favorites:
   <string name="notification_action_voicemail_play">Play</string>
   <string name="notification_new_voicemail_ticker">New voicemail from %1$s</string>
   <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
+  <string name="online_no_network">Unable to connect to network</string>
+  <string name="online_search_hint">Search online for resources</string>
   <string name="openDialKeyboard">Dial pad</string>
   <string name="open_contact">View contact</string>
   <string name="option_delete_contact">Delete</string>
@@ -657,6 +677,7 @@ To add a contact to your list of favorites:
   <string name="preview_contact_card_title">Importing contacts…</string>
   <string name="previous">previous</string>
   <string name="private_num">Private number</string>
+  <string name="processing">Processing...</string>
   <string name="profile_display_name">Set up my profile</string>
   <string name="progress_notifier_message" formatted="false">Importing %s/%s: %s</string>
   <string name="quickcontact_missing_app">No app was found to handle this action.</string>
@@ -685,6 +706,44 @@ To add a contact to your list of favorites:
   <string name="remind_btn_sync_now">Sync Now</string>
   <string name="removePhoto">Remove photo</string>
   <string name="remove_duplicate">"MIUI will help you find and merge duplicate contacts, contacts will not be merged automatically. To merge contacts please do this manually"</string>
+  <string name="resource_alarm_default">Alarm</string>
+  <string name="resource_app_name">Resource Browser</string>
+  <string name="resource_apply">Apply</string>
+  <string name="resource_buy">Buy</string>
+  <string name="resource_can_not_selected">%1$s cannot be selected!</string>
+  <string name="resource_default">Default ringtone</string>
+  <string name="resource_default_name">Resource</string>
+  <string name="resource_delete_all">Are you sure you want to delete %1$d selected resources?</string>
+  <string name="resource_delete_confirm">Are you sure want to delete these resources?</string>
+  <string name="resource_detail">Details</string>
+  <string name="resource_download">Download</string>
+  <string name="resource_downloaded_title">Downloaded resources</string>
+  <string name="resource_downloading">Downloading...</string>
+  <string name="resource_get_auth_checking">Checking authorisation...</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Theme cannot run on the current device, you have reached the device limit of 10, please use another device</string>
+  <string name="resource_get_auth_exceed_max_limit_title">Authorisation limit exceeded</string>
+  <string name="resource_get_auth_missing">The theme is not downloaded from official market, please download similar ones from official market.</string>
+  <string name="resource_get_auth_retrieving">Retrieving authorisation...</string>
+  <string name="resource_importing">Importing...</string>
+  <string name="resource_list_title">Latest</string>
+  <string name="resource_local">Local %1$s</string>
+  <string name="resource_mute">None</string>
+  <string name="resource_no_result">No result</string>
+  <string name="resource_notification_default">Notifications</string>
+  <string name="resource_online">Online %1$s</string>
+  <string name="resource_price_format">(%1$s)</string>
+  <string name="resource_price_free">Free</string>
+  <string name="resource_price_unit">MI Credits</string>
+  <string name="resource_ringtone_default">Ringtones</string>
+  <string name="resource_see_more">See more</string>
+  <string name="resource_select">Select</string>
+  <string name="resource_server_out_of_service">Server currently unavailable, please try again later.</string>
+  <string name="resource_switch_account">Switch</string>
+  <string name="resource_system_title">System resources</string>
+  <string name="resource_tip_select_ringtone">No ringtone selected</string>
+  <string name="resource_title">Resource details</string>
+  <string name="resource_title_select_ringtone">Select ringtone</string>
+  <string name="resource_update">Update</string>
   <string name="restore_nickname">Restore</string>
   <string name="ret_sign">" "</string>
   <string name="returnCall">Return call</string>
@@ -698,13 +757,17 @@ To add a contact to your list of favorites:
   <string name="scanning">Scanning for devices…</string>
   <string name="scanning_sdcard_failed_message">Reason: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"The storage couldn't be scanned"</string>
+  <string name="sdcard_status_changed_dialog_message">"App will now exit. Please re-open app to refresh resources."</string>
+  <string name="sdcard_status_changed_dialog_title">SD card status changed</string>
   <string name="searchHint">Search contacts</string>
   <string name="search_results_searching">Searching…</string>
   <string name="search_settings_description">Names of your contacts</string>
   <string name="searching_vcard_message">Searching for vCard data in storage…</string>
   <string name="select_all">Select all</string>
   <string name="select_device">Select a device to connect with</string>
+  <string name="select_new_photo_from_photo_package">Select new photo from photo package</string>
   <string name="select_none">Nothing selected, the operation is invalid</string>
+  <string name="select_photo_from_photo_package">Select photo from photo package</string>
   <string name="select_show_contacts">To display the contact</string>
   <string name="select_vcard_title">Choose vCard file</string>
   <string name="send_contact_shortcut_todesktop_success">Added contact shortcut to home screen successfully</string>

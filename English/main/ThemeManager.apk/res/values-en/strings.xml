@@ -108,6 +108,7 @@
   <string name="resource_title">Resource Detail</string>
   <string name="resource_title_select_ringtone">Select ringtone</string>
   <string name="resource_update">Update</string>
+  <string name="restore_default_theme_alert">You may be a victim of theme counterfeiting, please browse the theme market to purchase or re-download.</string>
   <string name="sdcard_status_changed_dialog_message">"Going to exit. Please reopen this app to refresh resources."</string>
   <string name="sdcard_status_changed_dialog_title">SD card status changed</string>
   <string name="short_ringtone_resource">Short</string>
@@ -116,6 +117,7 @@
   <string name="theme_changed_message">Successfully applied %1$s.</string>
   <string name="theme_changing_dialog_title">Applying theme, please wait...</string>
   <string name="theme_component_title_alarm">Alarm</string>
+  <string name="theme_component_title_alarmstyle">Alarm style</string>
   <string name="theme_component_title_all">Theme</string>
   <string name="theme_component_title_audio_effect">Audio effect</string>
   <string name="theme_component_title_boot_animation">Boot animation</string>

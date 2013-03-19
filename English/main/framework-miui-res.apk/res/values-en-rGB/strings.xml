@@ -372,6 +372,8 @@
   <string name="payphone">Payphone</string>
   <string name="peace_day">Peace Day</string>
   <string name="perm_auto_backup">Automatic backup</string>
+  <string name="perm_data_update_dspt">Allowed to update data watermark</string>
+  <string name="perm_data_update_lab">Data update</string>
   <string name="perm_payment_dspt">Allow app to pay through Xiaomi payment service</string>
   <string name="perm_payment_lab">Xiaomi payment service</string>
   <string name="perm_send_push_dspt">Allow push messages to Xiaomi</string>

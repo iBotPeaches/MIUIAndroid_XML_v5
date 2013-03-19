@@ -50,6 +50,8 @@
   <string name="preferences_title">Settings</string>
   <string name="record_list">Recordings list</string>
   <string name="record_loading">Loading recording, please wait.</string>
+  <string name="record_name_hour">.</string>
+  <string name="record_name_minute">mins</string>
   <string name="record_picker_title">Choose recording</string>
   <string name="record_saving">Saving recording, please wait!</string>
   <string name="recording">Recording...</string>
