@@ -292,6 +292,7 @@
   <string name="bluetooth_device_context_unpair">Unpair</string>
   <string name="bluetooth_device_details">Device settings</string>
   <string name="bluetooth_device_name">Device name</string>
+  <string name="bluetooth_device_searchable">Device visible</string>
   <string name="bluetooth_devices">Bluetooth devices</string>
   <string name="bluetooth_disable_profile_message">This will disable:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;From:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_disable_profile_title">Disable profile?</string>
@@ -651,6 +652,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="device_cpu2_info">Dual-Core</string>
   <string name="device_cpu4_info">Quad-Core</string>
   <string name="device_default_name">Xiaomi phone</string>
+  <string name="device_edit_title">Change device name</string>
   <string name="device_info_default">Unknown</string>
   <string name="device_info_label">Device info</string>
   <string name="device_info_not_available">Not available</string>
@@ -659,6 +661,8 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="device_memory">RAM</string>
   <string name="device_miui_version">MIUI Version</string>
   <string name="device_name">Device name</string>
+  <string name="device_name_input_hint">Enter your device name</string>
+  <string name="device_name_usage_point">Allow device to be discovered by other Bluetooth devices to allow file transfer and other functions.</string>
   <string name="device_picker">Bluetooth device chooser</string>
   <string name="device_sd_memory">SD Card</string>
   <string name="device_status">Status</string>

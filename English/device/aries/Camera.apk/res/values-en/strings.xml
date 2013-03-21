@@ -335,6 +335,7 @@
   <string name="pref_grp_picture_settings">Picture Settings</string>
   <string name="pref_grp_restore_settings">Restore Settings</string>
   <string name="pref_settings_mode">Camera mode</string>
+  <string name="pref_video_captrue_ability_title">Capture ability</string>
   <string name="pref_video_continuous_focus">Continuous focus</string>
   <string name="pref_video_continuous_focus_entry_off">Off</string>
   <string name="pref_video_continuous_focus_entry_on">On</string>
