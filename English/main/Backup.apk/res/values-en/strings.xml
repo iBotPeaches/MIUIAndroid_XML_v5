@@ -155,11 +155,11 @@
   <string name="task_backup_finished_local">Backup completed</string>
   <string name="task_canceled">Cancelled</string>
   <string name="task_canceled_all_local">Cancel task</string>
-  <string name="task_canceled_local">The following %1$s task was cancelled</string>
+  <string name="task_canceled_local">The following %s task was cancelled</string>
   <string name="task_cloud_backup_cancel_dialog">Backup not yet completed\nClick OK to cancel this task</string>
   <string name="task_failed">Failed</string>
   <string name="task_failed_all_local">Task failed</string>
-  <string name="task_failed_local">The task %1$s has failed to complete</string>
+  <string name="task_failed_local">The task %s has failed to complete</string>
   <string name="task_finished">Finished</string>
   <string name="task_local_backup_cancel_dialog">Backup not yet completed\nClick OK to cancel this task</string>
   <string name="task_pending">Pending</string>
