@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Contacts Storage</string>
+  <string name="call_log_provider_label">Call log</string>
   <string name="create_contact">New contact</string>
   <string name="default_directory">Contacts</string>
   <string name="edit_contact">Add to contact</string>

@@ -669,6 +669,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Battery Status, battery level, etc.</string>
   <string name="dialog_title_font_size">Font size</string>
+  <string name="dirac_control">Dirac Control</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Disable HW overlays</string>
   <string name="disable_overlays_summary">Always use GPU for screen compositing</string>

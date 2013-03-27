@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="account_bind_prompt">"Migrating user data, your account will be temporarily locked, please wait..."</string>
   <string name="add_task">Add task</string>
   <string name="adding_upload_tasks">Adding upload tasks.</string>
   <string name="app_name">File Explorer</string>
@@ -27,6 +28,7 @@
   <string name="category_zip">Zips</string>
   <string name="choose_send_type">Select sending type</string>
   <string name="choose_upload_location">Choose upload location</string>
+  <string name="clean_complete">Cleanup completed successfully</string>
   <string name="clean_message">Deleting %1$s</string>
   <string name="clean_title">Delete files more than 30 days old in trash</string>
   <string name="clean_trash_box">Empty trash</string>
@@ -64,6 +66,7 @@
   <string name="dialog_type_image">Image</string>
   <string name="dialog_type_text">Text</string>
   <string name="dialog_type_video">Video</string>
+  <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Download failed!</string>
   <string name="download_link_completed">I have shared %1$s via MiDrive. Click the link below to view: </string>
   <string name="download_successful">Download successful</string>
@@ -82,6 +85,7 @@
   <string name="file_info_modified">Modified:</string>
   <string name="file_info_size">Size:</string>
   <string name="file_loading">Loading...</string>
+  <string name="file_too_large">"The file is too large and can't be uploaded"</string>
   <string name="finished">Finished</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Click here&lt;/a&gt;to open cloud recycle bin</string>
   <string name="ftp_account_req_notice">Username and password, 4~16 chars, contains digits, alphabet letters, case sensitive</string>
@@ -116,14 +120,18 @@
   <string name="menu_item_sort_name">Name</string>
   <string name="menu_item_sort_size">Size</string>
   <string name="menu_item_sort_type">Type</string>
+  <string name="migrate_announcement_msg">If you have an account, you can bind it in the setting and access preferences</string>
+  <string name="migrate_announcement_title">Account Migration</string>
   <string name="move_failed">Failed to move</string>
   <string name="multi_select_title">Selected %1$s item(s)</string>
+  <string name="name_illegal">File name cannot be empty</string>
   <string name="net_lose_connected">Network not available, cannot get size</string>
   <string name="networkView_notConnected">No network available</string>
   <string name="networkView_offline">Offline mode, refreshing directory temporarily disabled</string>
   <string name="new_folder_name">New folder</string>
   <string name="no">No</string>
   <string name="no_file">No files</string>
+  <string name="no_more_space">No free space</string>
   <string name="no_tasks">No tasks</string>
   <string name="no_wifi">No Wi-Fi network</string>
   <string name="no_wifi_hint">No Wi-Fi connection found</string>
@@ -134,6 +142,8 @@
   <string name="operation_compress">Compress</string>
   <string name="operation_compressing">Compressing...</string>
   <string name="operation_copy">Copy</string>
+  <string name="operation_copying">Copying...</string>
+  <string name="operation_copying_detail">Copying files (%1$d/%2$d)</string>
   <string name="operation_create_folder">New folder</string>
   <string name="operation_create_folder_message">Enter folder name</string>
   <string name="operation_decompressing">Decompressing...</string>
@@ -141,12 +151,14 @@
   <string name="operation_delete_confirm_message">Confirm Deletion?</string>
   <string name="operation_delete_confirm_message_folder">"Deleting the folder will also delete all files within it."</string>
   <string name="operation_deleting">Deleting...</string>
+  <string name="operation_deleting_detail">Deleting files (%1$d/%2$d)</string>
   <string name="operation_download_link">Generate download link</string>
   <string name="operation_favorite">Add to Favorites</string>
   <string name="operation_hide_sys">Hide hidden files</string>
   <string name="operation_info">Details</string>
   <string name="operation_move">Move</string>
   <string name="operation_moving">Moving...</string>
+  <string name="operation_moving_detail">Moving files (%1$d/%2$d)</string>
   <string name="operation_paste">Paste</string>
   <string name="operation_pasting">Pasting...</string>
   <string name="operation_pause">Pause</string>
@@ -161,11 +173,14 @@
   <string name="operation_unfavorite">Remove from Favorites</string>
   <string name="pan_settting">MiDrive settings</string>
   <string name="paused">Paused</string>
+  <string name="query_bind_state">Querying bind status, please wait...</string>
   <string name="remote_management">FTP</string>
   <string name="rename_description">Renaming, please wait…</string>
   <string name="rename_failed">Renaming《%1$s》failed</string>
+  <string name="scanning">Scanning...</string>
   <string name="sd_card_available">Space available:%1$s</string>
   <string name="sd_card_size">SD card:%1$s</string>
+  <string name="sd_full">SD card is full</string>
   <string name="search_hint">Search Files</string>
   <string name="search_title">Search Files</string>
   <string name="send_to_midrive">Send to MiDrive</string>
@@ -218,6 +233,9 @@
   <string name="user_guide_upload_to_kuaipan">"Copy and paste files to MiDrive"</string>
   <string name="utf8_summary">Default encoding type</string>
   <string name="utf8_title">UTF-8</string>
+  <string name="wait_net">Waiting for network</string>
+  <string name="wait_sdcard">Waiting for SD card mount</string>
+  <string name="wait_wifi">Waiting for Wi-Fi connection</string>
   <string name="waiting">Waiting...</string>
   <string name="wangpan_root_path">My Drive</string>
   <string name="wifi_state">Wi-Fi Status</string>

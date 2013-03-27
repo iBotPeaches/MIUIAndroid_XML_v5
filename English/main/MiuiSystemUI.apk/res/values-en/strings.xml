@@ -91,10 +91,13 @@
   <string name="ext_media_badremoval_notification_title">SD card storage unexpectedly removed</string>
   <string name="ext_media_checking_notification_message">Checking for errors.</string>
   <string name="ext_media_checking_notification_title">Preparing SD card storage</string>
+  <string name="ext_media_mountable_notification_message">Media mounted, you can access it via File Explorer</string>
+  <string name="ext_media_mountable_notification_title">USB storage device connected</string>
   <string name="ext_media_nofs_notification_message">SD card storage blank or has unsupported filesystem.</string>
   <string name="ext_media_nofs_notification_title">Blank SD card storage</string>
   <string name="ext_media_nomedia_notification_message">SD card storage removed. Insert new media.</string>
   <string name="ext_media_nomedia_notification_title">Removed SD card storage</string>
+  <string name="ext_media_safe_remove">Safely Remove media</string>
   <string name="ext_media_safe_unmount_notification_message">You can safely remove SD card storage.</string>
   <string name="ext_media_safe_unmount_notification_title">SD card storage safe to remove</string>
   <string name="ext_media_unmountable_notification_message">SD card storage damaged. You may have to reformat it.</string>

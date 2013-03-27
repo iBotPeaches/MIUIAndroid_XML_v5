@@ -57,6 +57,8 @@
   <string name="delete_playlist_menu">Delete</string>
   <string name="delete_song_desc">\"%s\" will be permanently deleted from the SD card.</string>
   <string name="deselect_all">Reject all</string>
+  <string name="dirac_disabled">Dirac Disabled</string>
+  <string name="dirac_enabled">Dirac Enabled</string>
   <string name="download">Download</string>
   <string name="download_album_settings">Auto download album art</string>
   <string name="download_album_summary">May cost more when used via mobile network, please consider using Wi-Fi</string>

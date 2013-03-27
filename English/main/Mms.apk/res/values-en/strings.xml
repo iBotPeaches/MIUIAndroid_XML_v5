@@ -111,6 +111,7 @@
   <string name="edit_slide_activity">Edit slide</string>
   <string name="edit_slideshow_activity">Edit slideshow</string>
   <string name="enable_password_protect">Enable password protect</string>
+  <string name="enable_visible_pattern_title">Make pattern visible</string>
   <string name="enter_edit_mode">Delete</string>
   <string name="error_code_label">"Error code: "</string>
   <string name="error_state">Inconsistent state</string>
@@ -159,6 +160,8 @@
   <string name="menu_edit">Edit</string>
   <string name="menu_forward">Forward</string>
   <string name="menu_lock">Lock</string>
+  <string name="menu_new_manual">Enter number manually</string>
+  <string name="menu_pick_from_contact">Select from contacts</string>
   <string name="menu_preferences">Settings</string>
   <string name="menu_unlock">Unlock</string>
   <string name="menu_view_contact">View contact</string>
@@ -226,6 +229,7 @@
   <string name="notification_failed_multiple_title">Messages not sent</string>
   <string name="notification_multiple">%s unread messages.</string>
   <string name="notification_multiple_title">New messages</string>
+  <string name="number_add_hint">Input number to add to Private Contact</string>
   <string name="phrase_confirm_delete_message">The selected phrase will be deleted</string>
   <string name="phrase_empty">No Phrases</string>
   <string name="phrase_from">From %1s</string>

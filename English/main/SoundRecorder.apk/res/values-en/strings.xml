@@ -19,6 +19,7 @@
   <string name="dialog_title_storage_full">Storage Full</string>
   <string name="dialog_warning">Warning</string>
   <string name="error_app_internal">Internal application error</string>
+  <string name="error_app_internal_title">Sound recorder error</string>
   <string name="error_mediadb_new_record">Unable to save recorded audio</string>
   <string name="error_sdcard_access">Unable to access external or internal storage</string>
   <string name="fm_record">FM recording (%d)</string>
