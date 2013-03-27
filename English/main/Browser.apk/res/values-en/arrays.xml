@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="yahoo_uk">
-        <item>Yahoo! UK &amp; Ireland</item>
+        <item>Yahoo! UK &amp;amp; Ireland</item>
         <item>uk.yahoo.com</item>
         <item>http://uk.search.yahoo.com/favicon.ico</item>
-        <item>http://uk.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://uk.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://uk-sayt.ff.search.yahoo.com/gossip-uk-sayt?output=fxjson&amp;command={searchTerms}</item>
+        <item>http://uk-sayt.ff.search.yahoo.com/gossip-uk-sayt?output=fxjson&amp;amp;command={searchTerms}</item>
     </string-array>
     <string-array name="yahoo_jp">
         <item>Yahoo! JAPAN</item>
         <item>yahoo.co.jp</item>
         <item>http://search.yahoo.co.jp/favicon.ico</item>
-        <item>http://search.yahoo.co.jp/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://search.yahoo.co.jp/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
         <item></item>
     </string-array>
@@ -28,33 +28,33 @@
         <item>Yahoo! Brasil</item>
         <item>br.yahoo.com</item>
         <item>http://br.search.yahoo.com/favicon.ico</item>
-        <item>http://br.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://br.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://br-sayt.ff.search.yahoo.com/gossip-br-sayt?output=fxjson&amp;command={searchTerms}</item>
+        <item>http://br-sayt.ff.search.yahoo.com/gossip-br-sayt?output=fxjson&amp;amp;command={searchTerms}</item>
     </string-array>
     <string-array name="bing_zh_HK">
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=zh-HK&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=zh-HK&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="bing_el_GR">
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=el-GR&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=el-GR&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="bing_tr_TR">
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=tr-TR&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=tr-TR&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="ask_uk">
         <item>Ask Jeeves</item>
@@ -62,7 +62,7 @@
         <item>http://uk.ask.com/favicon.ico</item>
         <item>http://uk.ask.com/web?q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://ss.uk.ask.com/query?q={searchTerms}&amp;li=ff</item>
+        <item>http://ss.uk.ask.com/query?q={searchTerms}&amp;amp;li=ff</item>
     </string-array>
     <string-array name="nate">
         <item>네이트닷컴</item>
@@ -83,16 +83,16 @@
     <string-array name="baidu">
         <item>百度</item>
         <item>baidu.com</item>
-        <item>http://www.baidu.com/favicon.ico</item>
-        <item>http://www.baidu.com/s?wd={searchTerms}</item>
+        <item>http://m.baidu.com/favicon.ico</item>
+        <item>http://m.baidu.com/s?from=1269a&amp;amp;word={searchTerms}</item>
         <item>GB2312</item>
-        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;amp;wd={searchTerms}</item>
     </string-array>
     <string-array name="yahoo_ch">
         <item>Yahoo! Suche</item>
         <item>ch.yahoo.com</item>
         <item>http://ch.search.yahoo.com/favicon.ico</item>
-        <item>http://ch.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://ch.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
         <item></item>
     </string-array>
@@ -100,15 +100,15 @@
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=nl-BE&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=nl-BE&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="yahoo_cn">
         <item>中国雅虎</item>
         <item>cn.yahoo.com</item>
         <item>http://search.cn.yahoo.com/favicon.ico</item>
-        <item>http://search.cn.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://search.cn.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>GB2312</item>
         <item></item>
     </string-array>
@@ -126,15 +126,15 @@
         <item>http://es.ask.com/favicon.ico</item>
         <item>http://es.ask.com/web?q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://ss.es.ask.com/query?q={searchTerms}&amp;li=ff</item>
+        <item>http://ss.es.ask.com/query?q={searchTerms}&amp;amp;li=ff</item>
     </string-array>
     <string-array name="bing_cs_CZ">
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=cs-CZ&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=cs-CZ&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="altavista_se">
         <item>AltaVista</item>
@@ -164,33 +164,33 @@
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=zh-CN&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=zh-CN&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="google">
         <item>Google</item>
         <item>google.com</item>
         <item>http://www.google.com/favicon.ico</item>
-        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>http://www.google.com/search?hl={language}&amp;amp;ie={inputEncoding}&amp;amp;source=android-browser&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="bing_en_NZ">
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=en-NZ&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=en-NZ&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="bing_fr_BE">
         <item>Bing</item>
         <item></item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=fr-BE&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=fr-BE&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="rednano">
         <item>Rednano</item>
@@ -204,7 +204,7 @@
         <item>goo</item>
         <item>search.goo.ne.jp</item>
         <item>http://goo.ne.jp/favicon.ico</item>
-        <item>http://search.goo.ne.jp/web.jsp?MT={searchTerms}&amp;IE={inputEncoding}</item>
+        <item>http://search.goo.ne.jp/web.jsp?MT={searchTerms}&amp;amp;IE={inputEncoding}</item>
         <item>UTF-8</item>
         <item></item>
     </string-array>
@@ -220,17 +220,17 @@
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=it-IT&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=it-IT&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="bing_es_ES">
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=es-ES&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=es-ES&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="abcsok">
         <item>ABC Søk</item>
@@ -244,7 +244,7 @@
         <item>Yahoo! Danmark</item>
         <item>dk.yahoo.com</item>
         <item>http://dk.search.yahoo.com/favicon.ico</item>
-        <item>http://dk.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://dk.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
         <item></item>
     </string-array>
@@ -252,25 +252,25 @@
         <item>Yahoo! Deutschland</item>
         <item>de.yahoo.com</item>
         <item>http://de.search.yahoo.com/favicon.ico</item>
-        <item>http://de.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://de.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://de-sayt.ff.search.yahoo.com/gossip-de-sayt?output=fxjson&amp;command={searchTerms}</item>
+        <item>http://de-sayt.ff.search.yahoo.com/gossip-de-sayt?output=fxjson&amp;amp;command={searchTerms}</item>
     </string-array>
     <string-array name="bing_de_AT">
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=de-AT&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=de-AT&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="bing_pl_PL">
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=pl-PL&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=pl-PL&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="tut">
         <item>TUT.BY</item>
@@ -284,7 +284,7 @@
         <item>Spray</item>
         <item>spray.se</item>
         <item>http://www.eniro.se/favicon.ico</item>
-        <item>http://www.eniro.se/query?ax=spray&amp;search_word={searchTerms}&amp;what=web</item>
+        <item>http://www.eniro.se/query?ax=spray&amp;amp;search_word={searchTerms}&amp;amp;what=web</item>
         <item>ISO-8859-1</item>
         <item></item>
     </string-array>
@@ -300,7 +300,7 @@
         <item>Yahoo!奇摩</item>
         <item>tw.yahoo.com</item>
         <item>http://tw.search.yahoo.com/favicon.ico</item>
-        <item>http://tw.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://tw.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
         <item></item>
     </string-array>
@@ -316,17 +316,17 @@
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=en-GB&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=en-GB&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="yahoo_es">
         <item>Yahoo! España</item>
         <item>es.yahoo.com</item>
         <item>http://es.search.yahoo.com/favicon.ico</item>
-        <item>http://es.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://es.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://es-sayt.ff.search.yahoo.com/gossip-es-sayt?output=fxjson&amp;command={searchTerms}</item>
+        <item>http://es-sayt.ff.search.yahoo.com/gossip-es-sayt?output=fxjson&amp;amp;command={searchTerms}</item>
     </string-array>
     <string-array name="libero">
         <item>Libero</item>
@@ -340,23 +340,23 @@
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=sv-SE&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=sv-SE&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="yahoo_nz">
         <item>Yahoo!Xtra</item>
         <item>nz.yahoo.com</item>
         <item>http://nz.search.yahoo.com/favicon.ico</item>
-        <item>http://nz.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://nz.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://aue-sayt.ff.search.yahoo.com/gossip-nz-sayt?output=fxjson&amp;command={searchTerms}</item>
+        <item>http://aue-sayt.ff.search.yahoo.com/gossip-nz-sayt?output=fxjson&amp;amp;command={searchTerms}</item>
     </string-array>
     <string-array name="terra_es">
         <item>Terra</item>
         <item>terra.es</item>
         <item>http://buscador.terra.es/favicon.ico</item>
-        <item>http://buscador.terra.es/Default.aspx?query={searchTerms}&amp;source=Search</item>
+        <item>http://buscador.terra.es/Default.aspx?query={searchTerms}&amp;amp;source=Search</item>
         <item>ISO-8859-1</item>
         <item></item>
     </string-array>
@@ -364,7 +364,7 @@
         <item>Yahoo! Nederland</item>
         <item>nl.yahoo.com</item>
         <item>http://nl.search.yahoo.com/favicon.ico</item>
-        <item>http://nl.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://nl.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
         <item></item>
     </string-array>
@@ -372,7 +372,7 @@
         <item>Yahoo! Norge</item>
         <item>no.yahoo.com</item>
         <item>http://no.search.yahoo.com/favicon.ico</item>
-        <item>http://no.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://no.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
         <item></item>
     </string-array>
@@ -382,15 +382,15 @@
         <item>http://search.daum.net/favicon.ico</item>
         <item>http://search.daum.net/search?q={searchTerms}</item>
         <item>EUC-KR</item>
-        <item>http://sug.search.daum.net/search_nsuggest?mod=fxjson&amp;q={searchTerms}</item>
+        <item>http://sug.search.daum.net/search_nsuggest?mod=fxjson&amp;amp;q={searchTerms}</item>
     </string-array>
     <string-array name="yahoo_fr">
         <item>Yahoo! France</item>
         <item>fr.yahoo.com</item>
         <item>http://fr.search.yahoo.com/favicon.ico</item>
-        <item>http://fr.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://fr.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://fr-sayt.ff.search.yahoo.com/gossip-fr-sayt?output=fxjson&amp;command={searchTerms}</item>
+        <item>http://fr-sayt.ff.search.yahoo.com/gossip-fr-sayt?output=fxjson&amp;amp;command={searchTerms}</item>
     </string-array>
     <string-array name="ask_nl">
         <item>Ask.com Nederland</item>
@@ -398,7 +398,7 @@
         <item>http://nl.ask.com/favicon.ico</item>
         <item>http://nl.ask.com/web?q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://ss.nl.ask.com/query?q={searchTerms}&amp;li=ff</item>
+        <item>http://ss.nl.ask.com/query?q={searchTerms}&amp;amp;li=ff</item>
     </string-array>
     <string-array name="seznam">
         <item>Seznam</item>
@@ -406,13 +406,13 @@
         <item>http://1.im.cz/szn/img/favicon.ico</item>
         <item>http://search.seznam.cz/?q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http:///suggest.fulltext.seznam.cz/?dict=fulltext_ff&amp;phrase={searchTerms}&amp;encoding={inputEncoding}&amp;response_encoding=utf-8</item>
+        <item>http://suggest.fulltext.seznam.cz/?dict=fulltext_ff&amp;amp;phrase={searchTerms}&amp;amp;encoding={inputEncoding}&amp;amp;response_encoding=utf-8</item>
     </string-array>
     <string-array name="centrum_cz">
         <item>Centrum.cz</item>
         <item>centrum.cz</item>
         <item>http://img.centrum.cz/6/vy2/o/favicon.ico</item>
-        <item>http://search.centrum.cz/index.php?charset={inputEncoding}&amp;q={searchTerms}</item>
+        <item>http://search.centrum.cz/index.php?charset={inputEncoding}&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
         <item></item>
     </string-array>
@@ -420,7 +420,7 @@
         <item>Eniro</item>
         <item>eniro.se</item>
         <item>http://eniro.se/favicon.ico</item>
-        <item>http://eniro.se/query?search_word={searchTerms}&amp;what=web_local</item>
+        <item>http://eniro.se/query?search_word={searchTerms}&amp;amp;what=web_local</item>
         <item>ISO-8859-1</item>
         <item></item>
     </string-array>
@@ -436,81 +436,81 @@
         <item>Yahoo!</item>
         <item>yahoo.com</item>
         <item>http://search.yahoo.com/favicon.ico</item>
-        <item>http://search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://ff.search.yahoo.com/gossip?output=fxjson&amp;command={searchTerms}</item>
+        <item>http://ff.search.yahoo.com/gossip?output=fxjson&amp;amp;command={searchTerms}</item>
     </string-array>
     <string-array name="bing_en_IE">
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=en-IE&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=en-IE&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="bing_pt_PT">
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=pt-PT&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=pt-PT&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="bing_de_CH">
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=de-CH&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=de-CH&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="bing_nl_NL">
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=nl-NL&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=nl-NL&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="bing_fr_CH">
         <item>Bing</item>
         <item></item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=fr-CH&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=fr-CH&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="bing_zh_TW">
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=zh-TW&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=zh-TW&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="bing_ru_RU">
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=ru-RU&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=ru-RU&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="bing_en_AU">
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=en-AU&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=en-AU&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="bing_da_DK">
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=da-DK&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=da-DK&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="ask_it">
         <item>Ask.com Italia</item>
@@ -518,7 +518,7 @@
         <item>http://it.ask.com/favicon.ico</item>
         <item>http://it.ask.com/web?q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://ss.it.ask.com/query?q={searchTerms}&amp;li=ff</item>
+        <item>http://ss.it.ask.com/query?q={searchTerms}&amp;amp;li=ff</item>
     </string-array>
     <string-array name="yandex_ru">
         <item>Яндекс</item>
@@ -532,17 +532,17 @@
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=ja-JP&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=ja-JP&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="yahoo_kr">
         <item>야후! 코리아</item>
         <item>kr.yahoo.com</item>
         <item>http://kr.search.yahoo.com/favicon.ico</item>
-        <item>http://kr.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://kr.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://kr.atc.search.yahoo.com/atcx.php?property=main&amp;ot=fxjson&amp;ei=utf8&amp;eo=utf8&amp;command={searchTerms}</item>
+        <item>http://kr.atc.search.yahoo.com/atcx.php?property=main&amp;amp;ot=fxjson&amp;amp;ei=utf8&amp;amp;eo=utf8&amp;amp;command={searchTerms}</item>
     </string-array>
     <string-array name="ask_de">
         <item>Ask.com Deutschland</item>
@@ -550,13 +550,13 @@
         <item>http://de.ask.com/favicon.ico</item>
         <item>http://de.ask.com/web?q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://ss.de.ask.com/query?q={searchTerms}&amp;li=ff</item>
+        <item>http://ss.de.ask.com/query?q={searchTerms}&amp;amp;li=ff</item>
     </string-array>
     <string-array name="yahoo_hk">
         <item>Yahoo! Hong Kong</item>
         <item>hk.yahoo.com</item>
         <item>http://hk.search.yahoo.com/favicon.ico</item>
-        <item>http://hk.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://hk.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
         <item></item>
     </string-array>
@@ -564,9 +564,9 @@
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=fr-FR&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=fr-FR&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="in">
         <item>in.gr</item>
@@ -580,23 +580,23 @@
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=nb-NO&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=nb-NO&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="yahoo_sg">
         <item>Yahoo! Singapore</item>
         <item>sg.yahoo.com</item>
         <item>http://sg.search.yahoo.com/favicon.ico</item>
-        <item>http://sg.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://sg.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://sg-sayt.ff.search.yahoo.com/gossip-sg-sayt?output=fxjson&amp;command={searchTerms}</item>
+        <item>http://sg-sayt.ff.search.yahoo.com/gossip-sg-sayt?output=fxjson&amp;amp;command={searchTerms}</item>
     </string-array>
     <string-array name="yahoo_se">
         <item>Yahoo! Sverige</item>
         <item>se.yahoo.com</item>
         <item>http://se.search.yahoo.com/favicon.ico</item>
-        <item>http://se.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://se.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
         <item></item>
     </string-array>
@@ -604,9 +604,9 @@
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=de-DE&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=de-DE&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="search_de_CH">
         <item>search.ch</item>
@@ -620,7 +620,7 @@
         <item>MYNET</item>
         <item>mynet.com</item>
         <item>http://img.mynet.com/mynetfavori.ico</item>
-        <item>http://arama.mynet.com/search.aspx?q={searchTerms}&amp;pg=q</item>
+        <item>http://arama.mynet.com/search.aspx?q={searchTerms}&amp;amp;pg=q</item>
         <item>windows-1254</item>
         <item></item>
     </string-array>
@@ -644,23 +644,23 @@
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=en-SG&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=en-SG&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="yahoo_it">
         <item>Yahoo! Italia</item>
         <item>it.yahoo.com</item>
         <item>http://it.search.yahoo.com/favicon.ico</item>
-        <item>http://it.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://it.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://it-sayt.ff.search.yahoo.com/gossip-it-sayt?output=fxjson&amp;command={searchTerms}</item>
+        <item>http://it-sayt.ff.search.yahoo.com/gossip-it-sayt?output=fxjson&amp;amp;command={searchTerms}</item>
     </string-array>
     <string-array name="yahoo_at">
         <item>Yahoo! Suche</item>
         <item>at.yahoo.com</item>
         <item>http://at.search.yahoo.com/favicon.ico</item>
-        <item>http://at.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://at.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
         <item></item>
     </string-array>
@@ -668,17 +668,17 @@
         <item>Yahoo!7</item>
         <item>au.yahoo.com</item>
         <item>http://au.search.yahoo.com/favicon.ico</item>
-        <item>http://au.search.yahoo.com/search?ei={inputEncoding}&amp;fr=crmas&amp;p={searchTerms}</item>
+        <item>http://au.search.yahoo.com/search?ei={inputEncoding}&amp;amp;fr=crmas&amp;amp;p={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://aue-sayt.ff.search.yahoo.com/gossip-au-sayt?output=fxjson&amp;command={searchTerms}</item>
+        <item>http://aue-sayt.ff.search.yahoo.com/gossip-au-sayt?output=fxjson&amp;amp;command={searchTerms}</item>
     </string-array>
     <string-array name="bing_pt_BR">
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=pt-BR&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=pt-BR&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="bing">
         <item>Bing</item>
@@ -686,7 +686,7 @@
         <item>http://www.bing.com/s/wlflag.ico</item>
         <item>http://www.bing.com/search?q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <string-array name="netsprint">
         <item>NetSprint</item>
@@ -700,17 +700,17 @@
         <item>네이버</item>
         <item>naver.com</item>
         <item>http://search.naver.com/favicon.ico</item>
-        <item>http://search.naver.com/search.naver?ie={inputEncoding}&amp;query={searchTerms}</item>
+        <item>http://search.naver.com/search.naver?ie={inputEncoding}&amp;amp;query={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://ac.search.naver.com/autocompl?m=s&amp;ie={inputEncoding}&amp;oe=utf-8&amp;q={searchTerms}</item>
+        <item>http://ac.search.naver.com/autocompl?m=s&amp;amp;ie={inputEncoding}&amp;amp;oe=utf-8&amp;amp;q={searchTerms}</item>
     </string-array>
     <string-array name="bing_en_ZA">
         <item>Bing</item>
         <item>bing.com</item>
         <item>http://www.bing.com/s/wlflag.ico</item>
-        <item>http://www.bing.com/search?setmkt=en-ZA&amp;q={searchTerms}</item>
+        <item>http://www.bing.com/search?setmkt=en-ZA&amp;amp;q={searchTerms}</item>
         <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
     <array name="bookmark_preloads">
         <item>@raw/favicon_google</item>
@@ -758,18 +758,12 @@
         <item>OFF</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Current page</item>
-        <item>MIUI home</item>
-        <item>Blank page</item>
-        <item>Default page</item>
+        <item>Start page</item>
         <item>Most visited sites</item>
-        <item>Other</item>
+        <item>Custom</item>
     </string-array>
     <string-array name="pref_homepage_values">
-        <item>current</item>
         <item>miui_home</item>
-        <item>blank</item>
-        <item>default</item>
         <item>most_visited</item>
         <item>other</item>
     </string-array>
@@ -781,9 +775,9 @@
         <item>Huge</item>
     </string-array>
     <string-array name="pref_default_zoom_choices">
-        <item>Far</item>
+        <item>Small</item>
         <item>Medium</item>
-        <item>Close</item>
+        <item>Large</item>
     </string-array>
     <string-array name="pref_default_zoom_values">
         <item>FAR</item>
@@ -828,14 +822,34 @@
     </string-array>
     <string-array name="pref_data_preload_choices">
         <item>Never</item>
-        <item>Only on Wi-Fi</item>
+        <item>Only on WLAN</item>
         <item>Always</item>
     </string-array>
-    <array name="pref_data_preload_values">
+    <string-array name="pref_data_preload_values">
         <item>@string/pref_data_preload_value_never</item>
         <item>@string/pref_data_preload_value_wifi_only</item>
         <item>@string/pref_data_preload_value_always</item>
-    </array>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Never</item>
+        <item>Only on WLAN</item>
+        <item>Always</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_values">
+        <item>@string/pref_link_prefetch_value_never</item>
+        <item>@string/pref_link_prefetch_value_wifi_only</item>
+        <item>@string/pref_link_prefetch_value_always</item>
+    </string-array>
+    <string-array name="pref_video_preload_choices">
+        <item>Never</item>
+        <item>Only on WLAN</item>
+        <item>Always</item>
+    </string-array>
+    <string-array name="pref_video_preload_values">
+        <item>@string/pref_video_preload_value_never</item>
+        <item>@string/pref_video_preload_value_wifi_only</item>
+        <item>@string/pref_video_preload_value_always</item>
+    </string-array>
     <string-array name="bookmarks">
         <item>Google</item>
         <item>http://www.google.com/</item>
@@ -866,6 +880,14 @@
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
     </string-array>
+    <string-array name="sogou">
+        <item>搜狗</item>
+        <item>sogou.com</item>
+        <item>http://wap.sogou.com/favicon.ico</item>
+        <item>http://wap.sogou.com/web/searchlist.jsp?keyword={searchTerms}&amp;amp;pid=xiaomiyidong</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;amp;wd={searchTerms}</item>
+    </string-array>
     <array name="bookmark_preloads_zh">
         <item>@raw/zh_favicon_xiaomi_bbs</item>
         <item>@raw/zh_thumb_xiaomi_bbs</item>
@@ -882,11 +904,26 @@
         <item>@raw/zh_favicon_163</item>
         <item>@raw/zh_thumb_163</item>
     </array>
+    <string-array name="google_in_list">
+        <item>search_google</item>
+        <item>ic_search_engine_google_list_item</item>
+        <item>google</item>
+    </string-array>
+    <string-array name="yahoo_in_list">
+        <item>search_yahoo</item>
+        <item>ic_search_engine_yahoo_list_item</item>
+        <item>yahoo</item>
+    </string-array>
+    <string-array name="bing_in_list">
+        <item>search_bing</item>
+        <item>ic_search_engine_bing_list_item</item>
+        <item>bing</item>
+    </string-array>
     <string-array name="bookmarks_zh">
         <item>小米论坛</item>
-        <item>http://bbs.xiaomi.com/</item>
+        <item>http://bbs.xiaomi.cn/</item>
         <item>百度</item>
-        <item>http://m.baidu.com/?from=1269a/</item>
+        <item>http://m.baidu.com/?from=1269a</item>
         <item>谷歌</item>
         <item>http://www.google.com.hk/</item>
         <item>新浪</item>
@@ -916,7 +953,7 @@
     </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Page up/down</item>
-        <item>Switch tab</item>
+        <item>Switch window</item>
     </string-array>
     <string-array name="pref_volume_key_values">
         <item>0</item>
@@ -924,7 +961,7 @@
     </string-array>
     <string-array name="pref_fling_on_border_choices">
         <item>Page forward/backward</item>
-        <item>Switch tab</item>
+        <item>Switch window</item>
     </string-array>
     <string-array name="pref_fling_on_border_values">
         <item>0</item>
