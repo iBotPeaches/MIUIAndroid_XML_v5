@@ -41,6 +41,8 @@
   <string name="disable_find_device_error">%1$s, failed to disable locate device</string>
   <string name="email_already_be_used">E-mail address already in use</string>
   <string name="enable_find_device_error">%1$s, failed to enable locate device</string>
+  <string name="error_account_changed_summary">Your Xiaomi account has been updated. Please check your details and try again</string>
+  <string name="error_account_changed_title">Account updated</string>
   <string name="error_auth_summary">Account authentication error occurred, please try again</string>
   <string name="error_auth_title">Account error</string>
   <string name="error_common_summary">System error, please try again later</string>
@@ -181,6 +183,7 @@
   <string name="progress_warning_contact_server">"Message was not delivered but will be sent soon:
    1. Contact customer services on: %1$s
    2. Provide this serial number: %2$s"</string>
+  <string name="progress_warning_waiting">Account changes are still being updated. Please try again later.</string>
   <string name="quick_login_title">Authentication is required, please input your password</string>
   <string name="recharge_alipay_summary">Alipay topup</string>
   <string name="recharge_alipay_title">Alipay</string>

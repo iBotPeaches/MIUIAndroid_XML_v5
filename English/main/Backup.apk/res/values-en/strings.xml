@@ -170,8 +170,12 @@
   <string name="task_restore_cancel_progress">Cancelling...</string>
   <string name="task_restore_finished_local">Restore completed</string>
   <string name="task_restore_none">Restore not needed</string>
+  <string name="task_running_backup_dialog">Backup running in the background, press OK to view.</string>
+  <string name="task_running_backup_hint">Service is running in the background, please try again!</string>
   <string name="task_running_dialog">Background backup and recovery is in progress, press OK to view it</string>
   <string name="task_running_hint">Service is running in the background, please try again to restore this backup!</string>
+  <string name="task_running_restore_dialog">Background Restore is in progress, press OK to view.</string>
+  <string name="task_running_restore_hint">Service is running in the background, please try again!</string>
   <string name="task_service_not_launched">Service is not started, please wait!</string>
   <string name="task_stopped_exception">Task aborted</string>
   <string name="total_num">%d record(s) in total</string>

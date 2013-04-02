@@ -31,6 +31,7 @@
   <string name="mark_now">(Current)</string>
   <string name="max_length_reached">Maximum length reached</string>
   <string name="menu_setting">Settings</string>
+  <string name="menu_settings">Settings</string>
   <string name="menu_view_record_list">View recordings</string>
   <string name="minute" formatted="false">%d minute</string>
   <string name="no_file">No recordings</string>
@@ -48,6 +49,8 @@
   <string name="pref_title_enable_high_quality">Enable high quality</string>
   <string name="pref_title_enable_sound_effect">Enable sound effect</string>
   <string name="pref_title_record_type">Recording file type</string>
+  <string name="preference_led_indicator">Recording indicator when screen locked</string>
+  <string name="preference_led_indicator_prompt">Show LED and status bar indicators when recording and screen is locked</string>
   <string name="preferences_title">Settings</string>
   <string name="record_list">Recordings list</string>
   <string name="record_loading">Loading recording, please wait.</string>
@@ -64,6 +67,7 @@
   <string name="sd_card_not_available">SD card is not available</string>
   <string name="second" formatted="false">%d seconds</string>
   <string name="send_to">Send to</string>
+  <string name="sound_recorder_settings">Recording Settings</string>
   <string name="status_bar_anti_disturb">Phone has been muted, adjust volume to resume.</string>
   <string name="status_bar_back">Click to return to Recorder</string>
   <string name="status_bar_recording">Recording...</string>

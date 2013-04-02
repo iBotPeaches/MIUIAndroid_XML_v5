@@ -1,8 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_app_name">MiPlayer</string>
+  <string name="about_developer_label">Developer</string>
+  <string name="about_developer_name">MIUI</string>
   <string name="about_title">About</string>
   <string name="about_version">V4.0</string>
+  <string name="about_version_label">Version:</string>
   <string name="adjust_position_next_media_notice">Next</string>
   <string name="adjust_position_prev_media_notice">Prev</string>
   <string name="airkan_control_device_des">You can control video playback via the button at the bottom</string>

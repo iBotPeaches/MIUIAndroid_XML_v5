@@ -4,6 +4,7 @@
   <string name="activity_not_found">No app is available to complete the action.</string>
   <string name="add_account">Add account</string>
   <string name="add_to_cloud_album">Add to Cloud</string>
+  <string name="add_to_cloud_fail_too_many_items">Failed to complete operation, too many items selected</string>
   <string name="add_to_cloud_folder">Add to Cloud folder</string>
   <string name="albums">Albums</string>
   <string name="albumset_page_title_separator"> | </string>
@@ -51,9 +52,11 @@
   <string name="cloudfolder_already_exists">Cloud folder already exists</string>
   <string name="confirm_delete">Delete</string>
   <string name="confirm_delete_album" formatted="false">Are you sure you want to delete %s albums (including %s items)?</string>
+  <string name="confirm_delete_cloud_all_item_page" formatted="false">%s picture(s) in %s album(s), are you sure you want to delete?</string>
   <string name="confirm_delete_folders_and_pictures">Are you sure you want to delete %s?</string>
   <string name="confirm_delete_folders_including" formatted="false">%s folders (including %s)</string>
   <string name="confirm_delete_including_null">0 items</string>
+  <string name="confirm_delete_items">%s items</string>
   <string name="confirm_delete_pictures">%s pictures</string>
   <string name="confirm_delete_system_album">%s is system album, are you sure you want to delete?</string>
   <string name="confirm_delete_videos">%s videos</string>
@@ -70,7 +73,9 @@
   <string name="damaged_file">File is corrupted</string>
   <string name="defalt_local_mobile">mobile</string>
   <string name="delete">Delete</string>
+  <string name="delete_fail_too_many_items">Failed to delete, too many items selected</string>
   <string name="deleting_files">Deleting files...</string>
+  <string name="demo_video_folder_display_name">Demo Video</string>
   <string name="description">Description</string>
   <string name="details">Details</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
@@ -158,6 +163,7 @@
   <string name="miliao_painting_folder_display_name">MiTalk Painting</string>
   <string name="miliao_saved_folder_display_name">MiTalk Saved</string>
   <string name="mimetype">MIME type</string>
+  <string name="mishop_saved_folder_display_name">MiShop Saves</string>
   <string name="miui_capture_screen_folder_display_name">Screenshots</string>
   <string name="model">Model</string>
   <string name="modify_cloud_settings">MiCloud Settings</string>
@@ -218,6 +224,7 @@
   <string name="select_video">Select video</string>
   <string name="send">Send</string>
   <string name="send_multiple_files_hint_format">Send multiple files (%s)</string>
+  <string name="send_to_cloud_failed_message">Item failed to send to Cloud album storage</string>
   <string name="sepia">Sepia</string>
   <string name="set_hidden_album">Hidden album</string>
   <string name="set_image">Set picture as</string>

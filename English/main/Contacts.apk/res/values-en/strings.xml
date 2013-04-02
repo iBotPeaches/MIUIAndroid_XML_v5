@@ -135,6 +135,8 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="clearFrequentsProgress_title">Clearing frequently contacted...</string>
   <string name="clear_default">Clear default</string>
   <string name="click_close">Click screen to close</string>
+  <string name="cloud_antispam_summary">Filter calls and messages over Wi-Fi and data networks</string>
+  <string name="cloud_antispam_title">Cloud Guard</string>
   <string name="composer_failed_to_get_database_infomation">"Couldn't get database information."</string>
   <string name="composer_has_no_exportable_contact">There are no exportable contacts. If you do have contacts on your phone, some data providers may not allow the contacts to be exported from the phone.</string>
   <string name="composer_not_initialized">"The vCard composer didn't start properly."</string>

@@ -1108,6 +1108,9 @@ Attention: this operation cannot be undone."</string>
   <string name="move_app_to_internal">Move to phone</string>
   <string name="move_app_to_sdcard">Move to USB storage</string>
   <string name="moving">Moving</string>
+  <string name="msd_driver_download">Download driver</string>
+  <string name="msd_driver_mac_download">Go to http://miuiandroid.com/mac/ to download for your MAC</string>
+  <string name="msd_driver_windows_xp_download">Go to http://miuiandroid.com/windows/ to download for your PC</string>
   <string name="msd_help_summary">"Problem accessing mobile’s storage device via the computer? Please select your computer’s operating system:"</string>
   <string name="msd_help_title">Help</string>
   <string name="msd_install">Re-install the driver</string>

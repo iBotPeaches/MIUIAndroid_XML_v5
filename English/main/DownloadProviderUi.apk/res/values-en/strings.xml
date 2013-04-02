@@ -16,6 +16,7 @@
   <string name="dialog_failed_body">Do you wish to retry downloading the file later or delete it from the queue?</string>
   <string name="dialog_file_already_exists">Unable to download, the destination file already exists.</string>
   <string name="dialog_file_missing_body">The downloaded file cannot be found.</string>
+  <string name="dialog_file_missing_title">Failed to open file</string>
   <string name="dialog_insufficient_space_on_cache">Cannot finish download. There is not enough space on your internal storage.</string>
   <string name="dialog_insufficient_space_on_external">Cannot finish download. There is not enough space on your external storage.</string>
   <string name="dialog_media_not_found">Cannot download. The external media is not available.</string>

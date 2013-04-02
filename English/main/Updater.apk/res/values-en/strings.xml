@@ -13,6 +13,7 @@
   <string name="apply_update_dialog_cancel_button">Cancel</string>
   <string name="apply_update_dialog_update_button">Update</string>
   <string name="apply_update_fail">System update failed</string>
+  <string name="apply_update_timer">Update completed，device will reboot in %d seconds</string>
   <string name="apply_upload_info_message">Clicking Update now will automatically restart the phone to apply the update</string>
   <string name="apply_upload_info_message_manually">After shutdown, you can manually enter Recovery to apply %s in SD Card. If you want to backup, you may perform it and then return to system update.</string>
   <string name="applying_rom_message">Applying update</string>
@@ -85,6 +86,8 @@
   <string name="paused_queued_for_network">Waiting for network connection</string>
   <string name="paused_queued_for_wifi">Waiting for Wi-Fi connection</string>
   <string name="previous">Previous</string>
+  <string name="reboot_later">Reboot later</string>
+  <string name="reboot_now">Reboot now</string>
   <string name="reboot_to_new_system">Reboot to new version</string>
   <string name="recommend">Recommend</string>
   <string name="recommend_comment_hint">Reason (optional)</string>
@@ -96,6 +99,7 @@
   <string name="sdcard_is_not_present_dialog_title">SD card not found</string>
   <string name="send_install_log">Send error log</string>
   <string name="send_install_log_error">Failed to send error log</string>
+  <string name="share">Share</string>
   <string name="share_qq">Post it via Tencent weibo</string>
   <string name="share_sina">Post it via Sina weibo</string>
   <string name="share_update">Share system update info</string>
@@ -112,9 +116,13 @@
   <string name="submit_fail">Failed to submit</string>
   <string name="submit_progress">Submitting...</string>
   <string name="submit_success">Submitted successfully, thank you!</string>
+  <string name="system_backup_apply_helper">Device will automatically reboot to apply the update</string>
+  <string name="system_backup_ask">Ask again</string>
   <string name="system_backup_button_text">Perform a system backup before updating</string>
   <string name="system_backup_cancel_text">Reboot to Update</string>
+  <string name="system_backup_download_helper">Device will be automatically restarted to update once download has completed</string>
   <string name="system_backup_error_message">MIUI backup was not found, please backup manually</string>
+  <string name="system_backup_helper">System update will not wipe user data. It is recommended to make a backup of your data before continuing</string>
   <string name="system_backup_ok_text">Backup</string>
   <string name="sytemt_backup_helper">System update will not wipe user data. However,it is recommended to make a backup of your user data before updating</string>
   <string name="top_secret_build">Secret build</string>
