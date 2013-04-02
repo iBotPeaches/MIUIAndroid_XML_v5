@@ -594,6 +594,7 @@ To add a contact to your list of favorites:
   <string name="option_view_group">View</string>
   <string name="organizationLabelsGroup">Organization</string>
   <string name="organization_company_and_title">%2$s, %1$s</string>
+  <string name="other_contacts">Others</string>
   <string name="other_phone">other phones</string>
   <string name="payphone">Pay phone</string>
   <string name="people">Contacts</string>
@@ -837,6 +838,7 @@ To add a contact to your list of favorites:
   <string name="splitConfirmation">This contact will be separated into multiple contacts.</string>
   <string name="splitConfirmation_title">Separate contact?</string>
   <string name="starredList">Starred</string>
+  <string name="starred_contacts">Favorites</string>
   <string name="status_available">Available</string>
   <string name="status_away">Away</string>
   <string name="status_busy">Busy</string>
