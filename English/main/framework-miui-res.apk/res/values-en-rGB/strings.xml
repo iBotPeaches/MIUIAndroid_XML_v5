@@ -253,6 +253,7 @@
   <string name="country_name_zw">ZW</string>
   <string name="day_of_month">" %d"</string>
   <string name="delete">Delete</string>
+  <string name="device_xiaomi">Xiaomi phone</string>
   <string name="double_seventh_day">七夕</string>
   <string name="emergency_call_string">Emergency call</string>
   <string name="error_forbidden">You account has some issues. Sync disabled.</string>
@@ -345,6 +346,7 @@
   <string name="memory_clear_nothing_result">No memory to clear</string>
   <string name="memory_clear_result">"%1$s Free | %2$s available"</string>
   <string name="miui_copyright_title">Copyright</string>
+  <string name="miui_device_name">Android</string>
   <string name="miui_mibi_license_title">Mi Credit User agreement</string>
   <string name="miui_privacy_policy_title">Privacy policy</string>
   <string name="miui_unlockscreen_password_wrong">Incorrect password! Try again</string>

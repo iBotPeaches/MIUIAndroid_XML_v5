@@ -135,6 +135,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="clearFrequentsProgress_title">Clearing frequently contacted...</string>
   <string name="clear_default">Clear default</string>
   <string name="click_close">Click screen to close</string>
+  <string name="cloud_antispam_mark">Spam</string>
   <string name="cloud_antispam_summary">Filter calls and messages over Wi-Fi and data networks</string>
   <string name="cloud_antispam_title">Cloud Guard</string>
   <string name="composer_failed_to_get_database_infomation">"Couldn't get database information."</string>

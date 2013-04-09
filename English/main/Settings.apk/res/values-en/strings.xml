@@ -453,6 +453,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="camera_key_action_title">MI Button</string>
   <string name="camera_key_action_toggle_title">Trigger toggle</string>
   <string name="cancel">Cancel</string>
+  <string name="cancel_alert">Cancel alert?</string>
   <string name="cant_sync_dialog_message">Sync for this item is currently disabled. To change this setting, temporarily turn on background data and automatic sync.</string>
   <string name="cant_sync_dialog_title">"Can't manually sync"</string>
   <string name="carrier_enabled">APN enable/disable</string>

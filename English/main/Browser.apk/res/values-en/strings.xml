@@ -193,6 +193,7 @@
   <string name="import_bookmarks_wizard_next">Next</string>
   <string name="import_bookmarks_wizard_previous">Previous</string>
   <string name="importing_favorite_files">Importing Data ...</string>
+  <string name="in_incognito">Incognito mode is active, no browser history will be left.</string>
   <string name="instant_search_label">Google with Instant (Labs)</string>
   <string name="is_first_history_item">Is the first history item</string>
   <string name="is_first_tab">Is the first tab</string>
@@ -222,6 +223,7 @@
   <string name="new_tab">New tab</string>
   <string name="no_subfolders">No subfolders.</string>
   <string name="not_remind_again">Do not remind me any more</string>
+  <string name="notif_install_successful">Download successful</string>
   <string name="ok">OK</string>
   <string name="open_all_bookmarks">Open all</string>
   <string name="open_all_in_new_window">Open all in new tabs</string>
@@ -435,6 +437,7 @@
   <string name="tab_history">History</string>
   <string name="tab_most_visited">Most visited</string>
   <string name="tab_opened_background">Tab opened in background.</string>
+  <string name="tab_opened_background_in_incognito">New incognito window opened</string>
   <string name="tab_quicklinks">Quick links</string>
   <string name="tab_snapshots">Saved pages</string>
   <string name="tab_yellowpage">Yellow page</string>

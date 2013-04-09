@@ -63,6 +63,7 @@
   <string name="gadget_clock_22_label">Clock 2x2</string>
   <string name="gadget_clock_24_label">Clock 4x2</string>
   <string name="gadget_error_text">Problem loading widget</string>
+  <string name="gadget_google_search_label">Google Search</string>
   <string name="gadget_load_error">Widget loading...</string>
   <string name="gadget_photo_22_label">Photoframe 2x2</string>
   <string name="gadget_photo_24_label">Photoframe 4x2</string>
@@ -83,6 +84,8 @@
   <string name="group_folder">New Folder</string>
   <string name="group_live_folders">Folders</string>
   <string name="group_shortcuts">Shortcuts</string>
+  <string name="guide_install_app_msg">App not installed. Search for app in the Market now?</string>
+  <string name="guide_install_app_title">Install App</string>
   <string name="guide_tips_editing_mode">Hold widget below to drag it onto the screen</string>
   <string name="home_indicator">bottom_point</string>
   <string name="install">Install</string>

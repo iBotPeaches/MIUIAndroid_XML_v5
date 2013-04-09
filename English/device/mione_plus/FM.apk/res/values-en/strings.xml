@@ -74,6 +74,8 @@
   <string name="menu_by_loudspeaker">Loudspeaker</string>
   <string name="menu_delete">Delete</string>
   <string name="menu_edit">Edit</string>
+  <string name="menu_exit">Exit Radio</string>
+  <string name="menu_jump">Switch to radio</string>
   <string name="menu_new_station">Add New Station</string>
   <string name="menu_play">Play</string>
   <string name="menu_record_list">Recordings List</string>

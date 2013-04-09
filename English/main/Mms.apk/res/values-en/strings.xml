@@ -212,6 +212,7 @@
   <string name="mx_offline">Offline</string>
   <string name="mx_online">Online</string>
   <string name="mx_reactivate">Re-activate cloud messaging</string>
+  <string name="mx_recommend_msg">Enable Cloud Messaging to send free messages</string>
   <string name="mx_warning_notice">An SMS will be sent to activate cloud messaging. Normal carrier data rates may apply</string>
   <string name="need_download">Waiting for sync...</string>
   <string name="new_message">New message</string>
