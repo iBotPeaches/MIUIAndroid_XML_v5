@@ -78,6 +78,7 @@
   <string name="android_beam_off_summary">Off</string>
   <string name="android_beam_on_summary">Ready to transmit app content via NFC</string>
   <string name="android_beam_settings_title">Android Beam</string>
+  <string name="android_beam_witch_label">Enable Android Beam</string>
   <string name="animator_duration_scale_title">Animator duration scale</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Authentication type</string>
