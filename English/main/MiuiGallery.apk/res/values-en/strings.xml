@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Import</string>
+  <string name="action_fail_unknown_error">Operation failed due to unknown error.</string>
   <string name="activity_not_found">No app is available to complete the action.</string>
   <string name="add_account">Add account</string>
   <string name="add_to_cloud_album">Add to Cloud</string>
