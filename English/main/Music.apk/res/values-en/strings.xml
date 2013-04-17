@@ -183,6 +183,7 @@
   <string name="playlist_recently_played">Recently played</string>
   <string name="playlist_renamed_message">Playlist renamed.</string>
   <string name="playlists_title">Playlists</string>
+  <string name="powered_by">Powered by</string>
   <string name="queue">Current playlist</string>
   <string name="quit_player">Exit</string>
   <string name="quit_warining">Player will stop playing after %d minute(s)</string>

@@ -431,6 +431,7 @@
   <string name="ssl_untrusted">"This certificate isn't from a trusted authority."</string>
   <string name="ssl_warnings_header">There are problems with the security certificate for this site.</string>
   <string name="stop">Stop</string>
+  <string name="stop_loading">Stop</string>
   <string name="stopping">Stopping…</string>
   <string name="tab_bookmarks">Bookmarks</string>
   <string name="tab_closed">Tab closed.</string>

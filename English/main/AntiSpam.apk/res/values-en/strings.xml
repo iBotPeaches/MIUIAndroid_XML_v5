@@ -46,6 +46,7 @@
   <string name="context_call">Call</string>
   <string name="context_ms">Send message</string>
   <string name="context_new_contact">New Contact</string>
+  <string name="custom_mark_category">Custom</string>
   <string name="edit_blacklist">Edit note</string>
   <string name="edit_whitelist">Edit note</string>
   <string name="emptylist_fwlog_call">All blocked calls will be logged here.</string>
@@ -108,6 +109,8 @@
   <string name="fw_whitelist">Whitelist</string>
   <string name="fw_whitelist_hint">Whitelisted members will not be blocked</string>
   <string name="log_count">(%d)</string>
+  <string name="mark_number_dialog_maintitle">Mark unknown number and save</string>
+  <string name="mark_number_dialog_subtitle">Developed with Sogou</string>
   <string name="member_firewall_log" formatted="false">Blocked: Number %d details %d</string>
   <string name="menu_edit">Edit</string>
   <string name="mms_log_tab_title">SMS</string>
@@ -130,5 +133,10 @@
   <string name="save_button">Save</string>
   <string name="show_firewall_notification">Show firewall notifications</string>
   <string name="show_notification">Show notifications</string>
+  <string name="smart_antispam">Unknown number detected</string>
+  <string name="turn_on_smart_antispam_hint">After enabling numbers will be identified, label help to determine fraudulent calls.</string>
+  <string name="turn_on_smart_antispam_summary_off">Query local number database</string>
+  <string name="turn_on_smart_antispam_summary_on">Only works on Wi-Fi and 3G networks</string>
+  <string name="turn_on_smart_antispam_title">Identify unknown numbers</string>
   <string name="whitelist_tab_title">White list</string>
 </resources>
