@@ -199,6 +199,7 @@
   <string name="rename_album_menu">Rename album</string>
   <string name="rename_artist_menu">Rename artist</string>
   <string name="rename_playlist_menu">Rename</string>
+  <string name="retry">Retry</string>
   <string name="ringtone_menu">Use as phone ringtone</string>
   <string name="ringtone_set">\"%s\" set as phone ringtone.</string>
   <string name="save">Save</string>
