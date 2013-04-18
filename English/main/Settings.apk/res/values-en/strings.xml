@@ -116,6 +116,8 @@
   <string name="app_factory_reset_dlg_text">All updates to this Android system app will be uninstalled.</string>
   <string name="app_factory_reset_dlg_title">Uninstall updates?</string>
   <string name="app_floating_window_dlg">Allow\"%1$s\" to show popup window</string>
+  <string name="app_floating_window_dlg_disable">"Disabling %1$s's floating window settings will stop the app forcibly. Are you sure you want to disable?"</string>
+  <string name="app_floating_window_dlg_enable">"Enabling %1$s's floating window settings requires app to restart. Are you sure you want to enable?"</string>
   <string name="app_forward_locked">App is copy-protected.</string>
   <string name="app_install_location_summary">Change the preferred installation location for new apps</string>
   <string name="app_install_location_title">Preferred install location</string>
@@ -813,6 +815,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="finish_button_label">Finish</string>
   <string name="firmware_version">Android Version</string>
   <string name="floating_window_switch_label">Show popup window</string>
+  <string name="floating_window_switch_label_disable">Hide popup window</string>
   <string name="font_size_huge">Huge</string>
   <string name="font_size_large">Large</string>
   <string name="font_size_medium">Medium</string>
@@ -1697,6 +1700,7 @@ Possibly incorrect PIN."</string>
   <string name="sim_lock_settings">SIM card lock settings</string>
   <string name="sim_lock_settings_category">Setup SIM card lock</string>
   <string name="sim_lock_settings_title">SIM card lock</string>
+  <string name="sim_management_title">SIM management</string>
   <string name="sim_pin_attempts">"
 Attempts Remaining :"</string>
   <string name="sim_pin_change">Change SIM PIN</string>
