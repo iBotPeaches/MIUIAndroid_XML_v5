@@ -42,9 +42,9 @@
   <string name="answer_widget_sliding_horizontal_miui">Horizontal sliding</string>
   <string name="answer_widget_sliding_vertical_miui">Vertical sliding</string>
   <string name="answer_widget_title_miui">Answer gesture</string>
-  <string name="antispam_marked_count">People %1$d marked</string>
+  <string name="antispam_marked_count">%1$d rejected</string>
   <string name="antispam_marked_title">%1$s</string>
-  <string name="antispam_notification_title">Unknown number detected</string>
+  <string name="antispam_notification_title">Unknown</string>
   <string name="apn_settings">Access Point Names</string>
   <string name="areacode_required_accept_miui">OK</string>
   <string name="areacode_required_for_emergency_number_miui">Area code required for emergency calls</string>
