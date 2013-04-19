@@ -133,8 +133,8 @@
   <string name="save_button">Save</string>
   <string name="show_firewall_notification">Show firewall notifications</string>
   <string name="show_notification">Show notifications</string>
-  <string name="smart_antispam">Unknown number detected</string>
-  <string name="turn_on_smart_antispam_hint">After enabling numbers will be identified, label help to determine fraudulent calls.</string>
+  <string name="smart_antispam">Smart Antispam</string>
+  <string name="turn_on_smart_antispam_hint">After enabling numbers will be identified, label numbers and help determine fraudulent calls.</string>
   <string name="turn_on_smart_antispam_summary_off">Query local number database</string>
   <string name="turn_on_smart_antispam_summary_on">Only works on Wi-Fi and 3G networks</string>
   <string name="turn_on_smart_antispam_title">Identify unknown numbers</string>
