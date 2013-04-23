@@ -6,8 +6,8 @@
   <string name="button_next">Next</string>
   <string name="button_pre">Back</string>
   <string name="cancel">Cancel</string>
-  <string name="cancel_receive">Cancel receive</string>
-  <string name="cancel_send">Cancel send</string>
+  <string name="cancel_receive">Cancel</string>
+  <string name="cancel_send">Cancel</string>
   <string name="canceling">Cancelling</string>
   <string name="choose_title">Select file</string>
   <string name="connect_confirm">%1$s is requesting connection</string>
@@ -29,7 +29,7 @@
   <string name="guide_label">Transfer guide</string>
   <string name="history">Transfer history</string>
   <string name="history_all">All history</string>
-  <string name="history_receive">Receive history</string>
+  <string name="history_receive">Received history</string>
   <string name="history_send">Send history</string>
   <string name="input_device_name">Input device name</string>
   <string name="input_device_name_tip">Use Transfer to send files, for bluetooth interconnectivity and establishing shared hotspot. Other devices will see your device name.</string>
@@ -40,8 +40,8 @@
   <string name="noti_completed">Completed, transferred %1$d/%2$d file(s)</string>
   <string name="noti_receiving">%1$s: Receiving %2$d/%3$d file(s)</string>
   <string name="noti_sending">%1$s: Sending %2$d/%3$d file(s)</string>
-  <string name="noti_wait_receive">Waiting to receive...</string>
-  <string name="noti_wait_send">"Waiting to receive, please ensure sender has enabled connection and can send file(s) "</string>
+  <string name="noti_wait_receive">Waiting to receive file(s)</string>
+  <string name="noti_wait_send">"Waiting to receive file(s), please ensure sender has enabled connection and can send file(s) "</string>
   <string name="ok">OK</string>
   <string name="operation_delete">Delete</string>
   <string name="operation_goto_folder">Go to folder</string>
