@@ -158,6 +158,7 @@
   <string name="automatic_brightness">Automatic brightness</string>
   <string name="available_size">%s (Available)</string>
   <string name="awake">Device awake time</string>
+  <string name="back_key">Back key</string>
   <string name="back_long_press">Back key</string>
   <string name="back_long_press_timeout">Delay time</string>
   <string name="background_data">Background data</string>
@@ -675,6 +676,9 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="device_status_summary">Battery Status, battery level, etc.</string>
   <string name="dialog_title_font_size">Font size</string>
   <string name="dirac_control">Dirac Control</string>
+  <string name="dirac_mode_earbuds">Earbuds</string>
+  <string name="dirac_mode_earphones">Earphones</string>
+  <string name="dirac_mode_off">Dirac Off</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Disable HW overlays</string>
   <string name="disable_overlays_summary">Always use GPU for screen compositing</string>
@@ -869,6 +873,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Hidden SSID:</string>
   <string name="history_details_title">History details</string>
+  <string name="home_key">Home key</string>
   <string name="ime_security_warning">%1$s Can save all text typed, including personal data (i.e. passwords and credit card numbers). Use this input method?</string>
   <string name="immediately_destroy_activities">"Don't keep activities"</string>
   <string name="immediately_destroy_activities_summary">Destroy every activity as soon as the user leaves it</string>
@@ -1539,6 +1544,9 @@ please follow the steps to complete installation"</string>
   <string name="screen_color_temperature_adjust">Adjust color temperature</string>
   <string name="screen_compatibility_label">Screen compatibility</string>
   <string name="screen_compatibility_text">This app may not be designed for your screen. You can control how it adjusts to your screen here.</string>
+  <string name="screen_key_long_press">Long press screen keys</string>
+  <string name="screen_key_long_press_action">Trigger function</string>
+  <string name="screen_key_long_press_timeout">Long press timeout</string>
   <string name="screen_on_proximity_sensor_summary">Prevent misuse while phone is in pocket (detected by the proximity sensor).</string>
   <string name="screen_on_proximity_sensor_title">Prevent misuse</string>
   <string name="screen_saturation_adjust">Color saturation adjust</string>
@@ -1873,6 +1881,7 @@ Attempts Remaining :"</string>
   <string name="tts_settings_title">Text-to-speech output</string>
   <string name="turn_off_radio">Turn off radio</string>
   <string name="turn_on_radio">Turn on radio</string>
+  <string name="under_keyguard">On lock screen</string>
   <string name="uninstall_text">Uninstall</string>
   <string name="unknown">Unknown</string>
   <string name="unlock_backup_info_summary">"When Face Unlock can't see you, how do you want to unlock?"</string>

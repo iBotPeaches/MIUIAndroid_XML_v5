@@ -371,6 +371,9 @@ Step out of view for a moment"</string>
   <string name="pref_camera_zsl_title">ZSL</string>
   <string name="pref_camera_zsl_value_off">off</string>
   <string name="pref_camera_zsl_value_on">on</string>
+  <string name="pref_captrue_mirror_entry_off">Off</string>
+  <string name="pref_captrue_mirror_entry_on">On</string>
+  <string name="pref_captrue_mirror_title">Mirror front camera</string>
   <string name="pref_exposure_default">0</string>
   <string name="pref_exposure_title">Exposure</string>
   <string name="pref_grp_advanced_settings">Advanced Settings</string>
@@ -416,6 +419,7 @@ Step out of view for a moment"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_60">2 seconds interval (60 times)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_90">3 seconds interval (90 times)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 seconds interval (900 times)</string>
+  <string name="preference_simple_mode_title">Simple mode</string>
   <string name="preparing_sd">Preparing internal storage...</string>
   <string name="record_back_pressed_hint">Press again to stop recording</string>
   <string name="resume_playing_message">Resume playing from %s ?</string>
