@@ -31,6 +31,10 @@
   <string name="menu_wh_item_full_screen_label">Full screen</string>
   <string name="menu_wh_item_using_16_9_label">16:9 ratio</string>
   <string name="menu_wh_item_using_4_3_label">4:3 ratio</string>
+  <string name="nowifi_alert_dialog_continue">Continue</string>
+  <string name="nowifi_alert_dialog_exit">Exit</string>
+  <string name="nowifi_alert_dialog_message">Use mobile network to stream video, do you want to continue?</string>
+  <string name="nowifi_alert_dialog_title">Traffic Alert</string>
   <string name="temp_play_history_button_label">Show player history</string>
   <string name="to_be_play_label_v5">Playback starting</string>
   <string name="toast_back_key_pressed_notice">Press back key again to exit.</string>

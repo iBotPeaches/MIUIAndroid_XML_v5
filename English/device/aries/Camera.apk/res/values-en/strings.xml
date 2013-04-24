@@ -450,6 +450,7 @@ Step out of view for a moment"</string>
   <string name="simple_mode_button_text_hdr">Close HDR mode</string>
   <string name="simple_mode_button_text_panorama">Close panorama</string>
   <string name="simple_mode_button_text_slow_video">Close slow-motion camera</string>
+  <string name="simple_mode_title">Simple mode</string>
   <string name="skip">skip</string>
   <string name="slideshow">Slideshow</string>
   <string name="snapshot_lower_than_video">Video snapshot size lower than video size. Capping to Video size. Please select a resolution higher or equal to the current video size.</string>
