@@ -207,7 +207,9 @@
   <string name="mx_current_status">Current status: Online</string>
   <string name="mx_dspt">Send messages via Internet between MIUI, turn on to send via Operator once failed</string>
   <string name="mx_enable">Enable cloud messaging</string>
+  <string name="mx_enable_int_popup_msg">Cloud Messaging enables you to send messages between MIUI users. To activate, an international SMS will be sent. Carrier messaging rates may apply.</string>
   <string name="mx_enable_popup_msg">Cloud messaging enables you to send messages via MIUI. A normal SMS is required to activate the service and carrier charges may apply. Do you want to activate it now?</string>
+  <string name="mx_int_warning_notice">An international SMS will be sent to activate Cloud Messaging, normal carrier rates may apply</string>
   <string name="mx_msg">Cloud Message</string>
   <string name="mx_offline">Offline</string>
   <string name="mx_online">Online</string>
