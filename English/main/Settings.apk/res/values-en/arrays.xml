@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screen_key_long_press_action">
+        <item>None</item>
+        <item>Launch Recent Panel</item>
+        <item>Launch Voice Assistant</item>
+        <item>Launch Google Now</item>
+        <item>Close current App</item>
+    </string-array>
+</resources>
