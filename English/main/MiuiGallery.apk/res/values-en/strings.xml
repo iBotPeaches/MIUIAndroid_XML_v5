@@ -4,9 +4,11 @@
   <string name="action_fail_unknown_error">Operation failed due to unknown error.</string>
   <string name="activity_not_found">No app is available to complete the action.</string>
   <string name="add_account">Add account</string>
+  <string name="add_sharer">Add to shared</string>
   <string name="add_to_cloud_album">Add to Cloud</string>
   <string name="add_to_cloud_fail_too_many_items">Failed to complete operation, too many items selected</string>
   <string name="add_to_cloud_folder">Add to Cloud folder</string>
+  <string name="album_name">Album name</string>
   <string name="albums">Albums</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Notice</string>
@@ -30,6 +32,7 @@
   <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Wallpaper</string>
   <string name="camera_view_none_message">Captured photos will be displayed here.</string>
+  <string name="can_modified">Allow updates</string>
   <string name="cancel">Cancel</string>
   <string name="cant_delete_system_album">%s is a system album and cannot be deleted!</string>
   <string name="cleaning_cache">Cleaning cache...</string>
@@ -216,6 +219,7 @@
   <string name="save_photo">Save edited photo?</string>
   <string name="saving_failure">Photo cannot be saved</string>
   <string name="saving_image">Saving picture...</string>
+  <string name="scan_qr_code">Share QR code with friends to allow sharing of files</string>
   <string name="sd_not_available">SD card unmounted or unavailable</string>
   <string name="seconds">seconds</string>
   <string name="select_album">Select album</string>
@@ -240,6 +244,13 @@
   <string name="settings">Settings</string>
   <string name="settings_i_xiaomi_com">Login at i.xiaomi.com to manage your cloud storage</string>
   <string name="shadow">Shadows</string>
+  <string name="share_album">Share Album</string>
+  <string name="share_album_owner">Shared</string>
+  <string name="share_album_qr_code">QR code</string>
+  <string name="share_album_share_to">Share with</string>
+  <string name="sharer_status_accepted">Accepted</string>
+  <string name="sharer_status_refused">Rejected</string>
+  <string name="sharer_status_waitting">Waiting</string>
   <string name="sharpen">Sharpen</string>
   <string name="show_all">Images and videos</string>
   <string name="show_hidden_album">Show hidden album(s)</string>

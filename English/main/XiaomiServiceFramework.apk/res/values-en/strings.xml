@@ -23,6 +23,7 @@
   <string name="btn_count_down_auto">%1$s seconds</string>
   <string name="btn_count_down_wait">%1$s seconds to wait</string>
   <string name="btn_mili_center_recharge">Topup Mi credits</string>
+  <string name="btn_pay_large">Pay now</string>
   <string name="btn_query">Enquire now</string>
   <string name="btn_recharge_large">Topup now</string>
   <string name="btn_recharge_other">Other topup methods</string>
@@ -49,6 +50,7 @@
   <string name="error_common_summary">System error, please try again later</string>
   <string name="error_common_title">System error</string>
   <string name="error_dup_phone">Phone has been registered</string>
+  <string name="error_expired_summary">Your order has expired</string>
   <string name="error_frozen_summary">Your account has been locked</string>
   <string name="error_frozen_title">Account locked!</string>
   <string name="error_has_bought_summary">You have already purchased this product</string>
@@ -125,7 +127,7 @@
   <string name="micloud_via_int_sms_alert">An SMS will be sent to your device at your carriers messaging rate. Are you sure you want to continue?</string>
   <string name="micloud_via_sms_alert">An SMS will be sent to validate your phone number. Are you sure you want to continue?</string>
   <string name="micloud_welcome_skip_login">Skip registration</string>
-  <string name="mili_center">MiCredit</string>
+  <string name="mili_center">Mi Credit</string>
   <string name="next">Next</string>
   <string name="no_sim">SIM card not found, unable to synchronise</string>
   <string name="nobind">No authorised</string>
@@ -171,6 +173,8 @@
   <string name="progress_error_auth">Authentication error has occurred, please try again.</string>
   <string name="progress_error_common">Recharge failed, please try again later.</string>
   <string name="progress_error_network">Failed to connect to network, please check network status.</string>
+  <string name="progress_error_pay_title">Payment failed</string>
+  <string name="progress_error_recharge_title">Top-up failed</string>
   <string name="progress_error_server">Server error, please try again later.</string>
   <string name="progress_error_title">Topup failed</string>
   <string name="progress_error_waiting">Still not updated, please try again later!</string>
@@ -180,11 +184,16 @@
   <string name="progress_prepaid_creating">Generating topup order...</string>
   <string name="progress_querying">Processing payment query…</string>
   <string name="progress_submit_hint">Expected in approx 3 minutes</string>
+  <string name="progress_submit_pay_summary">Payment summary: %1$s RMB</string>
+  <string name="progress_submit_recharge_summary">To-up for: %1$s RMB</string>
   <string name="progress_submit_summary">Topup: %1$s RMB</string>
   <string name="progress_submit_title">Topup request submitted</string>
+  <string name="progress_success_pay_title">%1$s Mi Credit payment complete</string>
+  <string name="progress_success_recharge_summary">Account balance: %1$s Mi Credits</string>
+  <string name="progress_success_recharge_title">%1$s Mi Credit top-up complete</string>
   <string name="progress_success_summary">Account balance: %1$sMi credits</string>
   <string name="progress_success_title">%1$s Mi credits topup complete</string>
-  <string name="progress_voucher_creating">Updating MiCredit...</string>
+  <string name="progress_voucher_creating">Updating Mi Credit...</string>
   <string name="progress_warning_contact_server">"Message was not delivered but will be sent soon:
    1. Contact customer services on: %1$s
    2. Provide this serial number: %2$s"</string>
@@ -202,8 +211,8 @@
   <string name="recharge_record_empty">No topup history</string>
   <string name="recharge_tenpay_summary">Tenpay top-up Support</string>
   <string name="recharge_tenpay_title">Tenpay</string>
-  <string name="recharge_voucher_summary">Support for MiCredit top-up</string>
-  <string name="recharge_voucher_title">MiCredit Vouchers</string>
+  <string name="recharge_voucher_summary">Support for Mi Credit top-up</string>
+  <string name="recharge_voucher_title">Mi Credit Vouchers</string>
   <string name="reg_by_email_failure">Registration failed: %1$s</string>
   <string name="reg_failed">Registration failed</string>
   <string name="reg_type_email">Register via E-mail</string>
@@ -226,14 +235,16 @@
   <string name="sync_off">Off</string>
   <string name="sync_on">On</string>
   <string name="sync_sub_dspt">An SMS will be sent to activate the service</string>
+  <string name="sync_sub_int_dspt">An international SMS may be sent to activate the service</string>
   <string name="title_mili_center">Mi credits centre</string>
+  <string name="title_pay">Pay using Mi Credits</string>
   <string name="title_pay_record">%1$s payment history items</string>
   <string name="title_paytool">Top-up via %1$s</string>
   <string name="title_prepaid">Topup via card</string>
   <string name="title_recharge">Topup Mi credits</string>
   <string name="title_recharge_record">Topup history</string>
   <string name="title_reg">Register Xiaomi account</string>
-  <string name="title_voucher">Top-up using MiCredit voucher</string>
+  <string name="title_voucher">Top-up using Mi Credit voucher</string>
   <string name="unactivated_user">Unactivated</string>
   <string name="unbind">De-authorise</string>
   <string name="update_contacts">Update contacts</string>
@@ -247,14 +258,14 @@
   <string name="voucher_btn_exchange">Use voucher</string>
   <string name="voucher_btn_exchange_error">Invalid</string>
   <string name="voucher_btn_has_exchanged">Voucher redeemed</string>
-  <string name="voucher_denom">MiCredits</string>
+  <string name="voucher_denom">Mi Credits</string>
   <string name="voucher_edit_hint">Password:</string>
   <string name="voucher_edit_limit">Edit limit</string>
-  <string name="voucher_empty">No stored MiCredit data</string>
-  <string name="voucher_error_code">An error occurred with your MiCredit voucher code</string>
+  <string name="voucher_empty">No stored Mi Credit data</string>
+  <string name="voucher_error_code">An error occurred with your Mi Credit voucher code</string>
   <string name="voucher_exchange">Exchange</string>
   <string name="voucher_exchange_count">Vouchers used (%1$s)</string>
-  <string name="voucher_exchange_success">%1$s MiCredit(s) redemption complete</string>
+  <string name="voucher_exchange_success">%1$s Mi Credit(s) redemption complete</string>
   <string name="voucher_expire">%1$s-%2$s-%3$s expired</string>
   <string name="voucher_input">Input</string>
   <string name="xmpp_server_addr"/>

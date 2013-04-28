@@ -781,6 +781,7 @@ To add a contact to your list of favorites:
   <string name="separatorJoinAggregateSuggestions">Suggested contacts</string>
   <string name="service_provider">Yellow page</string>
   <string name="set_default">Set default</string>
+  <string name="set_photo_failed_msg">Failed to set avatar</string>
   <string name="share_error">"This contact can't be shared."</string>
   <string name="share_via">Share contact via</string>
   <string name="share_visible_contacts">Share visible contacts</string>

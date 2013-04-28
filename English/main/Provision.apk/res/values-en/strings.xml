@@ -2,6 +2,7 @@
 <resources>
   <string name="continues">Continue</string>
   <string name="data_usage_summary">If you have not applied for a data plan, it is recommended to turn off mobile data. Otherwise, your carrier may charge you additional fees.</string>
+  <string name="default_gprs_sim_name">Please input \"%s\" data plan limits</string>
   <string name="input_method">Input Method</string>
   <string name="input_method_category">Select Default Input Method</string>
   <string name="next">Next</string>

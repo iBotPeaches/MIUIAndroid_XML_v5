@@ -50,6 +50,8 @@
   <string name="pref_title_record_type">Recording file type</string>
   <string name="preference_led_indicator">Recording indicator when screen locked</string>
   <string name="preference_led_indicator_prompt">Show LED and status bar indicators when recording and screen is locked</string>
+  <string name="preference_silent_mode">Silent mode recording</string>
+  <string name="preference_silent_mode_summary">Set to enable silent recording operation</string>
   <string name="preferences_title">Settings</string>
   <string name="record_list">Recordings list</string>
   <string name="record_loading">Loading recording, please wait.</string>
