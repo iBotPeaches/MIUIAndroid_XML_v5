@@ -338,7 +338,7 @@
   <string name="send">Send</string>
   <string name="send_signature_confirm_dialog_message">No message body found. Are you sure you wish to send only the signature?</string>
   <string name="send_signature_confirm_dialog_title">Confirm Sending</string>
-  <string name="send_to">To: %1$s</string>
+  <string name="send_to">To: </string>
   <string name="send_to_count">Sent %1$s message(s)</string>
   <string name="send_to_index_contact">Sending to %1$s of %2$s</string>
   <string name="sent_label">"Sent: "</string>
