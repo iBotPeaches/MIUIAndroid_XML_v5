@@ -135,11 +135,13 @@
   <string name="traffic_settings_error">There is an error in your settings for monthly free traffic. According to your settings and operator SMS, your monthly free traffic is: %1$s and remaining traffic is: %2$s.</string>
   <string name="traffic_suffix">Traffic</string>
   <string name="traffic_suffix_with_uint">Traffic (MB)</string>
-  <string name="traffic_total">Total: %s</string>
-  <string name="traffic_used_status">Used: %s</string>
+  <string name="traffic_total">"Total: 
+%s"</string>
+  <string name="traffic_used_status">"Used: 
+%s"</string>
   <string name="unknown">unknown</string>
   <string name="unknown_free_traffic_hint">"If you don't know your traffic allowance, please speak to your mobile operator for assistance"</string>
-  <string name="unknown_free_traffic_text">"I don't know my traffic allowance?"</string>
+  <string name="unknown_free_traffic_text">"Traffic allowance unknown?"</string>
   <string name="unknown_free_traffic_title">Unknown free traffic</string>
   <string name="unknown_location">Unknown location</string>
   <string name="unknown_traffic_hint">Unknown traffic allowance, would you like to set it up now?</string>
