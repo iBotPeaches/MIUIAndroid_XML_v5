@@ -1717,9 +1717,11 @@ Attempts Remaining :"</string>
   <string name="sim_pin_toggle">Lock SIM card</string>
   <string name="sim_pins_dont_match">"PINs don't match"</string>
   <string name="sim_reenter_new">Re-type new PIN</string>
+  <string name="sim_status_title">SIM status</string>
   <string name="skip_button_label">Cancel</string>
   <string name="skip_label">Skip</string>
   <string name="skip_step">Skip this step</string>
+  <string name="slot_status_title">IMEI information</string>
   <string name="small_font">Small</string>
   <string name="sms_delivered_sound_dialog_title">Choose SMS delivered sound</string>
   <string name="sms_delivered_sound_title">SMS delivered sound</string>

@@ -44,6 +44,7 @@
   <string name="clock_instructions">Choose a clock</string>
   <string name="close_alarm">Close alarm</string>
   <string name="common_settings">Common settings</string>
+  <string name="confirm_abort">Cancel</string>
   <string name="control_set_alarm">Set alarm</string>
   <string name="control_set_alarm_with_existing">Alarm set: %s</string>
   <string name="day">1 day</string>
@@ -88,6 +89,8 @@
   <string name="holiday_update_pref_invalidate_title">Work days data update (expired)</string>
   <string name="holiday_update_pref_summary">Check for updates</string>
   <string name="holiday_update_pref_title">Work days data update</string>
+  <string name="holiday_update_summary">Check for updates</string>
+  <string name="holiday_update_title">Updating days requires network connection</string>
   <string name="home_button_description">Launcher</string>
   <string name="hour">1 hour</string>
   <string name="hour_unit">Hr</string>

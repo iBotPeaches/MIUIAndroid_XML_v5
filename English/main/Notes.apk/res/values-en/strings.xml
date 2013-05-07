@@ -65,6 +65,9 @@
   <string name="notealert_ok">Got it</string>
   <string name="notelist_menu_new">Add note</string>
   <string name="notelist_string_info">...</string>
+  <string name="notify_alarm_action_mute">Mute</string>
+  <string name="notify_alarm_action_view">View</string>
+  <string name="notify_alarm_title">Alarm reminder</string>
   <string name="pref_desc_mode_grid">Grid</string>
   <string name="pref_desc_mode_list">List</string>
   <string name="pref_title_data_export">Data export</string>
