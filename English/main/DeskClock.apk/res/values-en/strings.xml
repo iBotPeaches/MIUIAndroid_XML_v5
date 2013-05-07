@@ -44,7 +44,7 @@
   <string name="clock_instructions">Choose a clock</string>
   <string name="close_alarm">Close alarm</string>
   <string name="common_settings">Common settings</string>
-  <string name="confirm_abort">Cancel</string>
+  <string name="confirm_abort">Discard</string>
   <string name="control_set_alarm">Set alarm</string>
   <string name="control_set_alarm_with_existing">Alarm set: %s</string>
   <string name="day">1 day</string>
