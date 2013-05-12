@@ -2,6 +2,7 @@
 <resources>
   <string name="access_denied">Access denied</string>
   <string name="account">Account</string>
+  <string name="account_detail">Xiaomi account: %1$s</string>
   <string name="account_dspt">"Xiaomi Account can synchronize and backup your messages, contacts, pictures, etc"</string>
   <string name="account_hint_text">E-mail/Phone number</string>
   <string name="account_name">Account: %1$s</string>
@@ -27,6 +28,8 @@
   <string name="btn_query">Enquire now</string>
   <string name="btn_recharge_large">Topup now</string>
   <string name="btn_recharge_other">Other topup methods</string>
+  <string name="btn_recharge_success">Topup successful</string>
+  <string name="btn_recharge_success_quick">Quick topup successful</string>
   <string name="btn_voucher">Mi Credit card (%1$s)</string>
   <string name="button_cancel">Cancel</string>
   <string name="button_pay">Pay</string>
@@ -205,6 +208,8 @@
   <string name="recharge_hint">1 RMB equals 1 Mi credit</string>
   <string name="recharge_notification">Topping up %1$s Mi credits</string>
   <string name="recharge_other">Select another payment method</string>
+  <string name="recharge_pcpay_summary">Payment using a computer supports other methods and limits</string>
+  <string name="recharge_pcpay_title">Topup via computer</string>
   <string name="recharge_prepaid_summary"> China Mobile, China Unicom and China Telecom topup cards supported</string>
   <string name="recharge_prepaid_title">Prepaid topup cards</string>
   <string name="recharge_record">Topup History</string>
