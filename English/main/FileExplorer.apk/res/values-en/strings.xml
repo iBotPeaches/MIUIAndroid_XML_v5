@@ -69,6 +69,7 @@
   <string name="dialog_type_image">Image</string>
   <string name="dialog_type_text">Text</string>
   <string name="dialog_type_video">Video</string>
+  <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Empty folder</string>
   <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Download failed!</string>
@@ -92,6 +93,7 @@
   <string name="file_loading">Loading...</string>
   <string name="file_too_large">"The file is too large and can't be uploaded"</string>
   <string name="finished">Finished</string>
+  <string name="folder_exist">The folder already exists</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Click here&lt;/a&gt;to open cloud recycle bin</string>
   <string name="ftp_account_req_notice">Username and password, 4~16 chars, contains digits, alphabet letters, case sensitive</string>
   <string name="ftp_anonymous_login">Anonymous FTP</string>
@@ -102,6 +104,8 @@
   <string name="ftp_transfer_secure">Secure FTP transfer</string>
   <string name="ftp_username_and_passworld">Username and password</string>
   <string name="ftp_username_hint">Username</string>
+  <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
+  <string name="garbage_item_path_format" formatted="false">%s %s</string>
   <string name="garbage_size_metric">"%s
 Junk"</string>
   <string name="gbk_summary">If you are using GBK encoding, e.g. Windows Explorer, choose this type of encoding to avoid garbled Chinese text</string>
