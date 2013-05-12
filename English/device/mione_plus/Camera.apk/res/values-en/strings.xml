@@ -51,7 +51,6 @@
   <string name="effect_none">None</string>
   <string name="effect_silly_faces">SILLY FACES</string>
   <string name="empty">" "</string>
-  <string name="enter_expert_mode_title">Professional mode</string>
   <string name="error_app_unsupported">Unsupported video resolution for this encoder type</string>
   <string name="error_app_unsupported_hfr_720p">720P can support up to 90FPS</string>
   <string name="error_app_unsupported_hfr_codec">Only H264 video encoding is supported when HFR is ON</string>
@@ -136,7 +135,6 @@
   <string name="pref_camera_coloreffect_entry_posterize">Posterize</string>
   <string name="pref_camera_coloreffect_entry_sepia">Sepia</string>
   <string name="pref_camera_coloreffect_title">Color effect</string>
-  <string name="pref_camera_coloreffect_title_simple_mode">Filters</string>
   <string name="pref_camera_contrast_default">5</string>
   <string name="pref_camera_contrast_entry_level0">Level 0</string>
   <string name="pref_camera_contrast_entry_level1">Level 1</string>

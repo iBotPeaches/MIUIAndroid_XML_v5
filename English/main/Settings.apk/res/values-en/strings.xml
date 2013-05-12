@@ -115,7 +115,6 @@
   <string name="app_factory_reset">Uninstall updates</string>
   <string name="app_factory_reset_dlg_text">All updates to this Android system app will be uninstalled.</string>
   <string name="app_factory_reset_dlg_title">Uninstall updates?</string>
-  <string name="app_floating_window_dlg">Allow\"%1$s\" to show popup window</string>
   <string name="app_floating_window_dlg_disable">"Disabling %1$s's floating window settings will stop the app forcibly. Are you sure you want to disable?"</string>
   <string name="app_floating_window_dlg_enable">"Enabling %1$s's floating window settings requires app to restart. Are you sure you want to enable?"</string>
   <string name="app_forward_locked">App is copy-protected.</string>
@@ -159,8 +158,6 @@
   <string name="available_size">%s (Available)</string>
   <string name="awake">Device awake time</string>
   <string name="back_key">Back key</string>
-  <string name="back_long_press">Back key</string>
-  <string name="back_long_press_timeout">Delay time</string>
   <string name="background_data">Background data</string>
   <string name="background_data_dialog_message">Disabling background data extends battery life and lowers data use. Some apps may still use the background data connection.</string>
   <string name="background_data_dialog_title">Disable background data?</string>
@@ -389,7 +386,6 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="bluetooth_profile_dun">Dial-up Network Access</string>
   <string name="bluetooth_profile_headset">Phone audio</string>
   <string name="bluetooth_profile_hid">Input device</string>
-  <string name="bluetooth_profile_name">"%1$s's Xiaomi phone"</string>
   <string name="bluetooth_profile_opp">File transfer</string>
   <string name="bluetooth_profile_pan">Internet access</string>
   <string name="bluetooth_profile_pan_nap">Internet connection sharing</string>
@@ -657,7 +653,6 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">Dual-Core</string>
   <string name="device_cpu4_info">Quad-Core</string>
-  <string name="device_default_name">Xiaomi phone</string>
   <string name="device_edit_title">Change device name</string>
   <string name="device_info_default">Unknown</string>
   <string name="device_info_label">Device info</string>
@@ -770,8 +765,6 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="enableNetwork">enableNetwork</string>
   <string name="enable_adb">USB debugging</string>
   <string name="enable_adb_summary">Debug mode when USB is connected</string>
-  <string name="enable_assist_key_long_press">Hold key to open voice assist</string>
-  <string name="enable_back_long_press">Hold key to close app</string>
   <string name="enable_compatibility">Scale app</string>
   <string name="enable_drive_mode">Enable Drive mode</string>
   <string name="enable_snapshot_screenlock">Hold key to snapshot when screen lock</string>
@@ -1069,13 +1062,6 @@ Attention: this operation cannot be undone."</string>
 Attention: this operation cannot be undone."</string>
   <string name="master_clear_summary">Erases all data on phone</string>
   <string name="master_clear_title">Factory data reset</string>
-  <string name="mdb_entering">Entering</string>
-  <string name="mdb_restore_cancel">Cancel</string>
-  <string name="mdb_restore_info1">"Will restore your phone's data"</string>
-  <string name="mdb_restore_info2">"Please don't break usb connection"</string>
-  <string name="mdb_restore_label">Mdb Restore</string>
-  <string name="mdb_restore_mode">Restore Mode</string>
-  <string name="mdb_usb_disconnection_exit">USB disconnected, abort restoring</string>
   <string name="media_button">Media button</string>
   <string name="media_format_button_text">Erase USB storage</string>
   <string name="media_format_desc">Erase all USB storage? You will lose </string>
@@ -1111,7 +1097,6 @@ Attention: this operation cannot be undone."</string>
   <string name="misc_files">Misc files</string>
   <string name="misc_files_selected_count">selected %1$d out of %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s out of %2$s</string>
-  <string name="miui_device_default_name">Android</string>
   <string name="mms_vibrate_abbreviation">Messages</string>
   <string name="model_number">Model Number</string>
   <string name="move_app">Move</string>
@@ -1303,7 +1288,6 @@ please follow the steps to complete installation"</string>
   <string name="perm_operating">Operating...</string>
   <string name="perm_optimize">Optimize</string>
   <string name="perm_privacy_app_count">%1$d permissions</string>
-  <string name="perm_privacy_app_count_trust_summary">Trust app</string>
   <string name="perm_privacy_app_finish">Finish</string>
   <string name="perm_privacy_app_installed">Installation succeeded!</string>
   <string name="perm_privacy_app_launch">Launch</string>
@@ -1371,7 +1355,6 @@ please follow the steps to complete installation"</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Cell standby</string>
   <string name="power_idle">Phone idle</string>
-  <string name="power_key">Power button</string>
   <string name="power_mode">Power Mode</string>
   <string name="power_phone">Voice calls</string>
   <string name="power_screen">Screen</string>
@@ -1384,7 +1367,6 @@ please follow the steps to complete installation"</string>
   <string name="pref_button_light">Button light</string>
   <string name="pref_button_light_summary">Menu, Home and Back key indicator</string>
   <string name="pref_operational_key">Operational key</string>
-  <string name="pref_volume_category_title">Volume</string>
   <string name="pref_volume_wake_summary">Pressing the volume up/down wakes the device. Intended for devices with a hard to press power key.</string>
   <string name="pref_volume_wake_title">Volume rocker wake</string>
   <string name="preference_change_password_title">Change password</string>
@@ -1536,7 +1518,6 @@ please follow the steps to complete installation"</string>
   <string name="runningservicedetails_stop_dlg_title">Stop system service?</string>
   <string name="runningservices_settings_summary">View and control currently running services</string>
   <string name="runningservices_settings_title">Running services</string>
-  <string name="safe_relative">Safe permissions</string>
   <string name="scan_list_label">Scan results:</string>
   <string name="screen">Screen</string>
   <string name="screen_button_custom">Customize screen key positions</string>
@@ -1677,7 +1658,6 @@ please follow the steps to complete installation"</string>
   <string name="show_password">Make passwords visible</string>
   <string name="show_password_summary"/>
   <string name="show_rounded_corners">Show rounded corners</string>
-  <string name="show_rounded_corners_summary">Reboot is needed to take effect</string>
   <string name="show_running_services">Show running services</string>
   <string name="show_screen_updates">Show surface updates</string>
   <string name="show_screen_updates_summary">Flash entire window surfaces when they update</string>

@@ -14,7 +14,6 @@
   <string name="add_slide">Add slide</string>
   <string name="add_slide_hint">Touch to create new slide.</string>
   <string name="add_smiley">Smiley</string>
-  <string name="add_subject">Add subject</string>
   <string name="add_timing">Timing</string>
   <string name="add_video">Add video</string>
   <string name="adding_attachments">Please wait while the items are added to the slideshow.</string>
@@ -86,7 +85,6 @@
   <string name="delete_bookmark">Remove from Favorites</string>
   <string name="delete_message">Delete</string>
   <string name="delete_phrase">Delete phrase</string>
-  <string name="delete_subject">Delete subject</string>
   <string name="delete_unlocked">Delete locked messages</string>
   <string name="delivery_report_activity">Delivery report</string>
   <string name="delivery_toast_body">Message received by %s.</string>

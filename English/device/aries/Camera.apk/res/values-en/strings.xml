@@ -52,7 +52,6 @@ Step out of view for a moment"</string>
   <string name="effect_none">None</string>
   <string name="effect_silly_faces">SILLY FACES</string>
   <string name="empty">" "</string>
-  <string name="enter_expert_mode_title">Professional mode</string>
   <string name="error_app_unsupported">Unsupported video resolution for this encoder type</string>
   <string name="error_app_unsupported_hfr_720p">720P can support up to 90FPS</string>
   <string name="error_app_unsupported_hfr_codec">Only H264 video encoding is supported when HFR is ON</string>
@@ -145,7 +144,6 @@ Step out of view for a moment"</string>
   <string name="pref_camera_coloreffect_entry_posterize">Posterize</string>
   <string name="pref_camera_coloreffect_entry_sepia">Sepia</string>
   <string name="pref_camera_coloreffect_title">Color effect</string>
-  <string name="pref_camera_coloreffect_title_simple_mode">Filter</string>
   <string name="pref_camera_contrast_default">5</string>
   <string name="pref_camera_contrast_entry_level0">Level 0</string>
   <string name="pref_camera_contrast_entry_level1">Level 1</string>
@@ -199,8 +197,6 @@ Step out of view for a moment"</string>
   <string name="pref_camera_histogram_value_disable">disable</string>
   <string name="pref_camera_histogram_value_enable">enable</string>
   <string name="pref_camera_id_default">0</string>
-  <string name="pref_camera_id_entry_back">Back</string>
-  <string name="pref_camera_id_entry_front">Front</string>
   <string name="pref_camera_id_title">Select camera</string>
   <string name="pref_camera_iso_default">auto</string>
   <string name="pref_camera_iso_entry_auto">Auto</string>
@@ -241,7 +237,6 @@ Step out of view for a moment"</string>
   <string name="pref_camera_picture_format_value_jpeg">jpeg</string>
   <string name="pref_camera_picture_format_value_raw">raw</string>
   <string name="pref_camera_picture_size_default">3264x1840</string>
-  <string name="pref_camera_picturesize_entry_1024x768">8MP</string>
   <string name="pref_camera_picturesize_entry_1280x720">0.9M Pixels</string>
   <string name="pref_camera_picturesize_entry_1920x1080">2M Pixels</string>
   <string name="pref_camera_picturesize_entry_3200x1800">Full screen 16:9</string>
@@ -419,7 +414,6 @@ Step out of view for a moment"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_60">2 seconds interval (60 times)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_90">3 seconds interval (90 times)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 seconds interval (900 times)</string>
-  <string name="preference_simple_mode_title">Simple mode</string>
   <string name="preparing_sd">Preparing internal storage...</string>
   <string name="record_back_pressed_hint">Press again to stop recording</string>
   <string name="resume_playing_message">Resume playing from %s ?</string>

@@ -104,7 +104,6 @@
   <string name="msg_searching">Searching for Stations to create a Preset List</string>
   <string name="msg_searching_title">Auto-Select Presets</string>
   <string name="msg_seeking">Searching FM Station</string>
-  <string name="msg_unable_start_fm_title">Unable to start FM</string>
   <string name="msg_weak_searching">Searching for frequencies to transmit</string>
   <string name="no_storage">Mount SD card before recording begins.</string>
   <string name="ok">OK</string>
@@ -123,7 +122,6 @@
   <string name="record_file_location_format">Click to view file %s</string>
   <string name="record_sucess">Recording successful</string>
   <string name="regional_band">Regional Band will clear all saved stations</string>
-  <string name="revert_to_fac">Revert to Factory Defaults</string>
   <string name="saved">Save</string>
   <string name="scan">Scan</string>
   <string name="search_dialog_title">Scan Stations</string>
@@ -136,7 +134,6 @@
   <string name="set_sigth">Configure Signal Th</string>
   <string name="settings_menu">Settings</string>
   <string name="settings_revert_confirm_msg">This will delete all settings including Presets</string>
-  <string name="settings_revert_confirm_title">Confirm Reset Settings</string>
   <string name="settings_revert_defaults_title">Reset to Factory Defaults</string>
   <string name="sleep_mode">Sleep mode</string>
   <string name="spaceIsLow_content">Your SD card storage is running out of space. Change the quality setting or delete some images or other files.</string>

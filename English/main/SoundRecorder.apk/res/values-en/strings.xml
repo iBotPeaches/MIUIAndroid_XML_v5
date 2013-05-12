@@ -35,28 +35,18 @@
   <string name="minute" formatted="false">%d minute</string>
   <string name="no_file">No recordings</string>
   <string name="notification_playback">Playing back recording…</string>
-  <string name="notification_playback_paused">Playback paused...</string>
   <string name="notification_recording">Recording...</string>
   <string name="notification_stopped">Recording has stopped</string>
   <string name="notification_warning" formatted="false">Low storage (less than %d minutes)...</string>
   <string name="open_file_explorer">Open File Explorer</string>
   <string name="overwrite_dialog_message" formatted="false">%s already exists. Do you wish to overwrite it?</string>
-  <string name="prefDefault_recordType">audio/3gpp</string>
-  <string name="prefDialogTitle_recordType">Please select file type</string>
-  <string name="pref_summary_enable_high_quality">The audio file with high quality will be larger</string>
-  <string name="pref_summary_enable_sound_effect">Play sound effect when recording state is changed</string>
-  <string name="pref_title_enable_high_quality">Enable high quality</string>
-  <string name="pref_title_enable_sound_effect">Enable sound effect</string>
-  <string name="pref_title_record_type">Recording file type</string>
   <string name="preference_led_indicator">Recording indicator when screen locked</string>
   <string name="preference_led_indicator_prompt">Show LED and status bar indicators when recording and screen is locked</string>
   <string name="preference_silent_mode">Silent mode recording</string>
   <string name="preference_silent_mode_summary">Set to enable silent recording operation</string>
-  <string name="preferences_title">Settings</string>
   <string name="record_list">Recordings list</string>
   <string name="record_loading">Loading recording, please wait.</string>
   <string name="record_name_hour">.</string>
-  <string name="record_name_minute">mins</string>
   <string name="record_picker_title">Choose recording</string>
   <string name="record_saving">Saving recording, please wait!</string>
   <string name="recording">Recording...</string>
@@ -72,7 +62,6 @@
   <string name="status_bar_anti_disturb">Phone has been muted, adjust volume to resume.</string>
   <string name="status_bar_back">Click to return to Recorder</string>
   <string name="status_bar_recording">Recording...</string>
-  <string name="status_bar_recording_back">Click to return to Recorder</string>
   <string name="status_bar_recording_pause">"Recording has been paused. "</string>
   <string name="storage_is_full">Storage is full</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>

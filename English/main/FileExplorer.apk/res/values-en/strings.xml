@@ -194,7 +194,6 @@ Junk"</string>
   <string name="pan_settting">MiDrive settings</string>
   <string name="paused">Paused</string>
   <string name="query_bind_state">Querying bind status, please wait...</string>
-  <string name="release_space_indication">Detect junk files</string>
   <string name="rename_description">Renaming, please wait…</string>
   <string name="rename_failed">Renaming《%1$s》failed</string>
   <string name="restart_cleaning">Restart</string>

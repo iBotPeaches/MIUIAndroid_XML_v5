@@ -136,7 +136,6 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="clear_default">Clear default</string>
   <string name="click_close">Click screen to close</string>
   <string name="cloud_antispam_mark">Spam</string>
-  <string name="cloud_antispam_summary">Filter calls and messages over Wi-Fi and data networks</string>
   <string name="cloud_antispam_title">Cloud Guard</string>
   <string name="composer_failed_to_get_database_infomation">"Couldn't get database information."</string>
   <string name="composer_has_no_exportable_contact">There are no exportable contacts. If you do have contacts on your phone, some data providers may not allow the contacts to be exported from the phone.</string>
@@ -412,7 +411,6 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="import_weibo_fetch_followers">Retrieving Sina Weibo followers…</string>
   <string name="import_weibo_notification_title">Importing Sina weibo contacts…</string>
   <string name="import_weibo_notification_title_done">Import complete</string>
-  <string name="import_weibo_progress_hint">Importing…</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_vcard_canceled_title">Importing %s canceled</string>
@@ -429,7 +427,6 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="label_notes">Notes</string>
   <string name="label_sip_address">Internet call</string>
   <string name="launcherDialer">Phone</string>
-  <string name="listAllContactsInAccount">Contacts in %s</string>
   <string name="listCustomView">Contacts in custom view</string>
   <string name="listFoundAllContactsZero">No contacts</string>
   <string name="listSingleContact">Single contact</string>
