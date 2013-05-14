@@ -88,6 +88,7 @@ Step out of view for a moment"</string>
   <string name="manual">Manual</string>
   <string name="mimetype">MIME type</string>
   <string name="model">Model</string>
+  <string name="no_save">"Don't save"</string>
   <string name="no_storage">Insert an SD card before using the camera.</string>
   <string name="no_thumbnail">No thumbnail</string>
   <string name="not_enough_space">Your internal storage is full.</string>
@@ -423,6 +424,7 @@ Step out of view for a moment"</string>
   <string name="review_cancel">CANCEL</string>
   <string name="rotate_left">Rotate left</string>
   <string name="rotate_right">Rotate right</string>
+  <string name="save">Save</string>
   <string name="select_all">Select all</string>
   <string name="select_image">Select photo</string>
   <string name="select_item">Select item</string>

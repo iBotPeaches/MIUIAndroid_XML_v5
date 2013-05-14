@@ -15,6 +15,7 @@
   <string name="direction_south">S</string>
   <string name="direction_west">W</string>
   <string name="getting_location">Getting location...</string>
+  <string name="guide_toast">"There may be magnetic field interference, please calibrate the compass using the following gesture."</string>
   <string name="latitude">LAT</string>
   <string name="location_east">E</string>
   <string name="location_north">N</string>
