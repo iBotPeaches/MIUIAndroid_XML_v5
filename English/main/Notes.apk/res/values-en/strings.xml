@@ -8,8 +8,10 @@
   <string name="alert_message_delete_note">Are you sure you want to delete this note?</string>
   <string name="alert_message_delete_notes">Are you sure you want to delete the selected %1$s notes?</string>
   <string name="alert_message_discard_changes">Discard all changes?</string>
+  <string name="alert_message_edit_anyway">The note contains unsupported content, editing it may result in data loss.</string>
   <string name="alert_title_delete">Delete selected notes</string>
   <string name="alert_title_discard">Discard changes?</string>
+  <string name="alert_title_edit_anyway">Confirm editing note, this may cause data loss, are you sure?</string>
   <string name="app_name">Notes</string>
   <string name="app_widget">Notes</string>
   <string name="attachment_camera">Camera</string>
@@ -26,6 +28,7 @@
   <string name="error_note_not_exist">The note is not exist</string>
   <string name="error_sdcard_export">Export failed, please check SD card</string>
   <string name="error_sdcard_unmounted">SD card busy or not readable, please try again</string>
+  <string name="error_unsupport_content">This note contains unsupported content, click to upgrade system</string>
   <string name="error_widget_exist_for_send_to_desktop">This note already exists on desktop</string>
   <string name="failed_sdcard_export">Export failed</string>
   <string name="file_name_txt_format">notes_%s.txt</string>

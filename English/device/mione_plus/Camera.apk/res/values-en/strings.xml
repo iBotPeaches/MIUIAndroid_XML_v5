@@ -17,6 +17,8 @@
   <string name="can_not_play_video">To play the video you should unlock the screen</string>
   <string name="cancel">Cancel</string>
   <string name="cannot_connect_camera">"Can't connect to the camera."</string>
+  <string name="cannot_connect_camera_once">"Can't connect to camera, please restart the camera"</string>
+  <string name="cannot_connect_camera_twice">"Can't connect to camera, please restart your phone"</string>
   <string name="clear_effects">Clear effects</string>
   <string name="close">Close</string>
   <string name="confirm_change_mode_title">Switch mode</string>

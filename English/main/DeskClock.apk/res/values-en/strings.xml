@@ -117,6 +117,7 @@ You can also cancel this alarm."</string>
   <string name="stopwatch_title">Stopwatch</string>
   <string name="system_time_setting">Time setting</string>
   <string name="time">Time</string>
+  <string name="timer_alert_alert_silenced">Timer stopped after %d minutes.</string>
   <string name="timer_continue">Continue</string>
   <string name="timer_got_it">OK</string>
   <string name="timer_hour">H</string>
