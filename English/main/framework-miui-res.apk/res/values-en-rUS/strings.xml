@@ -252,7 +252,9 @@
   <string name="country_name_zm">ZM</string>
   <string name="country_name_zw">ZW</string>
   <string name="day_of_month">" %d"</string>
+  <string name="days">days</string>
   <string name="delete">Delete</string>
+  <string name="deprecated_alarm_message_12_hour_formate"/>
   <string name="device_xiaomi">Xiaomi phone</string>
   <string name="double_seventh_day">七夕</string>
   <string name="emergency_call_string">Emergency call</string>
@@ -293,6 +295,7 @@
   <string name="group_name_friends">Friends</string>
   <string name="heavy_snow"/>
   <string name="hoar_frost_falls"/>
+  <string name="hours">%d hours</string>
   <string name="incorrect_pincode">Incorrect PIN code</string>
   <string name="incorrect_pincode_remaining_attempts">Incorrect PIN code, attempts remaining %d</string>
   <string name="incorrect_pukcode">Incorrect PUK code</string>
@@ -345,6 +348,7 @@
   <string name="lunar_zheng"/>
   <string name="memory_clear_nothing_result">No memory to clear</string>
   <string name="memory_clear_result">"%1$s Free | %2$s available"</string>
+  <string name="minutes">%d minutes</string>
   <string name="miui_copyright_title">Copyright</string>
   <string name="miui_device_name">Android</string>
   <string name="miui_mibi_license_title">Mi Credit User agreement</string>
@@ -390,6 +394,7 @@
   <string name="private_num">Private number</string>
   <string name="puk_operation_failed">PUK operation failed.</string>
   <string name="reboot_confirm">Phone will be restarted</string>
+  <string name="reboot_confirm_title">Are you sure you want to restart your phone?</string>
   <string name="reboot_progress">Restarting...</string>
   <string name="return_to_me_message">Please return to owner.</string>
   <string name="reverse_all">Clear all</string>
@@ -411,6 +416,7 @@
   <string name="share">Share</string>
   <string name="short_pincode_error_msg">Please input 4–8 digits</string>
   <string name="short_pukcode_error_msg">Please input at least 8 digits</string>
+  <string name="shutdown_confirm_title">Are you sure you want to shutdown your phone?</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_int_notice">Current SIM is not activated. An international SMS is required to activate this service, would you like to activate it now?</string>
   <string name="sim_changed_reactivate_notice">The current SIM card is not activated. An SMS is required to activate the Xiaomi Synchronisation service. Reactivate now?</string>
