@@ -88,7 +88,7 @@
   <string name="filter_by_duration_format">%2$dmin%5$2dsec</string>
   <string name="filter_by_duration_max">5 min</string>
   <string name="filter_by_duration_min">0 secs</string>
-  <string name="filter_by_duration_prefix">"Max length (in hours):"</string>
+  <string name="filter_by_duration_prefix">"Minimum Duration: "</string>
   <string name="filter_by_duration_summary">Filter length is too small for audio files</string>
   <string name="filter_by_folder">Filter by folder</string>
   <string name="filter_by_folder_summary_off">Not open, click on the folder, then filter folder</string>
