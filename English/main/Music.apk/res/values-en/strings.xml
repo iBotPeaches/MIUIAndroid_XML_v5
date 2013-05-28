@@ -58,8 +58,6 @@
   <string name="delete_playlist_menu">Delete</string>
   <string name="delete_song_desc">\"%s\" will be permanently deleted from the SD card.</string>
   <string name="deselect_all">Reject all</string>
-  <string name="dirac_disabled">Dirac Disabled</string>
-  <string name="dirac_enabled">Dirac Enabled</string>
   <string name="download">Download</string>
   <string name="download_album_settings">Auto download album art</string>
   <string name="download_album_summary">May cost more when used via mobile network, please consider using Wi-Fi</string>
@@ -73,7 +71,6 @@
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
-  <string name="edit_playlist_menu">Edit</string>
   <string name="empty_edit_hint">Song information unavailable</string>
   <string name="emptyplaylist">Selected playlist is empty.</string>
   <string name="enter_sleep_mode">Enter Sleep Mode</string>
@@ -162,7 +159,6 @@
   <string name="no_song_downloaded">Song cannot be downloaded</string>
   <string name="not_selected">Please select a song</string>
   <string name="notification_artist_album">"%2$s %1$s"</string>
-  <string name="online_music">Online Music</string>
   <string name="online_search_hint">Search for online music</string>
   <string name="online_title">Online</string>
   <string name="other_settings">Others</string>
@@ -180,7 +176,6 @@
   <string name="playlist_deleted_message">Playlist deleted.</string>
   <string name="playlist_favorite">Favorites</string>
   <string name="playlist_frequently_played">Frequently played</string>
-  <string name="playlist_new">Create new playlist</string>
   <string name="playlist_recently_added">Recently added</string>
   <string name="playlist_recently_played">Recently played</string>
   <string name="playlist_renamed_message">Playlist renamed.</string>

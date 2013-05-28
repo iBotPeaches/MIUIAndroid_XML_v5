@@ -257,19 +257,9 @@ and cannot be used if expired"</string>
   <string name="user_agreement_p3"> and </string>
   <string name="user_agreement_p4">Privacy Policy</string>
   <string name="user_agreement_p5">"By signing up, you are agreeing to the "</string>
-  <string name="voucher_btn_exchange">Use voucher</string>
-  <string name="voucher_btn_exchange_error">Invalid</string>
-  <string name="voucher_btn_has_exchanged">Voucher redeemed</string>
-  <string name="voucher_denom">Mi Credits</string>
   <string name="voucher_edit_hint">Password:</string>
   <string name="voucher_edit_limit">Edit limit</string>
-  <string name="voucher_empty">No stored Mi Credit data</string>
   <string name="voucher_error_code">An error occurred with your Mi Credit voucher code</string>
-  <string name="voucher_exchange">Exchange</string>
-  <string name="voucher_exchange_count">Vouchers used (%1$s)</string>
-  <string name="voucher_exchange_success">%1$s Mi Credit(s) redemption complete</string>
-  <string name="voucher_expire">%1$s-%2$s-%3$s expired</string>
-  <string name="voucher_input">Input</string>
   <string name="voucher_input_password_prompt">Input password</string>
   <string name="xmpp_server_addr"/>
 </resources>
