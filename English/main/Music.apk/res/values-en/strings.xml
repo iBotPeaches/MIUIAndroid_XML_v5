@@ -41,6 +41,7 @@
   <string name="confirm">Confirm</string>
   <string name="correct_id3_by_internet">Auto correct ID3 using mobile Internet</string>
   <string name="correct_id3_failed">ID3 data correction failed!</string>
+  <string name="correct_id3_in_processing">Correcting ID3 song tag data</string>
   <string name="correct_id3_not_support">ID3 correction is not supported by this file type.</string>
   <string name="correct_id3_open_other_connect">Please turn on ID3 data correction using the mobile Internet setting</string>
   <string name="correct_id3_settings">ID3 correction settings</string>
@@ -163,6 +164,7 @@
   <string name="notification_artist_album">"%2$s %1$s"</string>
   <string name="online_music">Online Music</string>
   <string name="online_search_hint">Search for online music</string>
+  <string name="online_title">Online</string>
   <string name="other_settings">Others</string>
   <string name="overwrite_confirm">Overwrite</string>
   <string name="play_all">Play All</string>

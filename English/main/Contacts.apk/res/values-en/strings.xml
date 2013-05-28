@@ -99,6 +99,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="callrecordview_menu_delete_called">Clear log for outgoing calls</string>
   <string name="callrecordview_menu_delete_confirm">Confirm %s?</string>
   <string name="callrecordview_menu_delete_missed">Clear log for missed calls</string>
+  <string name="callrecordview_menu_delete_new">Clear call log of new contacts</string>
   <string name="callrecordview_menu_delete_one">Remove from call log</string>
   <string name="callrecordview_menu_delete_stranger">Clear call log for unknown numbers</string>
   <string name="callrecordview_menu_paste">Paste</string>
@@ -108,6 +109,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="callrecordview_menu_show_all">Show all calls</string>
   <string name="callrecordview_menu_show_called">Show outgoing calls</string>
   <string name="callrecordview_menu_show_missed">Show missed calls</string>
+  <string name="callrecordview_menu_show_new">New Contacts</string>
   <string name="callrecordview_menu_show_stranger">Show unknown calls</string>
   <string name="callrecordview_menu_show_title">Select call log type to be displayed</string>
   <string name="cancel_confirmation_dialog_message">Discard changes?</string>
@@ -323,6 +325,8 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="eventLabelsGroup">Birthday</string>
   <string name="event_edit_field_hint_text">Date</string>
   <string name="export_sim_contact_finish">Export to SIM card completed</string>
+  <string name="export_sim_contact_finish_failure">SIM storage is full, completed: %1$d incompleted: %2$d</string>
+  <string name="export_sim_contact_finish_success">Copied %d contact(s) from SIM card</string>
   <string name="export_sim_contacts_dialog_message">Your SIM card can store %d contacts, Are you sure you want to proceed?</string>
   <string name="export_to_sdcard">Export to storage</string>
   <string name="export_to_sim">Export to SIM card</string>
@@ -386,6 +390,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="hint_findContacts">Find contacts</string>
   <string name="hint_more_contact">use merge contact when exits double contacts</string>
   <string name="hint_search_contacts">%d contacts</string>
+  <string name="hint_search_emails">%d E-mails</string>
   <string name="hint_search_phone_numbers">%d contact numbers</string>
   <string name="ic_menu_back">Back</string>
   <string name="ic_menu_done">Done</string>

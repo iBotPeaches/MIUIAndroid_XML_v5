@@ -78,6 +78,7 @@
   <string name="empty_dir_cleanup_indication">%s junk files</string>
   <string name="empty_dir_title">Empty folders</string>
   <string name="enable_sd_card">SD card is not available, please connect one</string>
+  <string name="error_filename_too_long">Filename too long</string>
   <string name="error_info_cant_send_folder">Unable to send the folder</string>
   <string name="error_open_file_failed_no_app_found">No app found to open the file</string>
   <string name="fail_to_create_folder">Failed to create the folder, the folder already exists</string>

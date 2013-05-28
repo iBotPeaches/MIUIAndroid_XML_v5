@@ -53,6 +53,7 @@
   <string name="error_expired_summary">Your order has expired</string>
   <string name="error_frozen_summary">Your account has been locked</string>
   <string name="error_frozen_title">Account locked!</string>
+  <string name="error_giftcard_summary">Unable to get gift card info</string>
   <string name="error_has_bought_summary">You have already purchased this product</string>
   <string name="error_has_bought_title">Repeat purchase</string>
   <string name="error_illegal_order_summary">An error has occurred processing your order, please try again later</string>
@@ -87,6 +88,16 @@
   <string name="find_password_on_web_msg">Please visit account.xiaomi.com to retrieve your password</string>
   <string name="forget_password"/>
   <string name="frozen">(Locked)</string>
+  <string name="giftcard_acitivity_and_denomination">%2$s Mi Credit gift card from %1$s</string>
+  <string name="giftcard_denom">Mi Credit(s)</string>
+  <string name="giftcard_denom_available">Mi Credit(s) available</string>
+  <string name="giftcard_denom_frozen">Mi Credit(s) frozen</string>
+  <string name="giftcard_empty">No gift card</string>
+  <string name="giftcard_expire">%1$s-%2$s-%3$s expired</string>
+  <string name="giftcard_hint">"MiCredits in gift card spent first
+and cannot be used if expired"</string>
+  <string name="giftcard_record">Mi Credit received</string>
+  <string name="giftcard_value">(%1$s Mi Credit gift card)</string>
   <string name="header_data_and_synchronization">Data &amp; Sync</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Input password</string>
@@ -126,6 +137,7 @@
   <string name="micloud_via_sms_alert">An SMS will be sent to validate your phone number. Are you sure you want to continue?</string>
   <string name="micloud_welcome_skip_login">Skip registration</string>
   <string name="mili_center">Mi Credit</string>
+  <string name="my_mili_record">My Mi Credit</string>
   <string name="next">Next</string>
   <string name="nobind">No authorised</string>
   <string name="order_price">%1$s Mi credits</string>
@@ -258,5 +270,6 @@
   <string name="voucher_exchange_success">%1$s Mi Credit(s) redemption complete</string>
   <string name="voucher_expire">%1$s-%2$s-%3$s expired</string>
   <string name="voucher_input">Input</string>
+  <string name="voucher_input_password_prompt">Input password</string>
   <string name="xmpp_server_addr"/>
 </resources>
