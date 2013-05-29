@@ -32,9 +32,11 @@ If the device has multiple users, using this shortcut on the lock screen tempora
   <string name="accessibility_global_gesture_preference_summary_on">On</string>
   <string name="accessibility_global_gesture_preference_title">Accessibility shortcut</string>
   <string name="accessibility_long_press_timeout_preference_title">Touch &amp; hold delay</string>
+  <string name="accessibility_long_press_timeout_title">Touch &amp; hold delay</string>
   <string name="accessibility_menu_item_settings">Settings</string>
   <string name="accessibility_no_services_installed">No services installed</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Power button ends call</string>
+  <string name="accessibility_power_button_ends_call_title">Power button ends call</string>
   <string name="accessibility_screen_magnification_summary">"When this feature is turned on, you can zoom in and out by triple-tapping the screen.
 
 While zoomed in, you can:
@@ -50,6 +52,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="accessibility_script_injection_button_disallow">"Don't allow"</string>
   <string name="accessibility_script_injection_disallowed">Not allowed</string>
   <string name="accessibility_script_injection_security_warning_summary">Do you want apps to install scripts from Google that make their web content more accessible?</string>
+  <string name="accessibility_script_injection_title">Enhance web accessibility</string>
   <string name="accessibility_service_default_description">No description provided.</string>
   <string name="accessibility_service_disable_warning_summary">Touching OK will stop %1$s.</string>
   <string name="accessibility_service_disable_warning_title">Stop %1$s?</string>
@@ -68,6 +71,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="accessibility_sync_error">Sync error.</string>
   <string name="accessibility_system_title">System</string>
   <string name="accessibility_toggle_large_text_preference_title">Large text</string>
+  <string name="accessibility_toggle_large_text_title">Large text</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Update screen magnification on app transitions</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Auto update screen magnification</string>
   <string name="accessibility_toggle_screen_magnification_preference_title">Screen magnification</string>
