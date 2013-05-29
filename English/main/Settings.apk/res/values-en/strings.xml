@@ -1704,6 +1704,7 @@ This setting affects all users on this phone."</string>
   <string name="select_all">Select all</string>
   <string name="select_application">Select application</string>
   <string name="select_device_admin_msg">Device administrators</string>
+  <string name="select_subscription">Select Subscription</string>
   <string name="selinux_status">SELinux status</string>
   <string name="selinux_status_disabled">Disabled</string>
   <string name="selinux_status_enforcing">Enforcing</string>
