@@ -1,0 +1,92 @@
+{
+    "quicklinks":[
+        {
+            "title":"Google",
+            "url":"http://www.google.com/",
+            "thumbnail":"thumb_google.png",
+            "favicon":"favicon_google.png"
+        },
+        {
+            "title":"Picasa",
+            "url":"http://picasaweb.google.com/",
+            "thumbnail":"thumb_picasa.png",
+            "favicon":"favicon_picasa.png"
+        },
+        {
+            "title":"Yahoo!",
+            "url":"http://www.yahoo.com/",
+            "thumbnail":"thumb_yahoo.png",
+            "favicon":"favicon_yahoo.png"
+        },
+        {
+            "title":"MSN",
+            "url":"http://www.msn.com/",
+            "thumbnail":"thumb_msn.png",
+            "favicon":"favicon_msn.png"
+        },
+
+
+        {
+            "title":"Twitter",
+            "url":"http://twitter.com/",
+            "thumbnail":"thumb_twitter.png",
+            "favicon":"favicon_twitter.png"
+        },
+        {
+            "title":"Facebook",
+            "url":"http://www.facebook.com/",
+            "thumbnail":"thumb_facebook.png",
+            "favicon":"favicon_facebook.png"
+        },
+        {
+            "title":"Wikipedia",
+            "url":"http://www.wikipedia.org/",
+            "thumbnail":"thumb_wikipedia.png",
+            "favicon":"favicon_wikipedia.png"
+        },
+        {
+            "title":"eBay",
+            "url":"http://www.ebay.com/",
+            "thumbnail":"thumb_ebay.png",
+            "favicon":"favicon_ebay.png"
+        },
+
+        {
+            "title":"CNN",
+            "url":"http://www.cnn.com/",
+            "thumbnail":"thumb_cnn.png",
+            "favicon":"favicon_cnn.png"
+        },
+        {
+            "title":"NY Times",
+            "url":"http://www.nytimes.com/",
+            "thumbnail":"thumb_nytimes.png",
+            "favicon":"favicon_nytimes.png"
+        },
+        {
+            "title":"ESPN",
+            "url":"http://espn.com/",
+            "thumbnail":"thumb_espn.png",
+            "favicon":"favicon_espn.png"
+        },
+        {
+            "title":"Amazon",
+            "url":"http://www.amazon.com/",
+            "thumbnail":"thumb_amazon.png",
+            "favicon":"favicon_amazon.png"
+        },
+
+        {
+            "title":"Weather Channel",
+            "url":"http://www.weather.com/",
+            "thumbnail":"thumb_weatherchannel.png",
+            "favicon":"favicon_weatherchannel.png"
+        },
+        {
+            "title":"BBC",
+            "url":"http://www.bbc.co.uk/",
+            "thumbnail":"thumb_bbc.png",
+            "favicon":"favicon_bbc.png"
+        }
+    ]
+}
