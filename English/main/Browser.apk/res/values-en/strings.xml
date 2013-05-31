@@ -37,6 +37,7 @@
   <string name="add_to_other_folder_menu_option">Other folder</string>
   <string name="add_xiaomi_account_warning">Please login Xiaomi account first</string>
   <string name="added_to_bookmarks">Added to bookmarks.</string>
+  <string name="alert_tips">The site you are visiting may pose a potential security risk, do you wish to continue?</string>
   <string name="allow">Allow</string>
   <string name="application_name">Browser</string>
   <string name="autofill_profile_editor_address_line_1">Address line 1:</string>
@@ -97,6 +98,8 @@
   <string name="choosertitle_sharevia">Share via</string>
   <string name="clear">Clear</string>
   <string name="clear_history">Clear history</string>
+  <string name="close_all_tab_alert_message">Are you sure you want to close all tabs?</string>
+  <string name="close_all_tab_alert_title">Close all Tabs</string>
   <string name="containing_folder">Add to</string>
   <string name="contextheader_folder_bookmarkcount" formatted="false">%d bookmarks</string>
   <string name="contextheader_folder_empty">Empty folder</string>
@@ -218,6 +221,10 @@
   <string name="move_to_up_folder">Up a level</string>
   <string name="multi_select_title">Selected %1$s item(s)</string>
   <string name="name">Label</string>
+  <string name="navigation_button_close">Close</string>
+  <string name="navigation_button_newtab">New</string>
+  <string name="navigation_button_tab">Tab</string>
+  <string name="navigation_button_view">View</string>
   <string name="new_folder">New folder</string>
   <string name="new_incognito_tab">New incognito tab</string>
   <string name="new_tab">New tab</string>
@@ -298,6 +305,7 @@
   <string name="pref_extras_website_settings">Website settings</string>
   <string name="pref_extras_website_settings_summary">Advanced settings for individual websites</string>
   <string name="pref_fling_on_border_enabled">Fling on border</string>
+  <string name="pref_fling_on_border_enabled_title_summary">Slide from border of screen</string>
   <string name="pref_fling_on_border_operation">Operation for fling on border</string>
   <string name="pref_font_size_category">Text size</string>
   <string name="pref_force_userscalable">Force enable zoom</string>

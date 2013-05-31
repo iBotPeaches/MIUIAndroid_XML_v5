@@ -72,4 +72,8 @@
         <item quantity="other">%d songs will be downloaded.</item>
         <item quantity="one">1 song will be downloaded.</item>
     </plurals>
+    <plurals name="Ntracks_remove_from_favorite_playlist">
+        <item quantity="other">%d songs removed from playlist.</item>
+        <item quantity="one">1 song removed from playlist.</item>
+    </plurals>
 </resources>
