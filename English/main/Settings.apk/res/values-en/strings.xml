@@ -19,16 +19,37 @@
   <string name="access_control_recording_intro_header">Draw pattern to create password lock</string>
   <string name="access_control_reset_by_account">Login Xiaomi account to reset access control password</string>
   <string name="accessibility_enable">Enable accessibility</string>
-  <string name="accessibility_long_press_timeout_title">Touch &amp; hold delay</string>
+  <string name="accessibility_feature_state_off">Off</string>
+  <string name="accessibility_feature_state_on">On</string>
+  <string name="accessibility_global_gesture_preference_description">"When this feature is turned on, you can quickly enable accessibility features in two steps:
+
+Step 1: Press and hold the power button until you hear a sound or feel a vibration.
+
+Step 2: Touch and hold two fingers until you hear audio confirmation.
+
+If the device has multiple users, using this shortcut on the lock screen temporarily enables accessibility until the device is unlocked."</string>
+  <string name="accessibility_global_gesture_preference_summary_off">Off</string>
+  <string name="accessibility_global_gesture_preference_summary_on">On</string>
+  <string name="accessibility_global_gesture_preference_title">Accessibility shortcut</string>
+  <string name="accessibility_long_press_timeout_preference_title">Touch &amp; hold delay</string>
   <string name="accessibility_menu_item_settings">Settings</string>
   <string name="accessibility_no_services_installed">No services installed</string>
-  <string name="accessibility_power_button_ends_call_title">Power button ends call</string>
+  <string name="accessibility_power_button_ends_call_prerefence_title">Power button ends call</string>
+  <string name="accessibility_screen_magnification_summary">"When this feature is turned on, you can zoom in and out by triple-tapping the screen.
+
+While zoomed in, you can:
+"<ul><li>"Pan: Drag two or more fingers across the screen.
+"<li>Adjust zoom level: Pinch two or more fingers together or spread them apart.</li></li></ul>"
+
+You can also temporarily magnify what's under your finger by triple-tapping and holding. In this magnified state, you can drag your finger to explore different parts of the screen. Lift your finger to return to your previous state.
+
+Note: Triple-tap for magnification works everywhere except the keyboard and navigation bar."</string>
+  <string name="accessibility_screen_magnification_title">Magnification gestures</string>
   <string name="accessibility_script_injection_allowed">Allowed</string>
   <string name="accessibility_script_injection_button_allow">Allow</string>
   <string name="accessibility_script_injection_button_disallow">"Don't allow"</string>
   <string name="accessibility_script_injection_disallowed">Not allowed</string>
   <string name="accessibility_script_injection_security_warning_summary">Do you want apps to install scripts from Google that make their web content more accessible?</string>
-  <string name="accessibility_script_injection_title">Enhance web accessibility</string>
   <string name="accessibility_service_default_description">No description provided.</string>
   <string name="accessibility_service_disable_warning_summary">Touching OK will stop %1$s.</string>
   <string name="accessibility_service_disable_warning_title">Stop %1$s?</string>
@@ -46,12 +67,18 @@
   <string name="accessibility_sync_enabled">Sync enabled</string>
   <string name="accessibility_sync_error">Sync error.</string>
   <string name="accessibility_system_title">System</string>
-  <string name="accessibility_toggle_large_text_title">Large text</string>
+  <string name="accessibility_toggle_large_text_preference_title">Large text</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Update screen magnification on app transitions</string>
+  <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Auto update screen magnification</string>
+  <string name="accessibility_toggle_screen_magnification_preference_title">Screen magnification</string>
+  <string name="accessibility_toggle_script_injection_preference_title">Enhance web accessibility</string>
+  <string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
   <string name="account_settings">Accounts</string>
   <string name="account_sync_settings_title">Sync</string>
   <string name="activating">Activating...</string>
   <string name="active_device_admin_msg">Device administrator</string>
   <string name="active_input_method_subtypes">Active input methods</string>
+  <string name="activity_not_found">Application is not installed on your phone.</string>
   <string name="activity_picker_label">Choose activity</string>
   <string name="adb_warning_message">USB debugging is intended for development purposes only. Use it to copy data between your computer and your device, install apps on your device without notification, and read log data.</string>
   <string name="adb_warning_title">Allow USB debugging?</string>
@@ -66,6 +93,7 @@
   <string name="airplane_mode">Airplane mode</string>
   <string name="alarm_volume_title">Alarm</string>
   <string name="all_volume_title">Volumes</string>
+  <string name="allow">Allow</string>
   <string name="allow_bind_app_widget_activity_allow_bind">After you create the widget, %1$s can access all data it displays.</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Create widget and allow access?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">Always allow %1$s to create widgets and access their data</string>
@@ -125,6 +153,8 @@
   <string name="app_not_found_dlg_title"/>
   <string name="app_notifications_switch_label">Show notifications</string>
   <string name="app_process_limit_title">Background process limit</string>
+  <string name="app_special_disable_dlg_text">If you disable a built-in app, other apps may misbehave. Your data will also be deleted.</string>
+  <string name="app_special_disable_dlg_title">Delete data and disable app?</string>
   <string name="application_forbid_auto_startup">Disable%s to startup in background</string>
   <string name="application_info_label">App info</string>
   <string name="application_item_already_permission">Allowed</string>
@@ -138,6 +168,7 @@
   <string name="assisted_gps">Use assisted GPS</string>
   <string name="assisted_gps_disabled">Use server to assist GPS (uncheck to improve GPS performance)</string>
   <string name="assisted_gps_enabled">Use server to assist GPS (uncheck to reduce network usage)</string>
+  <string name="audio_profile_settings_title">Audio profiles</string>  
   <string name="audio_record_proc_title">Noise cancellation</string>
   <string name="auto_caps">Auto-capitalization</string>
   <string name="auto_caps_summary">Capitalize first letter in sentences</string>
@@ -190,6 +221,7 @@
   <string name="battery_desc_display">Battery used by the display and backlight</string>
   <string name="battery_desc_radio">Battery used by cell radio</string>
   <string name="battery_desc_standby">Battery used when phone is idle</string>
+  <string name="battery_desc_users">Battery used by user</string>
   <string name="battery_desc_voice">Battery used by voice calls</string>
   <string name="battery_desc_wifi">Battery used by Wi-Fi</string>
   <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
@@ -215,12 +247,14 @@
   <string name="battery_info_power_unknown">Unknown</string>
   <string name="battery_info_power_unplugged">Unplugged</string>
   <string name="battery_info_power_usb">USB</string>
+  <string name="battery_info_power_wireless">wireless</string>
   <string name="battery_info_scale_label">Battery scale:</string>
   <string name="battery_info_screen_on">Screen ON time:</string>
   <string name="battery_info_status_charging">Charging</string>
   <string name="battery_info_status_charging_ac">(AC)</string>
   <string name="battery_info_status_charging_usb">(USB)</string>
-  <string name="battery_info_status_discharging">Discharging</string>
+  <string name="battery_info_status_charging_wireless">(wireless)</string>
+  <string name="battery_info_status_discharging">Not charging</string>
   <string name="battery_info_status_full">Full</string>
   <string name="battery_info_status_label">Battery status:</string>
   <string name="battery_info_status_not_charging">Not charging</string>
@@ -431,6 +465,10 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="brightness_auto_adjust_on">Auto brightness effect can be adjusted by moving slider. Screen brightness effect will vary with your adjustment and surroundings.</string>
   <string name="brightness_summary">Adjust the brightness of the screen</string>
   <string name="bssid_label">BSSID:</string>
+  <string name="bugreport_in_power">Power menu bug reports</string>
+  <string name="bugreport_in_power_summary">Include option in power menu for taking a bug report</string>
+  <string name="bugreport_tool_log_toast">Log saved to %s</string>
+  <string name="bugreport_tool_log_toast_generate_bugreport">Generating bug report, takes about 1 minute</string>
   <string name="build_number">Build number</string>
   <string name="builtin_keyboard_settings_summary">Physical keyboard settings</string>
   <string name="builtin_keyboard_settings_title">Physical keyboard</string>
@@ -589,7 +627,10 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="data_usage_metered_wifi_disabled">To select mobile hotspots, turn Wi-Fi on.</string>
   <string name="data_usage_pick_cycle_day">Day of month to reset data usage cycle:</string>
   <string name="data_usage_received_sent">%1$s received, %2$s sent</string>
-  <string name="data_usage_restrict_background">"If you restrict background mobile data, some apps and services won't work unless you're connected to a Wi-Fi network."</string>
+  <string name="data_usage_restrict_background">"If you restrict background mobile data, some apps and services won't work unless you're connected to a WLAN network."</string>
+  <string name="data_usage_restrict_background_multiuser">"If you restrict background mobile data, some apps and services won't work unless you're connected to a WLAN network.
+
+This setting affects all users on this phone."</string>
   <string name="data_usage_restrict_background_title">Restrict background data?</string>
   <string name="data_usage_restrict_denied_dialog">"Restricting background data is possible only when you've set a mobile data limit."</string>
   <string name="data_usage_summary_title">Data usage</string>
@@ -603,6 +644,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="data_usage_total_during_range">%2$s: about %1$s used.</string>
   <string name="data_usage_total_during_range_mobile">"%2$s: about %1$s used, as measured by your phone. Your carrier's data usage accounting may differ."</string>
   <string name="data_usage_uninstalled_apps">Removed apps</string>
+  <string name="data_usage_uninstalled_apps_users">Removed apps and users</string>
   <string name="data_usage_warning_editor_title">Set data usage warning</string>
   <string name="date_and_time">Date &amp; time settings</string>
   <string name="date_and_time_settings_summary">Set date, time, time zone, &amp; formats</string>
@@ -636,6 +678,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="default_input_method">Choose Default Input Method</string>
   <string name="default_usb_mode">Default USB connection type</string>
   <string name="delete">Delete</string>
+  <string name="deny">Deny</string>
   <string name="details_subtitle">Use details</string>
   <string name="details_title">Use details</string>
   <string name="dev_settings_warning_message">These settings are intended for development use only. They can cause your device and the applications on it to break or misbehave.</string>
@@ -767,6 +810,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="enable_adb_summary">Debug mode when USB is connected</string>
   <string name="enable_compatibility">Scale app</string>
   <string name="enable_drive_mode">Enable Drive mode</string>
+  <string name="enable_opengl_traces_title">Enable OpenGL traces</string>
   <string name="enable_snapshot_screenlock">Hold key to snapshot when screen lock</string>
   <string name="enable_text">Enable</string>
   <string name="enable_traces_dialog_title">Select enabled traces</string>
@@ -774,6 +818,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="enable_traces_summary_none">No traces currently enabled</string>
   <string name="enable_traces_summary_num">%1$d traces currently enabled</string>
   <string name="enable_traces_title">Enable traces</string>
+  <string name="enable_wifi_display">Enable Wireless display</string>
   <string name="enforce_read_external_confirm_message">"When USB storage is protected, apps must request permission to read data from external storage.
 
 Some apps may not work until updated by their developers."</string>
@@ -824,19 +869,38 @@ Some apps may not work until updated by their developers."</string>
   <string name="font_size_summary">Adjust font size or layouts of Apps such as Phone, SMS, Contacts and so on, to increase the readability and usability.</string>
   <string name="force_hw_ui">Force GPU rendering</string>
   <string name="force_hw_ui_summary">Force use of GPU for 2d drawing</string>
+  <string name="force_msaa">Force 4x MSAA</string>
+  <string name="force_msaa_summary">Enable 4x MSAA in OpenGL ES 2.0 apps</string>
   <string name="force_stop">Force stop</string>
   <string name="force_stop_dlg_text">If you force stop an app, it may misbehave.</string>
   <string name="force_stop_dlg_title">Force stop?</string>
   <string name="forget_wifi_message">Stops network from automatically connecting and may need to re-enter password to reconnect</string>
   <string name="frequently_fragment_delete">Delete</string>
   <string name="frequently_fragment_tempty">Frequently used items will be listed here</string>
+  <string name="gadget_bluetooth">Bluetooth</string>
+  <string name="gadget_brightness_state_auto">auto</string>
+  <string name="gadget_brightness_state_full">full</string>
+  <string name="gadget_brightness_state_half">half</string>
+  <string name="gadget_brightness_state_off">off</string>
+  <string name="gadget_brightness_template">Brightness %1$s</string>
+  <string name="gadget_gps">GPS</string>
   <string name="gadget_picker_title">Choose gadget</string>
+  <string name="gadget_state_off">off</string>
+  <string name="gadget_state_on">on</string>
+  <string name="gadget_state_template">%1$s %2$s</string>
+  <string name="gadget_state_turning_off">turning off</string>
+  <string name="gadget_state_turning_on">turning on</string>
+  <string name="gadget_sync">Sync</string>
   <string name="gadget_title">Power control</string>
   <string name="gadget_toggle_bluetooth">Updating Bluetooth setting</string>
   <string name="gadget_toggle_wifi">Updating Wi-Fi settings</string>
+  <string name="gadget_wifi">Wi-Fi</string>
   <string name="game_controller_settings_category">Game Controller</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
+  <string name="global_change_warning">This setting affects all users on this phone.</string>
+  <string name="global_font_change_title">Change font size</string>
+  <string name="global_locale_change_title">Change language</string>
   <string name="haptic_feedback_enable_title">Vibrate on touch</string>
   <string name="haptic_feedback_level">Vibration level</string>
   <string name="hardkeyboard_category">Physical keyboard settings</string>
@@ -859,9 +923,13 @@ Some apps may not work until updated by their developers."</string>
   <string name="help_url_bluetooth"/>
   <string name="help_url_choose_lockscreen"/>
   <string name="help_url_data_usage"/>
+  <string name="help_url_dreams"/>
+  <string name="help_url_location_access"/>
   <string name="help_url_more_networks"/>
+  <string name="help_url_security"/>
   <string name="help_url_sound"/>
   <string name="help_url_tether"/>
+  <string name="help_url_users"/>
   <string name="help_url_vpn"/>
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Hidden SSID:</string>
@@ -891,6 +959,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="input_settings">Input settings</string>
   <string name="install_all_warning">Your phone and personal data are more vulnerable to attack by apps from unknown sources. You agree that you are solely responsible for any damage to your phone or loss of data that may result from using these apps.</string>
   <string name="install_applications">Unknown sources</string>
+  <string name="install_text">Install</string>
   <string name="install_unknown_applications">Allow installation of apps from unknown sources</string>
   <string name="insufficient_storage">Not enough storage space.</string>
   <string name="intent_sender_account_label">Account:</string>
@@ -947,11 +1016,14 @@ Some apps may not work until updated by their developers."</string>
   <string name="local_backup_password_toast_confirmation_mismatch">"New password and confirmation don't match"</string>
   <string name="local_backup_password_toast_success">New backup password set</string>
   <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
+  <string name="location_access_summary">Let apps that have asked your permission use your location information</string>
+  <string name="location_access_title">Access to my location</string>  
   <string name="location_gps">GPS satellites</string>
   <string name="location_neighborhood_level">Allow anonymous location data to be sent to Google. Also allow permitted apps to use data from sources such as Wi-Fi and mobile networks to determine your approximate location.</string>
   <string name="location_neighborhood_level_wifi">Location determined by Wi-Fi</string>
   <string name="location_network_based">"Google's location service"</string>
   <string name="location_settings_title">Location services</string>
+  <string name="location_sources_heading">Location sources</string>
   <string name="location_street_level">Let apps use GPS to pinpoint your location</string>
   <string name="location_title">My Location</string>
   <string name="lock_after_timeout">Automatically lock</string>
@@ -1077,9 +1149,13 @@ Attention: this operation cannot be undone."</string>
   <string name="memory">RAM</string>
   <string name="memory_apps_usage">Apps (app data &amp; media content)</string>
   <string name="memory_available">Available</string>
+  <string name="memory_available_read_only">Available (read-only)</string>
   <string name="memory_calculating_size">Calculating…</string>
+  <string name="memory_clear_cache_message">This will clear cached data for all apps.</string>
+  <string name="memory_clear_cache_title">Clear cached data?</string>
   <string name="memory_dcim_usage">Pictures, videos</string>
   <string name="memory_downloads_usage">Downloads</string>
+  <string name="memory_media_cache_usage">Cached data</string>
   <string name="memory_media_misc_usage">Misc.</string>
   <string name="memory_media_usage">Media</string>
   <string name="memory_music_usage">Audio (music, ringtones, podcasts, etc.)</string>
@@ -1161,6 +1237,7 @@ please follow the steps to complete installation"</string>
   <string name="no_running_services">Nothing running.</string>
   <string name="no_services">Not active</string>
   <string name="normal_date_format">Regional (%s)</string>
+  <string name="not_installed">Not installed</string>
   <string name="notification_pulse_title">Pulse notification light</string>
   <string name="notification_sound_dialog_title">Choose notification ringtone</string>
   <string name="notification_sound_title">Default notification</string>
@@ -1171,6 +1248,7 @@ please follow the steps to complete installation"</string>
   <string name="oem_radio_info_label">OEM-specific Info/Settings</string>
   <string name="onscreen_keyboard_settings_summary">Onscreen keyboard settings</string>
   <string name="other_relative">Other permissions</string>
+  <string name="overlay_display_devices_title">Simulate secondary displays</string>
   <string name="owner_info_settings_edit_text_hint">Type text to display on the lock screen</string>
   <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Owner info</string>
@@ -1450,6 +1528,7 @@ please follow the steps to complete installation"</string>
   <string name="radio_info_band_mode_label">Select radio band</string>
   <string name="radio_info_call_redirect_label">Call redirect:</string>
   <string name="radio_info_call_status_label">Call status:</string>
+  <string name="radio_info_cellinfo_label">CellInfo:</string>
   <string name="radio_info_current_network_label">Current network:</string>
   <string name="radio_info_data_attempts_label">Data attempts:</string>
   <string name="radio_info_data_successes_label">Data successes:</string>
@@ -1481,8 +1560,9 @@ please follow the steps to complete installation"</string>
   <string name="really_remove_account_title">Remove account?</string>
   <string name="recognizer_settings_summary">"Settings for '%s'"</string>
   <string name="recognizer_settings_title">Voice Search</string>
-  <string name="recognizer_title">Voice recognition</string>
+  <string name="recognizer_title">Voice recognizer</string>
   <string name="recompute_size">Recomputing size…</string>
+  <string name="regulatory_information">Regulatory information</string>
   <string name="remove_account_failed">This account is required by some apps. You can only remove it by resetting the phone to factory defaults (which deletes all your personal data) in Settings &gt; Backup &amp; reset.</string>
   <string name="remove_account_label">Remove account</string>
   <string name="remove_device_admin">Deactivate</string>
@@ -1506,7 +1586,12 @@ please follow the steps to complete installation"</string>
   <string name="roaming_reenable_title">Allow data roaming?</string>
   <string name="roaming_turn_it_on_button">Turn it on</string>
   <string name="roaming_warning">When you allow data roaming, you may incur significant roaming charges!</string>
+  <string name="roaming_warning_multiuser">"When you allow data roaming, you may incur significant roaming charges!
+
+This setting affects all users on this phone."</string>  
   <string name="rssi_label">RSSI:</string>
+  <string name="running_process_item_removed_user_label">Removed user</string>
+  <string name="running_process_item_user_label">User: %1$s</string>
   <string name="running_processes_item_description_p_p">%1$d processes and %2$d services</string>
   <string name="running_processes_item_description_p_s">%1$d processes and %2$d service</string>
   <string name="running_processes_item_description_s_p">%1$d process and %2$d services</string>
@@ -1534,15 +1619,18 @@ please follow the steps to complete installation"</string>
   <string name="screen_timeout">Sleep</string>
   <string name="screen_timeout_summary">After %1$s of inactivity</string>
   <string name="screen_timeout_title">Screen on sleep mode</string>
+  <string name="screensaver_settings_button">Settings</string>
+  <string name="screensaver_settings_disabled_prompt">To control what happens when the phone is docked and/or sleeping, turn Daydream on.</string>
+  <string name="screensaver_settings_dream_start">Start now</string>
   <string name="screensaver_activate_on_dock_title">Also start when docked</string>
   <string name="screensaver_component_title">Selected candy</string>
+  <string name="screensaver_settings_summary_dock">While docked</string>
+  <string name="screensaver_settings_summary_either_long">When docked or asleep and charging</string>
+  <string name="screensaver_settings_summary_either_short">Either</string>
   <string name="screensaver_settings_summary_off">Disabled</string>
-  <string name="screensaver_settings_summary_on">Will start upon sleep if connected to power</string>
+  <string name="screensaver_settings_summary_sleep">While charging</string>
   <string name="screensaver_settings_title">Screen Candy</string>
-  <string name="screensaver_test">Try it!</string>
-  <string name="screensaver_timeout_summary">After %1$s spent idle</string>
-  <string name="screensaver_timeout_title">When to activate</string>
-  <string name="screensaver_timeout_zero_summary">Never</string>
+  <string name="screensaver_settings_when_to_dream">When to daydream</string>
   <string name="sd_card_settings_label">USB storage</string>
   <string name="sd_card_storage">USB storage</string>
   <string name="sd_eject">Unmount shared storage</string>
@@ -1605,16 +1693,21 @@ please follow the steps to complete installation"</string>
   <string name="security_passwords_title">Passwords</string>
   <string name="security_privacy_settings_title">Security &amp; privacy</string>
   <string name="security_relative">Security related</string>
+  <string name="security_settings_billing_desc">This app may charge you money:</string>
   <string name="security_settings_desc">This app can access the following on your phone:</string>
   <string name="security_settings_desc_multi">This app can access the following on your phone. In order to improve performance and reduce memory usage, some of these permissions are available to %1$s because it runs in the same process as %2$s:</string>
-  <string name="security_settings_summary">Set My Location, screen unlock, SIM card lock, credential storage lock</string>
+  <string name="security_settings_premium_sms_desc">Send premium SMS</string>  
+  <string name="security_settings_summary">Set My Location, screen unlock, SIM card lock, credential storage lock</string>  
   <string name="security_settings_title">Security</string>
   <string name="sel_sub_summary">Select the Subscription for SUB-1 and SUB-2</string>
   <string name="sel_sub_title">Configure Subscriptions</string>
   <string name="select_all">Select all</string>
   <string name="select_application">Select application</string>
   <string name="select_device_admin_msg">Device administrators</string>
-  <string name="select_subscription">Select Subscription</string>
+  <string name="selinux_status">SELinux status</string>
+  <string name="selinux_status_disabled">Disabled</string>
+  <string name="selinux_status_enforcing">Enforcing</string>
+  <string name="selinux_status_permissive">Permissive</string>
   <string name="service_background_processes">%1$s free</string>
   <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s used</string>
@@ -1649,8 +1742,14 @@ please follow the steps to complete installation"</string>
   <string name="show_background_processes">Show cached processes</string>
   <string name="show_cpu_usage">Show CPU usage</string>
   <string name="show_cpu_usage_summary">Screen overlay showing current CPU usage</string>
+  <string name="show_dev_already">No need, you are already a developer.</string>
+  <string name="show_dev_on">You are now a developer!</string>
   <string name="show_fc">Show FCs</string>
   <string name="show_fc_summary">Show Force closed apps</string>
+  <string name="show_hw_layers_updates">Show hardware layers updates</string>
+  <string name="show_hw_layers_updates_summary">Flash hardware layers green when they update</string>
+  <string name="show_hw_overdraw">Show GPU overdraw</string>
+  <string name="show_hw_overdraw_summary">From best to worst: blue, green, light red, red</string>
   <string name="show_hw_screen_updates">Show GPU view updates</string>
   <string name="show_hw_screen_updates_summary">Flash views inside windows when drawn with the GPU</string>
   <string name="show_magnifier_when_input">Show magnifier</string>
@@ -1663,6 +1762,7 @@ please follow the steps to complete installation"</string>
   <string name="show_screen_updates_summary">Flash entire window surfaces when they update</string>
   <string name="show_touches">Show touches</string>
   <string name="show_touches_summary">Show visual feedback for touches</string>
+  <string name="show_user_info_on_lockscreen_label">Show user info on lock screen</string>
   <string name="silent_mode_title">Silent mode</string>
   <string name="sim_absent">No SIM/RUIM</string>
   <string name="sim_bad_pin">Incorrect PIN</string>
@@ -1733,6 +1833,7 @@ Attempts Remaining :"</string>
   <string name="status_icc_id">ICCID</string>
   <string name="status_imei">IMEI</string>
   <string name="status_imei_sv">IMEI SV</string>
+  <string name="status_latest_area_info">Operator info</string>
   <string name="status_meid_number">MEID</string>
   <string name="status_min_number">MIN</string>
   <string name="status_msid_number">MSID</string>
@@ -1753,6 +1854,7 @@ Attempts Remaining :"</string>
   <string name="storage_low_summary">Some system functions, such as syncing, may not work correctly. Try to free space by deleting or unpinning items, such as apps or media content.</string>
   <string name="storage_low_title">Storage space is running out</string>
   <string name="storage_menu_usb">USB computer connection</string>
+  <string name="storage_other_users">Other users</string>
   <string name="storage_settings">Storage</string>
   <string name="storage_settings_summary">Unmount USB storage, view available storage</string>
   <string name="storage_settings_title">Storage settings</string>
@@ -1864,6 +1966,7 @@ Attempts Remaining :"</string>
   <string name="turn_off_radio">Turn off radio</string>
   <string name="turn_on_radio">Turn on radio</string>
   <string name="under_keyguard">On lock screen</string>
+  <string name="uninstall_all_users_text">Uninstall for all users</string>
   <string name="uninstall_text">Uninstall</string>
   <string name="unknown">Unknown</string>
   <string name="unlock_backup_info_summary">"When Face Unlock can't see you, how do you want to unlock?"</string>
@@ -1942,9 +2045,24 @@ Attempts Remaining :"</string>
   <string name="use_location_summary">Let Google use your location to improve search results and other services</string>
   <string name="use_location_title">Location &amp; Google search</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
+  <string name="user_account_title">Account for content</string>  
   <string name="user_add_user_menu">Add user</string>
-  <string name="user_confirm_remove_message">Are you sure you want to remove the user and all associated data from the device?</string>
+  <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like WLAN that affect everyone.
+
+After you create a new user, that person needs to go through a setup process.
+
+Any user can accept updated app permissions on behalf of all other users."</string>
+ <string name="user_add_user_message_short">"After you create a new user, that person needs to go through a setup process.
+
+Any user can accept updated app permissions on behalf of all other users."</string>
+  <string name="user_add_user_title">Add new user</string>
+  <string name="user_adding_new_user">Adding new user…</string>
+  <string name="user_cannot_manage_message">"Only the phone's owner can manage users."</string>
+  <string name="user_confirm_remove_message">"This user's space and data will disappear from this phone. You can't undo this action."</string>
+  <string name="user_confirm_remove_self_message">"You will lose your space and data on this phone. You can't undo this action."</string>
+  <string name="user_confirm_remove_self_title">Delete yourself?</string>
   <string name="user_confirm_remove_title">Remove user?</string>
+  <string name="user_delete_button">Delete</string>
   <string name="user_details_title">Edit details</string>
   <string name="user_dict_multiple_settings_title">Personal dictionaries</string>
   <string name="user_dict_settings_add_dialog_confirm">OK</string>
@@ -1965,18 +2083,26 @@ Attempts Remaining :"</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_titlebar">User dictionary</string>
   <string name="user_dict_single_settings_title">Personal dictionary</string>
-  <string name="user_discard_user_menu">Discard</string>
-  <string name="user_information_heading">User information</string>
-  <string name="user_list_title">Users</string>
-  <string name="user_market_apps_heading">Installed apps</string>
-  <string name="user_market_requires_pin">Require PIN</string>
-  <string name="user_max_content_rating">Content rating</string>
-  <string name="user_name_title">Name</string>
-  <string name="user_new_user_name">Pesky kid</string>
-  <string name="user_remove_user_menu">Remove user</string>
-  <string name="user_restrictions_heading">Content restrictions</string>
-  <string name="user_settings_title">Users &amp; restrictions</string>
-  <string name="user_system_apps_heading">System apps</string>
+  <string name="user_info_settings_title">User info</string>
+  <string name="user_list_title">Other users</string>
+  <string name="user_new_user_name">New user</string>
+  <string name="user_nickname">Nickname</string>
+  <string name="user_owner">Owner</string>
+  <string name="user_picture_title">Photo ID</string>
+  <string name="user_remove_user_menu">Delete %1$s from this device</string>
+  <string name="user_settings_title">Users</string>
+  <string name="user_setup_button_setup_later">Not now</string>
+  <string name="user_setup_button_setup_now">Set up now</string>
+  <string name="user_setup_dialog_message">Make sure the person is available to take the tablet and set up their space</string>
+  <string name="user_setup_dialog_title">Set up user now?</string>
+  <string name="user_summary_active">Active</string>
+  <string name="user_summary_inactive">Not active</string>
+  <string name="user_summary_not_set_up">Not set up</string>
+  <string name="user_you_section">You</string>
+  <string name="verify_applications">Verify apps</string>
+  <string name="verify_applications_summary">Disallow or warn before installation of apps that may cause harm</string>
+  <string name="verify_apps_over_usb_summary">Check apps installed via ADB/ADT for harmful behavior.</string>
+  <string name="verify_apps_over_usb_title">Verify apps over USB</string>
   <string name="version_text">version %1$s</string>
   <string name="vibrate_category_title">Vibrate</string>
   <string name="vibrate_in_normal_title">Vibrate in normal mode</string>
@@ -2014,7 +2140,7 @@ Attempts Remaining :"</string>
   <string name="virus_scanner_select_multi">Selecting more than one virus database will slow down installation and scanning.</string>
   <string name="virus_scanner_select_single">It is recommended to choose your most trusted virus database</string>
   <string name="virus_scanner_select_trust_lib">Select trusted virus database</string>
-  <string name="virus_scanner_title">Virus Scan</string>
+  <string name="virus_scanner_title">Anti Virus</string>
   <string name="virus_scanner_update_lib">Update virus database</string>
   <string name="voice_category">Speech</string>
   <string name="voice_input_output_settings">Voice input &amp; output</string>
@@ -2050,8 +2176,12 @@ Attempts Remaining :"</string>
   <string name="vpn_ipsec_server_cert">IPSec server certificate</string>
   <string name="vpn_ipsec_user_cert">IPSec user certificate</string>
   <string name="vpn_l2tp_secret">L2TP secret</string>
+  <string name="vpn_lockdown_config_error">Always-on VPN requires an IP address for both server and DNS.</string>
+  <string name="vpn_lockdown_none">None</string>
+  <string name="vpn_lockdown_summary">Select a VPN profile to always remain connected to. Network traffic will only be allowed when connected to this VPN.</string>
   <string name="vpn_menu_delete">Delete profile</string>
   <string name="vpn_menu_edit">Edit profile</string>
+  <string name="vpn_menu_lockdown">Always-on VPN</string>
   <string name="vpn_missing_cert">A certificate is missing. Please edit the profile.</string>
   <string name="vpn_mppe">PPP encryption (MPPE)</string>
   <string name="vpn_name">Name</string>
@@ -2094,11 +2224,13 @@ Attempts Remaining :"</string>
   <string name="wifi_advanced_mac_address_title">MAC address</string>
   <string name="wifi_advanced_settings_label">IP settings</string>
   <string name="wifi_advanced_titlebar">Advanced Wi-Fi</string>
+  <string name="wifi_and_mobile_skipped_message">"WARNING: The phone won't be able to verify that your software is up to date."</string>
   <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_cancel">Cancel</string>
   <string name="wifi_certificate">Certificate</string>
   <string name="wifi_config_info">Wi-Fi config</string>
   <string name="wifi_connect">Connect</string>
+  <string name="wifi_connect_failed_message">The phone was unable to connect to this WLAN network.</string>
   <string name="wifi_context_menu_change_password">Change password</string>
   <string name="wifi_context_menu_change_wapi_certificate">Change WAPI Certificate</string>
   <string name="wifi_context_menu_connect">Connect to network</string>
@@ -2107,10 +2239,32 @@ Attempts Remaining :"</string>
   <string name="wifi_disabled_help">Network was disconnected due to poor connection. To adjust this setting, go to Settings &gt; Wi-Fi Screen, Advance Menu.</string>
   <string name="wifi_disabled_network_failure">Avoided poor Internet connection</string>
   <string name="wifi_disabled_password_failure">Authentication problem</string>
+  <string name="wifi_display_available_devices">Available devices</string>
+  <string name="wifi_display_details">Display settings</string>
+  <string name="wifi_display_disconnect_text">This will end your connection with:&lt;br>&lt;b>%1$s&lt;/b></string>
+  <string name="wifi_display_disconnect_title">Disconnect?</string>
+  <string name="wifi_display_no_devices_found">No nearby wireless displays were found.</string>
+  <string name="wifi_display_options_done">Done</string>
+  <string name="wifi_display_options_forget">Forget</string>
+  <string name="wifi_display_options_name">Name</string>
+  <string name="wifi_display_options_title">Wireless display options</string>
+  <string name="wifi_display_paired_devices">Paired displays</string>
+  <string name="wifi_display_search_for_devices">Search for displays</string>
+  <string name="wifi_display_searching_for_devices">Searching…</string>
+  <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wireless display is disabled because WLAN is off.</string>
+  <string name="wifi_display_settings_empty_list_wifi_display_off">To see devices, turn wireless display on.</string>
+  <string name="wifi_display_settings_title">Wireless display</string>
+  <string name="wifi_display_status_available">Available</string>
+  <string name="wifi_display_status_connected">Connected</string>
+  <string name="wifi_display_status_connecting">Connecting</string>
+  <string name="wifi_display_summary_disabled">Disabled</string>
+  <string name="wifi_display_summary_off">Off</string>
+  <string name="wifi_display_summary_on">On</string>
   <string name="wifi_dns1">DNS 1</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
   <string name="wifi_dns2_hint">4.4.4.4</string>
+  <string name="wifi_dont_skip">"Don't skip"</string>
   <string name="wifi_eap_anonymous">Anonymous identity</string>
   <string name="wifi_eap_ca_cert">CA certificate</string>
   <string name="wifi_eap_identity">Identity</string>
@@ -2142,6 +2296,7 @@ Attempts Remaining :"</string>
   <string name="wifi_menu_connect">Connect to network</string>
   <string name="wifi_menu_forget">Forget network</string>
   <string name="wifi_menu_modify">Modify network</string>
+  <string name="wifi_menu_more_options">More options</string>
   <string name="wifi_menu_p2p">Wi-Fi Direct</string>
   <string name="wifi_menu_scan">Scan</string>
   <string name="wifi_menu_wfd">Wi-Fi Display</string>
@@ -2157,6 +2312,7 @@ Attempts Remaining :"</string>
   <string name="wifi_other_network">Other network…</string>
   <string name="wifi_p2p_cancel_connect_message">Do you want to cancel invitation to connect with %1$s?</string>
   <string name="wifi_p2p_cancel_connect_title">Cancel invitation?</string>
+  <string name="wifi_p2p_delete_group_message">Forget this group?</string>
   <string name="wifi_p2p_device_info">Device information</string>
   <string name="wifi_p2p_disconnect_message">If you disconnect, your connection with %1$s will end.</string>
   <string name="wifi_p2p_disconnect_multiple_message">If you disconnect, your connection with %1$s and %2$s other devices will end.</string>
@@ -2171,6 +2327,7 @@ Attempts Remaining :"</string>
   <string name="wifi_p2p_menu_searching">Searching…</string>
   <string name="wifi_p2p_peer_devices">Peer devices</string>
   <string name="wifi_p2p_persist_network">Remember this connection</string>
+  <string name="wifi_p2p_remembered_groups">Remembered groups</string>
   <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
   <string name="wifi_p2p_wps_setup">Wi-Fi protected setup</string>
   <string name="wifi_password">Password</string>
@@ -2179,6 +2336,7 @@ Attempts Remaining :"</string>
   <string name="wifi_quick_toggle_summary">Turn on Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Saved</string>
+  <string name="wifi_required_info_text">To complete setup, your tablet needs access to WLAN. After setup, you can switch between mobile data and WLAN.</string>
   <string name="wifi_save">Save</string>
   <string name="wifi_secured_first_item">Secured with %1$s</string>
   <string name="wifi_secured_second_item">, secured with %1$s</string>
@@ -2240,6 +2398,10 @@ Attempts Remaining :"</string>
   <string name="wifi_show_advanced">Show advanced options</string>
   <string name="wifi_show_password">Show password</string>
   <string name="wifi_signal">Signal strength</string>
+  <string name="wifi_skip_anyway">Skip anyway</string>
+  <string name="wifi_skipped_message">"WARNING: You may incur extra carrier data charges.
+
+Phone setup can require significant network activity."</string>
   <string name="wifi_speed">Link speed</string>
   <string name="wifi_ssid">Network SSID</string>
   <string name="wifi_starting">Turning Wi-Fi on...</string>
@@ -2252,12 +2414,17 @@ Attempts Remaining :"</string>
   <string name="wifi_status">Status</string>
   <string name="wifi_status_test">Wi-Fi status</string>
   <string name="wifi_stopping">Turning off Wi-Fi...</string>
+  <string name="wifi_suspend_optimizations">WLAN optimization</string>
+  <string name="wifi_suspend_optimizations_summary">Minimize battery usage when WLAN is on</string>
   <string name="wifi_tether_checkbox_text">Portable Wi-Fi hotspot</string>
   <string name="wifi_tether_configure_ap_text">Set up Wi-Fi hotspot</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s portable Wi-Fi hotspot</string>
   <string name="wifi_tether_enabled_subtext">Portable hotspot %1$s active</string>
-  <string name="wifi_tether_failed_subtext">Portable Wi-Fi hotspot error</string>
+  <string name="wifi_tether_failed_subtext">Portable Wi-Fi Hotspot error</string>
+  <string name="wifi_tether_setting_title">Basic settings</string>
+  <string name="wifi_tether_starting">Turning hotspot on…</string>
+  <string name="wifi_tether_stopping">Turning off hotspot…</string>
   <string name="wifi_unchanged">(unchanged)</string>
   <string name="wifi_unspecified">(unspecified)</string>
   <string name="wifi_update">Refresh stats</string>
