@@ -450,6 +450,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="loading_group_members">Loading group members…</string>
   <string name="loading_groups">Loading groups…</string>
   <string name="loading_recent">Loading recent contacts…</string>
+  <string name="loading_resource_detail_fail">Failed to load resource!</string>
   <string name="loading_resource_detail_info">Loading resource info...</string>
   <string name="local_invisible_directory">Other</string>
   <string name="local_profile_title">My local profile</string>
@@ -751,6 +752,7 @@ To add a contact to your list of favorites:
   <string name="resource_title">Resource details</string>
   <string name="resource_title_select_ringtone">Select ringtone</string>
   <string name="resource_update">Update</string>
+  <string name="resource_waiting_download">Waiting to download...</string>
   <string name="restore_nickname">Restore</string>
   <string name="ret_sign">" "</string>
   <string name="returnCall">Return call</string>

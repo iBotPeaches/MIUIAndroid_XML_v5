@@ -38,8 +38,8 @@ If the device has multiple users, using this shortcut on the lock screen tempora
   <string name="accessibility_screen_magnification_summary">"When this feature is turned on, you can zoom in and out by triple-tapping the screen.
 
 While zoomed in, you can:
-"<ul><li>"Pan: Drag two or more fingers across the screen.
-"<li>Adjust zoom level: Pinch two or more fingers together or spread them apart.</li></li></ul>"
+"&lt;ul&gt;&lt;li&gt;"Pan: Drag two or more fingers across the screen.
+"&lt;li&gt;Adjust zoom level: Pinch two or more fingers together or spread them apart.&lt;/li&gt;&lt;/li&gt;&lt;/ul&gt;"
 
 You can also temporarily magnify what's under your finger by triple-tapping and holding. In this magnified state, you can drag your finger to explore different parts of the screen. Lift your finger to return to your previous state.
 
@@ -168,7 +168,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="assisted_gps">Use assisted GPS</string>
   <string name="assisted_gps_disabled">Use server to assist GPS (uncheck to improve GPS performance)</string>
   <string name="assisted_gps_enabled">Use server to assist GPS (uncheck to reduce network usage)</string>
-  <string name="audio_profile_settings_title">Audio profiles</string>  
+  <string name="audio_profile_settings_title">Audio profiles</string>
   <string name="audio_record_proc_title">Noise cancellation</string>
   <string name="auto_caps">Auto-capitalization</string>
   <string name="auto_caps_summary">Capitalize first letter in sentences</string>
@@ -1017,7 +1017,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="local_backup_password_toast_success">New backup password set</string>
   <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
   <string name="location_access_summary">Let apps that have asked your permission use your location information</string>
-  <string name="location_access_title">Access to my location</string>  
+  <string name="location_access_title">Access to my location</string>
   <string name="location_gps">GPS satellites</string>
   <string name="location_neighborhood_level">Allow anonymous location data to be sent to Google. Also allow permitted apps to use data from sources such as Wi-Fi and mobile networks to determine your approximate location.</string>
   <string name="location_neighborhood_level_wifi">Location determined by Wi-Fi</string>
@@ -1588,7 +1588,7 @@ please follow the steps to complete installation"</string>
   <string name="roaming_warning">When you allow data roaming, you may incur significant roaming charges!</string>
   <string name="roaming_warning_multiuser">"When you allow data roaming, you may incur significant roaming charges!
 
-This setting affects all users on this phone."</string>  
+This setting affects all users on this phone."</string>
   <string name="rssi_label">RSSI:</string>
   <string name="running_process_item_removed_user_label">Removed user</string>
   <string name="running_process_item_user_label">User: %1$s</string>
@@ -1619,11 +1619,11 @@ This setting affects all users on this phone."</string>
   <string name="screen_timeout">Sleep</string>
   <string name="screen_timeout_summary">After %1$s of inactivity</string>
   <string name="screen_timeout_title">Screen on sleep mode</string>
+  <string name="screensaver_activate_on_dock_title">Also start when docked</string>
+  <string name="screensaver_component_title">Selected candy</string>
   <string name="screensaver_settings_button">Settings</string>
   <string name="screensaver_settings_disabled_prompt">To control what happens when the phone is docked and/or sleeping, turn Daydream on.</string>
   <string name="screensaver_settings_dream_start">Start now</string>
-  <string name="screensaver_activate_on_dock_title">Also start when docked</string>
-  <string name="screensaver_component_title">Selected candy</string>
   <string name="screensaver_settings_summary_dock">While docked</string>
   <string name="screensaver_settings_summary_either_long">When docked or asleep and charging</string>
   <string name="screensaver_settings_summary_either_short">Either</string>
@@ -1696,8 +1696,8 @@ This setting affects all users on this phone."</string>
   <string name="security_settings_billing_desc">This app may charge you money:</string>
   <string name="security_settings_desc">This app can access the following on your phone:</string>
   <string name="security_settings_desc_multi">This app can access the following on your phone. In order to improve performance and reduce memory usage, some of these permissions are available to %1$s because it runs in the same process as %2$s:</string>
-  <string name="security_settings_premium_sms_desc">Send premium SMS</string>  
-  <string name="security_settings_summary">Set My Location, screen unlock, SIM card lock, credential storage lock</string>  
+  <string name="security_settings_premium_sms_desc">Send premium SMS</string>
+  <string name="security_settings_summary">Set My Location, screen unlock, SIM card lock, credential storage lock</string>
   <string name="security_settings_title">Security</string>
   <string name="sel_sub_summary">Select the Subscription for SUB-1 and SUB-2</string>
   <string name="sel_sub_title">Configure Subscriptions</string>
@@ -2045,14 +2045,14 @@ Attempts Remaining :"</string>
   <string name="use_location_summary">Let Google use your location to improve search results and other services</string>
   <string name="use_location_title">Location &amp; Google search</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
-  <string name="user_account_title">Account for content</string>  
+  <string name="user_account_title">Account for content</string>
   <string name="user_add_user_menu">Add user</string>
   <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like WLAN that affect everyone.
 
 After you create a new user, that person needs to go through a setup process.
 
 Any user can accept updated app permissions on behalf of all other users."</string>
- <string name="user_add_user_message_short">"After you create a new user, that person needs to go through a setup process.
+  <string name="user_add_user_message_short">"After you create a new user, that person needs to go through a setup process.
 
 Any user can accept updated app permissions on behalf of all other users."</string>
   <string name="user_add_user_title">Add new user</string>
@@ -2241,7 +2241,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="wifi_disabled_password_failure">Authentication problem</string>
   <string name="wifi_display_available_devices">Available devices</string>
   <string name="wifi_display_details">Display settings</string>
-  <string name="wifi_display_disconnect_text">This will end your connection with:&lt;br>&lt;b>%1$s&lt;/b></string>
+  <string name="wifi_display_disconnect_text">This will end your connection with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
   <string name="wifi_display_disconnect_title">Disconnect?</string>
   <string name="wifi_display_no_devices_found">No nearby wireless displays were found.</string>
   <string name="wifi_display_options_done">Done</string>

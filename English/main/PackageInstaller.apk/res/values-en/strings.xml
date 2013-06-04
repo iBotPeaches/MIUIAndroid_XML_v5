@@ -11,6 +11,7 @@
   <string name="caller_app">Caller: %1$s</string>
   <string name="cancel">Cancel</string>
   <string name="dlg_app_replacement_statement">"The application you are installing will replace another application. All previous user data will be saved."</string>
+  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) will replace the current version (%3$s). User’s contents will be retained. Are you sure you wish to install?"</string>
   <string name="dlg_app_replacement_title">Replace application</string>
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">"This is a system application. Do you still want to replace it? All previous user data will be saved."</string>

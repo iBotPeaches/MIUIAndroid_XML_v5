@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_account_desc">Notes can be synced to your Xiaomi account. Login and sync now?</string>
+  <string name="alert_action_edit_anyway">Continue editing</string>
   <string name="alert_edit_action_delete">Remove</string>
   <string name="alert_edit_action_update">Update</string>
   <string name="alert_message_delete_folders">Delete the selected %1$s folders?</string>
