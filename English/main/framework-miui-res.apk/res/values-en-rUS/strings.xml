@@ -256,7 +256,6 @@
   <string name="delete">Delete</string>
   <string name="deprecated_alarm_message_12_hour_formate"/>
   <string name="device_xiaomi">Xiaomi phone</string>
-  <string name="double_seventh_day">七夕</string>
   <string name="emergency_call_string">Emergency call</string>
   <string name="error_forbidden">You account has some issues. Sync disabled.</string>
   <string name="error_not_acceptable">Server error occurred. Sync disabled.</string>
