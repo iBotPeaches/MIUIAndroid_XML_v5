@@ -822,7 +822,7 @@
     </string-array>
     <string-array name="pref_data_preload_choices">
         <item>Never</item>
-        <item>Only on WLAN</item>
+        <item>Only on Wi-Fi</item>
         <item>Always</item>
     </string-array>
     <string-array name="pref_data_preload_values">
@@ -832,7 +832,7 @@
     </string-array>
     <string-array name="pref_link_prefetch_choices">
         <item>Never</item>
-        <item>Only on WLAN</item>
+        <item>Only on Wi-Fi</item>
         <item>Always</item>
     </string-array>
     <string-array name="pref_link_prefetch_values">
@@ -842,7 +842,7 @@
     </string-array>
     <string-array name="pref_video_preload_choices">
         <item>Never</item>
-        <item>Only on WLAN</item>
+        <item>Only on Wi-Fi</item>
         <item>Always</item>
     </string-array>
     <string-array name="pref_video_preload_values">
@@ -881,12 +881,20 @@
         <item>http://www.bbc.co.uk/</item>
     </string-array>
     <string-array name="sogou">
-        <item>搜狗</item>
+        <item>Sogou</item>
         <item>sogou.com</item>
         <item>http://wap.sogou.com/favicon.ico</item>
         <item>http://wap.sogou.com/web/searchlist.jsp?keyword={searchTerms}&amp;pid=xiaomiyidong</item>
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="s139">
+        <item>Baidu</item>
+        <item>139.com</item>
+        <item>http://s.139.com/favicon.ico</item>
+        <item>http://s.139.com/search.do?q={searchTerms}&amp;amp;category=downloadable|web|browserable&amp;amp;tid=2123,2124,2125,2126&amp;amp;fr=portalcustom2</item>
+        <item>GB2312</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;amp;wd={searchTerms}</item>
     </string-array>
     <array name="bookmark_preloads_zh">
         <item>@raw/zh_favicon_xiaomi_bbs</item>
