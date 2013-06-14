@@ -38,13 +38,14 @@
   <string name="clean_title">Delete files more than 30 days old in trash</string>
   <string name="clean_trash_box">Empty trash</string>
   <string name="cleanup_complete">Cleanup successful</string>
-  <string name="clear_cache">Clear cache</string>
   <string name="close">Close</string>
+  <string name="compress_fail">Compression failed, destination already exists</string>
   <string name="compress_message">Compress to:</string>
   <string name="compress_title">Compress</string>
   <string name="confirm">OK</string>
   <string name="confirm_know">OK</string>
   <string name="copy_failed">Failed to copy</string>
+  <string name="create_kuaipan_shortcut_pref">Create a shortcut to the desktop</string>
   <string name="create_new_folder_desctiption">Creating new folder...</string>
   <string name="create_new_folder_failed">Failed to create folder %1$s</string>
   <string name="create_share_link_description">Creating share link…</string>
@@ -71,6 +72,7 @@
   <string name="dialog_type_video">Video</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Empty folder</string>
+  <string name="dlg_error_unmount_text">"Couldn't unmount USB storage. Try again later."</string>
   <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Download failed!</string>
   <string name="download_link_completed">I have shared %1$s via MiDrive. Click the link below to view: </string>
@@ -82,6 +84,7 @@
   <string name="error_info_cant_send_folder">Unable to send the folder</string>
   <string name="error_open_file_failed_no_app_found">No app found to open the file</string>
   <string name="fail_to_create_folder">Failed to create the folder, the folder already exists</string>
+  <string name="fail_to_create_folder_unknown">Cannot create: unknown error.</string>
   <string name="fail_to_rename">Failed to rename the file or folder as it already exists</string>
   <string name="favorite_photo">Photo</string>
   <string name="favorite_ringtone">Ringtone</string>
@@ -126,7 +129,6 @@ Junk"</string>
   <string name="kuaipan_tech_support">Technical support provided by Xiaomi</string>
   <string name="load_err">Loading failed</string>
   <string name="loading">Loading…</string>
-  <string name="local_cache">Local cache</string>
   <string name="local_cache_size">Local cache size: %s</string>
   <string name="login_reg_content">MiDrive helps you store files and sync them between multiple devices.</string>
   <string name="login_reg_content0">MiDrive is your Cloud storage drive</string>
@@ -150,6 +152,9 @@ Junk"</string>
   <string name="no_app_cache_indication">No application cache</string>
   <string name="no_app_garbage_indication">No application garbage</string>
   <string name="no_empty_dir_indication">No empty directories</string>
+  <string name="no_enough_space">No enough storage</string>
+  <string name="no_enough_storage_indication">Not enough storage available, pasting failed. Please delete unnecessary files and try again, or use File Cleanup to release space.</string>
+  <string name="no_enough_storage_title">No enough storage available</string>
   <string name="no_file">No files</string>
   <string name="no_more_space">No free space</string>
   <string name="no_tasks">No tasks</string>
@@ -203,7 +208,7 @@ Junk"</string>
   <string name="rename_description">Renaming, please wait…</string>
   <string name="rename_failed">Renaming《%1$s》failed</string>
   <string name="restart_cleaning">Restart</string>
-  <string name="scanning">Scanning...</string>
+  <string name="scanning" formatted="false">Scanning %d app ... (total %d apps)</string>
   <string name="scanning_on_going">Scanning...</string>
   <string name="sd_card_available">Space available:%1$s</string>
   <string name="sd_card_size">SD card:%1$s</string>
