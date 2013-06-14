@@ -709,6 +709,8 @@ To add a contact to your list of favorites:
   <string name="recent_contacts_label">Recent</string>
   <string name="recent_number">Recent</string>
   <string name="recent_updates">Recent updates</string>
+  <string name="redirect_calls_to_vm_confirm_message">If you have not applied to the operator of this business, please do not turn on. Otherwise, you may not be able to receive calls from this contact.</string>
+  <string name="redirect_calls_to_vm_confirm_text">Turn on</string>
   <string name="relationLabelsGroup">Relationship</string>
   <string name="remind_btn_ignore">Ignore</string>
   <string name="remind_btn_sync_now">Sync Now</string>
