@@ -107,6 +107,7 @@ and cannot be used if expired"</string>
   <string name="login">Login</string>
   <string name="login_failed">Login failed</string>
   <string name="login_notice">Logging in...</string>
+  <string name="memu_refresh">Refresh</string>
   <string name="mibi_license_message">Xiaomi Mi Credit Service. By clicking OK you agree to comply with %1$s.</string>
   <string name="mibi_license_message_span">Mi Credit User Agreement</string>
   <string name="mibi_license_title">Mi Credit User agreement</string>

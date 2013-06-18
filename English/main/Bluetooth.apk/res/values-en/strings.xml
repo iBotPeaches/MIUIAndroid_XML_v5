@@ -90,6 +90,9 @@
   <string name="map_notif_title">Session Key Request for MAP</string>
   <string name="map_session_key_dialog_header">Bluetooth session key required</string>
   <string name="map_session_key_dialog_title">Type session key for %1$s</string>
+  <string name="miui_transfer_history_title">Bluetooth transfer history</string>
+  <string name="miui_transfer_inbound_title">Incoming</string>
+  <string name="miui_transfer_outbound_title">Outgoing</string>
   <string name="no_transfers">Transfer history empty.</string>
   <string name="not_exist_file">No file</string>
   <string name="not_exist_file_desc">"The file doesn't exist. "</string>

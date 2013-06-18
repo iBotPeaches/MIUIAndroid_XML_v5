@@ -198,6 +198,7 @@
   <string name="rename_playlist_menu">Rename</string>
   <string name="retry">Retry</string>
   <string name="ringtone_menu">Use as phone ringtone</string>
+  <string name="ringtone_not_support">Ringtone format not supported</string>
   <string name="ringtone_set">\"%s\" set as phone ringtone.</string>
   <string name="save">Save</string>
   <string name="scanning">Scanning SD card...</string>

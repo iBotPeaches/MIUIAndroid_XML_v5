@@ -11,6 +11,8 @@
   <string name="app_name">File Explorer</string>
   <string name="application_size_label">App</string>
   <string name="background">Download in background</string>
+  <string name="big5_summary">The default encoding of the traditional Chinese version Windows system</string>
+  <string name="big5_title">BIG5</string>
   <string name="bind_account">Bind to MiDrive account</string>
   <string name="bind_account_summary">If you already have a MiDrive account you can add it to retrieve your personal data</string>
   <string name="binded_accout_description">Accounts are merged, use either your Xiaomi account or MiDrive account to login, both can read your data</string>
@@ -123,6 +125,7 @@ Junk"</string>
   <string name="instruction">Enter the following address into your FTP Client:</string>
   <string name="instruction_pre">Start service to enable FTP server</string>
   <string name="item_name">No name</string>
+  <string name="kuaipan_label">Kuaipan</string>
   <string name="kuaipan_over_space">Your MiDrive has no space left.</string>
   <string name="kuaipan_prompt">MiDrive Help</string>
   <string name="kuaipan_prompt_message">"The server is currently unavailable, please try again later"</string>
@@ -261,6 +264,7 @@ Junk"</string>
   <string name="ui_main_toast_favorite_removed">Favorite(s) removed</string>
   <string name="ui_main_toast_operation_failed">Removing favourite %1$s failed.</string>
   <string name="uninstall_app_data">Delete App and data</string>
+  <string name="unmount_inform_text">USB storage will be unmounted.</string>
   <string name="upload_failed">Upload failed!</string>
   <string name="upload_file_toolarge_message">"%1$d files larger than 300M can't be uploaded. Please check Transfer Management for details."</string>
   <string name="uploading">Uploading...</string>

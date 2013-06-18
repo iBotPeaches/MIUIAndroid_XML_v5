@@ -261,6 +261,8 @@
   <string name="pref_summary_mms_retrieval_during_roaming">Automatically retrieve messages while roaming</string>
   <string name="pref_summary_new_message_popup">Show pop-ups when new message is received</string>
   <string name="pref_summary_new_message_popup_when_secure">No popup notifications when access controlled</string>
+  <string name="pref_summary_notification_body_enabled">Preview messages on lock screen and status bar</string>
+  <string name="pref_summary_notification_body_enabled_when_secure">Previewing messages disabled when access control is enabled</string>
   <string name="pref_summary_on_system_mms_priority">System Mms app will receive message first</string>
   <string name="pref_summary_show_recent_contacts">Show a list of recent contacts while composing a new message</string>
   <string name="pref_summary_wake_up_screen">Wake up screen when new message is received</string>
@@ -276,6 +278,7 @@
   <string name="pref_title_mms_read_reports">Read reports</string>
   <string name="pref_title_mms_retrieval_during_roaming">Roaming auto-retrieve</string>
   <string name="pref_title_new_message_popup">New message pop-ups</string>
+  <string name="pref_title_notification_body_enabled">Show preview</string>
   <string name="pref_title_ringtone_repeat">Ringtone reminder frequency</string>
   <string name="pref_title_show_recent_contacts">Recent contacts</string>
   <string name="pref_title_sms_delete">Text message limit</string>
@@ -392,6 +395,7 @@
   <string name="too_many_recipients">This message has too many recipients (%1$s). There is a limit of %2$s recipients.</string>
   <string name="too_many_unsent_mms">"Can't send message right now. There are too many unsent multimedia messages."</string>
   <string name="try_to_send">Try to send</string>
+  <string name="type_attachment">attachment</string>
   <string name="type_audio">audio</string>
   <string name="type_picture">picture</string>
   <string name="type_to_compose_text_enter_to_send">Type message</string>

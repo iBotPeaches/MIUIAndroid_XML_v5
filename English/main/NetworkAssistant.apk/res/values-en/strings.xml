@@ -24,6 +24,7 @@
   <string name="app_detail_internet_control_category">Network control</string>
   <string name="app_detail_title">App Details</string>
   <string name="app_detail_version">Version: %s</string>
+  <string name="app_has_deleted">%s has been deleted.</string>
   <string name="app_name">Monitor</string>
   <string name="app_traffic_detail">Traffic (%s)</string>
   <string name="apply_rules_failed">"Failed to apply firewall, please try again. (%s)"</string>

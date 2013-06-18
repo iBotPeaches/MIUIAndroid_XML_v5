@@ -42,6 +42,8 @@
   <string name="overwrite_dialog_message" formatted="false">%s already exists. Do you wish to overwrite it?</string>
   <string name="preference_led_indicator">Recording indicator when screen locked</string>
   <string name="preference_led_indicator_prompt">Show LED and status bar indicators when recording and screen is locked</string>
+  <string name="preference_record_type_dialog_title">Select a recording type</string>
+  <string name="preference_record_type_title">Recording type</string>
   <string name="preference_silent_mode">Silent mode recording</string>
   <string name="preference_silent_mode_summary">Set to enable silent recording operation</string>
   <string name="record_list">Recordings list</string>
