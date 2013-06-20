@@ -39,6 +39,8 @@
   <string name="added_to_bookmarks">Added to bookmarks.</string>
   <string name="alert_tips">The site you are visiting may pose a potential security risk, do you wish to continue?</string>
   <string name="allow">Allow</string>
+  <string name="app_new_version">You already have the latest version downloaded</string>
+  <string name="app_update_install">New	version	downloaded and ready for installation</string>
   <string name="application_name">Browser</string>
   <string name="autofill_profile_editor_address_line_1">Address line 1:</string>
   <string name="autofill_profile_editor_address_line_1_hint">Street address, P.O. box, c/o</string>
@@ -100,6 +102,7 @@
   <string name="clear">Clear</string>
   <string name="clear_history">Clear history</string>
   <string name="clear_history_group">Clear history</string>
+  <string name="clip_dialog_title">Open copied link?</string>
   <string name="close_all_tab_alert_message">Are you sure you want to close all tabs?</string>
   <string name="close_all_tab_alert_title">Close all Tabs</string>
   <string name="containing_folder">Add to</string>
@@ -131,6 +134,8 @@
   <string name="delete_multi_bookmarks_alert_title">Are you sure you want to delete %1$s items?</string>
   <string name="disable_autofill">Disable auto-fill</string>
   <string name="do_not_save">Cancel</string>
+  <string name="download_complete">Download completed</string>
+  <string name="download_failed">Download failed</string>
   <string name="download_no_sdcard_dlg_msg" formatted="false">USB storage is required to download %s.</string>
   <string name="download_no_sdcard_dlg_title">USB storage unavailable</string>
   <string name="download_pending">Starting download...</string>
@@ -281,12 +286,14 @@
   <string name="pref_content_open_in_background">Open in background</string>
   <string name="pref_content_open_in_background_summary">Open new tabs behind the current tab</string>
   <string name="pref_content_plugins">Enable plug-ins</string>
+  <string name="pref_content_preload_title">Preload content</string>
   <string name="pref_content_search_engine">Set search engine</string>
   <string name="pref_content_search_engine_summary">Choose a search engine</string>
   <string name="pref_content_title">Page content</string>
   <string name="pref_data_preload_dialogtitle">Search result preloading</string>
   <string name="pref_data_preload_summary">Allow browser to preload high confidence search results in the background</string>
   <string name="pref_data_preload_title">Search result preloading</string>
+  <string name="pref_data_preload_value_never_summary">Do not allow browser to open sensitive results in background</string>
   <string name="pref_data_title">Bandwidth management</string>
   <string name="pref_default_text_encoding">Text encoding</string>
   <string name="pref_default_text_encoding_default">Latin-1</string>
@@ -329,6 +336,13 @@
   <string name="pref_general_sync_title">Sync</string>
   <string name="pref_general_title">General</string>
   <string name="pref_gesture_title">Gesture operations</string>
+  <string name="pref_image_display_control">Image display control</string>
+  <string name="pref_images_preload_dialogtitle">Images preloading...</string>
+  <string name="pref_images_preload_summary">" Allow browser to preload images when supported by server"</string>
+  <string name="pref_images_preload_title">Image preloading</string>
+  <string name="pref_images_preload_value_always_summary">Always Allow browser to preload images when supported by server</string>
+  <string name="pref_images_preload_value_never_summary">Never Allow browser to preload images</string>
+  <string name="pref_images_preload_value_wifi_only_summary">Preload images using Wi-Fi only</string>
   <string name="pref_inverted">Inverted rendering</string>
   <string name="pref_inverted_category">Inverted screen rendering</string>
   <string name="pref_inverted_contrast">Contrast</string>
@@ -343,6 +357,7 @@
   <string name="pref_link_prefetch_dialogtitle">Web page preloading</string>
   <string name="pref_link_prefetch_summary">Allow browser to preload linked web pages in the background</string>
   <string name="pref_link_prefetch_title">Web page preloading</string>
+  <string name="pref_link_prefetch_value_never_summary">Never Allow browser to preload linked web pages in the background</string>
   <string name="pref_min_font_size">Minimum font size</string>
   <string name="pref_min_font_size_value" formatted="false">%d pt</string>
   <string name="pref_privacy_clear_cache">Clear cache</string>
@@ -395,6 +410,7 @@
   <string name="pref_video_preload_title">Video preloading</string>
   <string name="pref_video_preload_value_always">ALWAYS</string>
   <string name="pref_video_preload_value_never">NEVER</string>
+  <string name="pref_video_preload_value_never_summary">Never Allow browser to preload videos</string>
   <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_volume_key_enabled">Volume keys</string>
   <string name="pref_volume_key_operation">Operation for volume keys</string>
