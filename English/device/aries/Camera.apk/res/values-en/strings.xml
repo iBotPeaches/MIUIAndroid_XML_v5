@@ -380,6 +380,12 @@ Step out of view for a moment"</string>
   <string name="pref_camera_volumekey_function_entry_volume">volume</string>
   <string name="pref_camera_volumekey_function_entry_zooming">zoom</string>
   <string name="pref_camera_volumekey_function_title">Volume Key Functions</string>
+  <string name="pref_camera_watermark_default">Off</string>
+  <string name="pref_camera_watermark_entry_off">Off</string>
+  <string name="pref_camera_watermark_entry_on">On</string>
+  <string name="pref_camera_watermark_entryvalue_off">Off</string>
+  <string name="pref_camera_watermark_entryvalue_on">On</string>
+  <string name="pref_camera_watermark_title">Time Watermark</string>
   <string name="pref_camera_whitebalance_default">auto</string>
   <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Cloudy</string>
@@ -487,6 +493,7 @@ Step out of view for a moment"</string>
   <string name="spaceIsLow_content">Your USB storage is running out of space. Change the quality setting or delete some images or other files.</string>
   <string name="success_message_import_from_account">Imported successfully</string>
   <string name="tags">Tags</string>
+  <string name="tap_to_exposure">Touch to switch on manual exposure.</string>
   <string name="tap_to_focus">Touch to focus.</string>
   <string name="time">Time</string>
   <string name="time_lapse_error">Invalid video-size for time-lapse recording.</string>
