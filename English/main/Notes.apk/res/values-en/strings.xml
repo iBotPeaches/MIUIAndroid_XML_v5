@@ -88,6 +88,8 @@
   <string name="time_picker_dialog_title">Set Reminder Time</string>
   <string name="toast_message_add_image_fail">Failed to insert image!</string>
   <string name="toast_privacy_mode">Cannot edit note in guarded mode</string>
+  <string name="toast_reach_text_limit_attachment">The content of note is too long to add new attachments.</string>
+  <string name="toast_reach_text_limit_truncate">"The content of note has been snipped because its too long."</string>
   <string name="widget_havenot_content">No associated note found, click to create associated note.</string>
   <string name="widget_under_visit_mode">Guarded mode，cannot see note content</string>
 </resources>

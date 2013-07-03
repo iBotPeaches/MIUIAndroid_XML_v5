@@ -145,8 +145,10 @@
   <string name="theme_component_title_ringtone">Ringtone</string>
   <string name="theme_component_title_statusbar">Status bar</string>
   <string name="theme_component_title_wallpaper">Wallpaper</string>
+  <string name="theme_current_using_has_update">Current theme has been updated, click here to apply</string>
   <string name="theme_description_title_customized">Custom</string>
   <string name="theme_description_title_default">Default</string>
+  <string name="theme_immediately_apply_tip">The theme is updated, apply immediately?</string>
   <string name="theme_import_activity_label">Theme upgrade</string>
   <string name="theme_import_data">Initializing. Please wait...</string>
   <string name="theme_import_fail">Failed to import %1$s theme</string>
@@ -170,6 +172,7 @@
   <string name="theme_import_stoping">Stoping...</string>
   <string name="theme_importing">Importing themes...</string>
   <string name="theme_is_imported">Theme imported!</string>
+  <string name="theme_name">%1$s</string>
   <string name="theme_sdcard_importing">Importing...</string>
   <string name="theme_select_others">Others</string>
   <string name="theme_upgrade_request_cancel">Cancel</string>

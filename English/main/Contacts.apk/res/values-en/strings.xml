@@ -31,6 +31,8 @@
   <string name="aggregation_suggestion_join_dialog_message">Merge current contact with the selected contact?</string>
   <string name="all_list_empty">No contacts</string>
   <string name="all_resources">All</string>
+  <string name="antispam_mark_my_contribution">My contribution to the database</string>
+  <string name="antispam_provider_format">This marked number was added by %s</string>
   <string name="attach_photo_dialog_title">Contact photo</string>
   <string name="audio_chat">Voice chat</string>
   <string name="auto_nickname">Auto</string>
@@ -172,6 +174,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="contact_editor_prompt_multiple_accounts">Please select contact account to save to</string>
   <string name="contact_editor_prompt_one_account">The new contact will be %1$s Sync</string>
   <string name="contact_editor_prompt_zero_accounts">Store in mobile or in a new online account</string>
+  <string name="contact_is_readOnly">Can not edit read-only contacts</string>
   <string name="contact_list_loading">Loading...</string>
   <string name="contact_pick_photo">Photo</string>
   <string name="contact_read_only">Not editable from this app.</string>
@@ -413,6 +416,11 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="import_to_xiaomi_account_title">Do you want to import the following contacts to Xiaomi account?</string>
   <string name="import_vcard_description">Import contacts from your storage</string>
   <string name="import_weibo_dialog_title">Import Sina weibo contacts</string>
+  <string name="import_weibo_error_no_matched_contacts">Done updating contacts: no matched contacts</string>
+  <string name="import_weibo_error_no_network">Done updating contacts: network problems</string>
+  <string name="import_weibo_error_no_xiaomi_phone">Done updating contacts: no phone numbers found under Xiaomi account</string>
+  <string name="import_weibo_error_unknown">Done updating contacts: unknown error</string>
+  <string name="import_weibo_error_user_cancel">Done updating contacts: user quit</string>
   <string name="import_weibo_fetch_followers">Retrieving Sina Weibo followers…</string>
   <string name="import_weibo_notification_title">Importing Sina weibo contacts…</string>
   <string name="import_weibo_notification_title_done">Import complete</string>
@@ -469,6 +477,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="menu_bar_group_delete">Delete</string>
   <string name="menu_bar_group_rename">Rename</string>
   <string name="menu_bar_group_ringtone">Group ringtone</string>
+  <string name="menu_bar_group_ringtone_largeui">Ringtone</string>
   <string name="menu_bar_group_sms">Group SMS</string>
   <string name="menu_call">Call contact</string>
   <string name="menu_callNumber">Call %s</string>
@@ -687,6 +696,7 @@ To add a contact to your list of favorites:
   <string name="private_num">Private number</string>
   <string name="processing">Processing...</string>
   <string name="profile_display_name">Set up my profile</string>
+  <string name="profile_name">My profile</string>
   <string name="progress_notifier_message" formatted="false">Importing %s/%s: %s</string>
   <string name="quickcontact_missing_app">No app was found to handle this action.</string>
   <string name="quit_dialog_confirm_title">To exit the contact merge?</string>
@@ -805,6 +815,7 @@ To add a contact to your list of favorites:
   <string name="sim_export_loading">Reading SIM card information (may take a minute)…</string>
   <string name="sim_indexed_contact_not_exist">Position %1$d on SIM card is not valid, should between %2$d and %3$d</string>
   <string name="sim_no_contact">No contacts on SIM card</string>
+  <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">No group members</string>
   <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
   <string name="smart_group_company_label">By company</string>

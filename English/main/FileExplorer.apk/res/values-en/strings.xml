@@ -20,6 +20,7 @@
   <string name="cache_size_label">Cache</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_app_garbage_cleanup">Cancel app cleanup</string>
+  <string name="cancel_with_count_down">Cancel (%d)</string>
   <string name="category_all">All</string>
   <string name="category_apk">APKs</string>
   <string name="category_bluetooth">Bluetooth</string>
@@ -39,7 +40,10 @@
   <string name="clean_message">Deleting %1$s</string>
   <string name="clean_title">Delete files more than 30 days old in trash</string>
   <string name="clean_trash_box">Empty trash</string>
+  <string name="cleaned">Cleanup completed</string>
+  <string name="cleaning">Cleaning...</string>
   <string name="cleanup_complete">Cleanup successful</string>
+  <string name="cleanup_stopped">Cleanup stopped</string>
   <string name="close">Close</string>
   <string name="compress_fail">Compression failed, destination already exists</string>
   <string name="compress_message">Compress to:</string>
@@ -47,6 +51,7 @@
   <string name="confirm">OK</string>
   <string name="confirm_know">OK</string>
   <string name="copy_failed">Failed to copy</string>
+  <string name="count_down_time">Start after %d seconds</string>
   <string name="create_kuaipan_shortcut_pref">Create a shortcut to the desktop</string>
   <string name="create_new_folder_desctiption">Creating new folder...</string>
   <string name="create_new_folder_failed">Failed to create folder %1$s</string>
@@ -91,6 +96,7 @@
   <string name="favorite_photo">Photo</string>
   <string name="favorite_ringtone">Ringtone</string>
   <string name="favorite_screen_cap">Screenshots</string>
+  <string name="file_cleanup">File cleanup</string>
   <string name="file_info_canread">Readable:</string>
   <string name="file_info_canwrite">Writable:</string>
   <string name="file_info_ishidden">Hidden:</string>
@@ -211,6 +217,7 @@ Junk"</string>
   <string name="rename_description">Renaming, please wait…</string>
   <string name="rename_failed">Renaming《%1$s》failed</string>
   <string name="restart_cleaning">Restart</string>
+  <string name="scanned">Scan completed</string>
   <string name="scanning" formatted="false">Scanning %d app ... (total %d apps)</string>
   <string name="scanning_on_going">Scanning...</string>
   <string name="sd_card_available">Space available:%1$s</string>
