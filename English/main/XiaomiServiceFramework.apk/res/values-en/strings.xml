@@ -98,7 +98,7 @@
   <string name="find_device_notice_p3">to find, lock it, or wipe the data</string>
   <string name="find_device_success_title">Locate device is enabled</string>
   <string name="find_password_on_web_msg">Please visit account.xiaomi.com to retrieve your password</string>
-  <string name="forget_password"/>
+  <string name="forget_password">Forgot Password? </string>
   <string name="frozen">(Locked)</string>
   <string name="get_back_pwd">Recover account password</string>
   <string name="giftcard_acitivity_and_denomination">%2$s Mi Credit gift card from %1$s</string>
