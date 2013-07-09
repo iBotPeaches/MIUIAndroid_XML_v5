@@ -125,6 +125,7 @@
   <string name="system_backup_helper">System update will not wipe user data. However,it is recommended to make a backup of your user data before updating</string>
   <string name="system_backup_ok_text">Backup</string>
   <string name="top_secret_build">Secret build</string>
+  <string name="unstable_build">Unstable Build</string>
   <string name="update_comment_hint">(optional)</string>
   <string name="update_comment_title">Your comments</string>
   <string name="update_feedback">Four-grid Update Feedback</string>

@@ -504,6 +504,8 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="cdma_security_settings_summary">Set My Location, screen unlock, credential storage lock</string>
   <string name="cell_broadcast_settings">Cell broadcasts</string>
   <string name="cell_broadcast_settings_summary">Select the types of emergency alerts to display.</string>
+  <string name="change_password">Change password</string>
+  <string name="change_security_lock">Try other ways to unlock</string>
   <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume for notifications</string>
   <string name="choose_timezone">Choose time zone</string>
   <string name="clear_activities">Clear defaults</string>
@@ -1037,6 +1039,7 @@ Some apps may not work until updated by their developers."</string>
 Ready to start? Touch Next."</string>
   <string name="lock_screen_unlock_show">Display screen password interface directly</string>
   <string name="lock_screen_unlock_show_summary">"Don't use other screen locks after enabling, just go to screen unlock interface"</string>
+  <string name="lock_settings_common_title">Lock settings</string>
   <string name="lock_settings_picker_settings">Set screen lock</string>
   <string name="lock_settings_picker_title">Choose screen lock</string>
   <string name="lock_settings_title">Screen security</string>
@@ -1164,6 +1167,7 @@ Attention: this operation cannot be undone."</string>
   <string name="memory_media_usage">Media</string>
   <string name="memory_music_usage">Audio (music, ringtones, podcasts, etc.)</string>
   <string name="memory_size">Total space</string>
+  <string name="memory_title">Available %1$s\u0009\u0009Total %2$s</string>
   <string name="menu_cancel">Discard</string>
   <string name="menu_delete">Delete APN</string>
   <string name="menu_key">Menu key</string>
@@ -1974,6 +1978,7 @@ Attempts Remaining :"</string>
   <string name="tts_settings_changed_demo">Your settings have changed. This is an example of how they sound.</string>
   <string name="tts_settings_title">Text-to-speech output</string>
   <string name="turn_off_radio">Turn off radio</string>
+  <string name="turn_off_security_lock">Turn off lock</string>
   <string name="turn_on_radio">Turn on radio</string>
   <string name="under_keyguard">On lock screen</string>
   <string name="uninstall_all_users_text">Uninstall for all users</string>
@@ -2489,6 +2494,8 @@ Phone setup can require significant network activity."</string>
   <string name="wps_connect_summary">Make sure your router supports WPS</string>
   <string name="wps_connect_title">Connect using WPS</string>
   <string name="xiaomi_account">Xiaomi account</string>
+  <string name="xiaomi_cloud_service">MiCloud</string>
+  <string name="xiaomi_money_service">MiCredit center</string>
   <string name="yes">OK</string>
   <string name="zone_auto">Automatic time zone</string>
   <string name="zone_auto_summaryOff">Use network-provided time zone</string>
