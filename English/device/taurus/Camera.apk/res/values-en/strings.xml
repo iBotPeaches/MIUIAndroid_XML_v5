@@ -247,10 +247,9 @@ Step out of view for a moment"</string>
   <string name="pref_camera_jpegquality_entry_normal">Normal</string>
   <string name="pref_camera_jpegquality_entry_superfine">Super fine</string>
   <string name="pref_camera_jpegquality_title">Picture quality</string>
-  <string name="pref_camera_long_pressing_burst_shooting_default">on</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_off">Off</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_on">On</string>
-  <string name="pref_camera_long_pressing_burst_shooting_title">Burst Shooting</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_off">Focus</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_on">Burst Shoot</string>
+  <string name="pref_camera_long_pressing_burst_shooting_title">Shutter Button Action</string>
   <string name="pref_camera_movie_solid_default">on</string>
   <string name="pref_camera_movie_solid_entry_off">Off</string>
   <string name="pref_camera_movie_solid_entry_on">On</string>
