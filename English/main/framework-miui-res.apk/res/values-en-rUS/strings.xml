@@ -255,8 +255,10 @@
   <string name="days">days</string>
   <string name="delete">Delete</string>
   <string name="deprecated_alarm_message_12_hour_formate"/>
+  <string name="device_hongmi">Hongmi phone</string>
   <string name="device_xiaomi">Xiaomi phone</string>
   <string name="emergency_call_string">Emergency call</string>
+  <string name="err_resource_leak">Unfortunately, %1$s has stopped due to a resource leak.</string>
   <string name="error_forbidden">You account has some issues. Sync disabled.</string>
   <string name="error_not_acceptable">Server error occurred. Sync disabled.</string>
   <string name="error_title">Sync error for %s</string>
