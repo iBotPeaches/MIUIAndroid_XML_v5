@@ -22,6 +22,8 @@
   <string name="call_record_folder_name">Call notes</string>
   <string name="close">Close</string>
   <string name="default_folder_name">Notes</string>
+  <string name="dlg_desc_confirm_alarm_silent">Alarm clock and notes will not sound in silent mode when turned off.</string>
+  <string name="dlg_title_confirm_alarm_silent">Do you want to silence alarms in silent mode?</string>
   <string name="enable_sync">Sync</string>
   <string name="enable_sync_desc">Notes can be synced with your Xiaomi account %1$s, sync now?</string>
   <string name="error_note_empty_for_clock">Sorry, clock cannot be set on an empty note</string>
@@ -70,8 +72,11 @@
   <string name="notify_alarm_action_mute">Mute</string>
   <string name="notify_alarm_action_view">View</string>
   <string name="notify_alarm_title">Alarm reminder</string>
+  <string name="pref_desc_alarm_when_silent">Alarms will sound in silent mode</string>
   <string name="pref_desc_mode_grid">Grid</string>
   <string name="pref_desc_mode_list">List</string>
+  <string name="pref_title_alarm_when_silent">Alarm in silent mode</string>
+  <string name="pref_title_common">Common settings</string>
   <string name="pref_title_data_export">Data export</string>
   <string name="pref_title_data_export_to_sdcard">Export note to SD card</string>
   <string name="pref_title_note_style">Note style</string>

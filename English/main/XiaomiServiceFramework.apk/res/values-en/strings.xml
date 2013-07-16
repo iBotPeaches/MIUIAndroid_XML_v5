@@ -20,6 +20,32 @@
   <string name="available_functionality">Available functions</string>
   <string name="bad_authentication">Authentication failed, bad username or password</string>
   <string name="balance">Balance: %1$s Mi credits</string>
+  <string name="bankcall_bank_account">Bank card:</string>
+  <string name="bankcall_call_hint">"You will receive Union pays call on (020-96585). Please follow prompts to complete transaction."</string>
+  <string name="bankcall_card">Bank card</string>
+  <string name="bankcall_card_hint">Please enter bank account number</string>
+  <string name="bankcall_card_type">%1$s-%2$s</string>
+  <string name="bankcall_city">City</string>
+  <string name="bankcall_credit_card">Credit card</string>
+  <string name="bankcall_debit_card">Debit card</string>
+  <string name="bankcall_denom">Payments:</string>
+  <string name="bankcall_denom_number">%1$s RMB</string>
+  <string name="bankcall_error_card">Please enter a valid bank account number</string>
+  <string name="bankcall_error_card_info">Please enter valid bank account infomation</string>
+  <string name="bankcall_hint">"This service is authorized by Unionpay and
+has several encryptions to ensure your financial security"</string>
+  <string name="bankcall_id_card">ID card</string>
+  <string name="bankcall_id_card_hint">"Bank account's corresponding ID card"</string>
+  <string name="bankcall_merchant">Receiver:</string>
+  <string name="bankcall_name">Name</string>
+  <string name="bankcall_name_hint">"Bank account's corresponding name"</string>
+  <string name="bankcall_phone">Phone</string>
+  <string name="bankcall_phone_credit_hint">"Bank account's corresponding personal phone number"</string>
+  <string name="bankcall_phone_debit_hint">Ensure stable network</string>
+  <string name="bankcall_province">Province</string>
+  <string name="bankcall_saved_card_info">%1$s - Ends with %2$s</string>
+  <string name="bankcall_saved_phone">Phone number: %1$s</string>
+  <string name="bankcall_xiaomi_company">Xiaomi Corporation</string>
   <string name="bind_sina_weibo">Authorise Sina Weibo</string>
   <string name="bind_weibo_description">Find phone contacts, friends and other information directly from your account</string>
   <string name="binded">Associated</string>
@@ -28,14 +54,21 @@
   <string name="btn_call">Call support</string>
   <string name="btn_count_down_auto">%1$s seconds</string>
   <string name="btn_count_down_wait">%1$s seconds to wait</string>
+  <string name="btn_delete_record">Delete selected record</string>
   <string name="btn_mili_center_recharge">Topup Mi credits</string>
+  <string name="btn_net_connection_retry">Retry</string>
+  <string name="btn_next">Next</string>
+  <string name="btn_other_bankcard">Use alternative bank card</string>
   <string name="btn_pay_large">Pay now</string>
+  <string name="btn_prev">Previous</string>
   <string name="btn_query">Enquire now</string>
   <string name="btn_recharge_large">Topup now</string>
   <string name="btn_recharge_other">Other topup methods</string>
   <string name="btn_recharge_success">Topup successful</string>
   <string name="btn_recharge_success_quick">Quick topup successful</string>
   <string name="btn_voucher">Mi Credit card (%1$s)</string>
+  <string name="btn_wait_call">Waiting</string>
+  <string name="btn_wait_call_count">Waiting (%1$s)</string>
   <string name="button_cancel">Cancel</string>
   <string name="button_pay">Pay</string>
   <string name="button_recharge">Topup</string>
@@ -59,6 +92,7 @@
   <string name="error_account_changed_title">Account updated</string>
   <string name="error_auth_summary">Account authentication error occurred, please try again</string>
   <string name="error_auth_title">Account error</string>
+  <string name="error_bankcard_verify_summary">Bank card verificatin error</string>
   <string name="error_common_summary">System error, please try again later</string>
   <string name="error_common_title">System error</string>
   <string name="error_dup_phone">Phone has been registered</string>
@@ -79,10 +113,14 @@
   <string name="error_server_summary">Server error, please try again later</string>
   <string name="error_server_title">Server error</string>
   <string name="error_sim_not_ready">SIM not ready</string>
+  <string name="error_too_frequent_visits_summary">"You are attempting to visit too often.
+Please try again after five minutes"</string>
+  <string name="error_too_frequent_visits_title">Warning!</string>
   <string name="error_unknown">Unknown error: %1$s</string>
   <string name="error_user_id_mismatch_summary">Please check your account details and try again</string>
   <string name="error_user_id_mismatch_title">Authentication error!</string>
   <string name="error_verify_summary">App does not have permission to request the service</string>
+  <string name="error_verify_title">No permission</string>
   <string name="failed_to_send_activate_email">Failed to send an activation E-mail</string>
   <string name="fee">%1$s Mi credits</string>
   <string name="find_device">Locate device</string>
@@ -174,6 +212,14 @@ and cannot be used if expired"</string>
   <string name="micloud_via_sms_alert">An SMS will be sent to validate your phone number. Are you sure you want to continue?</string>
   <string name="micloud_welcome_skip_login">Skip registration</string>
   <string name="mili_center">Mi Credit</string>
+  <string name="msg_denomination_type">Mi Credit</string>
+  <string name="msg_error">SMS topup failed</string>
+  <string name="msg_picker_hint_1_1">1.</string>
+  <string name="msg_picker_hint_1_2">SMS topup method costs more to completed, so &lt;font color=red&gt;2 RMB = 1 Mi Credit&lt;/font&gt;</string>
+  <string name="msg_picker_hint_2_1">2.</string>
+  <string name="msg_picker_hint_2_2">With each SMS topup, carriers charge 0.1 RMB service fee</string>
+  <string name="msg_picker_hint_3_1">3.</string>
+  <string name="msg_picker_hint_3_2">Maximum monthly recharge of 300 rmb only</string>
   <string name="my_mili_record">My Mi Credit</string>
   <string name="my_xiaomi_account">My current Xiaomi account</string>
   <string name="next">Next</string>
@@ -214,12 +260,15 @@ and cannot be used if expired"</string>
   <string name="prepaid_picker_title_selected">Top-up amount</string>
   <string name="prev">Back</string>
   <string name="process_result">Result:</string>
+  <string name="progress_bankcall_card_creating">Generating order...</string>
+  <string name="progress_bankcall_card_querying">Obtaining bank account type, please wait...</string>
   <string name="progress_connecting">Connecting...</string>
   <string name="progress_creating">Retrieving order information...</string>
   <string name="progress_downloading">Downloading...</string>
   <string name="progress_error_pay_title">Payment failed</string>
   <string name="progress_error_recharge_title">Top-up failed</string>
   <string name="progress_loading">Processing, please wait...</string>
+  <string name="progress_msg_creating">Generating SMS topup order...</string>
   <string name="progress_paytool_creating">Generating %1$s order...</string>
   <string name="progress_paytool_installing">Installing %1$s mobile security plugin...</string>
   <string name="progress_prepaid_creating">Generating topup order...</string>
@@ -228,10 +277,13 @@ and cannot be used if expired"</string>
   <string name="progress_submit_pay_summary">Payment summary: %1$s RMB</string>
   <string name="progress_submit_recharge_summary">To-up for: %1$s RMB</string>
   <string name="progress_submit_title">Topup request submitted</string>
+  <string name="progress_success_pay_summary">Your order has completed successfully!</string>
   <string name="progress_success_pay_title">%1$s Mi Credit payment complete</string>
   <string name="progress_success_recharge_summary">Account balance: %1$s Mi Credits</string>
   <string name="progress_success_recharge_title">%1$s Mi Credit top-up complete</string>
   <string name="progress_voucher_creating">Updating Mi Credit...</string>
+  <string name="progress_warning_check">"Still not updated! 
+We will check for you within two working days"</string>
   <string name="progress_warning_contact_server">"Message was not delivered but will be sent soon:
    1. Contact customer services on: %1$s
    2. Provide this serial number: %2$s"</string>
@@ -239,8 +291,16 @@ and cannot be used if expired"</string>
   <string name="quick_login_title">Authentication is required, please input your password</string>
   <string name="recharge_alipay_summary">Alipay topup</string>
   <string name="recharge_alipay_title">Alipay</string>
+  <string name="recharge_bankcall_title">Bank card</string>
   <string name="recharge_denomination">%1$s RMB</string>
+  <string name="recharge_grid_edit_hint">Amount (RMB)</string>
+  <string name="recharge_grid_edit_limit">%1$s~%2$s RMB</string>
+  <string name="recharge_grid_error_denomination">Please enter the correct amount between %1$d~%2$d RMB</string>
+  <string name="recharge_grid_picker_hint">Please select the Mi Credit amount</string>
+  <string name="recharge_group_favorite">Used topup methods</string>
+  <string name="recharge_group_others">Other topup methods</string>
   <string name="recharge_hint">1 RMB equals 1 Mi credit</string>
+  <string name="recharge_message_title">SMS topup</string>
   <string name="recharge_notification">Topping up %1$s Mi credits</string>
   <string name="recharge_other">Select another payment method</string>
   <string name="recharge_pcpay_summary">Payment using a computer supports other methods and limits</string>
