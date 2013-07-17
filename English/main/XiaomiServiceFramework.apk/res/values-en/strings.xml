@@ -104,6 +104,7 @@ has several encryptions to ensure your financial security"</string>
   <string name="error_has_bought_title">Repeat purchase</string>
   <string name="error_illegal_order_summary">An error has occurred processing your order, please try again later</string>
   <string name="error_illegal_order_title">Order error!</string>
+  <string name="error_invalid_dev_id">Device id is invalid</string>
   <string name="error_mili_title">Insufficient Mi credits</string>
   <string name="error_network">Network error</string>
   <string name="error_network_summary">A network error has occurred, Please check the network is active and try again</string>

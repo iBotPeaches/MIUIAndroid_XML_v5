@@ -105,6 +105,9 @@
   <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Location set by GPS</string>
   <string name="gps_notification_searching_text">Searching for GPS</string>
+  <string name="headset_custom">Customise</string>
+  <string name="headset_info">Customise button functions</string>
+  <string name="headset_settings">Headsets connected</string>
   <string name="invalid_charger">"USB charging not supported. Use only the supplied charger."</string>
   <string name="key_position_custom">Custom key position</string>
   <string name="label_view">View</string>

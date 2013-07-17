@@ -105,6 +105,15 @@
   <string name="clip_dialog_title">Open copied link?</string>
   <string name="close_all_tab_alert_message">Are you sure you want to close all tabs?</string>
   <string name="close_all_tab_alert_title">Close all Tabs</string>
+  <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
+  <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
+  <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
+  <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
+  <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
+  <string name="common_use_phrase_bottom_bar_paste_txt">Paste</string>
+  <string name="common_use_phrase_bottom_bar_point_txt">.</string>
+  <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
+  <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
   <string name="containing_folder">Add to</string>
   <string name="contextheader_folder_bookmarkcount" formatted="false">%d bookmarks</string>
   <string name="contextheader_folder_empty">Empty folder</string>
