@@ -107,12 +107,15 @@
   <string name="close_all_tab_alert_title">Close all Tabs</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
+  <string name="common_use_phrase_bottom_bar_down_analytic_txt">Collapse</string>
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
   <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
   <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
+  <string name="common_use_phrase_bottom_bar_paste_analytic_txt">Paste</string>
   <string name="common_use_phrase_bottom_bar_paste_txt">Paste</string>
   <string name="common_use_phrase_bottom_bar_point_txt">.</string>
   <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
+  <string name="common_use_phrase_bottom_bar_up_analytic_txt">Expand</string>
   <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
   <string name="containing_folder">Add to</string>
   <string name="contextheader_folder_bookmarkcount" formatted="false">%d bookmarks</string>
