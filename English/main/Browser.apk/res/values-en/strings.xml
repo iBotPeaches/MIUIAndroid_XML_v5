@@ -145,14 +145,23 @@
   <string name="delete_folder">Delete folder</string>
   <string name="delete_multi_bookmarks_alert_title">Are you sure you want to delete %1$s items?</string>
   <string name="disable_autofill">Disable auto-fill</string>
+  <string name="disk_space_available">%1$s available</string>
+  <string name="disk_space_selected">%1$s selected</string>
+  <string name="disk_space_used">%1$s used</string>
   <string name="do_not_save">Cancel</string>
+  <string name="download">Download</string>
   <string name="download_complete">Download completed</string>
+  <string name="download_default_path_txt">Set as default download path and do not prompt for download folder path</string>
   <string name="download_failed">Download failed</string>
   <string name="download_no_sdcard_dlg_msg" formatted="false">USB storage is required to download %s.</string>
   <string name="download_no_sdcard_dlg_title">USB storage unavailable</string>
   <string name="download_pending">Starting download...</string>
   <string name="download_sdcard_busy_dlg_msg">The USB storage is busy. To allow downloads, touch Turn Off USB Storage in the notification.</string>
   <string name="download_sdcard_busy_dlg_title">USB storage unavailable</string>
+  <string name="download_video_alert_message">If your current network plan has data charges, downloading videos may consume your allowance, do you wish to continue?</string>
+  <string name="download_video_alert_title">Download Notice!</string>
+  <string name="downloaded">Downloaded</string>
+  <string name="downloading">Downloading</string>
   <string name="dump_counters">Dump V8 counters</string>
   <string name="dump_display_tree">Dump display tree to file</string>
   <string name="dump_dom_tree">Dump DOM tree to file</string>
@@ -235,6 +244,7 @@
   <string name="js_engine_flags">Set JS flags</string>
   <string name="loadSuspended">"The browser can't load this page because there's no Internet connection."</string>
   <string name="loadSuspendedTitle">No connection</string>
+  <string name="loading_rest_candidates">Loading rest candidates</string>
   <string name="loading_video">Loading video…</string>
   <string name="local_bookmarks">Local</string>
   <string name="location">Address</string>
@@ -257,6 +267,7 @@
   <string name="new_incognito_tab">New incognito tab</string>
   <string name="new_tab">New tab</string>
   <string name="no_subfolders">No subfolders.</string>
+  <string name="not_enough_disk_space_alert">Insufficient disk space</string>
   <string name="not_remind_again">Do not remind me any more</string>
   <string name="notif_install_successful">Download successful</string>
   <string name="ok">OK</string>
@@ -275,6 +286,8 @@
   <string name="please_select_a_file_to_import">Please select the data file</string>
   <string name="popup_window_attempt">Allow this site to open a pop-up window?</string>
   <string name="pref_accessibility_title">Accessibility</string>
+  <string name="pref_accessibility_url_shortcut_enter_summary">When inputting from the address bar, common letter combinations can be entered with one key press</string>
+  <string name="pref_accessibility_url_shortcut_enter_title">Quick URL input</string>
   <string name="pref_allow_apptabs">Allow multiple tabs per app</string>
   <string name="pref_autofill_enabled">Form auto-fill</string>
   <string name="pref_autofill_enabled_summary">Fill out web forms with a single touch</string>
@@ -336,6 +349,10 @@
   <string name="pref_extras_title">Advanced</string>
   <string name="pref_extras_website_settings">Website settings</string>
   <string name="pref_extras_website_settings_summary">Advanced settings for individual websites</string>
+  <string name="pref_file_downlaod_save_is_reset_default_settings">Restore default download folder path settings</string>
+  <string name="pref_file_downlaod_save_reset_default_settings">Restore defaults</string>
+  <string name="pref_file_download_save_modify_default_path">Modify download folder path</string>
+  <string name="pref_file_download_save_title">Download and save file</string>
   <string name="pref_fling_on_border_enabled">Fling on border</string>
   <string name="pref_fling_on_border_enabled_title_summary">Slide from border of screen</string>
   <string name="pref_fling_on_border_operation">Operation for fling on border</string>
@@ -442,6 +459,8 @@
   <string name="report_reading_mode_issue">Report reading mode issue to MIUI</string>
   <string name="return_to_homepage">Return to homepage</string>
   <string name="rlz_access_point">Y1</string>
+  <string name="same_bookmarks_warning">This bookmark already exists</string>
+  <string name="same_folder_name_warning">This folder already exists</string>
   <string name="save">OK</string>
   <string name="save_dialog_title">Save</string>
   <string name="save_file_already_exist_alert_message">File already exists, would you like to overwrite it?</string>
