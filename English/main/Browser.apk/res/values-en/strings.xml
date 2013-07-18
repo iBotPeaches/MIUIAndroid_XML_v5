@@ -101,7 +101,7 @@
   <string name="choosertitle_sharevia">Share via</string>
   <string name="clear">Clear</string>
   <string name="clear_history">Clear history</string>
-  <string name="clear_history_group">Clear history</string>
+  <string name="clear_history_group">Clear all %s history</string>
   <string name="clip_dialog_title">Open copied link?</string>
   <string name="close_all_tab_alert_message">Are you sure you want to close all tabs?</string>
   <string name="close_all_tab_alert_title">Close all Tabs</string>
@@ -274,7 +274,7 @@
   <string name="open_all_bookmarks">Open all</string>
   <string name="open_all_in_new_window">Open all in new tabs</string>
   <string name="open_bookmark">Open</string>
-  <string name="open_history_group_in_new_window">Open all history items in a new window</string>
+  <string name="open_history_group_in_new_window">Open all %s history items in a new window</string>
   <string name="open_history_most_visited_group_in_new_window">Open all most visited web pages</string>
   <string name="other_bookmarks">Other Bookmarks</string>
   <string name="page_info">Page info</string>
