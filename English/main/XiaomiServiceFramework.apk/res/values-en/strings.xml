@@ -92,7 +92,7 @@ has several encryptions to ensure your financial security"</string>
   <string name="error_account_changed_title">Account updated</string>
   <string name="error_auth_summary">Account authentication error occurred, please try again</string>
   <string name="error_auth_title">Account error</string>
-  <string name="error_bankcard_verify_summary">Bank card verificatin error</string>
+  <string name="error_bankcard_verify_summary">Bank card verification error</string>
   <string name="error_common_summary">System error, please try again later</string>
   <string name="error_common_title">System error</string>
   <string name="error_dup_phone">Phone has been registered</string>
@@ -216,7 +216,7 @@ and cannot be used if expired"</string>
   <string name="msg_denomination_type">Mi Credit</string>
   <string name="msg_error">SMS topup failed</string>
   <string name="msg_picker_hint_1_1">1.</string>
-  <string name="msg_picker_hint_1_2">SMS topup method costs more to completed, so &lt;font color=red&gt;2 RMB = 1 Mi Credit&lt;/font&gt;</string>
+  <string name="msg_picker_hint_1_2">SMS topup method costs more to completed, so 2 RMB = 1 Mi Credit</string>
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">With each SMS topup, carriers charge 0.1 RMB service fee</string>
   <string name="msg_picker_hint_3_1">3.</string>

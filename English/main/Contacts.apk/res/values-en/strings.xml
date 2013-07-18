@@ -889,7 +889,7 @@ To add a contact to your list of favorites:
   <string name="title_paired_devices">Paired Devices</string>
   <string name="toast_call_detail_error">"Couldn't read details for the requested call."</string>
   <string name="toast_copy_done">Copying completed successfully</string>
-  <string name="toast_copying">Copyingm, please wait...</string>
+  <string name="toast_copying">Copying, please wait...</string>
   <string name="toast_displaying_all_contacts">Displaying all contacts</string>
   <string name="toast_finish_delete_call_log">Call log has been deleted</string>
   <string name="toast_for_failed_saving_nickname">Failed to save nickname!</string>
