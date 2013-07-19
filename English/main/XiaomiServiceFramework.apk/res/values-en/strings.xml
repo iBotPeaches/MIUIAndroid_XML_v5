@@ -214,13 +214,13 @@ and cannot be used if expired"</string>
   <string name="micloud_welcome_skip_login">Skip registration</string>
   <string name="mili_center">Mi Credit</string>
   <string name="msg_denomination_type">Mi Credit</string>
-  <string name="msg_error">SMS topup failed</string>
+  <string name="msg_error">SMS Recharge failed</string>
   <string name="msg_picker_hint_1_1">1.</string>
-  <string name="msg_picker_hint_1_2">SMS topup method costs more to completed, so 2 RMB = 1 Mi Credit</string>
+  <string name="msg_picker_hint_1_2">SMS recharge method costs: 2 RMB = 1 Mi Credit</string>
   <string name="msg_picker_hint_2_1">2.</string>
-  <string name="msg_picker_hint_2_2">With each SMS topup, carriers charge 0.1 RMB service fee</string>
+  <string name="msg_picker_hint_2_2">With each SMS recharge, carriers charge 0.1 RMB service fee</string>
   <string name="msg_picker_hint_3_1">3.</string>
-  <string name="msg_picker_hint_3_2">Maximum monthly recharge of 300 rmb only</string>
+  <string name="msg_picker_hint_3_2">Maximum monthly payment of 300 RMB</string>
   <string name="my_mili_record">My Mi Credit</string>
   <string name="my_xiaomi_account">My current Xiaomi account</string>
   <string name="next">Next</string>
