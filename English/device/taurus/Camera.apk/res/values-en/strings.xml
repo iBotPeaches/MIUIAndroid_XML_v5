@@ -29,6 +29,7 @@ Step out of view for a moment"</string>
   <string name="confirm_location_message">Camera can record location in captured photos, do you want to enable it?</string>
   <string name="confirm_restore_message">Restore Camera default settings?</string>
   <string name="confirm_restore_title">Restore defaults</string>
+  <string name="connect_wifi">Connect to this Wi-Fi network</string>
   <string name="contact_address">Address</string>
   <string name="contact_birthday">Birthday</string>
   <string name="contact_company">Company</string>
@@ -53,6 +54,7 @@ Step out of view for a moment"</string>
   <string name="dialog_ok">OK</string>
   <string name="disable_video_snapshot_hint">Video snapshot is disabled when special effects are on.</string>
   <string name="download_by_browser">Download using browser</string>
+  <string name="download_qq">Download QQ</string>
   <string name="download_wechat">Download WeChat</string>
   <string name="duration">Duration</string>
   <string name="edit">Edit</string>
@@ -80,9 +82,11 @@ Step out of view for a moment"</string>
   <string name="find_market_qrcode">Find market QR code</string>
   <string name="find_mecard_qrcode">Find visitor-card QR code</string>
   <string name="find_other_qrcode">Find QR code</string>
+  <string name="find_qq_qrcode">Find a QQ QR code</string>
   <string name="find_web_qrcode">Find web site QR code</string>
   <string name="find_wechat_qrcode">Find a WeChat QR code</string>
   <string name="find_weixin_qrcode">Find weixin QR code</string>
+  <string name="find_wifi_qrcode">Find a Wi-Fi QR code</string>
   <string name="flash">Flash</string>
   <string name="flash_off">No flash</string>
   <string name="flash_on">Flash fired</string>
@@ -106,6 +110,7 @@ Step out of view for a moment"</string>
   <string name="import_fail">Import unsuccessful</string>
   <string name="iso">ISO</string>
   <string name="launch_market">Launch PlayStore</string>
+  <string name="launch_qq">Launch QQ</string>
   <string name="launch_wechat">Launch WeChat</string>
   <string name="loading">Loading...</string>
   <string name="loading_video">Loading video...</string>
@@ -448,6 +453,7 @@ Step out of view for a moment"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_90">3 seconds interval (90 times)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 seconds interval (900 times)</string>
   <string name="preparing_sd">Preparing internal storage...</string>
+  <string name="qq_details">QQ details:</string>
   <string name="qr_code_details">"QR code details: "</string>
   <string name="record_back_pressed_hint">Press again to stop recording</string>
   <string name="resume_playing_message">Resume playing from %s ?</string>
@@ -519,4 +525,13 @@ Step out of view for a moment"</string>
   <string name="weixin_details">"Weixin details: "</string>
   <string name="white_balance">White balance</string>
   <string name="width">Width</string>
+  <string name="wifi_connect_fail">Connection timeout or failure with Wi-Fi network</string>
+  <string name="wifi_connect_success">Connected successfully to Wi-Fi network</string>
+  <string name="wifi_connecting">Wi-Fi connecting...</string>
+  <string name="wifi_details">Wi-Fi Network details:</string>
+  <string name="wifi_open_fail">Unable to open Wi-Fi network</string>
+  <string name="wifi_pwd">PassWord:</string>
+  <string name="wifi_security">Security:</string>
+  <string name="wifi_ssid">SSID:</string>
+  <string name="wifi_warning">Please check security before connecting to this Wi-Fi network</string>
 </resources>
