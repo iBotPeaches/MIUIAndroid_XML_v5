@@ -26,6 +26,7 @@
   <string name="dlg_title_confirm_alarm_silent">Do you want to silence alarms in silent mode?</string>
   <string name="enable_sync">Sync</string>
   <string name="enable_sync_desc">Notes can be synced with your Xiaomi account %1$s, sync now?</string>
+  <string name="error_contact_not_exist">The contact does not exist</string>
   <string name="error_note_empty_for_clock">Sorry, clock cannot be set on an empty note</string>
   <string name="error_note_empty_for_send_to_desktop">Sorry, cannot send and empty note to home screen</string>
   <string name="error_note_not_exist">The note is not exist</string>

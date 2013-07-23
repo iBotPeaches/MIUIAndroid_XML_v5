@@ -3,6 +3,7 @@
   <string name="account_bind_prompt">"Migrating user data, your account will be temporarily locked, please wait..."</string>
   <string name="add_task">Add task</string>
   <string name="adding_upload_tasks">Adding upload tasks.</string>
+  <string name="already_signin_description">You are already signed in</string>
   <string name="app_cache_cleanup_indication">%s cache</string>
   <string name="app_cache_title">App cache</string>
   <string name="app_garbage_cleanup_indication">%s app junk</string>
@@ -213,7 +214,9 @@ Junk"</string>
   <string name="operation_unfavorite">Remove from Favorites</string>
   <string name="pan_settting">MiDrive settings</string>
   <string name="paused">Paused</string>
+  <string name="pull_to_signin">Drag down to sign in and get free disk space</string>
   <string name="query_bind_state">Querying bind status, please wait...</string>
+  <string name="release_to_signin">Release to sign in</string>
   <string name="rename_description">Renaming, please wait…</string>
   <string name="rename_failed">Renaming《%1$s》failed</string>
   <string name="restart_cleaning">Restart</string>
@@ -233,6 +236,10 @@ Junk"</string>
   <string name="server_control_settings">Server Settings</string>
   <string name="share_link_failed">Generating folder external link failed</string>
   <string name="show_message">File cannot be open without downloading</string>
+  <string name="sign_description">Signing in...</string>
+  <string name="signin_error">Network currently unavailable, please try again</string>
+  <string name="signin_success">"Sign in successful!
+Get free space %1$s"</string>
   <string name="space_info">Network space: %1$s available，total: %2$s</string>
   <string name="space_usage">Usage</string>
   <string name="start_cleanup">Start cleanup</string>
@@ -266,6 +273,7 @@ Junk"</string>
   <string name="ui_bar_txt_upload_progress">Uploading...</string>
   <string name="ui_filechange_btn_download">Download files</string>
   <string name="ui_filechange_btn_upload">Upload files</string>
+  <string name="ui_main_menu_option_sign_in">Sign in</string>
   <string name="ui_main_menu_option_task_manage">Transferring Management</string>
   <string name="ui_main_progress_txt_open_file">Downloading...</string>
   <string name="ui_main_toast_favorite_removed">Favorite(s) removed</string>

@@ -13,6 +13,8 @@
   <string name="check_network">View network settings</string>
   <string name="confirm_delete_all_call_log_title">Confirm to delete all call logs?</string>
   <string name="confirm_delete_call_log_title">Delete call log?</string>
+  <string name="contact_detail_calllog_call_note_tips">Call notes</string>
+  <string name="contact_detail_calllog_call_record_tips">Call log</string>
   <string name="custom_mark_category">Custom</string>
   <string name="data_error">Sorry, current service is not available, please try again later</string>
   <string name="delete">Delete</string>

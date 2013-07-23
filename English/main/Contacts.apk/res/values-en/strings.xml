@@ -317,6 +317,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="display_warn_remove_ungrouped">Removing \"%s\" from sync will also remove any ungrouped contacts from sync.</string>
   <string name="download_failed">Download failed!</string>
   <string name="download_preview_failed">Failed to load preview</string>
+  <string name="duplicate_group_name">Group name already exists</string>
   <string name="editContactDescription">Edit contact</string>
   <string name="editGroupDescription">Edit group</string>
   <string name="edit_contact">Edit contact</string>
