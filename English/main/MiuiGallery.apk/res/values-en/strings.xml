@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Import</string>
+  <string name="accept">Accept</string>
   <string name="action_fail_unknown_error">Operation failed due to unknown error.</string>
   <string name="activity_not_found">No app is available to complete the action.</string>
   <string name="add_account">Add account</string>
@@ -11,7 +12,17 @@
   <string name="add_to_cloud_folder">Add to Cloud folder</string>
   <string name="adding_recipients">Adding recipients...</string>
   <string name="album_name">Album name</string>
+  <string name="album_quota_fulfiled">"Can't create album; number of albums reached the limit.."</string>
+  <string name="album_share_kicked">You have been removed from %1$s</string>
   <string name="album_share_stat_content">New album sharing invitations</string>
+  <string name="album_share_subtitle_accepting">Accepting invitation from %1$s...</string>
+  <string name="album_share_subtitle_denying">Ignoring invitation from %1$s...</string>
+  <string name="album_share_subtitle_invited">Shared by %1$s, accept or ignore?</string>
+  <string name="album_share_subtitle_normal">Shared by %1$s</string>
+  <string name="album_share_subtitle_not_ready">Album info not ready. Click to download.</string>
+  <string name="album_share_subtitle_quitting">Closing invitation from %1$s...</string>
+  <string name="album_share_subtitle_requesting">Downloading album info...</string>
+  <string name="album_share_title_new_album">New shared album</string>
   <string name="albums">Albums</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Notice</string>
@@ -109,8 +120,11 @@
   <string name="email_picker_title">Add shared E-mail</string>
   <string name="empty_album">O images/videos available.</string>
   <string name="enter_email_hint">"Enter E-mail address "</string>
+  <string name="error_invalid_link">The link is invalid or expired, please ask album owner to create a new shared link.</string>
+  <string name="error_repeat_apply">You have already been shared with this album</string>
   <string name="error_should_not_select_image">Warning: please do not select an image file.</string>
   <string name="error_should_not_select_video">Warning: please do not select a video file.</string>
+  <string name="error_socket_timeout">Network timeout, please try again later</string>
   <string name="exit_share">Exit album</string>
   <string name="exit_share_failed">Exit album %1$s failed</string>
   <string name="exit_share_in_process">Trying to exit album, please wait...</string>
@@ -138,6 +152,7 @@
   <string name="frame_semicircle">Semicircle</string>
   <string name="frame_white">white</string>
   <string name="gallery_cloud_provider_name">Gallery</string>
+  <string name="gallery_setting">Gallery Settings</string>
   <string name="global_setting">Settings</string>
   <string name="grain">Film Grain</string>
   <string name="grayscale">B&amp;W</string>
@@ -155,6 +170,7 @@
   <string name="how_many_sub_folders">%d Folders</string>
   <string name="how_many_videos">%d Videos</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
+  <string name="image_quota_fulfiled">"Can't create image, images quota reached limit."</string>
   <string name="import_complete">Import complete</string>
   <string name="import_fail">Import unsuccessful</string>
   <string name="initial_cloud_button_text">Start using your MiCloud</string>
@@ -168,6 +184,7 @@
   <string name="kick_sharer">Remove sharer</string>
   <string name="kick_sharer_failed">Removing sharer failed</string>
   <string name="kick_sharer_successfully">Removed sharer successfully</string>
+  <string name="landscape_mode">Enable Landscape Mode</string>
   <string name="loading">Loading...</string>
   <string name="loading_failure">Photo cannot be loaded</string>
   <string name="loading_thumbnail">Loading thumbnail...</string>
@@ -285,6 +302,7 @@
   <string name="share_by_email_start">Attempting to share %1$s in the background</string>
   <string name="share_by_email_successfully">Share %1$s via E-mail successful</string>
   <string name="share_user_name">Name</string>
+  <string name="sharer_quota_fulfiled">"Can't add sharer, sharing quota has been reached."</string>
   <string name="sharer_status_accepted">Accepted</string>
   <string name="sharer_status_refused">Rejected</string>
   <string name="sharer_status_waiting">Waiting</string>
