@@ -343,6 +343,7 @@ We will check for you within two working days"</string>
   <string name="sync_on">On</string>
   <string name="sync_sub_dspt">An SMS will be sent to activate the service</string>
   <string name="sync_sub_int_dspt">An international SMS may be sent to activate the service</string>
+  <string name="title">title</string>
   <string name="title_mili_center">Mi credits centre</string>
   <string name="title_pay">Pay using Mi Credits</string>
   <string name="title_pay_record">%1$s payment history items</string>
@@ -362,6 +363,7 @@ We will check for you within two working days"</string>
   <string name="user_agreement_p3"> and </string>
   <string name="user_agreement_p4">Privacy Policy</string>
   <string name="user_agreement_p5">"By signing up, you are agreeing to the "</string>
+  <string name="value">Value</string>
   <string name="voucher_edit_hint">Password:</string>
   <string name="voucher_edit_limit">Edit limit</string>
   <string name="voucher_error_code">An error occurred with your Mi Credit voucher code</string>

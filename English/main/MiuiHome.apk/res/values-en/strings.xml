@@ -165,6 +165,7 @@
   <string name="status_bar_toggle_torch">Torch</string>
   <string name="status_bar_toggle_vibrate">Vibrate</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
+  <string name="status_bar_toggle_wifi_ap">Wi-Fi hotspot</string>
   <string name="title_select_live_folder">Select Folder</string>
   <string name="title_select_shortcut">Select Shortcut</string>
   <string name="toggle_select_title">Select toggle</string>

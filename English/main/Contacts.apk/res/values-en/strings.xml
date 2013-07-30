@@ -215,6 +215,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="delete_sim_entries_finish">Successfully deleted selected SIM contacts</string>
   <string name="delete_sim_entry_miui">Delete SIM Contacts</string>
   <string name="delete_unknown_contact_calllog_title">"Are you sure you want to delete unknown contact's call logs?"</string>
+  <string name="deleting">Deleting...</string>
   <string name="deleting_sim_entry_miui">Deleting contacts on SIM card</string>
   <string name="description_add_contact">Add contact</string>
   <string name="description_author">Author:</string>
@@ -315,6 +316,8 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="display_sim_contacts">Show SIM contacts</string>
   <string name="display_ungrouped">All other contacts</string>
   <string name="display_warn_remove_ungrouped">Removing \"%s\" from sync will also remove any ungrouped contacts from sync.</string>
+  <string name="dlg_add_blacklist">Add selected number to blacklist?</string>
+  <string name="dlg_remove_blacklist">Remove selected number from blacklist?</string>
   <string name="download_failed">Download failed!</string>
   <string name="download_preview_failed">Failed to load preview</string>
   <string name="duplicate_group_name">Group name already exists</string>
@@ -739,6 +742,7 @@ To add a contact to your list of favorites:
   <string name="remind_btn_ignore">Ignore</string>
   <string name="remind_btn_sync_now">Sync Now</string>
   <string name="removePhoto">Remove photo</string>
+  <string name="remove_blacklist">Remove from blacklist</string>
   <string name="remove_duplicate">"MIUI will help you find and merge duplicate contacts, contacts will not be merged automatically. To merge contacts please do this manually"</string>
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Resource Browser</string>
@@ -749,6 +753,8 @@ To add a contact to your list of favorites:
   <string name="resource_default_name">Resource</string>
   <string name="resource_delete_all">Are you sure you want to delete %1$d selected resources?</string>
   <string name="resource_delete_confirm">Are you sure want to delete these resources?</string>
+  <string name="resource_delta_update_failed">Patch update failed! The complete resource will now be downloaded</string>
+  <string name="resource_delta_update_successful">Patch update successful，saving %1$s.</string>
   <string name="resource_detail">Details</string>
   <string name="resource_download">Download</string>
   <string name="resource_downloaded_title">Downloaded resources</string>
@@ -758,6 +764,7 @@ To add a contact to your list of favorites:
   <string name="resource_get_auth_exceed_max_limit_title">Authorisation limit exceeded</string>
   <string name="resource_get_auth_missing">The theme is not downloaded from official market, please download similar ones from official market.</string>
   <string name="resource_get_auth_retrieving">Retrieving authorisation...</string>
+  <string name="resource_import_successful">Download successful.</string>
   <string name="resource_importing">Importing...</string>
   <string name="resource_list_title">Latest</string>
   <string name="resource_local">Local %1$s</string>

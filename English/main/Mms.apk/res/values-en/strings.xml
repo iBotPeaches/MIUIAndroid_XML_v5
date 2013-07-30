@@ -60,7 +60,11 @@
   <string name="confirm_dialog_title">Delete</string>
   <string name="confirm_export_dialog_description">Remove selected private contact, conversation will be moved to normal SMS. Do you want to continue?</string>
   <string name="confirm_export_dialog_title">Remove private contact</string>
+  <string name="confirm_no_block_positive">"Don't block and restore"</string>
+  <string name="confirm_no_block_title">"Don't block number and restore all the messages?"</string>
   <string name="confirm_rate_limit">A large number of multimedia messages are being sent. Is this OK?</string>
+  <string name="confirm_restore_positive">Restore</string>
+  <string name="confirm_restore_title">Restore all selected messages?</string>
   <string name="context_menu_add_contact">Add to Contacts</string>
   <string name="context_menu_browse_web">Browse</string>
   <string name="context_menu_call">Call</string>
@@ -224,6 +228,7 @@
   <string name="new_phrase_hint">Enter new phrase</string>
   <string name="nickname_placeholder">Nickname</string>
   <string name="no">Cancel</string>
+  <string name="no_block_button_msg">"Don’t block messages from this number"</string>
   <string name="no_conversations">No conversations</string>
   <string name="no_subject">(No subject)</string>
   <string name="no_subject_view">(No subject)</string>
@@ -316,6 +321,7 @@
   <string name="replace_image">Replace picture</string>
   <string name="resent_message">Resend</string>
   <string name="resize_image_error_information">This picture is too large to send, even when resized.</string>
+  <string name="restore_blocked_message">Restore blocked message</string>
   <string name="save">Save</string>
   <string name="save_ringtone">Save as ringtone</string>
   <string name="save_to_sim">Save to SIM card</string>

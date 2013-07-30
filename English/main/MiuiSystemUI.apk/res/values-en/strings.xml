@@ -235,6 +235,7 @@
   <string name="status_bar_toggle_sync_manual">Sync</string>
   <string name="status_bar_toggle_syncing">Syncing</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
+  <string name="status_bar_toggle_wifi_ap">Wi-Fi hotspot</string>
   <string name="status_bar_use_physical_keyboard">Use physical keyboard</string>
   <string name="tab_notifications_lable">Notifications</string>
   <string name="tab_toggles_lable">Toggles</string>

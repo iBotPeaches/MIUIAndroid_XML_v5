@@ -896,6 +896,54 @@
         <item>GB2312</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;amp;wd={searchTerms}</item>
     </string-array>
+    <string-array name="yicha">
+        <item>易查</item>
+        <item>yicha.cn</item>
+        <item>http://yicha.cn/favicon.ico</item>
+        <item>http://yicha.cn/union/u.jsp?p=page&amp;site=2145958584&amp;key={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="easou">
+        <item>宜搜</item>
+        <item>easou.com:8080</item>
+        <item>http://ad3.easou.com:8080/favicon.ico</item>
+        <item>http://ad3.easou.com:8080/j10ad/ea2.jsp?channel=11&amp;cid=bwcn3511_49059_D_1&amp;wver=t&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="taobao">
+        <item>淘宝</item>
+        <item>taobao.com</item>
+        <item>http://r.m.taobao.com/favicon.ico</item>
+        <item>http://r.m.taobao.com/s?p=mm_32549094_4130482_13394846&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="dianping">
+        <item>团购</item>
+        <item>dianping.com</item>
+        <item>http://developer.dianping.com/favicon.ico</item>
+        <item>http://m.dianping.com/shoplist/2/kw/{searchTerms}/search</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="tupian">
+        <item>图片</item>
+        <item>baidu.com</item>
+        <item>http://image.baidu.com/favicon.ico</item>
+        <item>http://m.baidu.com/s?from=1000228f&amp;vit=union&amp;st=103041&amp;word={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
+    <string-array name="shipin">
+        <item>视频</item>
+        <item>youku.com</item>
+        <item>http://m.baidu.com/favicon.ico</item>
+        <item>http://m.baidu.com/video?from=1000228j&amp;word={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+    </string-array>
     <array name="bookmark_preloads_zh">
         <item>@raw/zh_favicon_xiaomi_bbs</item>
         <item>@raw/zh_thumb_xiaomi_bbs</item>
@@ -912,6 +960,50 @@
         <item>@raw/zh_favicon_163</item>
         <item>@raw/zh_thumb_163</item>
     </array>
+    <string-array name="search_engines_cmcc">
+        <item>s139</item>
+        <item>baidu</item>
+        <item>sogou</item>
+        <item>taobao</item>
+        <item>yicha</item>
+        <item>easou</item>
+        <item>dianping</item>
+        <item>google</item>
+        <item>shipin</item>
+        <item>tupian</item>
+    </string-array>
+    <integer-array name="readmode_content_font_size">
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>24</item>
+        <item>28</item>
+    </integer-array>
+    <integer-array name="readmode_title_font_size">
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+        <item>32</item>
+        <item>36</item>
+    </integer-array>
+    <integer-array name="readmode_theme_bgcolors">
+        <item>0xfff7f7f7</item>
+        <item>0xffe6ddd1</item>
+        <item>0xffd8d8d8</item>
+        <item>0xffcdc3b5</item>
+        <item>0xffb0c0b6</item>
+        <item>0xffbdc7d6</item>
+        <item>0xff333333</item>
+    </integer-array>
+    <integer-array name="readmode_theme_fontcolors">
+        <item>0xff000000</item>
+        <item>0xff000000</item>
+        <item>0xff3e4042</item>
+        <item>0xff543b20</item>
+        <item>0xff2e3833</item>
+        <item>0xff36495d</item>
+        <item>0xffbbbbbb</item>
+    </integer-array>
     <string-array name="google_in_list">
         <item>search_google</item>
         <item>ic_search_engine_google_list_item</item>
@@ -979,5 +1071,14 @@
         <item>Never</item>
         <item>Smart</item>
         <item>Always</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>White</item>
+        <item>Yellow</item>
+        <item>Grey</item>
+        <item>Brown</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Dark</item>
     </string-array>
 </resources>

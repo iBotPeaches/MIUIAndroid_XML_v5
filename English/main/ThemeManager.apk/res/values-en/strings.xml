@@ -23,6 +23,7 @@
   <string name="component_lockstyle_personal_title">Settings</string>
   <string name="component_select_title">Selected %1$s components</string>
   <string name="component_settings_title">Customize theme</string>
+  <string name="deleting">Deleting...</string>
   <string name="description_author">Author:</string>
   <string name="description_designer">Designer:</string>
   <string name="description_download">Download:</string>
@@ -79,6 +80,8 @@
   <string name="resource_default_name">Resource</string>
   <string name="resource_delete_all">Are you sure you wish to delete %1$d selected resources?</string>
   <string name="resource_delete_confirm">Are you sure you wish to delete these resources?</string>
+  <string name="resource_delta_update_failed">Patch update failed! The complete resource will now be downloaded</string>
+  <string name="resource_delta_update_successful">Patch update successful，saving %1$s.</string>
   <string name="resource_detail">Details</string>
   <string name="resource_download">Download</string>
   <string name="resource_downloaded_title">Downloaded resources</string>
@@ -88,6 +91,7 @@
   <string name="resource_get_auth_exceed_max_limit_title">Authorisation limit reached!</string>
   <string name="resource_get_auth_missing">Theme was not downloaded from theme market, please download from official theme market.</string>
   <string name="resource_get_auth_retrieving">Retrieving authorisation...</string>
+  <string name="resource_import_successful">Download successful.</string>
   <string name="resource_importing">Importing</string>
   <string name="resource_list_title">Latest selected</string>
   <string name="resource_local">Local %1$s</string>

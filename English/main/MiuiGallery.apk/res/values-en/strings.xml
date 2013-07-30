@@ -102,6 +102,9 @@
   <string name="defalt_local_mobile">mobile</string>
   <string name="delete">Delete</string>
   <string name="delete_fail_too_many_items">Failed to delete, too many items selected</string>
+  <string name="delete_file">Are you sure to delete %1$d selected file(s)?</string>
+  <string name="delete_files_and_folders">Are you sure to delete %1$d selected file(s) and %2$d selected folder(s)?</string>
+  <string name="delete_folder">Are you sure to delete %1$d selected folder(s)?</string>
   <string name="deleting_files">Deleting files...</string>
   <string name="demo_video_folder_display_name">Demo Video</string>
   <string name="description">Description</string>
@@ -109,6 +112,7 @@
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
   <string name="details_title">%1$d of %2$d items:</string>
+  <string name="directory_info_divider">"  |  "</string>
   <string name="documentary">Documentary</string>
   <string name="done">Done</string>
   <string name="doodle">Doodle</string>
@@ -175,6 +179,7 @@
   <string name="import_fail">Import unsuccessful</string>
   <string name="initial_cloud_button_text">Start using your MiCloud</string>
   <string name="initial_cloud_text">Any time and any place, organise and view your photos</string>
+  <string name="initializing_cloud">Initialising Cloud Album...</string>
   <string name="input_cloudfolder_name">Cloud folder name</string>
   <string name="internal_camera_folder_display_name">Internal Camera Photos</string>
   <string name="internal_miui_capture_screen_folder_display_name">Internal Screenshots</string>
@@ -236,6 +241,8 @@
   <string name="open">Open Sync</string>
   <string name="open_single_image_failure">Failed to open image file!</string>
   <string name="open_sync_title">Sync required</string>
+  <string name="operation_delete_confirm_message_folder">"Folders and files will be deleted at the same time.
+"</string>
   <string name="operation_refresh">Refresh</string>
   <string name="operation_rename">Rename</string>
   <string name="orientation">Orientation</string>

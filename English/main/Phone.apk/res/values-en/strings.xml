@@ -387,6 +387,8 @@
   <string name="empty_alert">%s is required, cannot be left blank</string>
   <string name="empty_networks_list">No networks found.</string>
   <string name="enable">Enable</string>
+  <string name="enable_antispam_strange_summary">&gt;Mute the first call from an unknown number</string>
+  <string name="enable_antispam_strange_title">Anti strange call</string>
   <string name="enable_disable_administrative">Administrative</string>
   <string name="enable_disable_advertisements">Advertisements</string>
   <string name="enable_disable_atr">Area Traffic Reports</string>
@@ -718,6 +720,7 @@ Switch to the new provider anyway?"</string>
   <string name="phone_entered_ecm_text">Entered Emergency Callback Mode</string>
   <string name="phone_in_ecm_call_notification_text">Data connection disabled</string>
   <string name="phone_in_ecm_notification_title">Emergency Callback Mode</string>
+  <string name="phone_info_divider">"  |  "</string>
   <string name="phone_numbers">Enter Phone Numbers</string>
   <string name="pick_outgoing_call_phone_type">Place call</string>
   <string name="pick_outgoing_sip_phone">Use Internet calling account:</string>

@@ -253,6 +253,11 @@
   <string name="country_name_zw">ZW</string>
   <string name="day_of_month">" %d"</string>
   <string name="days">days</string>
+  <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
+  <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
+  <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
+  <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
+  <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
   <string name="delete">Delete</string>
   <string name="deprecated_alarm_message_12_hour_formate"/>
   <string name="device_hongmi">Hongmi phone</string>
@@ -316,6 +321,9 @@
   <string name="lockscreen_access_pattern_detected">Pattern completed</string>
   <string name="lockscreen_access_pattern_start">Pattern started</string>
   <string name="lockscreen_emergency_call">Emergency call</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"You have incorrectly inputted your password %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using your account details.
+
+Try again in %d seconds."</string>
   <string name="lockscreen_forgot_pattern_button_text">Forgot pattern?</string>
   <string name="lockscreen_pattern_instructions">Draw pattern to unlock</string>
   <string name="lockscreen_pattern_wrong">Pattern incorrect! Try again</string>
