@@ -466,6 +466,7 @@
   <string name="readmode_reach_last_page">Last page has been reached</string>
   <string name="readmode_recommend">View recommended</string>
   <string name="readmode_recommend_message">"You've read all the sections of this book. Please select another"</string>
+  <string name="readmode_refresh">Refresh</string>
   <string name="readmodelist_bookmarks_to_show">Reading List</string>
   <string name="recover">Recover</string>
   <string name="recover_from_crash">Continue with last browser session</string>

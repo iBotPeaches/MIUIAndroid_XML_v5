@@ -39,8 +39,8 @@
   <string name="menu_add_into_contact">Add to existing contact</string>
   <string name="menu_add_new_contact">New contact</string>
   <string name="menu_add_vip_custom">Add Whitelist members</string>
-  <string name="menu_bl_add_contact">Recent contacts</string>
-  <string name="menu_bl_add_manual">Add manually</string>
+  <string name="menu_bl_add_contact">Contacts</string>
+  <string name="menu_bl_add_manual">Add</string>
   <string name="menu_bl_call_log">Check blocked call log</string>
   <string name="menu_bl_clear">Clear blacklist</string>
   <string name="menu_bl_remove">Remove from blacklist</string>
@@ -93,8 +93,8 @@
   <string name="st_block_title">Block and log</string>
   <string name="st_call_group">Call</string>
   <string name="st_common_setting_group">Quick view</string>
-  <string name="st_filter_keywords_setting_summary1">Messages from unknown contacts which contain following words will be blocked.</string>
-  <string name="st_filter_keywords_setting_summary2">You can add multiple keywords once, delimeted by comma.</string>
+  <string name="st_filter_keywords_setting_summary1">Messages from unknown contacts will be blocked.</string>
+  <string name="st_filter_keywords_setting_summary2">Add multiple keywords delimeted by a comma.</string>
   <string name="st_filter_keywords_setting_title">Set filter keywords</string>
   <string name="st_filter_keywords_title">Filter keywords for messages</string>
   <string name="st_filter_sms_button">Filter spam messages</string>
@@ -109,7 +109,7 @@
   <string name="tab_sms">Message log</string>
   <string name="tab_title">Guard</string>
   <string name="toast_keyword_blank">Keyword is blank</string>
-  <string name="toast_keyword_exist">The keyword: %s already exists</string>
+  <string name="toast_keyword_exist">Keyword: %s already exists</string>
   <string name="twelve_hour_time_format">a h:mm</string>
   <string name="twenty_four_hour_time_format">HH:mm</string>
 </resources>
