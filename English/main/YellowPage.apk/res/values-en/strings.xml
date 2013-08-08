@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">Agree</string>
+  <string name="all_numbers">All numbers</string>
   <string name="app_label">Yellow Page</string>
   <string name="callrecordview_item_newcontact">New Contact</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sec</string>

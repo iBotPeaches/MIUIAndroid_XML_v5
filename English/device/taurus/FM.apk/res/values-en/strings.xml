@@ -46,6 +46,7 @@
   <string name="frequency_should_not_null">Radio frequency cannot be blank</string>
   <string name="frequency_string"/>
   <string name="hint_station_name">Enter Station Name</string>
+  <string name="increase_af">increase frequency</string>
   <string name="input_station">Radio Frequency (MHz)</string>
   <string name="menu_add_list">Add List</string>
   <string name="menu_delete">Delete</string>
@@ -76,18 +77,22 @@
   <string name="msg_searching_title">Auto-Select Presets</string>
   <string name="msg_seeking">Searching FM Station</string>
   <string name="msg_weak_searching">Searching for frequencies to transmit</string>
+  <string name="next_station">next station</string>
   <string name="no_storage">Mount SD card before recording begins.</string>
+  <string name="pre_station">previous station</string>
   <string name="preparing_sd">Preparing SD card</string>
   <string name="preset_delete">Delete</string>
   <string name="preset_replace">Replace</string>
   <string name="preset_tune">Tune</string>
   <string name="presetlist_autoselect_title">Confirm Auto-Select</string>
   <string name="radio_text_string">This is the long Radio Text String Message that needs to scroll</string>
+  <string name="record_error_file_removed">Recording stopped. Recorded file has been removed.</string>
   <string name="record_error_unknown">Recording stopped. Unknown error during recording.</string>
   <string name="record_fail">Recording failed</string>
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">Click to view file %s</string>
   <string name="record_sucess">Recording successful</string>
+  <string name="reduce_af">reduce frequency</string>
   <string name="regional_band">Regional Band will clear all saved stations</string>
   <string name="search_dialog_title">Scan Stations</string>
   <string name="sel_audio_output">Select Audio Output</string>
@@ -118,5 +123,10 @@
   <string name="toast_save_station">%sMHz has been saved</string>
   <string name="toast_sleep_mode">Stop FM in %s</string>
   <string name="transmit_msg_string">Transmitting at:</string>
+  <string name="turn_off_fm">Turn off FM</string>
+  <string name="turn_off_speaker_phone">Turn off speaker phone</string>
+  <string name="turn_on_fm">Turn on FM</string>
+  <string name="turn_on_speaker_phone">Turn on speaker phone</string>
   <string name="type_rd"/>
+  <string name="view_stations_list">View station list</string>
 </resources>

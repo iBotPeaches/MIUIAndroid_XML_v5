@@ -20,6 +20,7 @@
   <string name="editmode_menu_delete">Delete</string>
   <string name="editmode_menu_share">Share</string>
   <string name="error_bad_file">Corrupt file</string>
+  <string name="error_connect_service">Could not connect to transfer service.</string>
   <string name="error_download">Download failed</string>
   <string name="error_general">General error occurred</string>
   <string name="error_network">Network error occurred</string>

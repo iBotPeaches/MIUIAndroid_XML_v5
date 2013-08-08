@@ -110,6 +110,11 @@
   <string name="sign_in_info">"Your update ranking is %1$s %2$s users have signed in for MIUI %3$s"</string>
   <string name="sign_in_info_rank_more">"Your update ranking is after %1$s Over %2$s users have signed in for MIUI %3$s"</string>
   <string name="sign_in_info_total_more">"Your update ranking is %1$s Over %2$s users have signed in for MIUI %3$s"</string>
+  <string name="sina_share_fail">Sending failed!</string>
+  <string name="sina_share_pendding">Sending...</string>
+  <string name="sina_share_success">Sending successful!</string>
+  <string name="sina_token_expired_warning">Weibo account has expired, please reconnect</string>
+  <string name="sina_token_invalid_warning">Weibo account is invalid, please reconnect</string>
   <string name="stable_build">Stable Build</string>
   <string name="start_update">Begin update</string>
   <string name="submit">Submit</string>

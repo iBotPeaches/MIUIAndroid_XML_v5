@@ -917,7 +917,7 @@ To add a contact to your list of favorites:
   <string name="upgrade_out_of_memory_retry">Retry upgrade</string>
   <string name="upgrade_out_of_memory_uninstall">Uninstall some applications</string>
   <string name="use_photo_as_primary">Use this photo</string>
-  <string name="use_photo_as_primary2">Use %s contact photo</string>
+  <string name="use_photo_as_primary2">"Use %1$s's contact photo"</string>
   <string name="user_profile_contacts_list_header">Me</string>
   <string name="vcard_export_request_rejected_message">vCard export request was rejected. Try again later.</string>
   <string name="vcard_export_will_start_message">%s will be exported shortly.</string>

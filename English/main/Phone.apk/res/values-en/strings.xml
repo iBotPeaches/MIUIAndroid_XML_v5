@@ -140,6 +140,7 @@
   <string name="call_ind_services">Call Independent Services</string>
   <string name="call_lost">Call has been lost.</string>
   <string name="call_number">To:</string>
+  <string name="call_record_button_label">Recording %s</string>
   <string name="call_record_notification_message_low_space_miui">Recording is stopped due to low space, click to view %s.</string>
   <string name="call_record_notification_message_miui">Click to view %s.</string>
   <string name="call_record_notification_message_sd_unmounted_miui">Recording is stopped because SD card is unmounted.</string>

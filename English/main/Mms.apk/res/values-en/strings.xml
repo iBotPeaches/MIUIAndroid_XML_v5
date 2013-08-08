@@ -239,6 +239,7 @@
   <string name="notification_multiple">%s unread messages.</string>
   <string name="notification_multiple_title">New messages</string>
   <string name="number_add_hint">Input number to add to Private Contact</string>
+  <string name="overwrite_edited_content">Will overwrite the edited content, continue?</string>
   <string name="phrase_confirm_delete_message">The selected phrase will be deleted</string>
   <string name="phrase_empty">No Phrases</string>
   <string name="phrase_from">From %1s</string>

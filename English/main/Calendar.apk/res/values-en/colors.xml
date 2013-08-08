@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="month_rest_day_background_color">#80000000</color>
-    <color name="month_work_day_background_color">#80000000</color>
-    <color name="month_rest_day_text_color">#80000000</color>
-    <color name="month_work_day_text_color">#80000000</color>
+    <color name="month_rest_day_background_color">@android:color/transparent</color>
+    <color name="month_work_day_background_color">@android:color/transparent</color>
+    <color name="month_rest_day_text_color">@android:color/transparent</color>
+    <color name="month_work_day_text_color">@android:color/transparent</color>
 </resources>
