@@ -162,6 +162,7 @@
   <string name="response_maybe">Maybe</string>
   <string name="response_no">No</string>
   <string name="response_yes">Yes</string>
+  <string name="rest_day_indication"/>
   <string name="save_label">Done</string>
   <string name="saving_event">Event saved.</string>
   <string name="saving_event_with_guest">Updates will be sent.</string>
@@ -193,6 +194,7 @@
   <string name="what_label">What</string>
   <string name="when_label">When</string>
   <string name="where_label">Where</string>
+  <string name="work_day_indication"/>
   <string name="yearly">Yearly (on %s)</string>
   <string name="yearly_plain">Yearly</string>
 </resources>

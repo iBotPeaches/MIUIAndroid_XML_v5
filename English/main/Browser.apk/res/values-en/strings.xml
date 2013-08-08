@@ -166,6 +166,15 @@
   <string name="download_sdcard_busy_dlg_title">USB storage unavailable</string>
   <string name="download_video_alert_message">If your current network plan has data charges, downloading videos may consume your allowance, do you wish to continue?</string>
   <string name="download_video_alert_title">Download Notice!</string>
+  <string name="download_video_menu_dialog_positive_txt">Install</string>
+  <string name="download_video_menu_dialog_summary">You need to install MiuiVideo before using this function</string>
+  <string name="download_video_menu_dialog_title">Installing…</string>
+  <string name="download_video_menu_video_version_low">You need to the update MiuiVideo.</string>
+  <string name="download_video_no_title_default_name">Unnamed video</string>
+  <string name="download_video_please_download_market">You need to install MiApps.</string>
+  <string name="download_video_please_select_video">Choose a video</string>
+  <string name="download_video_start_down_toast">Download %1$s video(s)</string>
+  <string name="download_video_unseleted_all">Uncheck All</string>
   <string name="downloaded">Downloaded</string>
   <string name="downloading">Downloading</string>
   <string name="dump_counters">Dump V8 counters</string>
@@ -257,6 +266,7 @@
   <string name="max_tabs_warning">No more tabs available</string>
   <string name="menu_addtodesk">Add to desktop</string>
   <string name="menu_disable_night_mode">Disable night mode</string>
+  <string name="menu_download_video">Downloaded videos</string>
   <string name="menu_enable_night_mode">Enable night mode</string>
   <string name="menu_exit">Exit</string>
   <string name="menu_hv_swap">Switch to horizontal screen</string>
