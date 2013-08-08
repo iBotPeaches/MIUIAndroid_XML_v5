@@ -64,8 +64,8 @@
   <string name="qm_auto_time_turn_off_title">Select time to turn off quiet mode</string>
   <string name="qm_auto_time_turn_on">From</string>
   <string name="qm_auto_time_turn_on_title">Select time to turn on quiet mode</string>
-  <string name="qm_notification">Silent mode enabled, you will not be disturbed</string>
-  <string name="qm_open">Open quiet mode</string>
+  <string name="qm_notification">Silent mode enabled.</string>
+  <string name="qm_open">Enable Quiet Mode</string>
   <string name="qm_other_settings">Advanced</string>
   <string name="qm_other_settings_group">Other settings</string>
   <string name="qm_other_settings_info">Adjust action for calls and messages when quiet mode is enabled</string>
@@ -73,7 +73,7 @@
   <string name="qm_repeated_call_summary_3min">A second call from the same person within three minutes will not be muted</string>
   <string name="qm_repeated_call_summary_none">Do not make an exception for repeated calls</string>
   <string name="qm_special_call_setting_group">Exceptions</string>
-  <string name="qm_summary">After open Quiet Mode, incoming call and message will be mute, and the phone will not be wake up</string>
+  <string name="qm_summary">After enabling Quiet Mode, incoming calls and messages will be muted and phone will not wake up from notifications.</string>
   <string name="qm_vip_call_button_title">Allow calls from whitelist</string>
   <string name="qm_vip_call_setting_title">Whitelist incoming call settings</string>
   <string name="qm_vip_call_summary_contact">All contacts</string>
@@ -94,7 +94,7 @@
   <string name="st_call_group">Call</string>
   <string name="st_common_setting_group">Quick view</string>
   <string name="st_filter_keywords_setting_summary1">Messages from unknown contacts will be blocked.</string>
-  <string name="st_filter_keywords_setting_summary2">Add multiple keywords delimeted by a comma.</string>
+  <string name="st_filter_keywords_setting_summary2">Add multiple keywords delimited by a comma.</string>
   <string name="st_filter_keywords_setting_title">Set filter keywords</string>
   <string name="st_filter_keywords_title">Filter keywords for messages</string>
   <string name="st_filter_sms_button">Filter spam messages</string>
