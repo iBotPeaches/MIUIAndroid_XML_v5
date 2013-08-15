@@ -388,7 +388,7 @@
   <string name="empty_alert">%s is required, cannot be left blank</string>
   <string name="empty_networks_list">No networks found.</string>
   <string name="enable">Enable</string>
-  <string name="enable_antispam_strange_summary">&gt;Mute the first call from an unknown number</string>
+  <string name="enable_antispam_strange_summary">Mute the first call from an unknown number</string>
   <string name="enable_antispam_strange_title">Anti strange call</string>
   <string name="enable_disable_administrative">Administrative</string>
   <string name="enable_disable_advertisements">Advertisements</string>
