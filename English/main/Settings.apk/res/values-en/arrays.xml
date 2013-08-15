@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>Single mic Noise Supression</item>
+        <item>Dual mic Noise Supression</item>
+    </string-array>
     <string-array name="screen_key_long_press_action">
         <item>None</item>
         <item>Launch Recent Panel</item>

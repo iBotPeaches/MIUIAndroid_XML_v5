@@ -278,6 +278,12 @@
   <string name="saving_failure">Photo cannot be saved</string>
   <string name="saving_image">Saving picture...</string>
   <string name="scan_qr_code">Let others scan QR code to view this shared album</string>
+  <string name="screensaver_activate_mode">Screensaver Slideshow</string>
+  <string name="screensaver_activate_only_charging">Activate Screensaver only When charging</string>
+  <string name="screensaver_category">Screensaver</string>
+  <string name="screensaver_no_data">No pictures in the album.</string>
+  <string name="screensaver_path">Screensaver album:</string>
+  <string name="screensaver_path_not_set">Not set</string>
   <string name="sd_not_available">SD card unmounted or unavailable</string>
   <string name="seconds">seconds</string>
   <string name="select_album">Select album</string>
@@ -298,6 +304,8 @@
   <string name="set_lock_or_wallpaper">Set wallpaper</string>
   <string name="set_lockscreen">Set lock screen</string>
   <string name="set_recent_album">Set as recent album</string>
+  <string name="set_screensaver_path_message">This album will be shown 5 seconds after screen shuts off.</string>
+  <string name="set_screensaver_path_title">Screensaver Slideshow</string>
   <string name="set_wallpaper">Set desktop wallpaper</string>
   <string name="settings">Settings</string>
   <string name="settings_i_xiaomi_com">Login at i.xiaomi.com to manage your cloud storage</string>
@@ -331,6 +339,8 @@
   <string name="slideshow_interval_dialog_title">Slideshow time interval must be greater than 0 seconds</string>
   <string name="slideshow_interval_invalid">Invalid time interval setting, must be between 1 and 3600. Default time interval will now be used</string>
   <string name="slideshow_repeat_mode">Repeat</string>
+  <string name="slideshow_time_select_title">Select Slideshow Time</string>
+  <string name="slideshow_time_title">Slideshow Time</string>
   <string name="storage_all_volumes">All storage devices</string>
   <string name="storage_no_space">"No storage space available."</string>
   <string name="straighten">Straighten</string>
