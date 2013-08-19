@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory>
+        <CheckBoxPreference android:title="@string/pref_accessibility_url_shortcut_enter_title" android:key="url_shortcut_enter_enabled" android:summary="@string/pref_accessibility_url_shortcut_enter_summary" android:defaultValue="true" />
+        <CheckBoxPreference android:title="@string/pref_force_userscalable" android:key="force_userscalable" android:summary="@string/pref_force_userscalable_summary" android:defaultValue="false" />
+		<CheckBoxPreference android:title="@string/pref_content_autofit" android:summary="@string/pref_content_autofit_summary" android:key="autofit_pages" android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/pref_font_size_category">
+        <com.android.browser.preferences.FontSizePreview android:title="@string/preview" />
+        <com.android.browser.preferences.SeekBarSummaryPreference android:max="30" android:title="@string/pref_text_zoom" android:key="text_zoom" android:defaultValue="10" />
+        <com.android.browser.preferences.SeekBarSummaryPreference android:max="10" android:title="@string/pref_zoom_on_double_tap" android:key="double_tap_zoom" android:defaultValue="5" />
+        <com.android.browser.preferences.SeekBarSummaryPreference android:max="20" android:title="@string/pref_min_font_size" android:key="min_font_size" android:defaultValue="0" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/pref_inverted_category">
+        <com.android.browser.preferences.InvertedContrastPreview android:title="@string/preview" />
+        <CheckBoxPreference android:title="@string/pref_inverted" android:key="inverted" android:summary="@string/pref_inverted_summary" android:defaultValue="false" />
+        <com.android.browser.preferences.SeekBarSummaryPreference android:max="20" android:title="@string/pref_inverted_contrast" android:key="inverted_contrast" android:dependency="inverted" android:defaultValue="0" />
+    </PreferenceCategory>
+</PreferenceScreen>
