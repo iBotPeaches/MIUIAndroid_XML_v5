@@ -46,7 +46,7 @@
   <string name="frequency_should_not_null">Radio frequency cannot be blank</string>
   <string name="frequency_string"/>
   <string name="hint_station_name">Enter Station Name</string>
-  <string name="increase_af">increase frequency</string>
+  <string name="increase_af">Increase frequency</string>
   <string name="input_station">Radio Frequency (MHz)</string>
   <string name="menu_add_list">Add List</string>
   <string name="menu_delete">Delete</string>
@@ -77,9 +77,9 @@
   <string name="msg_searching_title">Auto-Select Presets</string>
   <string name="msg_seeking">Searching FM Station</string>
   <string name="msg_weak_searching">Searching for frequencies to transmit</string>
-  <string name="next_station">next station</string>
+  <string name="next_station">Next station</string>
   <string name="no_storage">Mount SD card before recording begins.</string>
-  <string name="pre_station">previous station</string>
+  <string name="pre_station">Previous station</string>
   <string name="preparing_sd">Preparing SD card</string>
   <string name="preset_delete">Delete</string>
   <string name="preset_replace">Replace</string>
@@ -92,7 +92,7 @@
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">Click to view file %s</string>
   <string name="record_sucess">Recording successful</string>
-  <string name="reduce_af">reduce frequency</string>
+  <string name="reduce_af">Reduce frequency</string>
   <string name="regional_band">Regional Band will clear all saved stations</string>
   <string name="search_dialog_title">Scan Stations</string>
   <string name="sel_audio_output">Select Audio Output</string>
