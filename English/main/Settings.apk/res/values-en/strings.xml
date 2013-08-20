@@ -2445,7 +2445,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="wifi_setup_title_editing_network">Connect to Wi-Fi network %s</string>
   <string name="wifi_setup_wizard_title">Select Wi-Fi network</string>
   <string name="wifi_setup_wps">Automatic setup (WPS)</string>
-  <string name="wifi_share">Share public Wi-Fi network</string>
+  <string name="wifi_share">Share Wi-Fi</string>
   <string name="wifi_share_action_turn_off">Disable Wi-Fi sharing</string>
   <string name="wifi_share_action_turn_on">Enable Wi-Fi sharing</string>
   <string name="wifi_share_action_turn_on_summary">Please login using your Xiaomi username and password</string>
@@ -2470,8 +2470,8 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="wifi_share_summary1">MIUI users can share password protected public Wi-Fi networks with each other.</string>
   <string name="wifi_share_summary2">If another MIUI user shares a network, you can connect directly to that network without using a password.</string>
   <string name="wifi_share_summary3">Share public Wi-Fi networks with friends and colleagues</string>
-  <string name="wifi_share_turn_off">Public Wi-Fi sharing off</string>
-  <string name="wifi_share_turn_on">Public Wi-Fi sharing on</string>
+  <string name="wifi_share_turn_off">Sharing off</string>
+  <string name="wifi_share_turn_on">Sharing on</string>
   <string name="wifi_share_upload">Share</string>
   <string name="wifi_share_upload_finish">Sharing successful!</string>
   <string name="wifi_share_uploading">Sharing public Wi-Fi network</string>
