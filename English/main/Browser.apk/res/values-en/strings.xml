@@ -154,6 +154,7 @@
   <string name="download">Download</string>
   <string name="download_complete">Download completed</string>
   <string name="download_default_path_txt">Set as default download path and do not prompt for download folder path</string>
+  <string name="download_dialog_default_path_invalid">Invalid download path, the default download path will be used</string>
   <string name="download_dialog_file_length_hint_txt">File size:</string>
   <string name="download_dialog_file_length_lessthan1kb">Less than 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">Failed to calculate file size</string>
