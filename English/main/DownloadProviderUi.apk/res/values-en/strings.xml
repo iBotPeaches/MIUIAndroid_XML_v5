@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="all_downloads">All downloads</string>
+  <string name="app_downloads">%s downloads</string>
   <string name="app_label">Downloads</string>
   <string name="button_sort_by_date">Sort by date</string>
   <string name="button_sort_by_size">Sort by size</string>

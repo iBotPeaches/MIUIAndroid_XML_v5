@@ -245,6 +245,8 @@
 "</string>
   <string name="operation_refresh">Refresh</string>
   <string name="operation_rename">Rename</string>
+  <string name="operation_set_as_screensaver">Set as Screensaver</string>
+  <string name="operation_unset_as_screensaver">Cancel Screensaver</string>
   <string name="orientation">Orientation</string>
   <string name="other_category">Other settings</string>
   <string name="path">Path</string>

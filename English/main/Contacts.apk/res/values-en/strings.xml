@@ -78,6 +78,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="call_other_fax">Call fax</string>
   <string name="call_pager">Call pager</string>
   <string name="call_radio">Call radio</string>
+  <string name="call_record_setting_miui">Recording Settings</string>
   <string name="call_settings">Settings</string>
   <string name="call_telex">Call telex</string>
   <string name="call_tty_tdd">Call TTY/TDD</string>
@@ -139,7 +140,9 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="clearFrequentsConfirmation_title">Clear frequently contacted?</string>
   <string name="clearFrequentsProgress_title">Clearing frequently contacted...</string>
   <string name="clear_default">Clear default</string>
+  <string name="clear_digits">clear phone number</string>
   <string name="click_close">Click screen to close</string>
+  <string name="close_dial_pad">close dial pad</string>
   <string name="cloud_antispam_mark">Spam</string>
   <string name="cloud_antispam_title">Cloud Guard</string>
   <string name="composer_failed_to_get_database_infomation">"Couldn't get database information."</string>
@@ -207,6 +210,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="deleteConfirmation_title">Delete</string>
   <string name="delete_call_log_title">Select call log to delete?</string>
   <string name="delete_contact_calllog_title">"Are you sure you want to delete contact's call log?"</string>
+  <string name="delete_dial_input">delete</string>
   <string name="delete_duplicate">merge</string>
   <string name="delete_duplicate_message">"Merging contacts..."</string>
   <string name="delete_group_dialog_message">Delete the group \"%1$s\", contacts themselves will not be deleted.</string>
@@ -283,6 +287,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="device_version_header_bluetooth">open your phones bluetooth</string>
   <string name="device_version_header_no_bluetooth">Import contacts from SIM card</string>
   <string name="device_version_title">select cell phone version</string>
+  <string name="dial">dial</string>
   <string name="dialerDialpadHintText">Dial to add a call</string>
   <string name="dialerIconLabel">Recents</string>
   <string name="dialerKeyboardHintText">Use keyboard to dial</string>

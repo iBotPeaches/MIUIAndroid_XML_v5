@@ -6,6 +6,7 @@
   <string name="audio_db_artist_name">Your recordings</string>
   <string name="audio_db_playlist_name">My recordings</string>
   <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
+  <string name="back">Back</string>
   <string name="button_ok">OK</string>
   <string name="call_record">Record Call(%d)</string>
   <string name="call_record_or">or</string>
@@ -45,6 +46,8 @@
   <string name="notification_warning" formatted="false">Low storage (less than %d minutes)...</string>
   <string name="open_file_explorer">Open File Explorer</string>
   <string name="overwrite_dialog_message" formatted="false">%s already exists. Do you wish to overwrite it?</string>
+  <string name="pause">Pause</string>
+  <string name="play_record">Play</string>
   <string name="preference_led_indicator">Recording indicator when screen locked</string>
   <string name="preference_led_indicator_prompt">Show LED and status bar indicators when recording and screen is locked</string>
   <string name="preference_record_type_dialog_title">Select a recording type</string>
@@ -63,15 +66,19 @@
   <string name="rename_duplicate">Duplicate recording name, please re-enter:</string>
   <string name="rename_illegal">Illegal recording name, please re-enter:</string>
   <string name="sd_card_not_available">SD card is not available</string>
+  <string name="search_for_recordings_in_folders">Search folders for recordings</string>
   <string name="second" formatted="false">%d seconds</string>
   <string name="send_to">Send to</string>
   <string name="sound_recorder_settings">Recording Settings</string>
+  <string name="start_recording">Start recording</string>
   <string name="status_bar_anti_disturb">Phone has been muted, adjust volume to resume.</string>
   <string name="status_bar_back">Click to return to Recorder</string>
   <string name="status_bar_recording">Recording...</string>
   <string name="status_bar_recording_pause">"Recording has been paused. "</string>
+  <string name="stop_recording">Stop recording</string>
   <string name="storage_is_full">Storage is full</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_max_record_time">App: %1$s maximum supported recording time %2$s</string>
   <string name="unknown_caller">Unknown caller</string>
+  <string name="view_list_of_recordings">View recordings</string>
 </resources>

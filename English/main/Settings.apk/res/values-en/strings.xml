@@ -1268,6 +1268,7 @@ please follow the steps to complete installation"</string>
   <string name="no_nearby_wifi">No available Wi-Fi network detected. Please re-scan or add the network manually</string>
   <string name="no_running_services">Nothing running.</string>
   <string name="no_services">Not active</string>
+  <string name="noise_suppression">Noise supression</string>
   <string name="normal_date_format">Regional (%s)</string>
   <string name="not_installed">Not installed</string>
   <string name="notification_pulse_title">Pulse notification light</string>
@@ -1447,6 +1448,7 @@ please follow the steps to complete installation"</string>
   <string name="permission_manage_title">%s permission details</string>
   <string name="permissions_label">Permissions</string>
   <string name="personal_data_section_title">Personal data</string>
+  <string name="phone_call_noise_suppression">Phone noise supression</string>
   <string name="phone_info_label">Phone info</string>
   <string name="phone_language">Language</string>
   <string name="phone_language_summary"/>

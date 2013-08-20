@@ -63,6 +63,7 @@ has several encryptions to ensure your financial security"</string>
   <string name="btn_pay_large">Pay now</string>
   <string name="btn_prev">Previous</string>
   <string name="btn_query">Enquire now</string>
+  <string name="btn_recharge_confirm">Confirm purchase</string>
   <string name="btn_recharge_large">Topup now</string>
   <string name="btn_recharge_other">Other topup methods</string>
   <string name="btn_recharge_success">Topup successful</string>
@@ -70,6 +71,8 @@ has several encryptions to ensure your financial security"</string>
   <string name="btn_voucher">Mi Credit card (%1$s)</string>
   <string name="btn_wait_call">Waiting</string>
   <string name="btn_wait_call_count">Waiting (%1$s)</string>
+  <string name="btn_wait_confirm">Waiting...</string>
+  <string name="btn_wait_confirm_count">Waiting (%1$s)</string>
   <string name="button_cancel">Cancel</string>
   <string name="button_pay">Pay</string>
   <string name="button_recharge">Topup</string>
@@ -78,6 +81,8 @@ has several encryptions to ensure your financial security"</string>
   <string name="check_phone_io_error">Network error</string>
   <string name="checking_account">Verifying account...</string>
   <string name="cloud_messaging">MiCloud messaging</string>
+  <string name="cmcc_data_sync_notice">Use your Xiaomi account to sync messages, Contacts and other data. Meanwhile, enjoy the Xiaomi cloud services.</string>
+  <string name="cmcc_micloud_dspt">Cloud services include mobile sync, device location and other features. You can also manage your data online at any time!</string>
   <string name="completed">Finished</string>
   <string name="confirm">Confirm</string>
   <string name="current_account">Current account</string>
@@ -222,6 +227,18 @@ and cannot be used if expired"</string>
   <string name="msg_picker_hint_2_2">With each SMS recharge, carriers charge 0.1 RMB service fee</string>
   <string name="msg_picker_hint_3_1">3.</string>
   <string name="msg_picker_hint_3_2">Maximum monthly payment of 300 RMB</string>
+  <string name="msg_send_no_net_error">Failed to send message: Unable to connect with network provider.</string>
+  <string name="msg_send_no_sim_error">Failed to send message: try re-inserting your SIM card.</string>
+  <string name="msg_send_send_fail_error">Failed to send message</string>
+  <string name="msg_telecom_order_denom">%1s yuan (does not include mobile data charges)</string>
+  <string name="msg_telecom_order_denom_label">Amount due:</string>
+  <string name="msg_telecom_order_goods">%1s MiCredit(s)</string>
+  <string name="msg_telecom_order_goods_label">Product description:</string>
+  <string name="msg_telecom_picker_hint_1_1">After you touch Confirm purchase, your phone will</string>
+  <string name="msg_telecom_picker_hint_1_2">automatically contact your service provider.</string>
+  <string name="msg_telecom_picker_hint_2_1">Your network provider has been contacted!</string>
+  <string name="msg_telecom_picker_hint_2_2">You will receive a text confirmation shortly.</string>
+  <string name="msg_telecom_sending">Contacting your network provider...</string>
   <string name="my_mili_record">My Mi Credit</string>
   <string name="my_xiaomi_account">My current Xiaomi account</string>
   <string name="next">Next</string>

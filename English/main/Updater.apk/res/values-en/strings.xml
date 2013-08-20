@@ -26,6 +26,13 @@
   <string name="check_update_when_wifi_available">Only with Wi-Fi</string>
   <string name="checking_for_updates">Checking for updates...</string>
   <string name="choose_recommend">Please choose whether or not to recommend</string>
+  <string name="comment_invalid">Touch stars to give a rating</string>
+  <string name="comment_publish">Submit</string>
+  <string name="comment_sending">Sending comment...</string>
+  <string name="comment_upload_failed">Failed to send comment</string>
+  <string name="comment_upload_hint">Thank you for your commens</string>
+  <string name="comment_upload_not_logined">Login first before sending comments</string>
+  <string name="comment_upload_success">Comment successfully sent!</string>
   <string name="confirm_download_cancelation_dialog_message">Are you sure you want to cancel the current download?</string>
   <string name="copy_install_log">Copy to clipboard</string>
   <string name="current_version_text">Current version </string>
@@ -38,6 +45,9 @@
   <string name="download_ota_rom">Download the OTA update (%s)</string>
   <string name="download_whole_rom">Download full ROM (%s)</string>
   <string name="downloading_description">Downloading...</string>
+  <string name="edit_comment">Add comment</string>
+  <string name="edit_comment_title">Edit comment</string>
+  <string name="edit_text_default">Write a comment</string>
   <string name="emegency_build">Build:</string>
   <string name="exception_while_downloading">Error while downloading update</string>
   <string name="expect">4. Expectations</string>

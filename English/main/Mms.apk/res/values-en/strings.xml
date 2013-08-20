@@ -28,6 +28,7 @@
   <string name="attach_subject">Subject</string>
   <string name="attach_take_photo">Capture picture</string>
   <string name="attach_video">Videos</string>
+  <string name="back_to_message_list">back to message list</string>
   <string name="batch_delete_confirm_dialog_message">Are you sure you wish to delete the selected %1$s message(s)?</string>
   <string name="batch_deleting_message_progress_message">Deleting selected message(s)</string>
   <string name="batch_deleting_progress_message">Deleting selected message thread(s)</string>
@@ -81,6 +82,7 @@
   <string name="converting_to_picture_message">Converting to multimedia message…</string>
   <string name="converting_to_text_message">Converting to text message…</string>
   <string name="copy_message_text">Copy text</string>
+  <string name="copy_message_text_success">Message copied successfully!</string>
   <string name="copy_to_sdcard">Save attachment</string>
   <string name="copy_to_sdcard_fail">Unable to save attachment</string>
   <string name="copy_to_sdcard_success">Attachment saved</string>
@@ -342,10 +344,12 @@
   <string name="select_link_title">Select action</string>
   <string name="select_local_audio">Select local audio</string>
   <string name="select_local_video">Select local video</string>
+  <string name="select_recipient">Select recipient</string>
   <string name="select_top_text">Text on top</string>
   <string name="send">Send</string>
   <string name="send_signature_confirm_dialog_message">No message body found. Are you sure you wish to send only the signature?</string>
   <string name="send_signature_confirm_dialog_title">Confirm Sending</string>
+  <string name="send_sms">Send message</string>
   <string name="send_to">To: </string>
   <string name="send_to_count">Sent %1$s message(s)</string>
   <string name="send_to_index_contact">Sending to %1$s of %2$s</string>

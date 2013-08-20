@@ -82,10 +82,12 @@
   <string name="loading_desktop">Loading launcher...</string>
   <string name="menu_add">Add</string>
   <string name="menu_back_desktop">Back to home</string>
+  <string name="menu_customize">Customise Settings</string>
   <string name="menu_edit">Edit widgets</string>
   <string name="menu_exit_scene">Exit MiSpace</string>
   <string name="menu_item_add_item">Add to Home screen</string>
   <string name="menu_launcher_setting">Launcher Settings</string>
+  <string name="menu_picktheme">Select theme</string>
   <string name="menu_reset_scene">Reset to default scene</string>
   <string name="menu_search">Search</string>
   <string name="menu_settings">Settings</string>
@@ -126,6 +128,7 @@
   <string name="screen_button_disabled_message">Buttons on the lower screen are disabled. You may enable them by pressing \"Home\" and \"Power\"</string>
   <string name="screen_button_enabled_message">Buttons on the lower screen are enabled</string>
   <string name="screen_rotation_freeze_message">Screen rotation locked to landscape mode</string>
+  <string name="scroll_tip_format_when_announce_accessibility">Page %1$d, %2$d apps</string>
   <string name="select_frame">Frame</string>
   <string name="select_photo">Photo</string>
   <string name="sharedUserId"/>

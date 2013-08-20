@@ -6,6 +6,9 @@
   <string name="alarm_message_12_hour_formate">aah:mm</string>
   <string name="alwaysUsePrompt">Set as default (no prompt for next time)</string>
   <string name="android_lockscreen_glogin_instructions">To unlock, sign in with your account</string>
+  <string name="app_no_notification">no notification</string>
+  <string name="app_notificaiton_on_notificationBar">Notification bar</string>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">Status and notification bar</string>
   <string name="arbor_day">Arbor Day</string>
   <string name="autumn_begins">Fall Begins</string>
   <string name="autumn_equinox">Fall Equinox</string>
