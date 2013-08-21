@@ -251,6 +251,7 @@
   <string name="other_category">Other settings</string>
   <string name="path">Path</string>
   <string name="people">People</string>
+  <string name="photo_page_always_rotate">Auto-rotate Images</string>
   <string name="photo_page_save_image">Save</string>
   <string name="photo_page_save_uri_image_fail">Failed to save photo.</string>
   <string name="photo_page_save_uri_image_ok">Save photo to cameras photos directory.</string>

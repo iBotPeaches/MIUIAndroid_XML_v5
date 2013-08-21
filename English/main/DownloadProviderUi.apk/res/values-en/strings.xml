@@ -63,6 +63,7 @@
   <string name="prefDefault_max_bytes_limit">1048576</string>
   <string name="pref_dialog_title_max_bytes_limit">File size limit</string>
   <string name="pref_download_settings_title">Data usage prompt</string>
+  <string name="pref_summary_any_bytes_popup">Always queue when using Wi-Fi network</string>
   <string name="pref_summary_enable_max_bytes_popup">"Under the operator's network, prompt pops up if file size exceeds the limit"</string>
   <string name="pref_summary_max_bytes_limit_format">Prompt pops-up if file size exceeds %s</string>
   <string name="pref_title_enable_max_bytes_popup">Data download prompt</string>
