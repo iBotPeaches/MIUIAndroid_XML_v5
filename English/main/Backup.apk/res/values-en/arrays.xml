@@ -5,11 +5,11 @@
         <item>All programs</item>
     </string-array>
     <string-array name="system_package_label">
-        <item>Browser</item>
-        <item>Gallery</item>
-        <item>Permission Manager</item>
+	<item>Browser</item>
+	<item>Gallery</item>
+	<item>Permission Manager</item>
 	<item>Camera</item>
-        <item>Network Assistant</item>
+	<item>Network Assistant</item>
 	<item>Weather Storage</item>
 	<item>Weather</item>
     </string-array>
