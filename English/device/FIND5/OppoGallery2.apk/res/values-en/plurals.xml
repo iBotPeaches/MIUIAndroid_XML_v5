@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Delete selected pictures?</item>
+        <item quantity="one">Delete selected pictures?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d selected</item>
+        <item quantity="zero">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">%1$d selected</item>
+        <item quantity="zero">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">%1$d selected</item>
+        <item quantity="zero">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Making albums available offline.</item>
+        <item quantity="one">Making album available offline.</item>
+    </plurals>
+    <plurals name="number_of_items_in_slot">
+        <item quantity="other">%1$d pictures</item>
+        <item quantity="one">1 picture</item>
+    </plurals>
+    <plurals name="number_of_folders_in_slot">
+        <item quantity="other">%1$d folders</item>
+        <item quantity="one">1 folder</item>
+    </plurals>
+    <plurals name="albumset_count_string">
+        <item quantity="other">%1$d pictures</item>
+        <item quantity="one">1 picture</item>
+    </plurals>
+</resources>
