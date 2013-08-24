@@ -30,6 +30,6 @@
   <string name="traffic_protection_label">Data traffic monitoring</string>
   <string name="traffic_protection_summary">Data traffic monitoring will remind you when your data plan has reached its limit.</string>
   <string name="traffic_protection_text_hint">Please input your data plan limit.</string>
-  <string name="traffic_protection_unknown">I don't know. Will input later.</string>
+  <string name="traffic_protection_unknown">I don\'t know. Will input later.</string>
   <string name="use_data">Enable data</string>
 </resources>
