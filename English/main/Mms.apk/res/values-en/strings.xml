@@ -64,6 +64,7 @@
   <string name="confirm_no_block_positive">"Don't block and restore"</string>
   <string name="confirm_no_block_title">"Don't block number and restore all the messages?"</string>
   <string name="confirm_rate_limit">A large number of multimedia messages are being sent. Is this OK?</string>
+  <string name="confirm_restore_all_title">Restore all messages from this number？</string>
   <string name="confirm_restore_positive">Restore</string>
   <string name="confirm_restore_title">Restore all selected messages?</string>
   <string name="context_menu_add_contact">Add to Contacts</string>
@@ -324,6 +325,7 @@
   <string name="replace_image">Replace picture</string>
   <string name="resent_message">Resend</string>
   <string name="resize_image_error_information">This picture is too large to send, even when resized.</string>
+  <string name="restore_all_button_msg">Restore all messages from this number</string>
   <string name="restore_blocked_message">Restore blocked message</string>
   <string name="save">Save</string>
   <string name="save_ringtone">Save as ringtone</string>

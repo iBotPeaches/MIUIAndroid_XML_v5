@@ -724,6 +724,7 @@ This setting affects all users on this phone."</string>
   <string name="dirac_mode_earbuds">"Xiaomi's Earbud Headphones"</string>
   <string name="dirac_mode_in_ear">"Xiaomi's In-Ear Headphones"</string>
   <string name="dirac_mode_off">Dirac Off</string>
+  <string name="dirac_mode_piston_100">Xiaomi piston headphones</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Disable HW overlays</string>
   <string name="disable_overlays_summary">Always use GPU for screen compositing</string>
@@ -1399,6 +1400,7 @@ please follow the steps to complete installation"</string>
   <string name="perm_operating">Operating...</string>
   <string name="perm_optimize">Optimize</string>
   <string name="perm_privacy_app_count">%1$d permissions</string>
+  <string name="perm_privacy_app_count_trust_summary">Trust app</string>
   <string name="perm_privacy_app_finish">Finish</string>
   <string name="perm_privacy_app_installed">Installation succeeded!</string>
   <string name="perm_privacy_app_launch">Launch</string>
@@ -1930,6 +1932,7 @@ Attempts Remaining :"</string>
   <string name="sync_plug"/>
   <string name="sync_settings">Accounts &amp; sync</string>
   <string name="sync_wifi_label">Wi-Fi settings</string>
+  <string name="sync_wifi_only">Wi-Fi only</string>
   <string name="system">System</string>
   <string name="system_package">"System updates can't be installed on external media."</string>
   <string name="system_update_settings_list_item_summary"/>

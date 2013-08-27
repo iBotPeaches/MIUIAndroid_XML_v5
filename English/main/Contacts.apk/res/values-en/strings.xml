@@ -718,7 +718,6 @@ To add a contact to your list of favorites:
   <string name="profile_display_name">Set up my profile</string>
   <string name="profile_name">My profile</string>
   <string name="profile_name_photo">I</string>
-  <string name="progress_notifier_message" formatted="false">Importing %s/%s: %s</string>
   <string name="quickcontact_missing_app">No app was found to handle this action.</string>
   <string name="quit_dialog_confirm_title">To exit the contact merge?</string>
   <string name="readOnlyContactDeleteConfirmation">This contact contains information from multiple accounts. Information from read-only accounts will be hidden in your contacts lists, not deleted.</string>

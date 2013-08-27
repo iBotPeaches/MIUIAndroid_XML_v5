@@ -45,8 +45,8 @@
         <item quantity="one">Selected %d item</item>
     </plurals>
     <plurals name="Ntrack_in_sdcard_format">
-        <item quantity="other">There are %d songs in SD card</item>
-        <item quantity="one">There is %d song in SD card</item>
+        <item quantity="other">There are %d songs on SD card</item>
+        <item quantity="one">There is %d song on SD card</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
         <item quantity="other">%d songs added to playlist.</item>
@@ -75,5 +75,9 @@
     <plurals name="Ntracks_remove_from_favorite_playlist">
         <item quantity="other">%d songs removed from playlist.</item>
         <item quantity="one">1 song removed from playlist.</item>
+    </plurals>
+    <plurals name="Nhot_tracks_total">
+        <item quantity="other">%d top rated songs</item>
+        <item quantity="one">%d top rated song</item>
     </plurals>
 </resources>

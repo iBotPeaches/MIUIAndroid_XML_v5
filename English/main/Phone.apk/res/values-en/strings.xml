@@ -144,12 +144,14 @@
   <string name="call_record_notification_message_low_space_miui">Recording is stopped due to low space, click to view %s.</string>
   <string name="call_record_notification_message_miui">Click to view %s.</string>
   <string name="call_record_notification_message_sd_unmounted_miui">Recording is stopped because SD card is unmounted.</string>
+  <string name="call_record_notification_message_start_failed">Recording device is being used by another application.</string>
   <string name="call_record_notification_title_error_miui">Call recording failed</string>
   <string name="call_record_notification_title_miui">Call recording success</string>
   <string name="call_record_path_name_of_sdcard_miui">SD card</string>
   <string name="call_record_sd_error_miui">SD card access error!</string>
   <string name="call_record_sd_space_low_miui">SD card is low on space, please try again after some cleaning</string>
   <string name="call_record_setting_miui">Call Recording Settings</string>
+  <string name="call_record_unknown_error">An unknown error occurred during recording!</string>
   <string name="call_recording_notification_summary_miui">Show notification in status bar when recording is completed</string>
   <string name="call_recording_notification_title_miui">Call recording notification</string>
   <string name="call_recording_prompt_miui">Open call recording</string>
