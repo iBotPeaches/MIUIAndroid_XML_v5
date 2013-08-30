@@ -23,6 +23,7 @@ Step out of view for a moment"</string>
   <string name="cannot_connect_camera_twice">"Can't connect to camera, please restart your phone"</string>
   <string name="clear_effects">Clear effects</string>
   <string name="close">Close</string>
+  <string name="cloud_album_details">Cloud album details:</string>
   <string name="confirm_change_mode_title">Switch mode</string>
   <string name="confirm_change_to_expert_mode_message">Switch to professional mode immediately ?</string>
   <string name="confirm_change_to_simple_mode_message">Switch to simple mode immediately ?</string>
@@ -79,6 +80,7 @@ Step out of view for a moment"</string>
   <string name="error_fail_to_start_audio_capture">Fail to start audio capture: Microphone may be used by other applications.</string>
   <string name="exposure_time">Exposure time</string>
   <string name="file_size">File size</string>
+  <string name="find_cloud_album">Find a cloud album QR code</string>
   <string name="find_market_qrcode">Find market QR code</string>
   <string name="find_mecard_qrcode">Find visitor-card QR code</string>
   <string name="find_other_qrcode">Find QR code</string>

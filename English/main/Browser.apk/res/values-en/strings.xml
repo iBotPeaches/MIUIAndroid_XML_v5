@@ -207,6 +207,7 @@
   <string name="filename_illegal_alert_message">Filename contains illegal characters, file has been automatically removed.</string>
   <string name="find_on_page">Find on page</string>
   <string name="folder_name">Folder name</string>
+  <string name="folder_name_too_long">Folder name is too long</string>
   <string name="forward">Forward</string>
   <string name="geolocation_permissions_prompt_dont_share">Decline</string>
   <string name="geolocation_permissions_prompt_message" formatted="false">%s wants to know your location</string>
@@ -267,16 +268,23 @@
   <string name="max_tabs_warning">No more tabs available</string>
   <string name="menu_addtodesk">Add to desktop</string>
   <string name="menu_disable_night_mode">Disable night mode</string>
+  <string name="menu_disable_save_bandwidth_mode">Disable mobile data cap</string>
   <string name="menu_download_video">Downloaded videos</string>
   <string name="menu_enable_night_mode">Enable night mode</string>
+  <string name="menu_enable_save_bandwidth_mode">Enable mobile data cap</string>
   <string name="menu_exit">Exit</string>
   <string name="menu_hv_swap">Switch to horizontal screen</string>
   <string name="menu_hv_swap2">Switch to vertical screen</string>
   <string name="menu_preferences">Settings</string>
+  <string name="menu_save_bandwidth_mode_close_toast">Mobile data cap disabled</string>
+  <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
+  <string name="menu_save_bandwidth_mode_first_clicked_txt">"Don't use mobile network to preload pages or automatically display images"</string>
+  <string name="menu_save_bandwidth_mode_open_toast">Mobile data cap enabled</string>
   <string name="menu_save_snapshot">Save for offline reading</string>
   <string name="menu_share_url">Share</string>
   <string name="menu_theme_setting">Theme Settings</string>
   <string name="menu_view_download">Downloads</string>
+  <string name="modify_download_path_no_sdcard_dlg_msg">USB storage is required to modify.</string>
   <string name="move_to_up_folder">Up a level</string>
   <string name="multi_select_title">Selected %1$s item(s)</string>
   <string name="name">Label</string>
@@ -439,6 +447,8 @@
   <string name="pref_privacy_security_title">Privacy &amp; security</string>
   <string name="pref_reading_mode_enabled_title">Reading mode</string>
   <string name="pref_reading_mode_enabled_title_summary">JavaScript needs to be enabled</string>
+  <string name="pref_save_bandwidth_mode_summary">When enabled, browser will not use your mobile network to preload pages or to automatically display images</string>
+  <string name="pref_save_bandwidth_mode_title">Mobile data usage</string>
   <string name="pref_security_accept_cookies">Accept cookies</string>
   <string name="pref_security_accept_cookies_summary">Allow sites to save and read cookie data</string>
   <string name="pref_security_passwords_title">Passwords</string>
