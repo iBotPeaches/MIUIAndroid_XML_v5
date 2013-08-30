@@ -469,6 +469,7 @@
   <string name="video_reach_size_limit">Size limit reached.</string>
   <string name="video_snapshot_hint">Take a photo during video recording by touching the preview screen.</string>
   <string name="videocamera_settings_label">Video Camera Settings</string>
+  <string name="visit_cloud_album">Visit cloud album</string>
   <string name="wait">Please wait…</string>
   <string name="web_url_apk_warning">Selected QR code contains an app which may cause a risk, please search for the app via PlayStore instead</string>
   <string name="web_url_warning">The web site QR code may cause a risk, MIUI browser will safely scan the QR code for you.</string>
