@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="native_folders">
+      <item>/DCIM/Camera</item>
+      <item>Screenshots</item>
+    </string-array>
+</resources>
