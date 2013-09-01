@@ -165,7 +165,7 @@ Step out of view for a moment."</string>
   <string name="more">More</string>
   <string name="movie_view_label">Video player</string>
   <string name="multiface_crop_help">Touch a face to begin.</string>
-  <string name="my_image">My Image</string>
+  <string name="my_image">/DCIM/Camera</string>
   <string name="my_img">Img</string>
   <string name="my_record">Record</string>
   <string name="narrow_wallpaper">Single screen</string>
