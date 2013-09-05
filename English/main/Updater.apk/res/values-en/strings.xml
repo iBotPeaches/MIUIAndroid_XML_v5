@@ -30,7 +30,7 @@
   <string name="comment_publish">Submit</string>
   <string name="comment_sending">Sending comment...</string>
   <string name="comment_upload_failed">Failed to send comment</string>
-  <string name="comment_upload_hint">Thank you for your commens</string>
+  <string name="comment_upload_hint">Thank you for your comments</string>
   <string name="comment_upload_not_logined">Login first before sending comments</string>
   <string name="comment_upload_success">Comment successfully sent!</string>
   <string name="confirm_download_cancelation_dialog_message">Are you sure you want to cancel the current download?</string>
