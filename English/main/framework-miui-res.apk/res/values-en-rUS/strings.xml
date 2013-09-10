@@ -335,6 +335,7 @@ Try again in %d seconds."</string>
   <string name="lockscreen_transport_play_description">Play button</string>
   <string name="lockscreen_transport_prev_description">Previous track</string>
   <string name="lockscreen_unlock_sim_via_puk">Enter PUK code to unlock SIM card</string>
+  <string name="login_website_in_case_forget_password">Please visit http://i.xiaomi.com to reset your password</string>
   <string name="lunar_ba"/>
   <string name="lunar_calendar"/>
   <string name="lunar_chu"/>
@@ -485,6 +486,7 @@ Try again in %d seconds."</string>
   <string name="volume_icon_description_media">Media</string>
   <string name="volume_icon_description_notification">Notification</string>
   <string name="volume_icon_description_ringer">Ringtone</string>
+  <string name="volume_ring_description">Ringtone and notification volume</string>
   <string name="wake_alarm_message">Pause alarm. Remind in %s </string>
   <string name="white_dews"/>
   <string name="winter_begins"/>

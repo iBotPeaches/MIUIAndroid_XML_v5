@@ -70,6 +70,7 @@
   <string name="block">Block</string>
   <string name="bookmark_add_to">Add to</string>
   <string name="bookmark_cannot_save_url">"This URL can't be bookmarked."</string>
+  <string name="bookmark_folder_needs_title">Folder must is required</string>
   <string name="bookmark_list_view">List</string>
   <string name="bookmark_needs_title">Bookmark must have a name.</string>
   <string name="bookmark_needs_url">Bookmark must have a location.</string>

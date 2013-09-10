@@ -62,6 +62,8 @@
   <string name="sqrt">√</string>
   <string name="sqrtDesc">square root</string>
   <string name="standard">standard</string>
+  <string name="switch_to_scientific_pad">Switch to scientific</string>
+  <string name="switch_to_standard_pad">Switch to standard</string>
   <string name="tan">tan</string>
   <string name="tanDesc">tangent</string>
   <string name="tan_mathematical_value">tan</string>

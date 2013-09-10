@@ -23,6 +23,7 @@
   <string name="component_lockstyle_personal_title">Settings</string>
   <string name="component_select_title">Selected %1$s components</string>
   <string name="component_settings_title">Customize theme</string>
+  <string name="default_name">Default</string>
   <string name="deleting">Deleting...</string>
   <string name="description_author">Author:</string>
   <string name="description_designer">Designer:</string>
@@ -43,6 +44,7 @@
   <string name="lockscreen_wallpaper">Lock screen</string>
   <string name="lockstyle_personal_settings">Customization</string>
   <string name="long_ringtone_resource">Long</string>
+  <string name="maml_component_customization_title">Component Settings</string>
   <string name="menu_refresh">Refresh</string>
   <string name="mi_wallpaper">Wallpaper</string>
   <string name="mi_wallpaper_loading">Loading Wallpaper...</string>

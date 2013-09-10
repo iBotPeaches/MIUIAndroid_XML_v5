@@ -375,6 +375,7 @@ We will check for you within two working days"</string>
   <string name="update_contacts">Update contacts</string>
   <string name="update_contacts_description">Update your phone contacts and other information</string>
   <string name="updated_contacts">Updated %s contacts</string>
+  <string name="updated_nothing">Nothing updated!</string>
   <string name="user_agreement_p1">"By signing in, you are agreeing to the "</string>
   <string name="user_agreement_p2">Xiaomi Terms of Service</string>
   <string name="user_agreement_p3"> and </string>

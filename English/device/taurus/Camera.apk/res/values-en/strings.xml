@@ -2,9 +2,23 @@
 <resources>
   <string name="Import">Import</string>
   <string name="access_sd_fail">"Couldn't access USB storage."</string>
+  <string name="accessibilit_camera_video_switch_picker_and_state">Toggle camera and video (currently using %s)</string>
+  <string name="accessibility_camera_auto_flashmode">Auto-flash</string>
+  <string name="accessibility_camera_flash_closemode">No Flash</string>
+  <string name="accessibility_camera_flashmode">Always use flash</string>
   <string name="accessibility_camera_picker">Front and back camera switch</string>
+  <string name="accessibility_camera_switch_back_state">Switch camera (currently using back camera)</string>
+  <string name="accessibility_camera_switch_front_state">Switch camera (currently using front camera)</string>
+  <string name="accessibility_close_more_ptions">Disable more options</string>
+  <string name="accessibility_more_ptions_closed">More options disabled</string>
+  <string name="accessibility_more_ptions_opened">More options enabled</string>
+  <string name="accessibility_open_more_ptions">Enable more options</string>
   <string name="accessibility_review_thumbnail">Most recent photo</string>
   <string name="accessibility_shutter_button">Shutter button</string>
+  <string name="accessibility_skin_beautify_closed">Skin tone enhancer disabled</string>
+  <string name="accessibility_skin_beautify_opened">Skin tone enhancer enabled</string>
+  <string name="accessibility_switch_to_back_view">Switch to back camera</string>
+  <string name="accessibility_switch_to_front_view">Switch to front camera</string>
   <string name="accessibility_zoom_control">Zoom control</string>
   <string name="albums">Albums</string>
   <string name="aperture">Aperture</string>

@@ -72,6 +72,7 @@
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="empty_edit_hint">Song information unavailable</string>
+  <string name="empty_track_list">No track list</string>
   <string name="emptyplaylist">Selected playlist is empty.</string>
   <string name="enter_sleep_mode">Enter Sleep Mode</string>
   <string name="equalizer">Equalizer</string>

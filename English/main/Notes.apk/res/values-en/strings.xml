@@ -92,7 +92,9 @@
   <string name="snippet_image_template">[%1$s]</string>
   <string name="success_sdcard_export">Export successful</string>
   <string name="time_picker_dialog_title">Set Reminder Time</string>
+  <string name="toast_folder_privacy_mode">"Can't edit folder in guard mode"</string>
   <string name="toast_message_add_image_fail">Failed to insert image!</string>
+  <string name="toast_note_privacy_mode">"Can't edit note in guard mode"</string>
   <string name="toast_privacy_mode">Cannot edit note in guarded mode</string>
   <string name="toast_reach_text_limit_attachment">The content of note is too long to add new attachments.</string>
   <string name="toast_reach_text_limit_truncate">"The content of note has been snipped because its too long."</string>
