@@ -153,7 +153,7 @@
   <string name="resource_default_name">Resource</string>
   <string name="resource_delete_all">Delete %1$d selected resources?</string>
   <string name="resource_delete_confirm">Are you sure you wish to delete these resources?</string>
-  <string name="resource_delta_update_failed">Delta update failed, compelete resource will be downloaded</string>
+  <string name="resource_delta_update_failed">Delta update failed, complete resource will be downloaded</string>
   <string name="resource_delta_update_successful">Delta update successful，saving %1$s.</string>
   <string name="resource_detail">Details</string>
   <string name="resource_download">Download</string>
