@@ -172,7 +172,7 @@ friends."</string>
   <string name="error_should_not_select_image">Warning: please do not select an image file.</string>
   <string name="error_should_not_select_video">Warning: please do not select a video file.</string>
   <string name="error_socket_timeout">Network timeout, please try again later</string>
-  <string name="error_unknown_host">Hostname uknown, please check your network connection!</string>
+  <string name="error_unknown_host">Hostname unknown, please check your network connection!</string>
   <string name="exit">Exit</string>
   <string name="exit_share">Exit album</string>
   <string name="exit_share_failed">Exit album %1$s failed</string>
