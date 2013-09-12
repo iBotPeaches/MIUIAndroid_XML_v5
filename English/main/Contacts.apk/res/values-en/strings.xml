@@ -795,6 +795,7 @@ To add a contact to your list of favorites:
   <string name="ret_sign">" "</string>
   <string name="returnCall">Return call</string>
   <string name="ringLabelsGroup">Ringtone</string>
+  <string name="save">Save</string>
   <string name="save_photo_progress">Saving photo…</string>
   <string name="savingContact">Saving contact…</string>
   <string name="savingDisplayGroups">Saving display options…</string>
