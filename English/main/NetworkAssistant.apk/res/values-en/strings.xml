@@ -42,6 +42,15 @@
   <string name="close_txt">Close</string>
   <string name="control_app_internet">Control application networking</string>
   <string name="current_warning_value">Warning value: %s</string>
+  <string name="custom_adjust_command">Content from sender</string>
+  <string name="custom_adjust_command_hit">Content to send</string>
+  <string name="custom_adjust_is_empty">%s is empty!</string>
+  <string name="custom_adjust_receiver">Receiving number</string>
+  <string name="custom_adjust_receiver_hint">Carrier number used to send details.</string>
+  <string name="custom_adjust_recevier_same_with_sender">The same with sender number</string>
+  <string name="custom_adjust_sender">Sender number</string>
+  <string name="custom_adjust_sender_hint">Carrier number used to receive the query details from user</string>
+  <string name="custom_adjust_title">Adjust custom settings</string>
   <string name="daily_limit_dialog_disconnect_hint">Disconnect Internet when traffic exceeds the set limit</string>
   <string name="daily_limit_dialog_hint">Daily traffic limit (Vacancy or 0 means no limit set)</string>
   <string name="daily_limit_result">Remind me and disconnect Internet when daily traffic exceeds %dMB</string>
@@ -127,6 +136,7 @@
   <string name="sync_traffic_fail_title">Sync failed</string>
   <string name="sync_traffic_ing">Syncing from operators, please wait...</string>
   <string name="sync_traffic_no_cmd_detail">"Submit your City, Province and ICC's brand and carrier to the following thread on the forums: http://www.miui.com/forum-172-1.html. Thank you."</string>
+  <string name="sync_traffic_no_cmd_detail_custom_config">"You can: 1.Settings &gt;&gt; Adjust traffic data &gt;&gt; Custom adjust settings, or on main Traffic Adjustment page &gt;&gt; Adjust custom settings; 2. Submit your city, province and ICC's brand and carrier to the following forum: http://www.miui.com/forum-172-1.html"</string>
   <string name="sync_traffic_no_cmd_title">No SMS template</string>
   <string name="sync_traffic_success">"Synchronised operator's data, traffic adjusted successfully"</string>
   <string name="text_day"/>
