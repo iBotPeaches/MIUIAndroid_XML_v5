@@ -299,6 +299,7 @@
   <string name="custom_location_location_no_item_miui">"Click 'Add' below to add custom attribution"</string>
   <string name="custom_location_number_hint_miui">Area code such as 010, group number such as 68#####</string>
   <string name="cw_title_miui">Call waiting</string>
+  <string name="data_connected_change">Unable to change networks while data service is in use. Stop the current data service and select another available network?</string>
   <string name="data_enable_summary">Enable data access over Mobile network</string>
   <string name="data_enabled">Data enabled</string>
   <string name="deact_all_sub_not_supported">Deactivation of both the subscriptions is not supported.</string>
@@ -375,6 +376,7 @@
   <string name="dtmf_tones_summary_miui">Set the length of DTMF tones</string>
   <string name="dtmf_tones_title">DTMF Tones</string>
   <string name="dtmf_tones_title_miui">DTMF Tones</string>
+  <string name="duringcall">Operation is not permitted during call</string>
   <string name="ecm_exit_dialog">EcmExitDialog</string>
   <string name="editContact">Edit</string>
   <string name="edit_custom_location_title_miui">Customize regional attribution, number attribution, wildcards # supported</string>
@@ -507,6 +509,7 @@ Switch to the new provider anyway?"</string>
   <string name="incall_screen_background_summary_miui">"Use lock screen wallpaper when there's no avatar"</string>
   <string name="incall_screen_background_title_miui">In call screen background</string>
   <string name="incall_status_dialed_mmi">Starting MMI sequence…</string>
+  <string name="information">Information</string>
   <string name="international_disable">International news disabled</string>
   <string name="international_enable">International news enabled</string>
   <string name="internet_phone">Internet call</string>

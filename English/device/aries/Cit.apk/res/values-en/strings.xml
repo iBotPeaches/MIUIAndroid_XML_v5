@@ -182,6 +182,7 @@
   <string name="cit_tool_log_kmsg">Last kernel log</string>
   <string name="cit_tool_log_logcat">ADB log</string>
   <string name="cit_tool_log_modem">Modem log</string>
+  <string name="cit_tool_log_no_sdcard">Operation failed, please insert SD card</string>
   <string name="cit_tool_log_ril">RIL log</string>
   <string name="cit_tool_log_toast">Log file saved to %s</string>
   <string name="cit_tool_log_toast_generate_bugreport">Bug report may take up to 10 seconds to generate</string>

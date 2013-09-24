@@ -163,6 +163,9 @@
   <string name="toast_delete_station_fail">Failed to delete station!</string>
   <string name="toast_edit_save_station_fail">Failed to save station!</string>
   <string name="toast_edit_station">Changes have been saved</string>
+  <string name="toast_fm_seeking">Searching for station, please wait…</string>
+  <string name="toast_fm_starting">FM app is starting，please wait…</string>
+  <string name="toast_fm_stoping">FM app is stoping, please wait…</string>
   <string name="toast_save_station">%sMHz has been saved</string>
   <string name="toast_sleep_mode">Stop FM in %s</string>
   <string name="transmit_msg_string">Transmitting at:</string>

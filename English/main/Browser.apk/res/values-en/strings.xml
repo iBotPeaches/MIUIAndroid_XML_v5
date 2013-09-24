@@ -324,6 +324,7 @@
   <string name="pref_autofill_profile_editor">Auto-fill text</string>
   <string name="pref_autofill_profile_editor_summary">Set up text to auto-fill in web forms</string>
   <string name="pref_autologin_progress" formatted="false">Signing into Google sites using %s</string>
+  <string name="pref_autologin_progress_in_background">Signing into Google sites using %s in the background</string>
   <string name="pref_autologin_title">Automatic Google signin</string>
   <string name="pref_clear_cache_for_exit">Clear cache on exit</string>
   <string name="pref_clear_history_for_exit">Clear history on exit</string>
@@ -479,6 +480,7 @@
   <string name="progress_dialog_setting_wallpaper">Setting wallpaper…</string>
   <string name="quicklinks_management">Quick links</string>
   <string name="readmode_already_add_to_bookshelf">Added to bookshelf</string>
+  <string name="readmode_battery">Battery </string>
   <string name="readmode_login">Account login</string>
   <string name="readmode_login_message">Subsequent chapters require log in before reading can be enabled</string>
   <string name="readmode_page_load_error">Failed to load page, please click Refresh to try again</string>

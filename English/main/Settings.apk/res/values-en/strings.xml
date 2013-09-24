@@ -2297,9 +2297,12 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="wfd_disconnect_diag_msg">If you stop the Wi-Fi display session, your connection with %1$s will terminate.</string>
   <string name="wfd_disconnect_diag_title">Tear down session?</string>
   <string name="wfd_disconnect_multiple_diag_message">If you stop the Wi-Fi  display session, your connection with %1$s and %2$s other devices will terminate.</string>
+  <string name="wfd_enable_wifi_diag_title">You can only use Wi-Fi Display when Wi-Fi is enabled. Enable it now?</string>
+  <string name="wfd_enabler_title">Enable Wi-Fi Display</string>
   <string name="wfd_menu_search">Search for devices</string>
   <string name="wfd_menu_searching">Searching…</string>
   <string name="wfd_menu_teardown">Stop</string>
+  <string name="wfd_settings_description">Connect to display via Wi-Fi</string>
   <string name="wfd_settings_title">Wi-Fi Display</string>
   <string name="wfd_wps_keypad">Prefer to Push Button</string>
   <string name="wfd_wps_pbc">Prefer to Input PIN</string>
