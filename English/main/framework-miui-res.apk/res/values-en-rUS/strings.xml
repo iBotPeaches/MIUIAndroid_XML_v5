@@ -476,8 +476,8 @@ Try again in %d seconds."</string>
   <string name="v5_edit_mode_title_empty">Check Items</string>
   <string name="v5_icon_menu_bar_more_item_label">More</string>
   <string name="v5_select_all">Select all</string>
-  <string name="v5_time_picker_label_hour"/>
-  <string name="v5_time_picker_label_minute"/>
+  <string name="v5_time_picker_label_hour">Hr</string>
+  <string name="v5_time_picker_label_minute">Min</string>
   <string name="valentines_day"/>
   <string name="vernal_equinox"/>
   <string name="volume_alarm">Alarm</string>
