@@ -112,6 +112,7 @@
   <string name="st_sms_group">Messages</string>
   <string name="tab_blacklist">Blacklist</string>
   <string name="tab_block_log">Firewall</string>
+  <string name="tab_block_log_unKnowNumber">Unknown number</string>
   <string name="tab_call">Call log</string>
   <string name="tab_sms">Message log</string>
   <string name="tab_title">Guard</string>

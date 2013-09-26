@@ -1,0 +1,120 @@
+{
+    "quicklinks":[
+        {
+            "title":"Google",
+            "url":"http://www.google.com/",
+            "thumbnail":"thumb_google.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"ibuygou",
+            "url":"http://www.ibuygou.com/reg/?uid=C2368D3D45705A56E51EC5940E187F8D/",
+            "thumbnail":"ibuy.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"miui-cz-sk",
+            "url":"http://miui.cz/",
+            "thumbnail":"miui_cz-sk.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"Xiaomi",
+            "url":"http://xiaomi.eu/",
+            "thumbnail":"thumb_xiaomi.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"miuiandroid",
+            "url":"http://miuiandroid.com/",
+            "thumbnail":"miui-android.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"Facebook",
+            "url":"http://www.facebook.com/",
+            "thumbnail":"thumb_facebook.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"Yahoo!",
+            "url":"http://www.yahoo.com/",
+            "thumbnail":"thumb_yahoo.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"Picasa",
+            "url":"http://picasaweb.google.com/",
+            "thumbnail":"thumb_picasa.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+
+        {
+            "title":"CNN",
+            "url":"http://www.cnn.com/",
+            "thumbnail":"thumb_cnn.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"MIUI BBS",
+            "url":"http://en.miui.com",
+            "thumbnail":"thumb_miui.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"ESPN",
+            "url":"http://espn.com/",
+            "thumbnail":"thumb_espn.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"Amazon",
+            "url":"http://www.amazon.com/",
+            "thumbnail":"thumb_amazon.png",
+            "logobg":"bg01.9.png",
+            "favicon":"",
+            "nightModeMask": "night.9.png",
+            "hidden":"true"
+        },
+
+        {
+            "title":"Weather Channel",
+            "url":"http://www.weather.com/",
+            "thumbnail":"thumb_weatherchannel.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"BBC",
+            "url":"http://www.bbc.co.uk/",
+            "thumbnail":"thumb_bbc.png",
+            "logobg":"bg01.9.png",
+            "favicon":"",
+            "nightModeMask": "night.9.png",
+            "hidden":"true"
+        }
+    ]
+}

@@ -422,6 +422,7 @@ CC: %4$s
   <string name="move_action">Move</string>
   <string name="move_to_folder_dialog_title">Move to</string>
   <string name="multiple_new_message_notification_item">"%1$s  %2$s"</string>
+  <string name="newer_action">Newer</string>
   <string name="next_action">Next</string>
   <string name="notification_multiple_new_messages_fmt">%1$d new messages</string>
   <string name="notification_to_account">to %1$s</string>
@@ -431,6 +432,7 @@ CC: %4$s
   <string name="notify_uploads">Instant Upload</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
+  <string name="older_action">Older</string>
   <string name="password_expire_warning_content_title">Lock screen password expiring</string>
   <string name="password_expire_warning_dialog_content_fmt">You must change your lock screen PIN or password soon, or the data for %s will be erased. Change it now?</string>
   <string name="password_expire_warning_dialog_title">Lock screen password expiring</string>
