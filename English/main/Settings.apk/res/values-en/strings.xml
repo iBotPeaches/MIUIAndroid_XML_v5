@@ -110,6 +110,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="android_beam_off_summary">Off</string>
   <string name="android_beam_on_summary">Ready to transmit app content via NFC</string>
   <string name="android_beam_settings_title">Android Beam</string>
+  <string name="android_beam_tips">Make sure the two devices are touching, and then select the content you would like to beam.</string>
   <string name="android_beam_witch_label">Enable Android Beam</string>
   <string name="animator_duration_scale_title">Animator duration scale</string>
   <string name="antispam_quiet_mode_title">Quiet Mode</string>
