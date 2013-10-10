@@ -462,6 +462,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="bluetooth_visibility">Discoverable</string>
   <string name="bluetooth_visibility_timeout">Visibility timeout</string>
   <string name="bluetooth_visibility_timeout_summary">Set how long device will be discoverable</string>
+  <string name="breathing_light_color_menu_title">Light colour</string>
   <string name="breathing_light_color_summary">LED color when receiving new notification</string>
   <string name="breathing_light_color_title">" LED Color"</string>
   <string name="breathing_light_freq_summary">Pulse LED on new notifications</string>

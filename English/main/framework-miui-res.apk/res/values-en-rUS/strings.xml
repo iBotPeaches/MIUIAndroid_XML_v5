@@ -290,7 +290,7 @@
   <string name="fools_day">April Fool\'s Day</string>
   <string name="force_exit_message">Successfully closed \"%1$s\"</string>
   <string name="forget_password_string">Forgot Password</string>
-  <string name="format_time_in_12_hours">%1$s %2$s</string>
+  <string name="format_time_in_12_hours">hh:mma</string>
   <string name="global_action_privacy_mode_dialog_message">In guarded mode, calls,notes,gallery data and text messages will be hidden and launcher will not be able to enter editing mode. You can set password to protect guarded mode in Access Control setting</string>
   <string name="global_action_toggle_privacy_mode">Guard</string>
   <string name="grain_buds"/>

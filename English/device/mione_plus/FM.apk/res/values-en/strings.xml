@@ -85,6 +85,8 @@
   <string name="menu_rename_list">Rename List</string>
   <string name="menu_reorder_list">Reorder List</string>
   <string name="menu_save_station">Save Station</string>
+  <string name="menu_save_station_list">Save station to list</string>
+  <string name="menu_save_station_presets">Add to station presets</string>
   <string name="menu_scan">Scan</string>
   <string name="menu_scan_for_preset">Scan for Presets</string>
   <string name="menu_scan_start">Scan</string>
@@ -144,6 +146,7 @@
   <string name="spaceIsLow_content">Your SD card storage is running out of space. Change the quality setting or delete some images or other files.</string>
   <string name="stat_notif_frequency">: %1$s MHz</string>
   <string name="stat_notif_tx_frequency">FM Transmitting at: %1$s</string>
+  <string name="station_check_favorite">Add to favourites</string>
   <string name="station_edit">Edit</string>
   <string name="station_format_error">Formatting error occurred</string>
   <string name="station_freq_format">%sMHz</string>
@@ -159,6 +162,7 @@
   <string name="test_prompt">Choose a Test</string>
   <string name="test_run">Run Test</string>
   <string name="title_select_station">Select Station - %s</string>
+  <string name="toast_added_to_list">Added to station list</string>
   <string name="toast_delete_station">%sMHz has been deleted.</string>
   <string name="toast_delete_station_fail">Failed to delete station!</string>
   <string name="toast_edit_save_station_fail">Failed to save station!</string>

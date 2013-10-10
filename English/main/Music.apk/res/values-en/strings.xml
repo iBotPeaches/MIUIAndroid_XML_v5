@@ -58,6 +58,10 @@
   <string name="delete_playlist_menu">Delete</string>
   <string name="delete_song_desc">\"%s\" will be permanently deleted from the SD card.</string>
   <string name="deselect_all">Reject all</string>
+  <string name="dirac_mode_earbuds">Xiaomi headphones</string>
+  <string name="dirac_mode_in_ear">Xiaomi in-ear headphones</string>
+  <string name="dirac_mode_off">Dirac Off</string>
+  <string name="dirac_mode_piston_100">Xiaomi Piston headphones</string>
   <string name="download">Download</string>
   <string name="download_album_settings">Auto download album art</string>
   <string name="download_album_summary">May cost more when used via mobile network, please consider using Wi-Fi</string>
@@ -75,6 +79,26 @@
   <string name="empty_track_list">No track list</string>
   <string name="emptyplaylist">Selected playlist is empty.</string>
   <string name="enter_sleep_mode">Enter Sleep Mode</string>
+  <string name="eq_auto">Custom</string>
+  <string name="eq_blues">Blues</string>
+  <string name="eq_classical">Classical</string>
+  <string name="eq_country">Country</string>
+  <string name="eq_dance">Dance</string>
+  <string name="eq_delete">Remove</string>
+  <string name="eq_delete_success">Done.</string>
+  <string name="eq_electronic">Electronic</string>
+  <string name="eq_flat">Flat</string>
+  <string name="eq_hiphop">Hip Hop</string>
+  <string name="eq_jazz">Jazz</string>
+  <string name="eq_metal">Metal</string>
+  <string name="eq_pop">Pop</string>
+  <string name="eq_preset_create">Create</string>
+  <string name="eq_preset_format">User preset %d</string>
+  <string name="eq_preset_hint">Please enter preset name</string>
+  <string name="eq_preset_rename">Rename</string>
+  <string name="eq_preset_select">Choose a preset</string>
+  <string name="eq_rb">R &amp; B</string>
+  <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizer</string>
   <string name="equalizer_delete">Delete</string>
   <string name="equalizer_delete_success">Equalizer profile successfully removed</string>
@@ -101,6 +125,7 @@
   <string name="folder_title_format" formatted="false">%s(%d)</string>
   <string name="folders_title">Folders</string>
   <string name="frequentlyplayed_title">Frequently played</string>
+  <string name="headphone_settings">Headphone type settings</string>
   <string name="hot_artists">Hot Artists</string>
   <string name="id3_edit">Edit ID3 information</string>
   <string name="id3_edit_failed">Failed to edit ID3 information</string>
@@ -138,6 +163,9 @@
   <string name="lyric_picker_not_found">File Manager not found on the device</string>
   <string name="max_interval">90</string>
   <string name="mediaplaybacklabel">Music</string>
+  <string name="mi_effect">MI Effects</string>
+  <string name="mi_effect_summary">Always use MiSound enhancer when using speakers</string>
+  <string name="mi_effect_title">Use MiSound enhancer</string>
   <string name="min_interval">1</string>
   <string name="mobile_connect_settings">Mobile network</string>
   <string name="modify_id3_for_list">The current list of songs ID3 information will be edited</string>
@@ -148,6 +176,7 @@
   <string name="music_browser_label">Music</string>
   <string name="music_filter">Filter files</string>
   <string name="music_filter_helper">In order to hide files which are not music related, a size filter of 800K has been applied to hide these files from being displayed. The threshold can be adjusted in Settings / File filter.</string>
+  <string name="music_not_loaded">No audio files found!</string>
   <string name="music_open_other_connect">Download music using mobile data connection</string>
   <string name="music_picker_title">Select song</string>
   <string name="music_settings">Settings</string>

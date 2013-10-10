@@ -90,6 +90,9 @@
   <string name="bookmarks_management">Bookmarks</string>
   <string name="bookmarks_root_folder">Root folder</string>
   <string name="bookmarks_search">Browser</string>
+  <string name="bottom_bar_tabs_long_click_down_tip_txt">Swipe down to close</string>
+  <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Last tab</string>
+  <string name="bottom_bar_tabs_long_click_up_tip_txt">Swipe up to close</string>
   <string name="browserFrameFileErrorLabel">File problem</string>
   <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">"The page you're trying to view contains data that has already been submitted (\"POSTDATA\"). If you resend the data, any action the form on the page carried out (such as a search or online purchase) will be repeated."</string>
@@ -103,6 +106,7 @@
   <string name="clear">Clear</string>
   <string name="clear_history">Clear history</string>
   <string name="clear_history_group">Clear all %s history</string>
+  <string name="clear_search_history">Clear history</string>
   <string name="clip_dialog_title">Open copied link?</string>
   <string name="close_all_tab_alert_message">Are you sure you want to close all tabs?</string>
   <string name="close_all_tab_alert_title">Close all Tabs</string>
@@ -210,6 +214,10 @@
   <string name="folder_name">Folder name</string>
   <string name="folder_name_too_long">Folder name is too long</string>
   <string name="forward">Forward</string>
+  <string name="general_set_default_browser_dialog_close_txt">Close</string>
+  <string name="general_set_default_browser_dialog_ok_txt">OK</string>
+  <string name="general_set_default_browser_dialog_summary">Use MIUI-integrated apps for faster and smoother performance</string>
+  <string name="general_set_default_browser_title">Set as default browser</string>
   <string name="geolocation_permissions_prompt_dont_share">Decline</string>
   <string name="geolocation_permissions_prompt_message" formatted="false">%s wants to know your location</string>
   <string name="geolocation_permissions_prompt_remember">Remember preference</string>

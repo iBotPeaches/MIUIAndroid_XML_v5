@@ -55,6 +55,9 @@
   <string name="file_not_found_error_message">Requested file not found on server</string>
   <string name="finish">Finish</string>
   <string name="finish_download">Download completed</string>
+  <string name="fourgrid_hint_text">Thank you for using the developer build of MIUI. Please tell us what you think and help us make MIUI a better Android ROM!</string>
+  <string name="fourgrid_no_notificaiont">"Don't display in status bar"</string>
+  <string name="fourgrid_notificaiont">Display in status bar</string>
   <string name="get_update_error">Failed to get update information</string>
   <string name="install_email">Install E-mail software</string>
   <string name="install_file_explorer">please install file explorer</string>
