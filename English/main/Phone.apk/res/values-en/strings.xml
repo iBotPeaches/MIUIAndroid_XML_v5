@@ -1008,6 +1008,7 @@ Switch to the new provider anyway?"</string>
   <string name="sum_xdivert_disabled">X-Divert Disabled</string>
   <string name="sum_xdivert_enabled">X-Divert Enabled</string>
   <string name="summary_manage_subscriptions">Manage Network settings of each subscriptions</string>
+  <string name="suspect_info">"Don't accept the caller, possible fraud attempt!"</string>
   <string name="t9_indexing_method_pinyin">PinYin</string>
   <string name="t9_indexing_method_title_miui">T9 search setting</string>
   <string name="t9_indexing_method_zhuyin">ZhuYin</string>

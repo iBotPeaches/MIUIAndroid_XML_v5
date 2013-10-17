@@ -83,6 +83,7 @@
   <string name="storage_is_full">Storage is full</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_max_record_time">App: %1$s maximum supported recording time %2$s</string>
+  <string name="toast_uninstall_fileexplorer">FileExplorer is not installed!</string>
   <string name="unknown_caller">Unknown caller</string>
   <string name="view_list_of_recordings">View recordings</string>
 </resources>

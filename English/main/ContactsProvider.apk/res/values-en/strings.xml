@@ -19,6 +19,7 @@
   <string name="read_write_all_voicemail_label">Access all voicemails</string>
   <string name="send_sms">Send message</string>
   <string name="sharedUserLabel">Android Core Apps</string>
+  <string name="third_party_delete_contact_info">\"%s\" is deleting your Xiaomi contacts, please use your system Contacts instead for improved security of your contacts.</string>
   <string name="upgrade_msg">Upgrading Contacts database.</string>
   <string name="upgrade_out_of_memory_notification_text">Select to complete the upgrade.</string>
   <string name="upgrade_out_of_memory_notification_ticker">Contact upgrade needs more memory</string>

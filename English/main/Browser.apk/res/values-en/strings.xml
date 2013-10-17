@@ -486,7 +486,12 @@
   <string name="pref_zoom_on_double_tap">Zoom on double-tap</string>
   <string name="preview">Preview</string>
   <string name="progress_dialog_setting_wallpaper">Setting wallpaper…</string>
+  <string name="quicklink_user_define_webpage_title">Name</string>
+  <string name="quicklink_user_define_webpage_url">URL</string>
+  <string name="quicklinks_group_default_subtitle">Empty</string>
   <string name="quicklinks_management">Quick links</string>
+  <string name="quicklinks_most_visited">Add most visited websites to start page</string>
+  <string name="quicklinks_most_visited_subtitle">Show recently visited sites in New Tab</string>
   <string name="readmode_already_add_to_bookshelf">Added to bookshelf</string>
   <string name="readmode_battery">Battery </string>
   <string name="readmode_login">Account login</string>
@@ -589,6 +594,8 @@
   <string name="uploads_disabled">File uploads are disabled.</string>
   <string name="url_copy_done">URL copied</string>
   <string name="url_hint">Search or type URL</string>
+  <string name="user_defined_webpage">Add URL</string>
+  <string name="user_defined_webpage_title">Add URL to start page</string>
   <string name="username">Name</string>
   <string name="view_certificate">View certificate</string>
   <string name="warning">Warning</string>

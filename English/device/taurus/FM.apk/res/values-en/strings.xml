@@ -125,11 +125,15 @@
   <string name="toast_added_to_list">Added to station list</string>
   <string name="toast_delete_station">%sMHz has been deleted.</string>
   <string name="toast_edit_station">Changes have been saved</string>
+  <string name="toast_fm_not_stated">FM not stated</string>
+  <string name="toast_fm_recorder_internal_error">FM recording error!</string>
+  <string name="toast_fm_recorder_storage_full">Storage full, unable to record!</string>
   <string name="toast_fm_seeking">Searching for station, please wait…</string>
   <string name="toast_fm_starting">FM app is starting，please wait…</string>
   <string name="toast_fm_stoping">FM app is stoping, please wait…</string>
   <string name="toast_save_station">%sMHz has been saved</string>
   <string name="toast_sleep_mode">Stop FM in %s</string>
+  <string name="toast_sleep_mode_exit">Sleep mode cancelled.</string>
   <string name="transmit_msg_string">Transmitting at:</string>
   <string name="turn_off_fm">Turn off FM</string>
   <string name="turn_off_speaker_phone">Turn off speaker phone</string>

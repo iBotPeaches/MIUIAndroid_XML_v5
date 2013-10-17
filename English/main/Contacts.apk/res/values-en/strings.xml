@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_calllog_detail">Call log details</string>
   <string name="account_abnormal_state">Abnormal account information, try to login in again or try again later!</string>
   <string name="account_container_title">From the following account</string>
   <string name="account_default">Phone</string>
@@ -22,6 +23,7 @@
   <string name="add_new_account">Add new account</string>
   <string name="add_new_entry_for_section">Add new</string>
   <string name="add_organization">Add organization</string>
+  <string name="add_slide_before">Add slide (before)</string>
   <string name="add_to_my_contacts">Add to My Contacts</string>
   <string name="add_wait">Add wait</string>
   <string name="add_xiaomi_account_dialog_btn">Use Xiaomi account</string>
@@ -194,6 +196,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="contacts_unavailable_add_account">Sign into an account</string>
   <string name="contacts_unavailable_create_contact">Create a new contact</string>
   <string name="contacts_unavailable_import_contacts">Import contacts from a file</string>
+  <string name="context_menu_add_to_browser_favorite">Add to browser favourites</string>
   <string name="copy_text">Copy to clipboard</string>
   <string name="createContactShortcutSuccessful">Contact widget added to Home screen.</string>
   <string name="create_group_dialog_title">Create new group</string>
@@ -374,6 +377,7 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="favoritesFrequentCalled">Frequently called</string>
   <string name="favoritesFrequentContacted">Frequently contacted</string>
   <string name="favorites_list_empty">No favorites</string>
+  <string name="forward_from">Forward from:</string>
   <string name="foundTooManyContacts">More than %d found.</string>
   <string name="frequency_none">"Don't remind me"</string>
   <string name="frequency_three_days">Check and remind every three days</string>
@@ -665,6 +669,7 @@ To add a contact to your list of favorites:
   <string name="postal_postcode">Postcode/ZIP</string>
   <string name="postal_region">State</string>
   <string name="postal_street">Street</string>
+  <string name="pref_forward_title">Forward</string>
   <string name="pref_key_photo">Photo</string>
   <string name="pref_key_photo_word_summary">Auto select a photo for contacts without one.</string>
   <string name="pref_key_photo_word_title">Auto select photo for contacts</string>
@@ -672,7 +677,11 @@ To add a contact to your list of favorites:
   <string name="pref_key_rebuild_t9_index_title">Rebuild index data</string>
   <string name="pref_summary_import_from_account">Import contacts in Google and Exchange accounts to my Xiaomi Account</string>
   <string name="pref_title_account_import">Import from account</string>
+  <string name="pref_title_card_format">Card sharing format</string>
+  <string name="pref_title_fwd_sender_info">Forward Sender Info</string>
   <string name="pref_title_import_from_account">Import to Xiaomi account</string>
+  <string name="pref_title_miui_card">Send via MIUI card</string>
+  <string name="pref_title_vcard">Send via vCard</string>
   <string name="preference_auto_ip_summary_disable">Not enabled</string>
   <string name="preference_auto_ip_summary_on">"Carrier's IP prefix: %s"</string>
   <string name="preference_auto_ip_title">Automatic IP</string>
@@ -792,11 +801,15 @@ To add a contact to your list of favorites:
   <string name="resource_update">Update</string>
   <string name="resource_waiting_download">Waiting to download...</string>
   <string name="restore_nickname">Restore</string>
+  <string name="restore_to_phone_memory_failed">Failed to restore to phone memory!</string>
+  <string name="restored_to_phone_memory">"Restored to phone's memory"</string>
   <string name="ret_sign">" "</string>
   <string name="returnCall">Return call</string>
   <string name="ringLabelsGroup">Ringtone</string>
   <string name="save">Save</string>
   <string name="save_photo_progress">Saving photo…</string>
+  <string name="save_to_sim_failed">Failed to save to SIM! restored_to_phone_memory </string>
+  <string name="saved_to_sim">Saved to SIM!</string>
   <string name="savingContact">Saving contact…</string>
   <string name="savingDisplayGroups">Saving display options…</string>
   <string name="scan">scan device</string>
@@ -813,6 +826,7 @@ To add a contact to your list of favorites:
   <string name="searching_vcard_message">Searching for vCard data in storage…</string>
   <string name="select_all">Select all</string>
   <string name="select_device">Select a device to connect with</string>
+  <string name="select_groups">Select groups</string>
   <string name="select_new_photo_from_photo_package">Select new photo from photo package</string>
   <string name="select_none">Nothing selected, the operation is invalid</string>
   <string name="select_photo_from_photo_package">Select photo from photo package</string>
@@ -825,6 +839,7 @@ To add a contact to your list of favorites:
   <string name="service_provider">Yellow page</string>
   <string name="set_default">Set default</string>
   <string name="set_photo_failed_msg">Failed to set avatar</string>
+  <string name="set_smsc_address_title_miui">Set SMS centre number</string>
   <string name="share_error">"This contact can't be shared."</string>
   <string name="share_via">Share contact via</string>
   <string name="share_visible_contacts">Share visible contacts</string>
@@ -837,12 +852,24 @@ To add a contact to your list of favorites:
   <string name="simContacts_empty">No contacts found on SIM card.</string>
   <string name="simContacts_emptyLoading">Loading contacts from SIM card…</string>
   <string name="simContacts_title">SIM card contacts</string>
+  <string name="sim_capacity_content" formatted="false">Total capacity %d, used %d</string>
+  <string name="sim_card1">SIM 1</string>
+  <string name="sim_card2">SIM 2</string>
+  <string name="sim_card_cloud">%s (Cloud Message)</string>
   <string name="sim_card_no_free_space_message">Your SIM card is full, cannot import new contacts. Please clear SIM card and try again</string>
   <string name="sim_card_no_free_space_title">SIM is full!</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselect all</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Select all</string>
   <string name="sim_contact_search_error">Error occurred when searching SIM card contacts</string>
   <string name="sim_contacts">SIM Contacts</string>
+  <string name="sim_error_anr_full">Storage for number is full!</string>
+  <string name="sim_error_email_full">Storage for E-mail is full!</string>
+  <string name="sim_error_email_too_long">E-mail address is too long.</string>
+  <string name="sim_error_generic_failure">Generic SIM Failure.</string>
+  <string name="sim_error_number_too_long">SIM Number is too long!</string>
+  <string name="sim_error_password_error">SIM Password error.</string>
+  <string name="sim_error_storage_full">SIM Storage is full!</string>
+  <string name="sim_error_text_too_long">Name is too long!</string>
   <string name="sim_export_loading">Reading SIM card information (may take a minute)…</string>
   <string name="sim_indexed_contact_not_exist">Position %1$d on SIM card is not valid, should between %2$d and %3$d</string>
   <string name="sim_no_contact">No contacts on SIM card</string>
@@ -915,6 +942,7 @@ To add a contact to your list of favorites:
   <string name="type_incoming">Incoming call</string>
   <string name="type_missed">Missed call</string>
   <string name="type_outgoing">Outgoing call</string>
+  <string name="type_vcard">vCard</string>
   <string name="type_voicemail">Voicemail</string>
   <string name="unknown">Unknown</string>
   <string name="unknown_contact_name">Unknown contact</string>

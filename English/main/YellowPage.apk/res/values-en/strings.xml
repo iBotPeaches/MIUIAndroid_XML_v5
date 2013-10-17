@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_smart_antispam_summary">About Smart Antispam unknown number detection</string>
+  <string name="about_telephone_fraud">About Telephone Fraud</string>
   <string name="agree">Agree</string>
   <string name="all_numbers">All numbers</string>
   <string name="app_label">Yellow Page</string>
@@ -38,6 +40,7 @@
   <string name="menu_add_black_list">Add to blacklist</string>
   <string name="menu_call_ip_number">Dial IP call (dial %s)</string>
   <string name="menu_copy_text">Copy to clipboard</string>
+  <string name="menu_correct_yellow_page">Correction</string>
   <string name="menu_delete_call_log">Delete call logs</string>
   <string name="menu_delete_one">Remove item from call log</string>
   <string name="menu_refresh">Refresh</string>
@@ -75,6 +78,10 @@
   <string name="recharge_user_confirm_summary">"You will be charged %1$s for RMB%2$s 
 Total amount: RMB%3$s"</string>
   <string name="recharge_user_confirm_title">Confirm</string>
+  <string name="remind_another_time">"Don't prompt for this number"</string>
+  <string name="remind_user_confirm">OK</string>
+  <string name="remind_user_suspect_number_message">"Criminals may steal other people's identities for fraud, if in doubt, please call back to verify the caller. Banks, e-commerce companies and courier companies will not ask for your password or bank card information."</string>
+  <string name="remind_user_suspect_number_title">Beware Fraudulent Calls</string>
   <string name="scan">Scan</string>
   <string name="selected_category_format">%1$s(%2$d people have marked, click to agree)</string>
   <string name="service_unavailiable">Your current network is not good, please try again later</string>

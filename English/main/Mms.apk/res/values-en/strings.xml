@@ -13,6 +13,7 @@
   <string name="add_picture">Add picture</string>
   <string name="add_private_contact">Add Private Contact</string>
   <string name="add_slide">Add slide</string>
+  <string name="add_slide_before">Add slide (before)</string>
   <string name="add_slide_hint">Touch to create new slide.</string>
   <string name="add_smiley">Smiley</string>
   <string name="add_timing">Timing</string>
@@ -71,6 +72,7 @@
   <string name="confirm_restore_positive">Restore</string>
   <string name="confirm_restore_title">Restore all selected messages?</string>
   <string name="context_menu_add_contact">Add to Contacts</string>
+  <string name="context_menu_add_to_browser_favorite">Add to browser favourites</string>
   <string name="context_menu_browse_web">Browse</string>
   <string name="context_menu_call">Call</string>
   <string name="context_menu_contact">Contact: %1$s</string>
@@ -139,6 +141,7 @@
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_share_message_description">I would like to share files with you</string>
   <string name="flatshow_page_no">%1$d</string>
+  <string name="forward_from">Forward from:</string>
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">A total of: %1$s were found on old phone accounts. Would you like to upload them to your current account of: %2$s?</string>
   <string name="found_old_messages_title">Upload Messages</string>
@@ -261,6 +264,7 @@
   <string name="prefDefault_vibrate_true">always</string>
   <string name="pref_advanced_settings_title">Advanced settings</string>
   <string name="pref_edit_smsc_address">SMS centre number</string>
+  <string name="pref_forward_title">Forward</string>
   <string name="pref_messages_to_save">Set number of messages to save</string>
   <string name="pref_mms_settings_title">Multimedia message (MMS) settings</string>
   <string name="pref_notification_settings_title">Notification settings</string>
@@ -285,9 +289,12 @@
   <string name="pref_time_auto_group_summary">Group messages by time</string>
   <string name="pref_time_auto_group_title">Group</string>
   <string name="pref_title_allow_si_sl_push">Allow WAP push</string>
+  <string name="pref_title_card_format">Card sharing format</string>
   <string name="pref_title_delivery_reports">Delivery reports</string>
+  <string name="pref_title_fwd_sender_info">Forward Sender Info</string>
   <string name="pref_title_hide_festival">Hide recommend tab</string>
   <string name="pref_title_manage_sim_messages">Manage SIM card messages</string>
+  <string name="pref_title_miui_card">Send via MIUI card</string>
   <string name="pref_title_mms_auto_retrieval">Auto-retrieve</string>
   <string name="pref_title_mms_delete">Multimedia message limit</string>
   <string name="pref_title_mms_read_reports">Read reports</string>
@@ -298,6 +305,7 @@
   <string name="pref_title_show_recent_contacts">Recent contacts</string>
   <string name="pref_title_sms_delete">Text message limit</string>
   <string name="pref_title_system_mms_priority">System Mms app priority</string>
+  <string name="pref_title_vcard">Send via vCard</string>
   <string name="pref_title_wake_up_screen">Screen-wake</string>
   <string name="preferences_title">Settings</string>
   <string name="prepare_send">Preparing to send...</string>
@@ -333,12 +341,16 @@
   <string name="resize_image_error_information">This picture is too large to send, even when resized.</string>
   <string name="restore_all_button_msg">Restore all messages from this number</string>
   <string name="restore_blocked_message">Restore blocked message</string>
+  <string name="restore_to_phone_memory_failed">Failed to restore to phone memory!</string>
+  <string name="restored_to_phone_memory">"Restored to phone's memory"</string>
   <string name="save">Save</string>
   <string name="save_ringtone">Save as ringtone</string>
   <string name="save_to_sim">Save to SIM card</string>
+  <string name="save_to_sim_failed">Failed to save to SIM! restored_to_phone_memory </string>
   <string name="saved_label">"Saved: "</string>
   <string name="saved_ringtone">Ringtone saved</string>
   <string name="saved_ringtone_fail">Saving ringtone failed</string>
+  <string name="saved_to_sim">Saved to SIM!</string>
   <string name="search">Messaging</string>
   <string name="search_empty">No matches</string>
   <string name="search_hint">Search messages</string>
@@ -366,7 +378,11 @@
   <string name="service_network_problem">Error network problem.</string>
   <string name="service_not_activated">Service not activated on network.</string>
   <string name="set">Set</string>
+  <string name="set_smsc_address_title_miui">Set SMS centre number</string>
   <string name="show_all_messages">Show all messages</string>
+  <string name="sim_card1">SIM 1</string>
+  <string name="sim_card2">SIM 2</string>
+  <string name="sim_card_cloud">%s (Cloud Message)</string>
   <string name="sim_copy_to_phone_memory">Copy to phone memory</string>
   <string name="sim_delete">Delete</string>
   <string name="sim_empty">No messages on the SIM card.</string>
@@ -419,6 +435,7 @@
   <string name="type_picture">picture</string>
   <string name="type_to_compose_text_enter_to_send">Type message</string>
   <string name="type_to_compose_text_or_leave_blank">Type message, or leave blank</string>
+  <string name="type_vcard">vCard</string>
   <string name="type_video">video</string>
   <string name="undelivered_msg_dialog_body">"Unable to send this message. Attempt made: %s."</string>
   <string name="undelivered_msg_dialog_title">Undelivered message</string>

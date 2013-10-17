@@ -59,6 +59,7 @@
   <string name="delete_song_desc">\"%s\" will be permanently deleted from the SD card.</string>
   <string name="deselect_all">Reject all</string>
   <string name="dirac_mode_earbuds">Xiaomi headphones</string>
+  <string name="dirac_mode_general">General mode</string>
   <string name="dirac_mode_in_ear">Xiaomi in-ear headphones</string>
   <string name="dirac_mode_off">Dirac Off</string>
   <string name="dirac_mode_piston_100">Xiaomi Piston headphones</string>
