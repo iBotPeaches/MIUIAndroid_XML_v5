@@ -19,7 +19,7 @@
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "I Buy Gou",
+	    "displayName": "iBuyGou",
             "isDelete": true,
             "movable": true,
             "position": 3
@@ -31,7 +31,7 @@
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "MIUI Czech",
+	    "displayName": "MIUI Czech&Slovak",
             "isDelete": true,
             "movable": true,
             "position": 4
@@ -171,6 +171,138 @@
             "isDelete": true,
             "movable": true,
             "position": 13
+        }
+    ],
+"topquicklinks": [
+                {
+            "title":"Google",
+            "url":"http://www.google.com/",
+            "thumbnail":"thumb_google.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Google"
+        },
+        {
+            "title":"ibuygou",
+            "url":"http://www.ibuygou.com/reg/?uid=C2368D3D45705A56E51EC5940E187F8D/",
+            "thumbnail":"ibuy.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "iBuyGou"
+        },
+        {
+            "title":"miui-cz-sk",
+            "url":"http://miui.cz/",
+            "thumbnail":"miui_cz-sk.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "MIUI Czech&Slovak"
+        },
+        {
+            "title":"Xiaomi",
+            "url":"http://xiaomi.eu/",
+            "thumbnail":"thumb_xiaomi.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Xiaomi Europe"
+
+        },
+        {
+            "title":"miuiandroid",
+            "url":"http://miuiandroid.com/",
+            "thumbnail":"miui-android.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "MIUIAndroid"
+        },
+        {
+            "title":"Facebook",
+            "url":"http://www.facebook.com/",
+            "thumbnail":"thumb_facebook.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Facebook"
+        },
+        {
+            "title":"Yahoo!",
+            "url":"http://www.yahoo.com/",
+            "thumbnail":"thumb_yahoo.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Yahoo"
+        },
+        {
+            "title":"Picasa",
+            "url":"http://picasaweb.google.com/",
+            "thumbnail":"thumb_picasa.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Picasa"
+        },
+        {
+            "title":"CNN",
+            "url":"http://www.cnn.com/",
+            "thumbnail":"thumb_cnn.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "CNN"
+        },
+        {
+            "title":"MIUI BBS",
+            "url":"http://en.miui.com",
+            "thumbnail":"thumb_miui.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "MIUI EN China"
+        },
+        {
+            "title":"ESPN",
+            "url":"http://espn.com/",
+            "thumbnail":"thumb_espn.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "ESPN"
+        },
+        {
+            "title":"Amazon",
+            "url":"http://www.amazon.com/",
+            "thumbnail":"thumb_amazon.png",
+            "logobg":"bg01.9.png",
+            "favicon":"",
+            "nightModeMask": "night.9.png",
+            "hidden":"true",
+	    "displayName": "Amazon Worldwide"
+        },
+
+        {
+            "title":"Weather Channel",
+            "url":"http://www.weather.com/",
+            "thumbnail":"thumb_weatherchannel.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+	    "displayName": "Weather Channel"
+        },
+        {
+            "title":"BBC",
+            "url":"http://www.bbc.co.uk/",
+            "thumbnail":"thumb_bbc.png",
+            "logobg":"bg01.9.png",
+            "favicon":"",
+            "nightModeMask": "night.9.png",
+            "hidden":"true",
+	    "displayName": "BBC News"
         }
     ]
 }
