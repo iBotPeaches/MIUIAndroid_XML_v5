@@ -30,6 +30,7 @@
   <string name="btn_wait_call_count">Waiting (%1$s)</string>
   <string name="btn_wait_confirm">Waiting...</string>
   <string name="btn_wait_confirm_count">Waiting (%1$s)</string>
+  <string name="button_cancel">Cancel</string>
   <string name="check_phone_error_title">Failed to enable sync service</string>
   <string name="check_phone_io_error">Network error</string>
   <string name="checking_account">Verifying account...</string>
