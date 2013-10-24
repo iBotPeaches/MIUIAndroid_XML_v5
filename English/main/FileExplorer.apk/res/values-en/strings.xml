@@ -11,7 +11,7 @@
   <string name="app_garbage_title">App junk</string>
   <string name="app_name">File Explorer</string>
   <string name="application_size_label">App</string>
-  <string name="background">Download in background</string>
+  <string name="background">Quiet download</string>
   <string name="big5_summary">The default encoding of the traditional Chinese version Windows system</string>
   <string name="big5_title">BIG5</string>
   <string name="bind_account">Bind to MiDrive account</string>
