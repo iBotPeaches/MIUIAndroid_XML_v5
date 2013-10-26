@@ -90,7 +90,7 @@
   <string name="no_selected">No file selected</string>
   <string name="no_transfer_history">No transfer history</string>
   <string name="not_support_this_type">File type not supported for sharing</string>
-  <string name="noti_completed">Completed, transferred %1$d/%2$d files(s)</string>
+  <string name="noti_completed">Completed, transferred %1$d/%2$d file(s)</string>
   <string name="noti_receiving">%1$s: Receiving %2$d/%3$d file(s)</string>
   <string name="noti_sending">%1$s: Sending %2$d/%3$d file(s)</string>
   <string name="noti_wait_receive">Waiting to receive file(s)</string>
@@ -120,7 +120,7 @@
   <string name="receive_cannot_created_file">Failed to create file</string>
   <string name="receive_files">Receive file(s)</string>
   <string name="receive_finish">Receive completed</string>
-  <string name="receive_finish_tip">Received $1%d files(s):</string>
+  <string name="receive_finish_tip">Received $1%d file(s):</string>
   <string name="receive_from">Receiving from:</string>
   <string name="receive_history">Received History</string>
   <string name="receive_store">Save file to:</string>
