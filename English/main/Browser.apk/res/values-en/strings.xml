@@ -39,6 +39,7 @@
   <string name="added_to_bookmarks">Added to bookmarks.</string>
   <string name="alert_tips">The site you are visiting may pose a potential security risk, do you wish to continue?</string>
   <string name="allow">Allow</string>
+  <string name="already_in_top_level">Bookmark is already at the top level</string>
   <string name="app_new_version">You already have the latest version downloaded</string>
   <string name="app_update_install">New	version	downloaded and ready for installation</string>
   <string name="application_name">Browser</string>
@@ -151,6 +152,8 @@
   <string name="delete_bookmark_warning" formatted="false">Delete bookmark \"%s\"?</string>
   <string name="delete_folder">Delete folder</string>
   <string name="delete_multi_bookmarks_alert_title">Are you sure you want to delete %1$s items?</string>
+  <string name="dialog_geolocation_reject">Hide location</string>
+  <string name="dialog_geolocation_share">Share location</string>
   <string name="disable_autofill">Disable auto-fill</string>
   <string name="disk_space_available">%1$s available</string>
   <string name="disk_space_selected">%1$s selected</string>
@@ -599,6 +602,19 @@
   <string name="username">Name</string>
   <string name="view_certificate">View certificate</string>
   <string name="warning">Warning</string>
+  <string name="webapp_add_to_desktop">Add to home screen</string>
+  <string name="webapp_addtodeskpop_append">Added app to home screen</string>
+  <string name="webapp_app_name">MiMarket Web Store</string>
+  <string name="webapp_bottom_bar_addtodesk">Add to home screen</string>
+  <string name="webapp_bottom_bar_already_addtodesk">Already added to home screen</string>
+  <string name="webapp_bottom_bar_exit">Exit</string>
+  <string name="webapp_bottom_bar_hidebar">Hide Bottom Bar</string>
+  <string name="webapp_bottom_bar_openbrowser">Open in Browser</string>
+  <string name="webapp_bottom_bar_showbar">Show Bottom Bar</string>
+  <string name="webapp_dialog_title">Add app to your home screen</string>
+  <string name="webapp_splashview_loading">Loading, please wait…</string>
+  <string name="webapp_web_forward">Forward</string>
+  <string name="webapp_web_goback">Back</string>
   <string name="website_settings_clear_all">Clear all</string>
   <string name="website_settings_clear_all_dialog_cancel_button">Cancel</string>
   <string name="website_settings_clear_all_dialog_message">Delete all website data and location permissions?</string>

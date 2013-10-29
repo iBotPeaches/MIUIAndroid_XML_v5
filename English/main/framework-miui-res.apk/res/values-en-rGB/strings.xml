@@ -6,10 +6,13 @@
   <string name="alarm_message_12_hour_formate">aah:mm</string>
   <string name="alwaysUsePrompt">Set as default (no prompt for next time)</string>
   <string name="android_lockscreen_glogin_instructions">To unlock, sign in with your account</string>
+  <string name="anniversary_of_lifting_martial_law"/>
+  <string name="anti_aggression_day"/>
   <string name="app_no_notification">no notification</string>
   <string name="app_notificaiton_on_notificationBar">Notification bar</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Status and notification bar</string>
   <string name="arbor_day">Arbor Day</string>
+  <string name="armed_forces_day"/>
   <string name="autumn_begins">Fall Begins</string>
   <string name="autumn_equinox">Fall Equinox</string>
   <string name="callNoAnswerTimeFormat">Ring %s times</string>
@@ -409,6 +412,7 @@ Try again in %d seconds."</string>
   <string name="reboot_confirm">Phone will be restarted</string>
   <string name="reboot_confirm_title">Are you sure you want to restart your phone?</string>
   <string name="reboot_progress">Restarting...</string>
+  <string name="retrocession_day"/>
   <string name="return_to_me_message">Please return to owner.</string>
   <string name="reverse_all">Clear all</string>
   <string name="safetylegal_activity_unreachable">Your phone is not connected to a data service. To view this information now, go to %s from any computer connected to the Internet.</string>
@@ -457,6 +461,9 @@ Try again in %d seconds."</string>
   <string name="the_spring_festival"/>
   <string name="today">Today</string>
   <string name="tomorrow">Tomorrow</string>
+  <string name="tw_childrens_day"/>
+  <string name="tw_youth_day"/>
+  <string name="united_nations_day"/>
   <string name="unknown">Unknown number</string>
   <string name="unknown_caller">Unknown caller</string>
   <string name="unlock_string">OK</string>

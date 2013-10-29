@@ -55,7 +55,10 @@
   <string name="button_cancel">Cancel</string>
   <string name="button_pay">Confirm</string>
   <string name="button_recharge">Top up</string>
+  <string name="button_recharge_pay">Confirm</string>
   <string name="button_retry">Retry</string>
+  <string name="cancel">Cancel</string>
+  <string name="change_security_lock">Change security lock</string>
   <string name="error_account_changed_summary">"Your account info has changed.
 Please log in again."</string>
   <string name="error_account_changed_title">Account has changed</string>
@@ -86,6 +89,9 @@ Wait five minutes and try again."</string>
   <string name="error_verify_summary">Your app does not have permission to request the service</string>
   <string name="error_verify_title">No permission</string>
   <string name="fee">%1$s MiCredit</string>
+  <string name="forget_password">&lt;u&gt;Reset password&lt;/u&gt;</string>
+  <string name="format_date">MMM. dd, yyyy</string>
+  <string name="format_time">MMM dd, yyyy hh:mmaa</string>
   <string name="frozen">(Frozen)</string>
   <string name="giftcard_acitivity_and_denomination">%2$s-MiCredit gift card from %1$s</string>
   <string name="giftcard_denom">MiCredit</string>
@@ -279,6 +285,29 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="linkpay_you_will_pay">Amount to pay</string>
   <string name="linkpay_yuan">Yuan</string>
   <string name="linkpay_zhifubao">支付宝</string>
+  <string name="lockpassword_choose_your_pattern_header">Choose your pattern</string>
+  <string name="lockpassword_confirm_your_pattern_header">Confirm your pattern</string>
+  <string name="lockpassword_input_your_pattern_header">Confirm your pattern</string>
+  <string name="lockpattern_confirm_button_text">Confirm</string>
+  <string name="lockpattern_continue_button_text">Continue</string>
+  <string name="lockpattern_need_to_confirm">Draw pattern again to confirm:</string>
+  <string name="lockpattern_need_to_confirm_wrong">Does not match the previous entry, please re-enter:</string>
+  <string name="lockpattern_need_to_unlock_footer"/>
+  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Password wrong, you have %d attempts left&lt;/font&gt;</string>
+  <string name="lockpattern_need_to_unlock_wrong_footer"/>
+  <string name="lockpattern_pattern_confirmed_header">Your new unlock pattern:</string>
+  <string name="lockpattern_pattern_entered_header">Pattern saved.</string>
+  <string name="lockpattern_recording_incorrect_too_short">Connect at least %d dots. Please try again:</string>
+  <string name="lockpattern_recording_inprogress">Release finger when finished.</string>
+  <string name="lockpattern_recording_intro_header">Draw unlock pattern:</string>
+  <string name="lockpattern_retry_text">&lt;u&gt;Reset pattern password&lt;/u&gt;</string>
+  <string name="lockpattern_settings_help_how_to_record">How to draw an unlock pattern</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Try again in %d seconds.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Too many incorrect attempts!&lt;/font&gt;</string>
+  <string name="lockpattern_tutorial_cancel_label">Cancel</string>
+  <string name="lockpattern_tutorial_continue_label">Next</string>
+  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;Forgot pattern password&lt;/u&gt;</string>
+  <string name="login">Login</string>
   <string name="memu_refresh">Refresh</string>
   <string name="mibi_license_message">Touch OK if you agree to the terms and conditions described in the %1$s.</string>
   <string name="mibi_license_message_span">MiCredit User Agreement</string>
@@ -304,6 +333,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="msg_telecom_picker_hint_2_1">Your network provider has been contacted!</string>
   <string name="msg_telecom_picker_hint_2_2">You will receive a text confirmation shortly.</string>
   <string name="msg_telecom_sending">Contacting network provider…</string>
+  <string name="onemore_click_exit">One more click to exit</string>
   <string name="order_price">%1$s MiCredits</string>
   <string name="password_error">Password incorrect.</string>
   <string name="password_hint">Enter account password</string>
@@ -336,7 +366,9 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="progress_bankcall_card_querying">Checking account type…</string>
   <string name="progress_creating">Retrieving order info…</string>
   <string name="progress_downloading">Loading…</string>
+  <string name="progress_error_pay_summary">%1$s MiCredits added, but payment failed! Please try again later.</string>
   <string name="progress_error_pay_title">Payment failed</string>
+  <string name="progress_error_recharge_summary">Top-up failed! Please try again later.</string>
   <string name="progress_error_recharge_title">Top-up failed</string>
   <string name="progress_loading">Processing…</string>
   <string name="progress_msg_creating">Generating top-up order…</string>
@@ -371,6 +403,7 @@ We will check again within two working days."</string>
   <string name="recharge_group_others">Other top-up methods</string>
   <string name="recharge_message_title">Text message</string>
   <string name="recharge_notification">Topping up: %1$s MiCredits</string>
+  <string name="recharge_novalid_method">No valid top-up method.</string>
   <string name="recharge_other">View other methods</string>
   <string name="recharge_pcpay_title">Computer</string>
   <string name="recharge_prepaid_title">Prepaid card</string>
@@ -379,16 +412,28 @@ We will check again within two working days."</string>
   <string name="recharge_record_empty">No top-up records.</string>
   <string name="recharge_tenpay_title">Tenpay</string>
   <string name="recharge_voucher_title">MiCredit card</string>
+  <string name="security_setting">Security settings</string>
+  <string name="summary_lockpattern">Require unique pattern lock for MiCredit</string>
+  <string name="title_change_lockpattern">Change pattern lock</string>
   <string name="title_discounts">Discounts</string>
+  <string name="title_gesture">Pattern lock</string>
   <string name="title_giftcard">Promotions</string>
+  <string name="title_lockpattern">Pattern lock required</string>
   <string name="title_mili_center">MiCredits</string>
+  <string name="title_myaccount">Mi Account: %s</string>
+  <string name="title_nopassword">"Don't require for small payments"</string>
+  <string name="title_nopassword_dialog">Daily limit</string>
+  <string name="title_password">Password</string>
+  <string name="title_password_threshold">Daily limit = %1$s yuan</string>
   <string name="title_pay">Pay with MiCredits</string>
   <string name="title_pay_record">Payment records</string>
   <string name="title_recharge">Top up MiCredit</string>
   <string name="title_recharge_record">Top-up records</string>
   <string name="title_transaction">Transactions</string>
+  <string name="title_visible_pattern">Make pattern visible</string>
   <string name="voucher_edit_hint">Code</string>
   <string name="voucher_edit_limit">digits</string>
+  <string name="voucher_error_password">Invalid voucher code!</string>
   <string name="voucher_error_password_empty">Code empty.</string>
   <string name="voucher_input_password_prompt">Enter code</string>
 </resources>
