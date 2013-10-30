@@ -9,12 +9,48 @@
   <string name="account_hint_text">E-mail/Phone number</string>
   <string name="account_name">Account: %1$s</string>
   <string name="activate_phone_failed_notif_title">Failed to enable MiCloud service</string>
+  <string name="activate_phone_failed_notif_title_msim">Failed to start MiCloud for SIM %s</string>
   <string name="activate_phone_send_sms_fail">Failed to send activation SMS, unable to open sync service</string>
   <string name="activate_phone_send_sms_failed_notif">Failed to send activation SMS</string>
   <string name="activate_phone_server_error">Server error，unable to open sync service</string>
   <string name="activate_phone_server_error_notif">Server error</string>
+  <string name="activate_status_desc_acquire_phone_number">Acquiring phone number from server</string>
+  <string name="activate_status_desc_acquire_phone_number_server_error">Server error occurred while acquiring phone number.</string>
+  <string name="activate_status_desc_acquire_phone_number_server_error_wait">Server error while acquiring phone number. Waiting to retry...</string>
+  <string name="activate_status_desc_acquire_phone_number_server_io_error">Server I/O error while acquiring phone number due.</string>
+  <string name="activate_status_desc_acquire_phone_number_server_io_error_wait">Server I/O error while acquiring phone number. Waiting to retry...</string>
+  <string name="activate_status_desc_acquire_phone_number_server_no_info">Cannot get phone number.</string>
+  <string name="activate_status_desc_acquire_phone_number_server_no_info_wait">Cannot get phone number, waiting to retry...</string>
+  <string name="activate_status_desc_acquire_sim_pass_token">Acquiring security information from server...</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_password_error">Unable get security info due to incorrect security token</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_error">Server error while acquiring security information</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_error_wait">Server error while acquiring security information, waiting to retry...</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_io_error">Server I/O error while acquiring security info</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_io_error_wait">Server I/O error while acquiring security info, waiting to retry...</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_no_info">Cannot get security info</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_no_info_wait">Cannot get security info, waiting to retry...</string>
+  <string name="activate_status_desc_acquire_sim_user_id">Acquiring registration information from server</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_error">Server error while acquiring registration information</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_error_wait">Server error while acquiring registration information, waiting to retry...</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_io_error">Server I/O error while acquiring registration info</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_io_error_wait">Server I/O error while acquiring registration information, waiting to retry...</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_no_info">Cannot get registration information</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_no_info_wait">Cannot get registration information, waiting to retry...</string>
+  <string name="activate_status_desc_failed_getting_device_info">Failed to get device info</string>
+  <string name="activate_status_desc_failed_getting_gateway">Failed to get SMS Gateway</string>
+  <string name="activate_status_desc_failed_getting_sim_info">Failed to get SIM card information</string>
+  <string name="activate_status_desc_getting_device_info">Getting device information</string>
+  <string name="activate_status_desc_getting_gateway">Getting SMS Gateway</string>
+  <string name="activate_status_desc_getting_sim_info">Getting SIM card data</string>
+  <string name="activate_status_desc_prepare_sending_sms">Preparing to send activation SMS to Gateway</string>
+  <string name="activate_status_desc_sending_sms">Sending activation SMS to Gateway</string>
+  <string name="activate_status_desc_sim_absent">SIM card not found!</string>
+  <string name="activate_status_desc_sms_sent">Activation SMS was sent successfully</string>
+  <string name="activate_status_title_activating">Activating your SIM card, please wait...</string>
+  <string name="activate_status_title_activating_msim">Activating your SIM card %s...</string>
   <string name="activating">Activating...</string>
   <string name="add_weibo_account">Add Account</string>
+  <string name="alert_notif_title_dspt">Please restore synchronization to ensure data security</string>
   <string name="alert_title_remove_account">Delete Account</string>
   <string name="app_name">Xiaomi Services Framework</string>
   <string name="available_functionality">Available functions</string>
@@ -31,9 +67,11 @@
   <string name="btn_wait_confirm">Waiting...</string>
   <string name="btn_wait_confirm_count">Waiting (%1$s)</string>
   <string name="button_cancel">Cancel</string>
+  <string name="captcha">Captcha code</string>
   <string name="check_phone_error_title">Failed to enable sync service</string>
   <string name="check_phone_io_error">Network error</string>
   <string name="checking_account">Verifying account...</string>
+  <string name="checking_input">Checking input...</string>
   <string name="cloud_messaging">MiCloud messaging</string>
   <string name="cmcc_data_sync_notice">Use your Xiaomi account to sync messages, Contacts and other data. Meanwhile, enjoy the Xiaomi cloud services.</string>
   <string name="cmcc_micloud_dspt">Cloud services include mobile sync, device location and other features. You can also manage your data online at any time!</string>
@@ -43,9 +81,13 @@
   <string name="data_keep_in_phone">Keep data on device</string>
   <string name="data_sync_notice">Use your Xiaomi account to sync Messages, Contacts and other data</string>
   <string name="data_wipe_from_phone">Delete from my device</string>
+  <string name="dirty_contacts_count">%d contact(s)</string>
+  <string name="dirty_mms_count">%d message(s)</string>
+  <string name="dirty_note_count">%d note(s)</string>
   <string name="disable_find_device_error">%1$s, failed to disable locate device</string>
   <string name="disable_micloud">&lt;u&gt;Do not enable MiCloud&lt;/u&gt;</string>
   <string name="email_already_be_used">E-mail address already in use</string>
+  <string name="enableAll">Enable All</string>
   <string name="enable_find_device_error">%1$s, failed to enable locate device</string>
   <string name="enable_micloud">Enable cloud services</string>
   <string name="error_dup_phone">Phone has been registered</string>
@@ -56,6 +98,7 @@
   <string name="error_server">Server error</string>
   <string name="error_sim_not_ready">SIM not ready</string>
   <string name="error_unknown">Unknown error: %1$s</string>
+  <string name="error_user_name">Invalid username!</string>
   <string name="failed_to_send_activate_email">Failed to send an activation E-mail</string>
   <string name="find_device">Locate device</string>
   <string name="find_device_check_phone_error_title">Failed to enable locate device</string>
@@ -74,7 +117,10 @@
   <string name="get_back_pwd">Recover account password</string>
   <string name="header_data_and_synchronization">Data &amp; Sync</string>
   <string name="i_know">OK</string>
+  <string name="input_captcha_hint">Enter captcha</string>
   <string name="input_password_hint">Input password</string>
+  <string name="input_vcode_hint">Enter verfication code</string>
+  <string name="input_vcode_prompt">Please enter verification code</string>
   <string name="int_phone_user_notice">When registering using a number outside of China please enter your country code, e.g. +44xxxxxxxxx</string>
   <string name="internet_comm">Messaging services</string>
   <string name="internet_message">MiCloud messaging</string>
@@ -84,6 +130,10 @@
   <string name="login_failed">Login failed</string>
   <string name="login_instead_reg">Login using this phone number</string>
   <string name="login_notice">Signing in...</string>
+  <string name="master_alert_notif_dspt" formatted="false">"During this period you have added %s name phone contacts, %s SMS, %s photos, %s of notes and other data.
+
+ If your phone is lost or erased, these data will be permanently lost. It is recommended that you restore synchronization to ensure data security"</string>
+  <string name="master_alert_notif_title">The data is not synchronized outside %s days</string>
   <string name="memu_refresh">Refresh</string>
   <string name="mibi_license_message">Xiaomi Mi Credit Service. By clicking OK you agree to comply with %1$s.</string>
   <string name="mibi_license_message_span">Mi Credit User Agreement</string>
@@ -111,8 +161,10 @@
   <string name="micloud_dspt">Cloud services include MiCloud messaging, mobile sync, locating device and other features. You can also manage your data online at any time!</string>
   <string name="micloud_email">E-mail address</string>
   <string name="micloud_error_email">Invalid E-mail</string>
+  <string name="micloud_error_empty_captcha_code">Enter captcha code.</string>
   <string name="micloud_error_empty_pwd">Password is blank</string>
   <string name="micloud_error_empty_username">Username is blank</string>
+  <string name="micloud_error_empty_vcode">Enter verification code.</string>
   <string name="micloud_error_illegal_pwd">Illegal password</string>
   <string name="micloud_input_password_prompt">Input password</string>
   <string name="micloud_intro_01_part_01">Save on SMS costs</string>
@@ -158,6 +210,7 @@
   <string name="my_mili_record">My Mi Credit</string>
   <string name="my_xiaomi_account">My current Xiaomi account</string>
   <string name="next">Next</string>
+  <string name="noRemind">"Don't remind"</string>
   <string name="nobind">No authorised</string>
   <string name="order_price">%1$s Mi credits</string>
   <string name="other_settings">Other settings</string>
@@ -223,6 +276,7 @@ We will check for you within two working days"</string>
    1. Contact customer services on: %1$s
    2. Provide this serial number: %2$s"</string>
   <string name="progress_warning_waiting">Account changes are still being updated. Please try again later.</string>
+  <string name="quick_login_step2_title">Login Security</string>
   <string name="quick_login_title">Authentication is required, please input your password</string>
   <string name="recharge_alipay_summary">Alipay topup</string>
   <string name="recharge_alipay_title">Alipay</string>
@@ -260,6 +314,7 @@ We will check for you within two working days"</string>
   <string name="remove_confirm">Delete</string>
   <string name="remove_unactivated_account_notice">The Xiaomi account is not activated, do you wish to remove it now?</string>
   <string name="removing_account">Removing account...</string>
+  <string name="restoreSync">Restore Sync</string>
   <string name="send_int_sms_for_sync_notice">An activation SMS will be sent to your device at your carriers messaging rate. Are you sure you want to continue?</string>
   <string name="send_sms_for_sync_notice">An activation SMS will be sent, continue?</string>
   <string name="send_sms_for_sync_title">Sync service not activated</string>
@@ -268,9 +323,14 @@ We will check for you within two working days"</string>
   <string name="sim_changed_notification_content">SIM card unactivated. Please reactivate</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Skip login</string>
+  <string name="skip_login_u">&lt;u&gt;Skip login&lt;/u&gt;</string>
   <string name="skip_setup_account_msg">Using your Xiaomi Account, you can synchronize and backup your SMS, Contacts, photos, notes, etc. Continue and setup later?</string>
   <string name="skip_setup_account_title">Skip account setting</string>
   <string name="start_micloud">Start</string>
+  <string name="sub_alert_notif_dspt" formatted="false">"You have %s phone contacts, %s SMS, %s photos, %s of notes and other data is not synchronized.
+
+ If your phone is lost or erased, this data will be permanently lost. It is recommended that you start synchronization to ensure data security"</string>
+  <string name="sub_alert_notif_title">Key synchronization service has not been enabled</string>
   <string name="sync_dspt">Use Xiaomi account to sync data</string>
   <string name="sync_off">Off</string>
   <string name="sync_on">On</string>
@@ -286,6 +346,7 @@ We will check for you within two working days"</string>
   <string name="title_recharge_record">Topup history</string>
   <string name="title_reg">Register Xiaomi account</string>
   <string name="title_voucher">Top-up using Mi Credit voucher</string>
+  <string name="trust_device">Trust device</string>
   <string name="unactivated_user">Unactivated</string>
   <string name="unbind">De-authorise</string>
   <string name="update_contacts">Update contacts</string>
@@ -298,10 +359,18 @@ We will check for you within two working days"</string>
   <string name="user_agreement_p4">Privacy Policy</string>
   <string name="user_agreement_p5">"By signing up, you are agreeing to the "</string>
   <string name="value">Value</string>
+  <string name="vcode">Verification code</string>
+  <string name="vcode_notification_title">Your login verification is incomplete</string>
+  <string name="vcode_prompt_long">Please enter verification code generated via Xiaomi security token</string>
   <string name="voucher_edit_hint">Password:</string>
   <string name="voucher_edit_limit">Edit limit</string>
   <string name="voucher_error_code">An error occurred with your Mi Credit voucher code</string>
   <string name="voucher_input_password_prompt">Input password</string>
+  <string name="wipe_data_dialog_msg">%s that have not been synced (this data will be lost if you continue).</string>
+  <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="wipe_data_dialog_title">"Some items haven't been synced."</string>
+  <string name="wrong_captcha">Invalid captcha code</string>
+  <string name="wrong_vcode">Invalid Vcode</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
 </resources>

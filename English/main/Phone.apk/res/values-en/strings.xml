@@ -89,10 +89,12 @@
   <string name="auto_record_scenario_enteries_always_miui">Auto record for all numbers</string>
   <string name="auto_record_scenario_enteries_whitelist_miui">Auto record for chosen numbers</string>
   <string name="auto_record_scenario_title_miui">Auto recording mode</string>
+  <string name="auto_record_unknown_miui">Unknown numbers</string>
   <string name="auto_record_whitelist_miui">Set up chosen numbers</string>
   <string name="auto_record_whitelist_no_item_miui">Click the bottom button to add numbers for auto recording</string>
   <string name="auto_record_whitelist_summary_for_one_miui">1</string>
   <string name="auto_record_whitelist_summary_miui">%d numbers</string>
+  <string name="auto_record_yellowpage_miui">Yellow pages</string>
   <string name="auto_redial_pref_summary_miui">Redial numbers automatically if line is busy</string>
   <string name="auto_redial_pref_title_miui">Auto redial</string>
   <string name="auto_retry_mode_summary">Enable Auto Retry mode</string>

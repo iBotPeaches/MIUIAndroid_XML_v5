@@ -498,5 +498,10 @@ Try again in %d seconds."</string>
   <string name="white_dews"/>
   <string name="winter_begins"/>
   <string name="winter_solstice"/>
+  <string name="yellow_page_module_sms_sent">SMS message sent.</string>
+  <string name="yellow_page_sms_disabled_in_privacy_mode">Unable to send SMS message in Guest mode</string>
+  <string name="yellow_page_sms_send_failed">Failed to send SMS message!</string>
+  <string name="yellow_page_sms_sending">Sending…</string>
+  <string name="yellow_page_unable_send_sms">Unable to send SMS message!</string>
   <string name="yesterday">Yesterday</string>
 </resources>
