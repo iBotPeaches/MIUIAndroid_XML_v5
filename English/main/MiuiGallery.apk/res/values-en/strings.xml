@@ -84,6 +84,7 @@
   <string name="clear_thumbnail_cache_confirm">Thumbnail cache will be cleared. Gallery will rescan media files and re-create thumbnails.</string>
   <string name="clear_thumbnail_cache_summary">Browsing gallery will generate thumbnails. Clearing the cache will increase space.</string>
   <string name="click_to_enter_camera">Open camera</string>
+  <string name="click_top_right">Tap icon on the top-right</string>
   <string name="close">Close</string>
   <string name="cloud_album_more_settings">Cloud album settings</string>
   <string name="cloud_album_set_create">New</string>

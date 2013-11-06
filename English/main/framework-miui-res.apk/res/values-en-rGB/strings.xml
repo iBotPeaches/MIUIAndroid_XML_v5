@@ -459,6 +459,7 @@ Try again in %d seconds."</string>
   <string name="the_mid_autumn_festival"/>
   <string name="the_rains"/>
   <string name="the_spring_festival"/>
+  <string name="toast_lockscreen_glogin_empty_password">Password is required.</string>
   <string name="today">Today</string>
   <string name="tomorrow">Tomorrow</string>
   <string name="tw_childrens_day"/>

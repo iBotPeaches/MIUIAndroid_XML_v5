@@ -715,6 +715,7 @@ This setting affects all users on this phone."</string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_version">MIUI Version</string>
   <string name="device_name">Device name</string>
+  <string name="device_name_input_error">Failed to save device name, please try again</string>
   <string name="device_name_input_hint">Enter your device name</string>
   <string name="device_name_usage_point">Allow device to be discovered by other Bluetooth devices to allow file transfer and other functions.</string>
   <string name="device_picker">Bluetooth device chooser</string>
@@ -1313,6 +1314,8 @@ please follow the steps to complete installation"</string>
   <string name="nsd_quick_toggle_title">Network service discovery</string>
   <string name="oem_radio_info_label">OEM-specific Info/Settings</string>
   <string name="onscreen_keyboard_settings_summary">Onscreen keyboard settings</string>
+  <string name="open_wifi_connect_summary">Click to manage</string>
+  <string name="open_wifi_connect_title">Connect to open network %1$s</string>
   <string name="other_relative">Other permissions</string>
   <string name="overlay_display_devices_title">Simulate secondary displays</string>
   <string name="owner_info_settings_edit_text_hint">Type text to display on the lock screen</string>

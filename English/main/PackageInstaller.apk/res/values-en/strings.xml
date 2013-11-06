@@ -27,6 +27,7 @@
   <string name="install_failed_invalid_apk">The package appears to be corrupt.</string>
   <string name="install_failed_msg">%1$s could not be installed on this phone.</string>
   <string name="install_failed_older_sdk">The package only works on newer versions of Android.</string>
+  <string name="install_failed_system_incompatible">This app is not compatible with MIUI ROM!</string>
   <string name="install_failed_verify_failed">The package did not pass verification and cannot be installed.</string>
   <string name="install_failed_verify_timeout">A timeout occurred while trying to verify this package. Please try to install it again later.</string>
   <string name="installing">Installing...</string>

@@ -304,6 +304,11 @@
   <string name="navigation_button_newtab">New</string>
   <string name="navigation_button_tab">Tab</string>
   <string name="navigation_button_view">View</string>
+  <string name="network_show_wifi_setting_tip_dialog_description">Wi-Fi connection found, would you like to connect?</string>
+  <string name="network_show_wifi_setting_tip_dialog_notshow">Save</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Wi-Fi network available</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_title">"If you're using mobile data to access the Internet, MIUI will notify you if a nearby Wi-Fi connection is available"</string>
+  <string name="network_show_wifi_setting_tip_dialog_title">Local Wi-Fi connection available</string>
   <string name="new_folder">New folder</string>
   <string name="new_incognito_tab">New incognito tab</string>
   <string name="new_tab">New tab</string>

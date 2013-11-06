@@ -50,6 +50,9 @@
   <string name="always_use_accessory">Use by default for this USB accessory</string>
   <string name="always_use_device">Use by default for this USB device</string>
   <string name="app_label">System UI</string>
+  <string name="audio_effect_custom">Configure audio</string>
+  <string name="audio_effect_info">Optimise audio</string>
+  <string name="audio_effect_settings">Select headphone type</string>
   <string name="battery_low_percent_format">%d%% remaining</string>
   <string name="battery_low_subtitle">The battery is getting low.</string>
   <string name="battery_low_title">Connect charger</string>
