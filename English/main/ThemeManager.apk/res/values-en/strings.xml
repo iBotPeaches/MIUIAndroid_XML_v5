@@ -81,7 +81,7 @@
   <string name="resource_comment_good_comments">Positive comments</string>
   <string name="resource_comment_invalid">Touch stars to give a rating</string>
   <string name="resource_comment_name_default">User %1$s</string>
-  <string name="resource_comment_no_average_score">No score</string>
+  <string name="resource_comment_no_average_score">0.0</string>
   <string name="resource_comment_no_comment">No comments</string>
   <string name="resource_comment_publish">Submit</string>
   <string name="resource_comment_rate">Rating:</string>
