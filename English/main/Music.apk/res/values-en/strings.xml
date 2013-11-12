@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="account_and_synchronization">Account &amp; Sync</string>
+  <string name="account_setting">Account settings</string>
   <string name="add">Add</string>
   <string name="add_to">Add to</string>
   <string name="add_to_favorite">Add to Favorites</string>
@@ -29,6 +31,8 @@
   <string name="auto_correct_id3_summary">Audio fingerprint algorithm will correct ID3 data when playing.</string>
   <string name="batch_correct_id3_completed">Batch ID3 correction complete!</string>
   <string name="billboard">Billboard</string>
+  <string name="bind_baidu_account_setting">Bind Baidu Account</string>
+  <string name="bind_baidu_account_summary">Add playlists and other services by binding Baidu music account</string>
   <string name="buffering">Buffering...</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_sleep_mode">Sleep timer stopped</string>
@@ -188,6 +192,7 @@
   <string name="new_playlist_name_template">New playlist %d</string>
   <string name="no_effect">No effect</string>
   <string name="no_song_downloaded">Song cannot be downloaded</string>
+  <string name="not_login">Login</string>
   <string name="not_selected">Please select a song</string>
   <string name="notification_artist_album">"%2$s %1$s"</string>
   <string name="online_search_hint">Search for online music</string>
@@ -268,6 +273,8 @@
   <string name="start_to_download_album">Downloading album art for your song(s) library</string>
   <string name="start_to_download_avatar">Downloading artist avatar for your music library</string>
   <string name="streamloadingtext">Connecting to %s</string>
+  <string name="synchronize_playlist_setting">Synchronize Playlists</string>
+  <string name="synchronize_playlist_summary">Synchronize playlists to MiCloud.</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_edit">Song</string>
   <string name="track_num_format">(%s)</string>
@@ -276,4 +283,5 @@
   <string name="unknown_artist_name">Unknown artist</string>
   <string name="use_local_album">Use saved album art</string>
   <string name="use_local_lyric">Use saved lyrics</string>
+  <string name="xiaomi_account_setting">Xiaomi account</string>
 </resources>

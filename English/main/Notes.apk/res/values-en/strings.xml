@@ -80,6 +80,7 @@
   <string name="pref_title_common">Common settings</string>
   <string name="pref_title_data_export">Data export</string>
   <string name="pref_title_data_export_to_sdcard">Export note to SD card</string>
+  <string name="pref_title_font_size">Font size</string>
   <string name="pref_title_note_style">Note style</string>
   <string name="preferences_bg_random_appear_title">Random note colors</string>
   <string name="preferences_title">Settings</string>

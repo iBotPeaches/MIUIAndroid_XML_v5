@@ -264,6 +264,7 @@
   <string name="prefDefault_vibrate_false">never</string>
   <string name="prefDefault_vibrate_true">always</string>
   <string name="pref_advanced_settings_title">Advanced settings</string>
+  <string name="pref_collapse_sp_messages_summary">Combine service provider message into same entry</string>
   <string name="pref_edit_smsc_address">SMS centre number</string>
   <string name="pref_forward_title">Forward</string>
   <string name="pref_messages_to_save">Set number of messages to save</string>
@@ -399,6 +400,10 @@
   <string name="sms_full_title">Text message memory full</string>
   <string name="sms_rejected_body">Incoming message rejected due to unknown reason.</string>
   <string name="sms_rejected_title">Text message rejected</string>
+  <string name="sp_conversation_title">Notification messages</string>
+  <string name="sp_mark_as_read">Mark all messages as read?</string>
+  <string name="sp_mark_as_read_progress">Marking all message as read...</string>
+  <string name="sp_mark_as_read_title">Mark all messages read</string>
   <string name="status_failed">Unsuccessful</string>
   <string name="status_label">"Status: "</string>
   <string name="status_pending">Pending</string>
@@ -421,6 +426,7 @@
   <string name="timed_message_expired_title_2">Send now?</string>
   <string name="timed_message_in_total">... (%d in total)</string>
   <string name="timed_message_to">to</string>
+  <string name="title_collapse_sp_messages">Combine service provider messages</string>
   <string name="title_date_type">Message timestamp</string>
   <string name="title_timed_message_dialog">Please configure the time of this message</string>
   <string name="to_address_label">"To: "</string>

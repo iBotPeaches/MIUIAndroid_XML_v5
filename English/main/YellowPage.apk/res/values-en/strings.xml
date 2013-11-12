@@ -31,9 +31,12 @@
   <string name="express_inquiry">Tracking</string>
   <string name="express_inquiry_button_text">Track</string>
   <string name="express_inquiry_data_owner">Tracking info provided by %s</string>
+  <string name="express_inquiry_delivered">Delivered</string>
+  <string name="express_inquiry_history">History</string>
   <string name="express_inquiry_indication">Tracking number</string>
   <string name="express_inquiry_internal_failure">@string/service_unavailiable</string>
   <string name="express_inquiry_logistics_indication">Courier name</string>
+  <string name="express_inquiry_no_history">No history</string>
   <string name="express_inquiry_no_result">No results.</string>
   <string name="express_inquiry_serial_number_indication">Tracking number</string>
   <string name="express_inquiry_serial_number_prefix">"Serial Number: "</string>
@@ -44,6 +47,7 @@
   <string name="mark_number_custom_dialog_maintitle">Agree or correct the mark</string>
   <string name="mark_number_dialog_maintitle">Mark as spam number and upload</string>
   <string name="mark_number_dialog_subtitle">Jointly developed with Sogou</string>
+  <string name="mark_title_null_hint">Input cannot be left empty</string>
   <string name="menu_about_yellow_page">About this page</string>
   <string name="menu_add_black_list">Add to blacklist</string>
   <string name="menu_call_ip_number">Dial IP call (dial %s)</string>
@@ -76,6 +80,7 @@
   <string name="recharge_charge_range">Price:¥%1$s-%2$s</string>
   <string name="recharge_charge_value">Price:¥%s</string>
   <string name="recharge_history">Topup history</string>
+  <string name="recharge_history_empty">No topup history</string>
   <string name="recharge_input_phone_title">Input phone number(China mobile, China Unicom, or China Telecom)</string>
   <string name="recharge_order_actual_price">¥%s</string>
   <string name="recharge_order_id">Order ID：</string>
