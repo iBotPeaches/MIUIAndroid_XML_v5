@@ -73,4 +73,8 @@
   <string name="unknown_apps_dlg_text">"For security reasons, your phone has been set to forbid installing applications obtained from unofficial channels.To lift the ban you can install applications from any channel,but your phone and personal data may be attacked by applications of unknown sources,and you shall assume full responsibility for the probable consequences. You may also modify it via Settings-&gt;Security-&gt;Unknown sources."</string>
   <string name="unknown_apps_dlg_title">Install blocked</string>
   <string name="unknown_installer">Unknown installer</string>
+  <string name="virus_scan_clear">Remove</string>
+  <string name="virus_scan_install">" "&lt;u&gt;&amp;#32487;&amp;#32493;&amp;#23433;&amp;#35013;&lt;/u&gt;" "</string>
+  <string name="virus_scan_is_risk">This app presents a risk!</string>
+  <string name="virus_scan_is_virus">This app contains a virus, please remove it immediately!</string>
 </resources>

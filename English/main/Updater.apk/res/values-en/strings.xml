@@ -68,6 +68,7 @@
   <string name="internal_build">Internal Build</string>
   <string name="kernel_upgrade_link"/>
   <string name="kernel_upgrade_version"/>
+  <string name="later">Reboot later</string>
   <string name="loading">Requesting</string>
   <string name="md5_check_cancelled">MD5 check cancelled</string>
   <string name="mione_update_fail_description">Please update again</string>
@@ -96,6 +97,7 @@
   <string name="no_updates_warning">No updates were found for your phone</string>
   <string name="no_updates_warning2">The application will notify you of any future updates</string>
   <string name="not_recommend">"Don't recommend"</string>
+  <string name="now">Reboot now</string>
   <string name="paused_queued_for_network">Waiting for network connection</string>
   <string name="paused_queued_for_wifi">Waiting for Wi-Fi connection</string>
   <string name="previous">Previous</string>

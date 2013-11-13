@@ -6,23 +6,10 @@
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>None</item>
-        <item>Launch Recent Panel</item>
-        <item>Launch Voice Assistant</item>
-        <item>Launch Google Now</item>
-        <item>Close current App</item>
-    </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>None</item>
-        <item>720x480 mdpi</item>
-        <item>1280x720 tvdpi</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
-    </string-array>
-    <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
-        <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
-        <item>Call stack on glGetError</item>
+        <item>Launch Recent panel</item>
+        <item>Launch Voice assist</item>
+        <item>Launch Google now</item>
+        <item>Close current app</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Face unlock</item>
