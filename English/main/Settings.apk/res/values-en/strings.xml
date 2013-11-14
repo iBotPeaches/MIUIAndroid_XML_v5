@@ -1667,7 +1667,7 @@ please follow the steps to complete installation"</string>
   <string name="pointer_settings_category">Mouse/trackpad</string>
   <string name="pointer_speed">Pointer speed</string>
   <string name="power_autorun_apps_empty">No auto-start apps</string>
-  <string name="power_autorun_control_desc">"Increasing the number of auto-start programs may increase you're phone's power consumption"</string>
+  <string name="power_autorun_control_desc">"Increasing the number of auto-start programs may increase your phone's power consumption"</string>
   <string name="power_autorun_control_title">Auto-start</string>
   <string name="power_autorun_empty">No apps installed</string>
   <string name="power_battery_history_days">%1$d days %2$d hrs %3$d mins</string>
