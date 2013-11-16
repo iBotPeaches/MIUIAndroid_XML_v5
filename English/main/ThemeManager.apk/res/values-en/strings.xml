@@ -78,7 +78,7 @@
   <string name="resource_comment_entry_tips">%1$s reviews, click to view</string>
   <string name="resource_comment_expand_full_text">Expand full-text</string>
   <string name="resource_comment_footer">Empty comments are not displayed.</string>
-  <string name="resource_comment_good_comments">Positive</string>
+  <string name="resource_comment_good_comments">Positive comments</string>
   <string name="resource_comment_invalid">Touch stars to give a rating</string>
   <string name="resource_comment_name_default">User %1$s</string>
   <string name="resource_comment_no_average_score">0.0</string>
