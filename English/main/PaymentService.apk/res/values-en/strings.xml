@@ -98,7 +98,7 @@ Wait five minutes and try again."</string>
   <string name="giftcard_denom_available">MiCredit available</string>
   <string name="giftcard_denom_frozen">MiCredit frozen</string>
   <string name="giftcard_empty">No gift cards.</string>
-  <string name="giftcard_expire">%1$s-%2$s-%3$s expired</string>
+  <string name="giftcard_expire">%1$s expired</string>
   <string name="giftcard_hint">MiCredits added via gift card will be spent first automatically.</string>
   <string name="giftcard_push_notification_prime_title">"You've received a gift certificate"</string>
   <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit giveaway.</string>
@@ -320,7 +320,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">Carriers charge a 0.1 yuan service fee per top-up</string>
   <string name="msg_picker_hint_3_1">3.</string>
-  <string name="msg_picker_hint_3_2">Maximum monthly top-up: 300 yuan</string>
+  <string name="msg_picker_hint_3_2">Maximum monthly top-up: %1$s yuan</string>
   <string name="msg_send_no_net_error">"Failed to send message: couldn't connect to network provider."</string>
   <string name="msg_send_no_sim_error">Failed to send message: try reinserting your SIM card.</string>
   <string name="msg_send_send_fail_error">Failed to send message</string>
@@ -380,7 +380,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="progress_submit_pay_summary">Paying for %1$s MiCredits.</string>
   <string name="progress_submit_recharge_summary">Adding Top-up for %1$s MiCredits.</string>
   <string name="progress_submit_title">Request submitted</string>
-  <string name="progress_success_pay_summary">Payment complete! :)</string>
+  <string name="progress_success_pay_summary">%1$s MiCredits recharged，%2$s MiCredits paied</string>
   <string name="progress_success_pay_title">%1$s MiCredit payment complete</string>
   <string name="progress_success_recharge_summary">Account balance: %1$s MiCredits.</string>
   <string name="progress_success_recharge_title">%1$s MiCredit top-up complete</string>
