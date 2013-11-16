@@ -1,3 +1,4 @@
+
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_detail">"Xiaomi account:
@@ -380,7 +381,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="progress_submit_pay_summary">Paying for %1$s MiCredits.</string>
   <string name="progress_submit_recharge_summary">Adding Top-up for %1$s MiCredits.</string>
   <string name="progress_submit_title">Request submitted</string>
-  <string name="progress_success_pay_summary">%1$s MiCredits recharged，%2$s MiCredits paied</string>
+  <string name="progress_success_pay_summary">%1$s MiCredits added, %2$s MiCredits paid</string>
   <string name="progress_success_pay_title">%1$s MiCredit payment complete</string>
   <string name="progress_success_recharge_summary">Account balance: %1$s MiCredits.</string>
   <string name="progress_success_recharge_title">%1$s MiCredit top-up complete</string>
