@@ -428,7 +428,7 @@
   <string name="timed_message_to">to</string>
   <string name="title_collapse_sp_messages">Combine service provider messages</string>
   <string name="title_date_type">Message timestamp</string>
-  <string name="title_timed_message_dialog">Please configure the time of this message</string>
+  <string name="title_timed_message_dialog">Configure timed message</string>
   <string name="to_address_label">"To: "</string>
   <string name="to_count">%d in all</string>
   <string name="to_label">"To "</string>
