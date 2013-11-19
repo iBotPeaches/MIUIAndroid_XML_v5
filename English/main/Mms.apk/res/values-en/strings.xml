@@ -215,12 +215,14 @@
   <string name="mx_activate_int_hint_malformed_info">Error processing request. An international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string>
   <string name="mx_activate_int_hint_server">Activation with server failed for Cloud Messaging, an international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string>
   <string name="mx_activate_int_hint_sim_change">SIM card state changed. An international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string>
+  <string name="mx_activate_int_popup_msg">MiMessaging allows MIUI users to send messages with each other without using mobile data.</string>
   <string name="mx_activation_done">Cloud messaging is now enabled</string>
   <string name="mx_auto_resend_mms">Auto re-send MMS</string>
   <string name="mx_auto_resend_mms_summary">Send as MMS when Cloud Messaging is unavailable. Carrier messaging rates may apply</string>
   <string name="mx_auto_resend_sms">Send as SMS</string>
   <string name="mx_auto_resend_sms_summary">Send as SMS when Cloud message is unavailable. Carrier messaging rates may apply</string>
   <string name="mx_btn_enable">Enable</string>
+  <string name="mx_btn_enable_now">Enable MiMessaging</string>
   <string name="mx_count_dspt">Since activation, MIUI has sent %1$d cloud message(s) for you (%2$s)</string>
   <string name="mx_current_status">Current status: Online</string>
   <string name="mx_dspt">Send messages via Internet between MIUI, turn on to send via Operator once failed</string>

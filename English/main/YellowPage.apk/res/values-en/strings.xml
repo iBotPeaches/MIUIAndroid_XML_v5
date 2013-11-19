@@ -31,6 +31,8 @@
   <string name="express_inquiry">Tracking</string>
   <string name="express_inquiry_button_text">Track</string>
   <string name="express_inquiry_data_owner">Tracking info provided by %s</string>
+  <string name="express_inquiry_delete_warning_multiple">Delete %d selected history entries?</string>
+  <string name="express_inquiry_delete_warning_single">Delete selected entry?</string>
   <string name="express_inquiry_delivered">Delivered</string>
   <string name="express_inquiry_history">History</string>
   <string name="express_inquiry_indication">Tracking number</string>

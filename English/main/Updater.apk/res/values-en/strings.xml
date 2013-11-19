@@ -158,6 +158,7 @@
   <string name="update_success">Congratulations, update successfully applied!</string>
   <string name="update_success_body">System has been successfully updated to %s</string>
   <string name="update_success_title">Congratulations. Update Complete</string>
+  <string name="updater_finish_download">ROM download completed</string>
   <string name="upgrade_close">Close</string>
   <string name="upgrade_kernel">Current kernel requires upgrade</string>
   <string name="upgrade_kernel_msg">"Current kernel version doesn't match the MIUI ROM. You need upgrade the kernel manually. Please refer to upgrade tutorial:"</string>

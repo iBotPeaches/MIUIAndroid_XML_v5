@@ -1,5 +1,53 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="account_info">My account</string>
+  <string name="account_unactivated">Account not activated.</string>
+  <string name="apply_theme_with_ringtones">Apply theme with ringtones</string>
+  <string name="basic_info">Basic info</string>
+  <string name="payment_info">MiCredits</string>
+  <string name="resource_account_abnormal_state">Account error, please try again later.</string>
+  <string name="resource_account_current">Account: %1$s</string>
+  <string name="resource_account_fail_to_add">Failed to add account!</string>
+  <string name="resource_account_login">Login</string>
+  <string name="resource_account_login_before_action”>Please login to your Xiaomi account.</string>
+  <string name="resource_account_login_title">Login</string>
+  <string name="resource_account_switch">Switch account</string>
+  <string name="resource_comment_loading_list">Loading comments…</string>
+  <string name="resource_comment_score_count">%1$s users</string>
+  <string name="resource_exchange">Redeem</string>
+  <string name="resource_exchange_confirm">Confirm</string>
+  <string name="resource_exchange_empty_format">Please enter a code!</string>
+  <string name="resource_exchange_has_bought">"You've already purchased this theme."</string>
+  <string name="resource_exchange_has_expired">This code has expired.</string>
+  <string name="resource_exchange_has_used">This code has already been used.</string>
+  <string name="resource_exchange_hint">Enter your code</string>
+  <string name="resource_exchange_purchase_unkown_error">An unknown error occurred. Please login at http://market.xiaomi.com to view your payment status.</string>
+  <string name="resource_exchange_share_code_content">You have received a code for %1$s on the MIUI theme store. Your MiCredit code is: %2$s. Touch %3$s to use it now.</string>
+  <string name="resource_exchange_share_code_dlg_content">Code successfully purchased for %1$s is: %2$s. You can now share this with friends.</string>
+  <string name="resource_exchange_share_code_dlg_title">Send code</string>
+  <string name="resource_exchange_success">Transaction successful</string>
+  <string name="resource_exchange_unavailable">The code entered is not valid for this theme</string>
+  <string name="resource_exchange_universal_finish">Use this code to download a theme from the MIUI theme store.</string>
+  <string name="resource_exchange_universal_goon">This code can be used to download any theme in the MIUI theme store.</string>
+  <string name="resource_exchange_window_title">Redeem code</string>
+
+  <string name="resource_exchange_wrong_format_by_local">Invalid code entered</string>
+  <string name="resource_exchange_wrong_format_by_server”>Code could not be validated. Please check your code and try again.</string>
+  <string name="resource_hint">Alert</string>
+  <string name="resource_menu_refresh">Refresh</string>
+  <string name="resource_present">Gift</string>
+  <string name="resource_purchase_getting_order">Retrieving order info…</string>
+  <string name="resource_purchase_verifying_payment">Verifying payment info…</string>
+  <string name="resource_purchase_waiting_payment">Waiting for payment info…</string>
+  <string name="resource_ringtone_volume_mute">Ringtone volume muted</string>
+  <string name="resource_save_to_note">Save to notes</string>
+  <string name="resource_send">Send</string>
+  <string name="resource_unable_to_access">"We're sorry
+the content you're looking for is not currently available in your region/country.”</string>
+  <string name="resource_unknow_error">Unknown error occurred.</string>
+  <string name="resource_user_know">OK</string>
+  <string name="settings">Settings</string>
+  <string name="to_activate_the_account">Please activate your Xiaomi account</string>
   <string name="account_abnormal_state">Error in account information, please try logging in again.</string>
   <string name="all_resources">All</string>
   <string name="all_ringtone_resource">All</string>
