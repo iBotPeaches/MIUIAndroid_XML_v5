@@ -767,6 +767,7 @@ To add a contact to your list of favorites:
   <string name="resource_account_abnormal_state">Account error, please try again later.</string>
   <string name="resource_account_current">Account: %1$s</string>
   <string name="resource_account_fail_to_add">Failed to add account!</string>
+  <string name="resource_account_login">Log in</string>
   <string name="resource_account_login_before_action">Please login to your Xiaomi account.</string>
   <string name="resource_account_login_title">Login</string>
   <string name="resource_account_switch">Switch account</string>

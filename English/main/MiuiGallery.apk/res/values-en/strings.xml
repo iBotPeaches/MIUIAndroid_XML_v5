@@ -64,6 +64,7 @@
   <string name="bigscrren_slide_exit">Exit slide show via TV</string>
   <string name="browse_category">Browse photos</string>
   <string name="by_email">E-mail</string>
+  <string name="by_others">By others</string>
   <string name="by_sms">SMS</string>
   <string name="camera_connected">Camera connected.</string>
   <string name="camera_disconnected">Camera disconnected.</string>
