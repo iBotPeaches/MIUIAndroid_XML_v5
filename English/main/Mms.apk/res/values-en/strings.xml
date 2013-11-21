@@ -331,6 +331,7 @@
   <string name="received_label">"Received: "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">"Recipient: "</string>
+  <string name="refill_now">Refill</string>
   <string name="refresh">Refresh</string>
   <string name="refresh_failed">Update failed</string>
   <string name="refreshing">Refreshing…</string>
