@@ -57,7 +57,7 @@
   <string name="cloud_app_backup_summary">Automatically back up apps and user data when phone is charging and connected to Wi-Fi</string>
   <string name="cloud_app_backup_title">Backup in MiCloud</string>
   <string name="cloud_app_current_device">Current device</string>
-  <string name="cloud_app_data_in_other_devices">Not MiCloud backup up on this device.</string>
+  <string name="cloud_app_data_in_other_devices">No MiCloud backups on this device.</string>
   <string name="cloud_app_delete_data">Delete backup</string>
   <string name="cloud_app_device">Device</string>
   <string name="cloud_app_dont_restore">"Don't restore"</string>
