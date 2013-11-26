@@ -24,7 +24,7 @@
   <string name="act_weather_main_aqi_index">Air quality: %s</string>
   <string name="act_weather_main_data_null">No weather data, touch to refresh</string>
   <string name="act_weather_range_select">Select a city</string>
-  <string name="act_weather_range_title">Surrounding weather forecast</string>
+  <string name="act_weather_range_title">Nearby weather forecast</string>
   <string name="act_weather_update_time">%s Updated</string>
   <string name="add_city">Add location</string>
   <string name="alert_message_delete">Delete selected %d item(s)?</string>
