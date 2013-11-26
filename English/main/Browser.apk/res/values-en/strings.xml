@@ -32,6 +32,7 @@
   <string name="add_bookmark_short">Add</string>
   <string name="add_folder">Add folder</string>
   <string name="add_new_bookmark">Add bookmark</string>
+  <string name="add_quicklink_to_popular">Add to start page</string>
   <string name="add_to_bookmarks_menu_option">Bookmarks</string>
   <string name="add_to_homescreen_menu_option">Home screen</string>
   <string name="add_to_other_folder_menu_option">Other folder</string>
@@ -494,6 +495,7 @@
   <string name="pref_zoom_on_double_tap">Zoom on double-tap</string>
   <string name="preview">Preview</string>
   <string name="progress_dialog_setting_wallpaper">Setting wallpaper…</string>
+  <string name="quicklink_saved_before">Site added to start page</string>
   <string name="quicklink_user_define_webpage_title">Name</string>
   <string name="quicklink_user_define_webpage_url">URL</string>
   <string name="quicklinks_group_default_subtitle">Empty</string>
@@ -560,6 +562,7 @@
   <string name="selection_all">Select all</string>
   <string name="send_bookmark_to_home_screen">Send to home screen</string>
   <string name="send_to_desktop">Send to desktop</string>
+  <string name="send_to_popular">popular</string>
   <string name="set_as_homepage">Set as homepage</string>
   <string name="share_link">Share link</string>
   <string name="share_page">Share page</string>

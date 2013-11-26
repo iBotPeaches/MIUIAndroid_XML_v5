@@ -24,6 +24,7 @@
   <string name="duration_format_second">%ss</string>
   <string name="error_app_internal">Internal application error</string>
   <string name="error_app_internal_title">Sound recorder error</string>
+  <string name="error_filename_illegal_char">Filename contains illegal characters.</string>
   <string name="error_filename_too_long">Filename too long</string>
   <string name="error_mediadb_new_record">Unable to save recorded audio</string>
   <string name="error_sdcard_access">Unable to access external or internal storage</string>
