@@ -45,6 +45,7 @@
   <string name="expresss_inquiry_all_logistics">All</string>
   <string name="expresss_inquiry_frequently_used_logistics">Frequently used</string>
   <string name="login_before_recharging">You need to login before you can topup.</string>
+  <string name="login_before_use">Please login before use.</string>
   <string name="login_ok">Login</string>
   <string name="mark_number_custom_dialog_maintitle">Agree or correct the mark</string>
   <string name="mark_number_dialog_maintitle">Mark as spam number and upload</string>

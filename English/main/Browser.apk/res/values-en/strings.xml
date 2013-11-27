@@ -502,6 +502,7 @@
   <string name="quicklinks_management">Quick links</string>
   <string name="quicklinks_most_visited">Add most visited websites to start page</string>
   <string name="quicklinks_most_visited_subtitle">Show recently visited sites in New Tab</string>
+  <string name="quicklinks_most_visited_title">Add to start page</string>
   <string name="readmode_already_add_to_bookshelf">Added to bookshelf</string>
   <string name="readmode_battery">Battery </string>
   <string name="readmode_login">Account login</string>
