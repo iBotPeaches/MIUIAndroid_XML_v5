@@ -539,6 +539,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="choose_timezone">Choose time zone</string>
   <string name="clean_confirm_title">Delete selected files?</string>
   <string name="cleaner">Cleaner</string>
+  <string name="cleaner_support_hints">Powered by Clean Master</string>
   <string name="clear_activities">Clear defaults</string>
   <string name="clear_activities_summary">Use this app for some operations by default</string>
   <string name="clear_all_calllog">Clear call log</string>
