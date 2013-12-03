@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about">About</string>
+  <string name="adjust_module_miss">Data usage module is missing</string>
   <string name="adjust_no_network_update_data_fail">Failed to update data, please try again after checking your network settings.</string>
   <string name="adjust_traffic_auto_adjust_hint">System inquires and adjusts data regularly from operators. Need to set up operator information</string>
   <string name="adjust_traffic_auto_adjust_open_hint">Auto adjustment is enabled and will auto adjust traffic data regularly</string>

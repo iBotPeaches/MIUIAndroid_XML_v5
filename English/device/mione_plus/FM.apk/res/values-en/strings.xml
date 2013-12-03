@@ -100,7 +100,7 @@
   <string name="min_time">1</string>
   <string name="msg_callactive">FM Tx is not supported when there is an active voice call</string>
   <string name="msg_headsetpluggedin">Disconnect all Headsets before using FM Tx</string>
-  <string name="msg_noantenna_message">Plug in headphones before use.</string>
+  <string name="msg_noantenna_message">To improve sound quality, connect your headphones</string>
   <string name="msg_scanning">Scanning for all FM Stations</string>
   <string name="msg_scanning_pty">Scanning for %s</string>
   <string name="msg_search_title">FM - %1$s</string>
