@@ -1857,6 +1857,15 @@ please follow the steps to complete installation"</string>
   <string name="pref_volume_wake_summary">Pressing the volume up/down wakes the device. Intended for devices with a hard to press power key.</string>
   <string name="pref_volume_wake_title">Volume rocker wake</string>
   <string name="preference_change_password_title">Change password</string>
+  <string name="preferred_app_settings">Default app Settings</string>
+  <string name="preferred_app_settings_default">Default</string>
+  <string name="preferred_app_settings_reset">Restore defaults</string>
+  <string name="preferred_app_settings_reset_message">Are you sure want to restore default application Settings?</string>
+  <string name="preferred_application_title">Preferred %s</string>
+  <string name="preferred_application_warning_message">Replacing your default %1$s may increase power consumption, reduce speed, and can put phone contents at risk. Suggest using default %2$s.</string>
+  <string name="preferred_application_warning_replace">Replace</string>
+  <string name="preferred_application_warning_title">Replace default %s</string>
+  <string name="preferred_application_warning_use_system">Use default %s</string>
   <string name="preferred_launcher_title">Preferred Launcher</string>
   <string name="preferred_launcher_warning_message">Replacing the default launcher may consume more resources than the default launcher. Are you sure you wish to continue?</string>
   <string name="preferred_launcher_warning_replace">Replace Launcher</string>

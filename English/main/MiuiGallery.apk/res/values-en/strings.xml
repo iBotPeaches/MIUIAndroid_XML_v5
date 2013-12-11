@@ -124,6 +124,7 @@ friends."</string>
   <string name="confirm_delete_pictures">%s pictures</string>
   <string name="confirm_delete_system_album">%s is system album, are you sure you want to delete?</string>
   <string name="confirm_delete_videos">%s videos</string>
+  <string name="confirm_download">"You need to download %s. This tip won't be displayed again."</string>
   <string name="contact_photo">Contact photo</string>
   <string name="context_menu_add_contact">Add to contacts</string>
   <string name="context_menu_copy">Copy</string>
@@ -149,6 +150,7 @@ friends."</string>
   <string name="delete_file">Are you sure to delete %1$d selected file(s)?</string>
   <string name="delete_files_and_folders">Are you sure to delete %1$d selected file(s) and %2$d selected folder(s)?</string>
   <string name="delete_folder">Are you sure to delete %1$d selected folder(s)?</string>
+  <string name="delete_smb_file_fail">Failed to delete smb file</string>
   <string name="deleting_files">Deleting files...</string>
   <string name="demo_video_folder_display_name">Demo Video</string>
   <string name="deny">Reject</string>
@@ -163,6 +165,9 @@ friends."</string>
   <string name="done">Done</string>
   <string name="doodle">Doodle</string>
   <string name="doodle_tooltip">Draw on photo to doodle</string>
+  <string name="download">Download</string>
+  <string name="download_fail">Download failed!</string>
+  <string name="download_fail_confirm_continue">Downloading %s failed. Continue?</string>
   <string name="duotone">Duo-tone</string>
   <string name="duration">Duration</string>
   <string name="edit">Edit</string>
@@ -194,6 +199,7 @@ friends."</string>
   <string name="fail_to_apply">Failed to join album.</string>
   <string name="fail_to_pick_email">No valid E-mail selected</string>
   <string name="fail_to_sync_album">Failed to synchronize album to server. Please check your network connection!</string>
+  <string name="file_not_exist_message">File does not exist.</string>
   <string name="file_size">File size</string>
   <string name="filllight">Fill Light</string>
   <string name="fisheye">Fisheye</string>
@@ -256,6 +262,7 @@ friends."</string>
   <string name="location">Location</string>
   <string name="locations">Locations</string>
   <string name="lomoish">Lomo</string>
+  <string name="make_download_dir_fail">Failed to create a directory!</string>
   <string name="maker">Maker</string>
   <string name="manual">Manual</string>
   <string name="marked_by_others">%d people marked this</string>
@@ -291,6 +298,7 @@ friends."</string>
   <string name="must_pick_file">Select an image</string>
   <string name="negative">Negative</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
+  <string name="new_device_tips">New device found. Click to view</string>
   <string name="no">No</string>
   <string name="no_albums_alert">No albums available.</string>
   <string name="no_connectivity">"Some locations couldn't be identified due to network problems."</string>
