@@ -17,4 +17,15 @@
         <item>Numerical password</item>
         <item>Mixed password</item>
     </string-array>
+    <string-array name="preferred_app_entries">
+       <item>Desktop</item>
+       <item>Phone</item>
+       <item>SMS</item>
+       <item>Browser</item>
+       <item>Camera</item>
+       <item>Albums</item>
+       <item>Music</item>
+       <item>Video</item>
+       <item>E-mail</item>
+   </string-array>
 </resources>
