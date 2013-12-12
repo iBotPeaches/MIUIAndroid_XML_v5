@@ -10,7 +10,7 @@
   <string name="add_to_cloud_album">Add to Cloud</string>
   <string name="add_to_cloud_exceeded_the_size_message">File size is too large for MiCloud.</string>
   <string name="add_to_cloud_fail_too_many_items">Failed to complete operation, too many items selected</string>
-  <string name="add_to_cloud_failed_message_with_count">%s item(s) can not be added to cloud albums</string>
+  <string name="add_to_cloud_failed_message_with_count">%2$s item(s) can not be added to cloud albums</string>
   <string name="add_to_cloud_file_exist_message">Photo already exists in selected album.</string>
   <string name="add_to_cloud_file_not_exist_message">File does not exist.</string>
   <string name="add_to_cloud_folder">Add to Cloud folder</string>
