@@ -1,0 +1,5150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="mobile_operator_display_names">
+    <item>"EE"</item> 
+    <item>"AT&amp;T"</item> 
+    <item>"IDEA"</item> 
+    <item>"TIM BRASIL"</item> 
+    <item>"TURKCELL"</item> 
+    <item>"Play"</item> 
+    <item>"vodafone UK"</item> 
+    <item>"VENTELO "</item> 
+    <item>"O2-UK"</item> 
+    <item>"T-Mobile H"</item> 
+    <item>"O2-DE"</item> 
+    <item>"Telenor"</item> 
+    <item>"I WIND"</item> 
+    <item>"I TIM"</item> 
+    <item>"NL KPN"</item> 
+    <item>"O2-IRL"</item> 
+    <item>"vodafone IT"</item> 
+    <item>"Cellcom"</item> 
+    <item>"vodafone AU"</item> 
+    <item>"ALJAWAL"</item> 
+    <item>"Orange"</item> 
+    <item>"T-Mobile"</item> 
+    <item>"Vodafone RO"</item> 
+    <item>"3 ITA"</item> 
+    <item>"IL Cellcom"</item> 
+    <item>"TR TURKCELL"</item> 
+    <item>"SA Al Jawal"</item> 
+    <item>"MegaFon RUS"</item> 
+    <item>"Orange PL"</item> 
+    <item>"A1"</item> 
+    <item>"vodafone P"</item> 
+    <item>"TELIA DK"</item> 
+    <item>"T-Mobile NL"</item> 
+    <item>"UA UMC"</item> 
+    <item>"TH GSM"</item> 
+    <item>"Saunalahti"</item> 
+    <item>"T-Mobile HR"</item> 
+    <item>"3 DK"</item> 
+    <item>"Videotron"</item> 
+    <item>"mobily"</item> 
+    <item>"Era"</item> 
+    <item>"P TMN"</item> 
+    <item>"T - Mobile"</item> 
+    <item>"RO COSMOTE"</item> 
+    <item>"vodafone ES"</item> 
+    <item>"O2 - SK "</item> 
+    <item>"orange"</item> 
+    <item>"Claro"</item> 
+    <item>"SYRIATEL"</item> 
+    <item>"CLARO BR"</item> 
+    <item>"VODAFONE TR"</item> 
+    <item>"Orange F "</item> 
+    <item>" Mobile Vikings"</item> 
+    <item>"BH GSMBIH"</item> 
+    <item>"O2 - CZ "</item> 
+    <item>"Telenor HU"</item> 
+    <item>"Digi.Mobil"</item> 
+    <item>"T-Mobile CZ"</item> 
+    <item>"T-Mobile.pl"</item> 
+    <item>"mobily-KSA"</item> 
+    <item>"N NetCom"</item> 
+    <item>"vodafone NL"</item> 
+    <item>"Bouygues Telecom"</item> 
+    <item>"Telekom SK"</item> 
+    <item>"Personal"</item> 
+    <item>"LT OMNITEL"</item> 
+    <item>"Telekom.de"</item> 
+    <item>"T-Mobile SK"</item> 
+    <item>"Orange MD"</item> 
+    <item>"go mobile"</item> 
+    <item>"MOVILNET"</item> 
+    <item>"MTN-SA"</item> 
+    <item>"EE"</item> 
+    <item>"EE"</item> 
+    <item>"Telenor SE"</item> 
+    <item>"MTN Irancell"</item> 
+    <item>"Vodafone"</item> 
+    <item>"Plus"</item> 
+    <item>"movistar"</item> 
+    <item>"MOBITEL"</item> 
+    <item>"Meditel"</item> 
+    <item>"o2 - de"</item> 
+    <item>"LIME"</item> 
+    <item>"Telenor"</item> 
+    <item>"MY MAXIS"</item> 
+    <item>"Telecel GSM"</item> 
+    <item>"HOME"</item> 
+    <item>"vodafone NZ"</item> 
+    <item>"Orange F"</item> 
+    <item>"TIM"</item> 
+    <item>"Irancell"</item> 
+    <item>"VIVO"</item> 
+    <item>"Sweden3G"</item> 
+    <item>"Beeline"</item> 
+    <item>"Tele2 HR"</item> 
+    <item>"Sweden 3G"</item> 
+    <item>"Swisscom"</item> 
+    <item>"TIM GR  GooN"</item> 
+    <item>"CLARO P.R."</item> 
+    <item>"Amaysim"</item> 
+    <item>"Vodafone IE"</item> 
+    <item>"entel"</item> 
+    <item>"Globe Telecom-P"</item> 
+    <item>"AVEA"</item> 
+    <item>"sunrise"</item> 
+    <item>"mt:s"</item> 
+    <item>"StarHub"</item> 
+    <item>"ETISALAT"</item> 
+    <item>"I.C.E. "</item> 
+    <item>"VINAPHONE"</item> 
+    <item>"Oi"</item> 
+    <item>"MobiNiL"</item> 
+    <item>"S COMVIQ"</item> 
+    <item>"dtac"</item> 
+    <item>"XL"</item> 
+    <item>"SGP-M1-3GSM"</item> 
+    <item>"SKTelecom"</item> 
+    <item>"AMIGO"</item> 
+    <item>"VN MOBIFONE"</item> 
+    <item>"Aircel"</item> 
+    <item>"CMCC"</item> 
+    <item>"Vodafone"</item> 
+    <item>"Smart"</item> 
+    <item>"VIVO"</item> 
+    <item>"MY CELCOM"</item> 
+    <item>"VIETTEL"</item> 
+    <item>"WIND GR "</item> 
+    <item>"AirTel"</item> 
+    <item>"Alfa"</item> 
+    <item>"T - Mobile"</item> 
+    <item>"olleh"</item> 
+    <item>"Rogers Wireless"</item> 
+    <item>"EMTEL-MRU"</item> 
+    <item>"TIM"</item> 
+    <item>"CYTAMOBILE-VODA"</item> 
+    <item>"BEL PROXIMUS"</item> 
+    <item>"Orange"</item> 
+    <item>"JP DOCOMO"</item> 
+    <item>"IR MCI"</item> 
+    <item>"  DiGi  "</item> 
+    <item>"IDEA"</item> 
+    <item>"Umniah"</item> 
+    <item>"INDOSAT"</item> 
+    <item>"M1-3GSM"</item> 
+    <item>"zain KW"</item> 
+    <item>"Mobilink"</item> 
+    <item>"Bell"</item> 
+    <item>"AirTel"</item> 
+    <item>"Bite"</item> 
+    <item>"Si.mobil"</item> 
+    <item>"CAN Rogers Wire"</item> 
+    <item>"Vodafone CZ"</item> 
+    <item>"Vodafone.de"</item> 
+    <item>"CellOne"</item> 
+    <item>"AirTel"</item> 
+    <item>"IDEA"</item> 
+    <item>"COSMOTE"</item> 
+    <item>"MTS RUS "</item> 
+    <item>"RO ORANGE"</item> 
+    <item>"OMAN MOBILE"</item> 
+    <item>"EE EMT"</item> 
+    <item>"Airtel"</item> 
+    <item>"COSMOTE"</item> 
+    <item>"vodafone EG"</item> 
+    <item>"E-Plus"</item> 
+    <item>"BASE"</item> 
+    <item>"Ufone"</item> 
+    <item>"RO Digi.Mobil"</item> 
+    <item>"TELKOMSEL"</item> 
+    <item>"RO Vodafone RO"</item> 
+    <item>"BG GLOBUL"</item> 
+    <item>"Orange"</item> 
+    <item>"ASIACELL"</item> 
+    <item>"IRL - METEOR"</item> 
+    <item>"GR COSMOTE"</item> 
+    <item>"STC"</item> 
+    <item>"TIM GR"</item> 
+    <item>"T-Mobile"</item> 
+    <item>"3 UK"</item> 
+    <item>"vivatel"</item> 
+    <item>"VodaCom-SA"</item> 
+    <item>"CHINA  MOBILE"</item> 
+    <item>"Meteor"</item> 
+    <item>"AF AWCC"</item> 
+    <item>"CellOne"</item> 
+    <item>"AIRCEL"</item> 
+    <item>"T-Mobile Austri"</item> 
+    <item>"COSMOTE"</item> 
+    <item>"MTS"</item> 
+    <item>"Vodafone IN"</item> 
+    <item>"Telia"</item> 
+    <item>"F SFR"</item> 
+    <item>"IL ORANGE"</item> 
+    <item>"02 - IRL"</item> 
+    <item>"Airtel"</item> 
+    <item>"T-Mobile"</item> 
+    <item>"TDC MOBIL"</item> 
+    <item>"du"</item> 
+    <item>"movistar"</item> 
+    <item>"Telenor"</item> 
+    <item>"ACT-1900"</item> 
+    <item>"Orange SK"</item> 
+    <item>"BSNL MOBILE"</item> 
+    <item>"Cell C"</item> 
+    <item>"Glo Mobile"</item> 
+    <item>"KZ KCELL"</item> 
+    <item>"FI elisa"</item> 
+    <item>"Vodafone IN"</item> 
+    <item>"N Telenor"</item> 
+    <item>"IND airtel"</item> 
+    <item>"VIVO"</item> 
+    <item>"TELE2"</item> 
+    <item>"Globe"</item> 
+    <item>"Airtel"</item> 
+    <item>"zain SA"</item> 
+    <item>"CHINA MOBILE"</item> 
+    <item>"IND AIRTEL"</item> 
+    <item>"vodafone HU"</item> 
+    <item>"CellOne"</item> 
+    <item>"TH-DTAC"</item> 
+    <item>"ORANGE"</item> 
+    <item>"VNM and VIETTEL"</item> 
+    <item>"NetCom"</item> 
+    <item>"IDEA"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"MV DHIMOBILE"</item> 
+    <item>"Chunghwa"</item> 
+    <item>"BOUYGTEL"</item> 
+    <item>"OMNITEL LT"</item> 
+    <item>"M-Tel BG"</item> 
+    <item>"Nepal Telecom"</item> 
+    <item>"life:)"</item> 
+    <item>"TIM"</item> 
+    <item>"VIVA"</item> 
+    <item>"Comviq"</item> 
+    <item>"Aircel"</item> 
+    <item>"M:TEL"</item> 
+    <item>"CMHK"</item> 
+    <item>"DIGICEL"</item> 
+    <item>"CLARO CODETEL"</item> 
+    <item>"3TELSTRA"</item> 
+    <item>"movistar"</item> 
+    <item>"Vodafone GR"</item> 
+    <item>"Vodafone IN"</item> 
+    <item>"TR AVEA"</item> 
+    <item>"SI TUSMOBIL"</item> 
+    <item>"+Movil"</item> 
+    <item>"etisalat"</item> 
+    <item>"SingTel"</item> 
+    <item>"PCCW"</item> 
+    <item>"blau.de"</item> 
+    <item>"orange CH"</item> 
+    <item>"MTS"</item> 
+    <item>"CLARO"</item> 
+    <item>"simyo"</item> 
+    <item>"MTN"</item> 
+    <item>"Virgin"</item> 
+    <item>"SWEDEN"</item> 
+    <item>"TIM"</item> 
+    <item>"Hutch"</item> 
+    <item>"MOBI'S"</item> 
+    <item>"TIGO"</item> 
+    <item>"Vodafone"</item> 
+    <item>"TELMORE"</item> 
+    <item>"Claro"</item> 
+    <item>"Claro"</item> 
+    <item>"WaridTel"</item> 
+    <item>"TELUS"</item> 
+    <item>"RL MTC Lebanon"</item> 
+    <item>"IQ"</item> 
+    <item>"BYTEL"</item> 
+    <item>"MTS BY"</item> 
+    <item>"AIRCEL"</item> 
+    <item>"Telenor SE"</item> 
+    <item>"movistar"</item> 
+    <item>"ROGERS"</item> 
+    <item>"Simple Mobile"</item> 
+    <item>"Android"</item> 
+    <item>"VODAFONE AL"</item> 
+    <item>"GrameenPhone"</item> 
+    <item>"China Unicom"</item> 
+    <item>"Telstra Mobile"</item> 
+    <item>"CPV MOVEL"</item> 
+    <item>"TELE2"</item> 
+    <item>"DiGi"</item> 
+    <item>"L TANGO"</item> 
+    <item>"hello"</item> 
+    <item>"Telenor "</item> 
+    <item>"MOVILNET"</item> 
+    <item>" Orange"</item> 
+    <item>"2degrees"</item> 
+    <item>"Tele2"</item> 
+    <item>"Mx Telcel GSM"</item> 
+    <item>"Airtel"</item> 
+    <item>"TRUE"</item> 
+    <item>"VN VINAPHONE"</item> 
+    <item>"Vodafone IN"</item> 
+    <item>"DSTCom"</item> 
+    <item>"Hutch"</item> 
+    <item>"Vodafone IN"</item> 
+    <item>"dna"</item> 
+    <item>"IR-TCI"</item> 
+    <item>"Vodafone IN"</item> 
+    <item>"KorekTelecom"</item> 
+    <item>"EUROCOM"</item> 
+    <item>"Telenor DK"</item> 
+    <item>"IDEA"</item> 
+    <item>"Aircel"</item> 
+    <item>"MOTIV"</item> 
+    <item>" BASE"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"IAM"</item> 
+    <item>"HR TELE2, HR 21"</item> 
+    <item>"!dea"</item> 
+    <item>"Vip SRB "</item> 
+    <item>"TUNISIANA"</item> 
+    <item>"Qtel"</item> 
+    <item>"MAGTI"</item> 
+    <item>"TeleFinland"</item> 
+    <item>"TELE2"</item> 
+    <item>"SUN"</item> 
+    <item>"LMT"</item> 
+    <item>"U MOBILE"</item> 
+    <item>"Warid"</item> 
+    <item>"IND TELKOMSEL"</item> 
+    <item>"VIVO"</item> 
+    <item>"YOIGO"</item> 
+    <item>"Korek Telecom"</item> 
+    <item>"zain BH"</item> 
+    <item>"Vodafone Mumbai"</item> 
+    <item>"HR VIP"</item> 
+    <item>"Azerfon"</item> 
+    <item>"AirTel"</item> 
+    <item>"MOBILIS"</item> 
+    <item>"Vodafone IS"</item> 
+    <item>"3(2G)"</item> 
+    <item>"Tele2"</item> 
+    <item>"CellOne"</item> 
+    <item>"TW Mobile"</item> 
+    <item>"MegaFon"</item> 
+    <item>"SmarToneVodafon"</item> 
+    <item>"L LUXGSM"</item> 
+    <item>"DIGICEL"</item> 
+    <item>"CELCOM"</item> 
+    <item>"MEDION Mobile"</item> 
+    <item>"SoftBank"</item> 
+    <item>"IND XL"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"AirTel"</item> 
+    <item>"Claro AR"</item> 
+    <item>"movistar"</item> 
+    <item>"O2-SK"</item> 
+    <item>"VIVA"</item> 
+    <item>"Vodafone IN"</item> 
+    <item>"NTT DOCOMO"</item> 
+    <item>"Nedjma"</item> 
+    <item>"BH Mobile"</item> 
+    <item>"Airtel"</item> 
+    <item>"IN-DOLPHIN"</item> 
+    <item>"Pelephone"</item> 
+    <item>"T-Mobile MK"</item> 
+    <item>"Ortel D"</item> 
+    <item>"TIM BRASIL"</item> 
+    <item>"Telenor PK"</item> 
+    <item>"MTN"</item> 
+    <item>"IR-MCI"</item> 
+    <item>"PK-UFONE"</item> 
+    <item>"H pannon"</item> 
+    <item>"Simobil"</item> 
+    <item>"TELUS"</item> 
+    <item>"PROXIMUS"</item> 
+    <item>"Porta GSM"</item> 
+    <item>"T-SEL"</item> 
+    <item>"IDEA"</item> 
+    <item>"CellOne"</item> 
+    <item>"AZE - AZERCELL "</item> 
+    <item>"FI SONERA"</item> 
+    <item>"Telecom NZ"</item> 
+    <item>"TELCEL GSM"</item> 
+    <item>"Zain Iraq"</item> 
+    <item>"T-Mobile"</item> 
+    <item>"IDEA"</item> 
+    <item>"Verizon"</item> 
+    <item>"CHN-CUGSM"</item> 
+    <item>"Chunghwa"</item> 
+    <item>"3G SingTel"</item> 
+    <item>"Elisa Oyj"</item> 
+    <item>"MobiCom"</item> 
+    <item>"SMC-Voda"</item> 
+    <item>"Hutch"</item> 
+    <item>"MTN Nigeria"</item> 
+    <item>"Reliance"</item> 
+    <item>"VIBO"</item> 
+    <item>"CellOne"</item> 
+    <item>"INA SPICE"</item> 
+    <item>"Hutch"</item> 
+    <item>"SK Telecom"</item> 
+    <item>"Hutch"</item> 
+    <item>"JLLC Mobile Tel"</item> 
+    <item>"Telecomunicacoe"</item> 
+    <item>"Hutch"</item> 
+    <item>"COSMOTE - Mobil"</item> 
+    <item>"UA-KYIVSTAR"</item> 
+    <item>"PT Hutchison CP"</item> 
+    <item>"vodafone MT"</item> 
+    <item>"AXIS"</item> 
+    <item>"iViettel Corpor"</item> 
+    <item>"CUBACEL"</item> 
+    <item>"ENTEL PCS"</item> 
+    <item>"IL Pelephone"</item> 
+    <item>"DiGi"</item> 
+    <item>"HOME"</item> 
+    <item>"CellOne"</item> 
+    <item>"TIM 3G+    11"</item> 
+    <item>"Vodafone_Mumba"</item> 
+    <item>"WATANIYA"</item> 
+    <item>"o2 - de"</item> 
+    <item>"Mobile Telesyst"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"Telenor PK"</item> 
+    <item>"UTEL3G"</item> 
+    <item>"BASE DE"</item> 
+    <item>"SASKTEL"</item> 
+    <item>"TELUS"</item> 
+    <item>"VODAFONE KARNAT"</item> 
+    <item>"Turkcell lletis"</item> 
+    <item>"Sprint"</item> 
+    <item>"CLARO GSM"</item> 
+    <item>"TBAYTEL"</item> 
+    <item>"MOVILNET GSM"</item> 
+    <item>"CellOne"</item> 
+    <item>"DOLPHIN"</item> 
+    <item>"Fido"</item> 
+    <item>"GEO-GEOCELL"</item> 
+    <item>"Mobile Vikings"</item> 
+    <item>"Hutch"</item> 
+    <item>"LV TELE2"</item> 
+    <item>"VODAFONE_KARNA"</item> 
+    <item>"BY VELCOM"</item> 
+    <item>"LTT"</item> 
+    <item>"VIVO"</item> 
+    <item>"MEDIONmobile"</item> 
+    <item>"TOT 3G"</item> 
+    <item>"3 AT"</item> 
+    <item>"Loop Mobile"</item> 
+    <item>"CSL"</item> 
+    <item>"Claro"</item> 
+    <item>"Vietnamobile"</item> 
+    <item>"TeliaSonera Fin"</item> 
+    <item>"3 HK"</item> 
+    <item>"Vodafone Turkey"</item> 
+    <item>"elisa"</item> 
+    <item>"FarEasTone"</item> 
+    <item>"OJSC VimpelCom"</item> 
+    <item>"Vodafone"</item> 
+    <item>"BRU-DSTCom"</item> 
+    <item>"areeba"</item> 
+    <item>"T-Mobile Nether"</item> 
+    <item>"Vodafone IN"</item> 
+    <item>"TIM BRASIL"</item> 
+    <item>"MTN SYRIA"</item> 
+    <item>"Elisa Eesti"</item> 
+    <item>"Network Norway "</item> 
+    <item>"hollandsnieuwe"</item> 
+    <item>"SN ALIZE"</item> 
+    <item>"LV LMT"</item> 
+    <item>"IUSACELL"</item> 
+    <item>"Vodafone Portug"</item> 
+    <item>"MOBITEL -KHM"</item> 
+    <item>"BPL MOBILE"</item> 
+    <item>"chatr"</item> 
+    <item>"MTS UKR"</item> 
+    <item>"Almadar"</item> 
+    <item>"DIALOG"</item> 
+    <item>"Hutch"</item> 
+    <item>"SRI DIALOG"</item> 
+    <item>"WIND Home"</item> 
+    <item>"Onfone"</item> 
+    <item>"NZ Communicatio"</item> 
+    <item>"PT Indonesian S"</item> 
+    <item>"TELEMIG CEL"</item> 
+    <item>"TUSMOBIL"</item> 
+    <item>"Vodafone IN"</item> 
+    <item>"B Mobistar"</item> 
+    <item>"VN VINAFONE"</item> 
+    <item>"Kolbi ICE"</item> 
+    <item>"MTN-NG"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"uninor"</item> 
+    <item>"ZONG"</item> 
+    <item>"BGD AKTEL"</item> 
+    <item>"STA-MOBILAND"</item> 
+    <item>"Atheer Iraq"</item> 
+    <item>"giffgaff"</item> 
+    <item>"F-Orange"</item> 
+    <item>"O2 (Germany) Gm"</item> 
+    <item>"Hutchison 3G"</item> 
+    <item>"T-Mobile  NL"</item> 
+    <item>"Tele2 SE"</item> 
+    <item>"Reliance"</item> 
+    <item>"AIRCEL"</item> 
+    <item>"Wind Telecomuni"</item> 
+    <item>"VN MOBIFONE"</item> 
+    <item>"T-Mobile Czech "</item> 
+    <item>"TANGO"</item> 
+    <item>"MegaFon OJSC"</item> 
+    <item>"POL"</item> 
+    <item>"vodafone EG"</item> 
+    <item>"movistar"</item> 
+    <item>"TOT3G"</item> 
+    <item>"MOR MEDITEL"</item> 
+    <item>"TELIA S"</item> 
+    <item>"KPN"</item> 
+    <item>"TIM 3G+ 22"</item> 
+    <item>"Telenor"</item> 
+    <item>"SONERA"</item> 
+    <item>"Cellcom"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"3 SE"</item> 
+    <item>"vodafone Omnite"</item> 
+    <item>"CLARO CHL"</item> 
+    <item>"Vodafone IN"</item> 
+    <item>"AIRTEL"</item> 
+    <item>"ZW ECONET"</item> 
+    <item>"TELCEL"</item> 
+    <item>"Oi"</item> 
+    <item>"mobily-KSA"</item> 
+    <item>"MOBITEL-KHM"</item> 
+    <item>"MTS-RUS"</item> 
+    <item>"T-MOBILE PL"</item> 
+    <item>"AVEA"</item> 
+    <item>"simyo"</item> 
+    <item>"TMN"</item> 
+    <item>"GEOCELL"</item> 
+    <item>"3 IRL"</item> 
+    <item>"Orange Tn"</item> 
+    <item>"T-Mobile D"</item> 
+    <item>"Djezzy"</item> 
+    <item>"MTN"</item> 
+    <item>"LIME"</item> 
+    <item>"T-Mobile A"</item> 
+    <item>"CLARO PER"</item> 
+    <item>"zain IQ"</item> 
+    <item>"VodafoneAL"</item> 
+    <item>"Telecom Italia "</item> 
+    <item>"Chess"</item> 
+    <item>"DIGITEL"</item> 
+    <item>"AirTel"</item> 
+    <item>"HR-VIP"</item> 
+    <item>"VODAFONE IN"</item> 
+    <item>"T-Mobile"</item> 
+    <item>"AIRTEL"</item> 
+    <item>"ANCEL"</item> 
+    <item>"VodaCom-MZ"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"Orange JO"</item> 
+    <item>"AirTel"</item> 
+    <item>"AIRCEL"</item> 
+    <item>"EE elisa"</item> 
+    <item>"STARHUB-SGP"</item> 
+    <item>"inwi"</item> 
+    <item>"CMCC PEOPLES"</item> 
+    <item>"VODAFONEIN"</item> 
+    <item>"Vip"</item> 
+    <item>"MD MOLDCELL"</item> 
+    <item>"Verizon Wireles"</item> 
+    <item>"PAK - PL"</item> 
+    <item>"CellOne"</item> 
+    <item>"Claro UY"</item> 
+    <item>"SFR REUNION"</item> 
+    <item>"i wireless"</item> 
+    <item>"virgin"</item> 
+    <item>"movistar"</item> 
+    <item>"P OPTIMUS"</item> 
+    <item>"FONIC"</item> 
+    <item>"VIVACOM"</item> 
+    <item>"SMART Buddy"</item> 
+    <item>"TIGO"</item> 
+    <item>"MN MobiCom"</item> 
+    <item>"TIGO 3.5G"</item> 
+    <item>"PLAY"</item> 
+    <item>"LIME"</item> 
+    <item>"BHMOBILE"</item> 
+    <item>"TH GSM 1800"</item> 
+    <item>"Hutchison MAC"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"AirTel"</item> 
+    <item>"MOBISTAR"</item> 
+    <item>"MTN - NG"</item> 
+    <item>"T24"</item> 
+    <item>"BSNL MOBILE"</item> 
+    <item>"Ben NL"</item> 
+    <item>"ALJAWAL"</item> 
+    <item>"MTC VODAFONE BH"</item> 
+    <item>"Movistar"</item> 
+    <item>"blau"</item> 
+    <item>"Telia"</item> 
+    <item>"AR PERSONAL"</item> 
+    <item>"ONEtouch"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"Glo NG"</item> 
+    <item>"VINAPHONE"</item> 
+    <item>"MOR IAM"</item> 
+    <item>"SETAR"</item> 
+    <item>"AirTel"</item> 
+    <item>"elisa"</item> 
+    <item>"GrameemPhone"</item> 
+    <item>"TM"</item> 
+    <item>"IDEA"</item> 
+    <item>"Far EasTone"</item> 
+    <item>"b-mobile"</item> 
+    <item>"Willkommen"</item> 
+    <item>"T-2"</item> 
+    <item>"WARID BD"</item> 
+    <item>"IDEA"</item> 
+    <item>"IDEA"</item> 
+    <item>"Vodafone IN"</item> 
+    <item>"KSA ZAIN"</item> 
+    <item>"VODAFONE TR"</item> 
+    <item>" T-Mobile"</item> 
+    <item>"Verizon Wireles"</item> 
+    <item>"BA-ERONET"</item> 
+    <item>"TH ACT 1900"</item> 
+    <item>"IND- airtel"</item> 
+    <item>"TURKCELL"</item> 
+    <item>"MTN-UGANDA"</item> 
+    <item>"Orange"</item> 
+    <item>"CELLPLUS-MRU"</item> 
+    <item>"BAKCELL GSM 200"</item> 
+    <item>"bonbon"</item> 
+    <item>"MOBITEL - KHM"</item> 
+    <item>"VNM VIETTEL"</item> 
+    <item>"CellOne"</item> 
+    <item>"Verizon Wireles"</item> 
+    <item>"TURKCELL"</item> 
+    <item>"Mobilis"</item> 
+    <item>"Vip MK"</item> 
+    <item>"airtel"</item> 
+    <item>"Free"</item> 
+    <item>"BATELCO"</item> 
+    <item>"EMT"</item> 
+    <item>"IRAN TCI"</item> 
+    <item>"OPTIMUS"</item> 
+    <item>"movistar"</item> 
+    <item>"TIM 3G+ 71"</item> 
+    <item>"2degrees"</item> 
+    <item>"PH Sun Cellular"</item> 
+    <item>"ANT CURACAO TEL"</item> 
+    <item>"AIRTEL"</item> 
+    <item>"Aircel"</item> 
+    <item>"My Network"</item> 
+    <item>"UMOBILE3G"</item> 
+    <item>"COMCERL"</item> 
+    <item>"EE TELE2"</item> 
+    <item>"TRUE-H"</item> 
+    <item>"LT BITE GSM"</item> 
+    <item>"SMART"</item> 
+    <item>"TELE2"</item> 
+    <item>"AIRTEL"</item> 
+    <item>"Idea"</item> 
+    <item>"Idea"</item> 
+    <item>"KT WATANIYA"</item> 
+    <item>"T-Mobile CG"</item> 
+    <item>"Chunghwa Teleco"</item> 
+    <item>"EAGLE AL"</item> 
+    <item>"O2-UK"</item> 
+    <item>"Orange AT"</item> 
+    <item>"Orange"</item> 
+    <item>" T-Mobile"</item> 
+    <item>"Reliance"</item> 
+    <item>"nawras"</item> 
+    <item>"VODAFONE KOLKAT"</item> 
+    <item>"MTN Ghana"</item> 
+    <item>"PosteMobile"</item> 
+    <item>"UNINOR"</item> 
+    <item>"CellOne"</item> 
+    <item>"Bell"</item> 
+    <item>"Orange A"</item> 
+    <item>"Orange Communic"</item> 
+    <item>"AirFire Home"</item> 
+    <item>"vodafone United"</item> 
+    <item>"Tu"</item> 
+    <item>"DIGITEL GSM"</item> 
+    <item>"Claro"</item> 
+    <item>"Orange re"</item> 
+    <item>"Sprint"</item> 
+    <item>"AirTel"</item> 
+    <item>"BITE LV"</item> 
+    <item>"bmobile TSTT"</item> 
+    <item>"PANCW"</item> 
+    <item>"Meditel"</item> 
+    <item>"MAGTI-GSM-GEO"</item> 
+    <item>"COL Movistar"</item> 
+    <item>"Vodafone IN"</item> 
+    <item>"Lycamobile"</item> 
+    <item>"Vodafone"</item> 
+    <item>"VOX.LU"</item> 
+    <item>"pepephone"</item> 
+    <item>"TIM 3G+ 13"</item> 
+    <item>"Utel"</item> 
+    <item>"CHN-UNICOM"</item> 
+    <item>"CellOne"</item> 
+    <item>"Hutch"</item> 
+    <item>"Mobilicity"</item> 
+    <item>"AT&amp;T MicroCell"</item> 
+    <item>"movistar"</item> 
+    <item>"AIRCEL"</item> 
+    <item>"Reliance"</item> 
+    <item>"EGY MobiNiL"</item> 
+    <item>"Safaricom"</item> 
+    <item>"VIETTEL"</item> 
+    <item>"GSM 1800"</item> 
+    <item>"WANA GSM"</item> 
+    <item>"MM 900"</item> 
+    <item>"AlandsMobiltele"</item> 
+    <item>"AIS GSM"</item> 
+    <item>"VODAFONEKARNAT"</item> 
+    <item>"China Unicom"</item> 
+    <item>"AR TP"</item> 
+    <item>"DIGICEL"</item> 
+    <item>"Free"</item> 
+    <item>"BRA BrTCelular"</item> 
+    <item>"BSNL Mobile"</item> 
+    <item>"Uninor"</item> 
+    <item>"IND INDOSAT"</item> 
+    <item>"pannon"</item> 
+    <item>"CL ENTEL PCS"</item> 
+    <item>"ARM MTS"</item> 
+    <item>"Vidotron"</item> 
+    <item>"TIGO 4G"</item> 
+    <item>"Vodafone"</item> 
+    <item>"SETAR GSM"</item> 
+    <item>"Taliya"</item> 
+    <item>"zain JO"</item> 
+    <item>"Siminn"</item> 
+    <item>"ATT"</item> 
+    <item>"tomato"</item> 
+    <item>"Family Mobile"</item> 
+    <item>"TIGOHND"</item> 
+    <item>"PLAY"</item> 
+    <item>"CLARO"</item> 
+    <item>"DZA NEDJMA"</item> 
+    <item>"NTC"</item> 
+    <item>"Mobitel"</item> 
+    <item>"VIDEOCON"</item> 
+    <item>"VodafoneMumbai"</item> 
+    <item>"VIRGIN"</item> 
+    <item>"Sprint"</item> 
+    <item>"Reliance"</item> 
+    <item>"NICMS"</item> 
+    <item>"3G VIBO"</item> 
+    <item>"KT MTCNet"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"Reliance"</item> 
+    <item>"PEOPLES"</item> 
+    <item>"ORANGE"</item> 
+    <item>"MTN-CG"</item> 
+    <item>"one"</item> 
+    <item>"RUS 12"</item> 
+    <item>"GH SPACEFON"</item> 
+    <item>"TMIC"</item> 
+    <item>"COMCEL 3GSM"</item> 
+    <item>"MTS.BY"</item> 
+    <item>"CLARO BR 51"</item> 
+    <item>"AIRCEL"</item> 
+    <item>"BAKCELL"</item> 
+    <item>"KYIVSTAR"</item> 
+    <item>"Vodafone Qatar"</item> 
+    <item>"solomo"</item> 
+    <item>"IND AirTel"</item> 
+    <item>"H2O"</item> 
+    <item>"AT&amp;T"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"SEZ AIRTEL"</item> 
+    <item>"ORANGE"</item> 
+    <item>"RA-ARMGSM"</item> 
+    <item>"umobile2G"</item> 
+    <item>"*_*"</item> 
+    <item>"KR KTF"</item> 
+    <item>"Claro"</item> 
+    <item>"VodafoneMalta"</item> 
+    <item>"Ay Yildiz"</item> 
+    <item>"NetworkN"</item> 
+    <item>"Utel"</item> 
+    <item>"ETH-MTN"</item> 
+    <item>"NCL MOBILIS"</item> 
+    <item>"EUROTEL - CZ"</item> 
+    <item>"Reliance"</item> 
+    <item>"CLARO ARGENTINA"</item> 
+    <item>"Orange POP"</item> 
+    <item>"DIGICEL F"</item> 
+    <item>"Family Mobile"</item> 
+    <item>"3 AT"</item> 
+    <item>"Personal"</item> 
+    <item>"C&amp;W"</item> 
+    <item>"CLARO PA"</item> 
+    <item>"!dea"</item> 
+    <item>"NOVA"</item> 
+    <item>"Metfone"</item> 
+    <item>"halebop"</item> 
+    <item>"labas"</item> 
+    <item>"BW MASCOM"</item> 
+    <item>"ZAIN SD"</item> 
+    <item>"Lycamobile"</item> 
+    <item>"IDEA"</item> 
+    <item>"TPG"</item> 
+    <item>"NCELL"</item> 
+    <item>"BSNL"</item> 
+    <item>"WMOBILE"</item> 
+    <item>"GT mobile"</item> 
+    <item>"Idea"</item> 
+    <item>"MPTGSM"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"IND  airtel"</item> 
+    <item>"Vip SRB"</item> 
+    <item>"Rami Levy"</item> 
+    <item>"DK TDC"</item> 
+    <item>"TIM 3G+ 19"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"Verizon Wireles"</item> 
+    <item>"F Bouygues"</item> 
+    <item>"Hutch"</item> 
+    <item>"LIDL MOBILE"</item> 
+    <item>"ERONET"</item> 
+    <item>"Alice"</item> 
+    <item>"KOREK"</item> 
+    <item>"BTL"</item> 
+    <item>"Claro"</item> 
+    <item>"tele.ring"</item> 
+    <item>"AirTel"</item> 
+    <item>"DIGICEL"</item> 
+    <item>"VODAFONE"</item> 
+    <item>"Telstra"</item> 
+    <item>"Qatarnet"</item> 
+    <item>"NetworkNorway"</item> 
+    <item>"AT"</item> 
+    <item>"bob"</item> 
+    <item>"ROSHAN"</item> 
+    <item>"Airtel-Vodafone"</item> 
+    <item>"Cable &amp; Wireles"</item> 
+    <item>"Plus"</item> 
+    <item>"BEELINE GE"</item> 
+    <item>"ICE"</item> 
+    <item>"LIME"</item> 
+    <item>"AirTel"</item> 
+    <item>"CCT Boatphone"</item> 
+    <item>"ONLY"</item> 
+    <item>"Rabo Mobiel"</item> 
+    <item>"VIAERO"</item> 
+    <item>"Celtel Nigeria"</item> 
+    <item>"Vodafone"</item> 
+    <item>"MobiTel SDN"</item> 
+    <item>"Vivacell-MTS"</item> 
+    <item>"Alltel"</item> 
+    <item>"M-Tel BG"</item> 
+    <item>"KHM-Hello GSM"</item> 
+    <item>"PT Telkomunikas"</item> 
+    <item>"Koodo"</item> 
+    <item>"ezys"</item> 
+    <item>"CITYFONE"</item> 
+    <item>"O2 IRL"</item> 
+    <item>"Searching for S"</item> 
+    <item>"DNA Oy"</item> 
+    <item>"MTC Touch"</item> 
+    <item>"MTN RWANDA"</item> 
+    <item>"CellOne"</item> 
+    <item>"VN MOBIFONE"</item> 
+    <item>"JO MobCom"</item> 
+    <item>"Cellular ONE"</item> 
+    <item>"HPLMN Globacom"</item> 
+    <item>"Simple Mobile"</item> 
+    <item>"Vodafone"</item> 
+    <item>"movistar"</item> 
+    <item>"GIBTEL GSM"</item> 
+    <item>"Libyana"</item> 
+    <item>"NettoKOM"</item> 
+    <item>"Telekom"</item> 
+    <item>"Fastlink"</item> 
+    <item>"FJ VODAFONE"</item> 
+    <item>"Talkmore"</item> 
+    <item>"o2"</item> 
+    <item>"ETISALAT"</item> 
+    <item>"Vodafone IN"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"UZB MTS"</item> 
+    <item>"MD VOXTEL"</item> 
+    <item>"i-mobile 3G"</item> 
+    <item>"CellOne"</item> 
+    <item>"JAWWAL-PALESTIN"</item> 
+    <item>"Lycamobile"</item> 
+    <item>"MKD COSMOFON"</item> 
+    <item>"Tele2"</item> 
+    <item>"IND airtel"</item> 
+    <item>"Orange"</item> 
+    <item>"SFR Home 3G"</item> 
+    <item>"Searching for S"</item> 
+    <item>"MOTIV"</item> 
+    <item>"Petro-Canada"</item> 
+    <item>"3 (2G)"</item> 
+    <item>"BEE LINE"</item> 
+    <item>"Willkommen"</item> 
+    <item>"Cincinnati Bell"</item> 
+    <item>"TSTT"</item> 
+    <item>"Libya Al Madar"</item> 
+    <item>"LIME"</item> 
+    <item>"3G AIRTEL"</item> 
+    <item>"M-TelBG"</item> 
+    <item>"Bite GSM"</item> 
+    <item>"INDH1"</item> 
+    <item>"Movil GSM "</item> 
+    <item>"Beeline KH"</item> 
+    <item>"Aircel"</item> 
+    <item>"MANX"</item> 
+    <item>"BRU-bmobile"</item> 
+    <item>"Uralsvyazinform"</item> 
+    <item>"Claro HND"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"CellOne"</item> 
+    <item>"Qat - Qtel"</item> 
+    <item>"Mobile teleSyst"</item> 
+    <item>"AZERCELL GSM"</item> 
+    <item>"ALG Mobilis"</item> 
+    <item>"Vietnam Mobile "</item> 
+    <item>"Beeline KG"</item> 
+    <item>"CellOne"</item> 
+    <item>"Telenet"</item> 
+    <item>"bmobile"</item> 
+    <item>"VIVA BH"</item> 
+    <item>"COSMOFON"</item> 
+    <item>"MEDI TELECOM"</item> 
+    <item>"  CT-GSM  "</item> 
+    <item>"Tuenti"</item> 
+    <item>"Mobilna Telefon"</item> 
+    <item>"ETISALAT"</item> 
+    <item>"movistar"</item> 
+    <item>"WATANIYA"</item> 
+    <item>"Orange"</item> 
+    <item>"GSMobile"</item> 
+    <item>"AIRTEL"</item> 
+    <item>"UNITEL LIVE 3.5"</item> 
+    <item>"MTN"</item> 
+    <item>"Vip MKD"</item> 
+    <item>"Velcom"</item> 
+    <item>"Roaming Indicat"</item> 
+    <item>"TELE2 RU"</item> 
+    <item>"CTI Argentina"</item> 
+    <item>"SAT-C"</item> 
+    <item>"Reliance Teleco"</item> 
+    <item>"GCI"</item> 
+    <item>"LIME"</item> 
+    <item>"TOT"</item> 
+    <item>"UMC"</item> 
+    <item>"Bite"</item> 
+    <item>"CYTAVODA"</item> 
+    <item>"chzbrgr"</item> 
+    <item>"TUNISIE TELECOM"</item> 
+    <item>"CellOne"</item> 
+    <item>"CPV T+"</item> 
+    <item>"BSNL INDIA"</item> 
+    <item>"airtel"</item> 
+    <item>"Nizhegorodskaya"</item> 
+    <item>"Tbaytel / Roger"</item> 
+    <item>"Far East"</item> 
+    <item>"TANGO LAO"</item> 
+    <item>"Qtel"</item> 
+    <item>"IDN-XL"</item> 
+    <item>"Sprint"</item> 
+    <item>"Airtel-Uganda"</item> 
+    <item>"YUMTS, YUG03"</item> 
+    <item>"Roaming Indicat"</item> 
+    <item>"Vodafone_Rajas"</item> 
+    <item>"Orange"</item> 
+    <item>"AKTEL"</item> 
+    <item>"Red Bull MOBILE"</item> 
+    <item>"T-Mobile"</item> 
+    <item>"Kuwait Telecomm"</item> 
+    <item>"Beeline KZ"</item> 
+    <item>"Preferred Syste"</item> 
+    <item>"TIM 3G+ 75"</item> 
+    <item>"XL Axiata"</item> 
+    <item>"JT-Wave"</item> 
+    <item>"VIVA"</item> 
+    <item>"Bani"</item> 
+    <item>"Telenor PK"</item> 
+    <item>"VE_MOVILNET"</item> 
+    <item>" MEDIONmobile"</item> 
+    <item>"VIETTEL"</item> 
+    <item>"Yeniseytelecom"</item> 
+    <item>"MOOV"</item> 
+    <item>"UZB Ucell"</item> 
+    <item>"Beeline VN"</item> 
+    <item>"Sprint"</item> 
+    <item>"SCS"</item> 
+    <item>"GTA"</item> 
+    <item>"Videocon Home"</item> 
+    <item>"BeST BY"</item> 
+    <item>"Best"</item> 
+    <item>"VOTEK"</item> 
+    <item>"BWC"</item> 
+    <item>"TIM IT"</item> 
+    <item>"Etisalat"</item> 
+    <item>"DJUICE"</item> 
+    <item>"MOLDCELL"</item> 
+    <item>"VODA"</item> 
+    <item>"SMARTS"</item> 
+    <item>"Sprint"</item> 
+    <item>"Sprint"</item> 
+    <item>"TIM 3G+ 67"</item> 
+    <item>"RA 05"</item> 
+    <item>"CMAPTC-GSM"</item> 
+    <item>"Sprint"</item> 
+    <item>"Beeline UZ"</item> 
+    <item>"Sprint"</item> 
+    <item>"ETK RUS"</item> 
+    <item>"celtel"</item> 
+    <item>"NTC"</item> 
+    <item>"IR-TCI"</item> 
+    <item>"LUXGSM"</item> 
+    <item>"BAIKALWESTCOM"</item> 
+    <item>"!dea"</item> 
+    <item>"IND-IDEA"</item> 
+    <item>"INDIGO-T"</item> 
+    <item>"LT TELE2"</item> 
+    <item>"life:)"</item> 
+    <item>"Sprint"</item> 
+    <item>"BATELCO"</item> 
+    <item>"Beeline TJ"</item> 
+    <item>"Virgin Mobile"</item> 
+    <item>"Singtel Optus L"</item> 
+    <item>"TJK MLT"</item> 
+    <item>"Ucell"</item> 
+    <item>"Reliance"</item> 
+    <item>"GT mobile"</item> 
+    <item>"UA-KYIVSTAR"</item> 
+    <item>"Sprint"</item> 
+    <item>"Maxis Communica"</item> 
+    <item>"BTK"</item> 
+    <item>"Orange FR"</item> 
+    <item>"Babilon-M"</item> 
+    <item>"RUS-03"</item> 
+    <item>"JEANS"</item> 
+    <item>"SCS, RUS 05, RU"</item> 
+    <item>"Tele2 LV"</item> 
+    <item>"Claro"</item> 
+    <item>"NCC"</item> 
+    <item>"3G o2 - de"</item> 
+    <item>"Tesco Mobile"</item> 
+    <item>"BSNL Mobile"</item> 
+    <item>"O2-DE"</item> 
+    <item>"Dolphin"</item> 
+    <item>"TUNSIANA"</item> 
+    <item>"Vimpelkom"</item> 
+    <item>"BT"</item> 
+    <item>"M-Tel"</item> 
+    <item>"COL MOV / TIGO"</item> 
+    <item>"Beeline AM"</item> 
+    <item>"Orange"</item> 
+    <item>"LT BITE"</item> 
+    <item>"MEGACOM"</item> 
+    <item>"Ekaterinburg200"</item> 
+    <item>"Hutchison Telec"</item> 
+    <item>"Og Vodafone"</item> 
+    <item>"Vodafone IN"</item> 
+    <item>"Sprint"</item> 
+    <item>"Telstra"</item> 
+    <item>"China Mobile HK"</item> 
+    <item>"Sprint "</item> 
+    <item>"Fenercell"</item> 
+    <item>"Kyivstar GSM JS"</item> 
+    <item>"CTI Movil ARG"</item> 
+    <item>"SmarTone HK"</item> 
+    <item>"TrabzonCell"</item> 
+    <item>"CMCC"</item> 
+    <item>"Tele2"</item> 
+    <item>"AirTel"</item> 
+    <item>"AKOS GSM"</item> 
+    <item>"delight "</item> 
+    <item>"SmarTone Mobile"</item> 
+    <item>"Hi"</item> 
+    <item>"CTM"</item> 
+    <item>"Sprint"</item> 
+    <item>"Orange"</item> 
+    <item>"DiGi Telecommun"</item> 
+    <item>"Sprint"</item> 
+    <item>"TIM 3G+    18"</item> 
+    <item>"PROSTO D O"</item> 
+    <item>"MTS"</item> 
+    <item>"Sprint"</item> 
+    <item>"eMobile"</item> 
+    <item>"Hutchison 3G IR"</item> 
+    <item>"Softbank Mobile"</item> 
+    <item>"AIRTEL"</item> 
+    <item>"ICE Celular"</item> 
+    <item>"AIRCEL"</item> 
+    <item>"IDEA"</item> 
+    <item>"@PLAY"</item> 
+    <item>"PCL"</item> 
+    <item>"@mobily"</item> 
+    <item>"Telenor"</item> 
+    <item>"T-CDMA 64"</item> 
+    <item>"@Zain SDN"</item> 
+    <item>"TIM 3G+ 11"</item> 
+    <item>"@Swisscom"</item> 
+    <item>"$Telstra"</item> 
+    <item>"pannon 3G"</item> 
+    <item>"RSA Vodacom"</item> 
+    <item>"Etihad Etisalat"</item> 
+    <item>"C&amp;W SEY"</item> 
+    <item>"Somoncom"</item> 
+    <item>"Call me"</item> 
+    <item>"Orange UK"</item> 
+    <item>"Vodafone Rajast"</item> 
+    <item>"KKTCELL"</item> 
+    <item>"KPN"</item> 
+    <item>"AIRTEL"</item> 
+    <item>"AIRCEL"</item> 
+    <item>"La Poste Mobile"</item> 
+    <item>"3 ITA"</item> 
+    <item>"AMC - AL"</item> 
+    <item>"@Hi"</item> 
+    <item>"Red Bull MOBILE"</item> 
+    <item>"Uff!"</item> 
+    <item>"FASTWEB"</item> 
+    <item>"AREEBA"</item> 
+    <item>"Pure GSM"</item> 
+    <item>"CellOne"</item> 
+    <item>"Tigo"</item> 
+    <item>"Keith Albers"</item> 
+    <item>"Damien's Phon"</item> 
+    <item>"T-CDMA 64"</item> 
+    <item>"T-Mobile"</item> 
+    <item>"Videocon Home"</item> 
+    <item>"COSMOT"</item> 
+    <item>"Airtel"</item> 
+    <item>"UA-KS"</item> 
+    <item>"NZ Comms"</item> 
+    <item>"Polska Telefoni"</item> 
+    <item>"Orange"</item> 
+    <item>"TRUE-H/CAT 3G"</item> 
+    <item>"3GT MT"</item> 
+    <item>"AZ Nar"</item> 
+    <item>"Antel"</item> 
+    <item>"Millicom / Loca"</item> 
+    <item>"Belarussian Tel"</item> 
+    <item>"MTN"</item> 
+    <item>"RUS BMT"</item> 
+    <item>"Scarlet"</item> 
+    <item>"Vodafone IN"</item> 
+    <item>"Mobistar BE"</item> 
+    <item>"@etisalat"</item> 
+    <item>"@YES OPTUS"</item> 
+    <item>"Vodafone Greece"</item> 
+    <item>"Orange CI"</item> 
+    <item>"IND  airtel"</item> 
+    <item>"Roy Santana"</item> 
+    <item>"WIND"</item> 
+    <item>"T-Mobile H R"</item> 
+    <item>"TIM 3G+ 51"</item> 
+    <item>"DIGICEL"</item> 
+    <item>"@zain KW"</item> 
+    <item>"TELE Greenland"</item> 
+    <item>"klarmobil"</item> 
+    <item>"Reliance"</item> 
+    <item>"Tele 2 Eesti"</item> 
+    <item>"Orange Ke"</item> 
+    <item>"@TELCEL"</item> 
+    <item>"Orange Romania"</item> 
+    <item>"Solo"</item> 
+    <item>"KCELL"</item> 
+    <item>"U MOBILE@"</item> 
+    <item>"@Syriatel"</item> 
+    <item>"VODAFONE"</item> 
+    <item>"ORANGE MG"</item> 
+    <item>"Reliance"</item> 
+    <item>"Manx Pronto"</item> 
+    <item>"TIGO"</item> 
+    <item>"IN-DOLPHIN"</item> 
+    <item>"ONE"</item> 
+    <item>"JAWWAL"</item> 
+    <item>"movistar"</item> 
+    <item>"Vodafone Nether"</item> 
+    <item>"TIM 3G+ 47"</item> 
+    <item>"INNOVATIVE"</item> 
+    <item>"POP"</item> 
+    <item>"one2free"</item> 
+    <item>"@airtel"</item> 
+    <item>"ETK"</item> 
+    <item>"UNEFON"</item> 
+    <item>"Digicel"</item> 
+    <item>"vodafone IN"</item> 
+    <item>"Setel"</item> 
+    <item>"CIV02"</item> 
+    <item>"Zain Gh"</item> 
+    <item>"Telecel"</item> 
+    <item>"@T-Mobile  NL"</item> 
+    <item>"Sprint"</item> 
+    <item>"T-CDMA 64"</item> 
+    <item>"Kcell - KZ"</item> 
+    <item>"R-CELL"</item> 
+    <item>"GSM Kazakhstan "</item> 
+    <item>"Sprint"</item> 
+    <item>"Sprint "</item> 
+    <item>"HOME"</item> 
+    <item>"AKOS-GSM"</item> 
+    <item>"PT Excelcomindo"</item> 
+    <item>"Reliance"</item> 
+    <item>"TIM 3G+ 41"</item> 
+    <item>"@airtel"</item> 
+    <item>"NetCom GSM"</item> 
+    <item>"Orange"</item> 
+    <item>"TIM 3G+ 48"</item> 
+    <item>"Hey Friend"</item> 
+    <item>"UZB-UZD"</item> 
+    <item>"@Beeline"</item> 
+    <item>"  Fido  "</item> 
+    <item>" XL Axiata"</item> 
+    <item>"MTS"</item> 
+    <item>"i- wireless"</item> 
+    <item>"@Oi"</item> 
+    <item>"UNINOR"</item> 
+    <item>"Vodafone D2 Gmb"</item> 
+    <item>"Telavox"</item> 
+    <item>"Darty"</item> 
+    <item>"zain SA"</item> 
+    <item>"SGP M1-3GSM"</item> 
+    <item>"@VIVO"</item> 
+    <item>"SYRIATEL"</item> 
+    <item>"LMT GSM"</item> 
+    <item>"    MetroPCS"</item> 
+    <item>"@vodafone GR"</item> 
+    <item>"Saudi Telecom C"</item> 
+    <item>"hello axiata"</item> 
+    <item>"@Reliance"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"Hutch"</item> 
+    <item>"T-Mobile"</item> 
+    <item>"3 Macau"</item> 
+    <item>"KT"</item> 
+    <item>"Airtel"</item> 
+    <item>"TLS-TT"</item> 
+    <item>"cricKet"</item> 
+    <item>"aetkaSMART"</item> 
+    <item>"CBB Mobil"</item> 
+    <item>"Mobilkom Austri"</item> 
+    <item>"blauworld"</item> 
+    <item>"TIM 3G+    16"</item> 
+    <item>"NOVA IS"</item> 
+    <item>"BITEL KGZ"</item> 
+    <item>"Uraltel"</item> 
+    <item>"WM"</item> 
+    <item>"movistar"</item> 
+    <item>"E-Plus Mobilfun"</item> 
+    <item>"Sprint"</item> 
+    <item>"Celcom Malaysia"</item> 
+    <item>"3G movistar"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"ASDA Mobile"</item> 
+    <item>"Telefonica O2 U"</item> 
+    <item>"mobi*"</item> 
+    <item>"FT-GSM"</item> 
+    <item>"Reliance"</item> 
+    <item>"ALIZE"</item> 
+    <item>"TELECEL ZW"</item> 
+    <item>"METRO"</item> 
+    <item>"Talk N Text"</item> 
+    <item>"EMTS NGA"</item> 
+    <item>"Banglalink"</item> 
+    <item>"3G TIM"</item> 
+    <item>"$"</item> 
+    <item>"VIBO Telecom"</item> 
+    <item>"vala"</item> 
+    <item>"CLARO P.R."</item> 
+    <item>"PCCW"</item> 
+    <item>"AIRCEL"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"Celtel"</item> 
+    <item>"TeleG"</item> 
+    <item>"movistar"</item> 
+    <item>"CHINA  MOBILE"</item> 
+    <item>"COMCEL"</item> 
+    <item>"Hutchison 3G"</item> 
+    <item>"China Mobile Ho"</item> 
+    <item>"GLOBUL"</item> 
+    <item>"Red Pocket"</item> 
+    <item>"Etisalat"</item> 
+    <item>"UA Life:)"</item> 
+    <item>"!DEA"</item> 
+    <item>"mobily"</item> 
+    <item>"Digital Telecom"</item> 
+    <item>"ACELL"</item> 
+    <item>"YEM SabaFon"</item> 
+    <item>"Orange Moldova"</item> 
+    <item>"PILDYK"</item> 
+    <item>"DIGICEL"</item> 
+    <item>"3G YOIGO"</item> 
+    <item>"Sprint"</item> 
+    <item>"@BH Mobile"</item> 
+    <item>"   CMCC   "</item> 
+    <item>"T24"</item> 
+    <item>"Safaricom Limit"</item> 
+    <item>"3G vodafone ES"</item> 
+    <item>"3G CLARO PA"</item> 
+    <item>"DigiCell"</item> 
+    <item>"CDN Roaming"</item> 
+    <item>"Vodafone"</item> 
+    <item>"IND  airtel"</item> 
+    <item>"SpeakOut"</item> 
+    <item>"MY MAXIS"</item> 
+    <item>"Cambodia"</item> 
+    <item>"EMOBILE"</item> 
+    <item>"MetroPCS"</item> 
+    <item>"Mobitel D.D."</item> 
+    <item>"PT Natrindo Tel"</item> 
+    <item>"U Mobile Sdn Bh"</item> 
+    <item>"3G movistar"</item> 
+    <item>"WaridTel"</item> 
+    <item>"Viettel"</item> 
+    <item>"vtr"</item> 
+    <item>"TIGO"</item> 
+    <item>"3G CLARO"</item> 
+    <item>"BTC"</item> 
+    <item>"Nepal Mobile"</item> 
+    <item>"RCS&amp;RDS"</item> 
+    <item>"RighTel"</item> 
+    <item>"3G Tuenti"</item> 
+    <item>"Sunrise Communi"</item> 
+    <item>"Vodafone Rajast"</item> 
+    <item>"ROSTELECOM"</item> 
+    <item>"MOBI'S"</item> 
+    <item>"VODAFONE"</item> 
+    <item>"Telenor SRB"</item> 
+    <item>"Videocon Home"</item> 
+    <item>"Taiwan Mobile"</item> 
+    <item>"3G  "</item> 
+    <item>"AIRTEL TZ"</item> 
+    <item>"CLARO"</item> 
+    <item>"Vietnam Telecom"</item> 
+    <item>"AIRCEL"</item> 
+    <item>"AIRCEL"</item> 
+    <item>"Movistar"</item> 
+    <item>"AIRCEL"</item> 
+    <item>"HTI-03"</item> 
+    <item>"Enhanced Servic"</item> 
+    <item>"3G TELCEL GSM"</item> 
+    <item>"MTN Group"</item> 
+    <item>"Tele 2"</item> 
+    <item>"Swazi-MTN"</item> 
+    <item>"Omantel"</item> 
+    <item>"Zain SUDAN"</item> 
+    <item>"IND-airtel"</item> 
+    <item>"          "</item> 
+    <item>"ECMS-Mobinil"</item> 
+    <item>"mfone"</item> 
+    <item>"Reliance"</item> 
+    <item>"K-MOBILE"</item> 
+    <item>"MTV Mobile"</item> 
+    <item>"ORANGE"</item> 
+    <item>"PLATEAU"</item> 
+    <item>"Zao SMARTS"</item> 
+    <item>"TESCO"</item> 
+    <item>"RSA MTN"</item> 
+    <item>"Astelit"</item> 
+    <item>"UNITE"</item> 
+    <item>"debitel"</item> 
+    <item>"3G dna"</item> 
+    <item>"PrimeTel"</item> 
+    <item>"AIRTEL"</item> 
+    <item>"VIP Mobile"</item> 
+    <item>"Mobile Norway"</item> 
+    <item>"haloo"</item> 
+    <item>"Orange"</item> 
+    <item>"!dea"</item> 
+    <item>"SR.TELESUR.GSM"</item> 
+    <item>"o2-de"</item> 
+    <item>"IND  airtel"</item> 
+    <item>"GH ONEtouch"</item> 
+    <item>"0054002D004D006"</item> 
+    <item>"VF Romania"</item> 
+    <item>"Vodafone New Ze"</item> 
+    <item>"3G Orange"</item> 
+    <item>"Verizon Wireles"</item> 
+    <item>"Pakistan Teleco"</item> 
+    <item>"Orange Slovensk"</item> 
+    <item>"Myanmar Post an"</item> 
+    <item>"VODAFONE"</item> 
+    <item>"ZM CELTEL"</item> 
+    <item>"3G I.C.E."</item> 
+    <item>"MobileOne Asia"</item> 
+    <item>"Telecom Italia "</item> 
+    <item>"mCel"</item> 
+    <item>"BGD ROBI"</item> 
+    <item>"CH"</item> 
+    <item>"AIRCEL"</item> 
+    <item>"T-Mobile"</item> 
+    <item>"Haryana"</item> 
+    <item>"LG U+"</item> 
+    <item>"Digital Roaming"</item> 
+    <item>"femto MTS"</item> 
+    <item>"TIGO"</item> 
+    <item>"touch"</item> 
+    <item>"@mobilis"</item> 
+    <item>"Sprint"</item> 
+    <item>"Mobile Communic"</item> 
+    <item>"DOCOMO PACIFIC"</item> 
+    <item>"Etisalat Nigeri"</item> 
+    <item>"CellOne"</item> 
+    <item>"airtel"</item> 
+    <item>"Colombia Movil"</item> 
+    <item>"AFRICELL"</item> 
+    <item>"INA AIRTEL"</item> 
+    <item>"OPERATOR CLARO"</item> 
+    <item>"UZB CSOCOM GSM"</item> 
+    <item>"Verizon Wireles"</item> 
+    <item>"Vodacom"</item> 
+    <item>"Authentication "</item> 
+    <item>"CARREFOUR"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"Ortel"</item> 
+    <item>"Hi3G Denmark Ap"</item> 
+    <item>"US Cellular"</item> 
+    <item>"MTS"</item> 
+    <item>"Globe Telecom"</item> 
+    <item>"US Cellular"</item> 
+    <item>"Aircel"</item> 
+    <item>"@"</item> 
+    <item>"SoftBank Mobile"</item> 
+    <item>"Orange CAM"</item> 
+    <item>"NEO-KZ"</item> 
+    <item>"SI vodafone"</item> 
+    <item>"TIM 3G+ 15"</item> 
+    <item>"yesss!"</item> 
+    <item>"AIRCEL"</item> 
+    <item>"3G Iusacell"</item> 
+    <item>"mobilcom"</item> 
+    <item>"KOR SK Telecom"</item> 
+    <item>"PurpleHaze"</item> 
+    <item>"Reliance"</item> 
+    <item>"CHIPPIE"</item> 
+    <item>"C&amp;W"</item> 
+    <item>"yourfone.de"</item> 
+    <item>"TELEMOVIL"</item> 
+    <item>"!dea"</item> 
+    <item>"New Telephone C"</item> 
+    <item>"RUS16,250 16"</item> 
+    <item>"Lebara"</item> 
+    <item>"Claro"</item> 
+    <item>"IR-TCI"</item> 
+    <item>"mobilcom-debite"</item> 
+    <item>"Unitel LLC"</item> 
+    <item>"SmarTone-Vodafo"</item> 
+    <item>"IND  airtel"</item> 
+    <item>"NEP-01"</item> 
+    <item>"BJ BENINCELL"</item> 
+    <item>"Club"</item> 
+    <item>"TRUE"</item> 
+    <item>"EUROTEL-CZ"</item> 
+    <item>"ETL MOBILE NETW"</item> 
+    <item>"VodafoneSMumbai"</item> 
+    <item>"3G movistar"</item> 
+    <item>"Sprint"</item> 
+    <item>" JIM"</item> 
+    <item>"Movil GSM "</item> 
+    <item>"Iusacell0"</item> 
+    <item>"Tele2 LT"</item> 
+    <item>"Verizon Wireles"</item> 
+    <item>"Extended Networ"</item> 
+    <item>"KARTALCELL"</item> 
+    <item>" Orange"</item> 
+    <item>"Life"</item> 
+    <item>"VODACOM CD"</item> 
+    <item>"Sprint"</item> 
+    <item>"OASIS"</item> 
+    <item>"Airtel Zambia"</item> 
+    <item>"aon"</item> 
+    <item>"Sonaecom - Serv"</item> 
+    <item>"ORANGE UGANDA"</item> 
+    <item>"Coscom"</item> 
+    <item>"Simpel"</item> 
+    <item>"UNICOM    "</item> 
+    <item>"HOT mobile"</item> 
+    <item>"TIGO"</item> 
+    <item>"JAZZTEL"</item> 
+    <item>"helloMobil"</item> 
+    <item>"Sprint"</item> 
+    <item>"USA - Extended "</item> 
+    <item>"MONGOLIA UNITEL"</item> 
+    <item>"T-CDMA 64"</item> 
+    <item>"Aljeel"</item> 
+    <item>"BaykalWestCom"</item> 
+    <item>"Aero2"</item> 
+    <item>"RSA CELL C"</item> 
+    <item>"Verizon Wireles"</item> 
+    <item>"Lao Telecom"</item> 
+    <item>"UNITEL"</item> 
+    <item>"Reliance"</item> 
+    <item>"Telefonica Movi"</item> 
+    <item>"amaysim"</item> 
+    <item>"Sprint"</item> 
+    <item>"3G ICE Celular"</item> 
+    <item>"@Beeline UZ"</item> 
+    <item>"T-Mobile US"</item> 
+    <item>"zain SA"</item> 
+    <item>"TDC A/S"</item> 
+    <item>"Roaming Indicat"</item> 
+    <item>"Roaming Indicat"</item> 
+    <item>"Sprint"</item> 
+    <item>"3G TELCEL"</item> 
+    <item>"Mobinil"</item> 
+    <item>"Lycamobile"</item> 
+    <item>"TIM 3G+ 42"</item> 
+    <item>"Sprint"</item> 
+    <item>"Roaming Indicat"</item> 
+    <item>" VODAFONE "</item> 
+    <item>"Dima Spellman"</item> 
+    <item>"DK SONOFON"</item> 
+    <item>"The World is Mi"</item> 
+    <item>"EMTEL"</item> 
+    <item>"MOBIFONE"</item> 
+    <item>"LATMOBIL"</item> 
+    <item>"Reliance"</item> 
+    <item>"K-Mobile"</item> 
+    <item>"ProXL"</item> 
+    <item>"INA SPICE TELEC"</item> 
+    <item>"Orange PCS Ltd"</item> 
+    <item>"RELIANCE"</item> 
+    <item>"VMS"</item> 
+    <item>"Virgin Mobile"</item> 
+    <item>"CN UNICOM"</item> 
+    <item>"BATELCO"</item> 
+    <item>"HOT mobile"</item> 
+    <item>"Verizon Wireles"</item> 
+    <item>"Orange Home"</item> 
+    <item>"Sprint"</item> 
+    <item>"@Vodafone IN"</item> 
+    <item>"Aircel"</item> 
+    <item>"B-Mobile Commun"</item> 
+    <item>"airtel"</item> 
+    <item>"MTN"</item> 
+    <item>"@one2freeNextG"</item> 
+    <item>"Sprint"</item> 
+    <item>"GOLAN T"</item> 
+    <item>"BSNL 3G"</item> 
+    <item>"Z mobile"</item> 
+    <item>"Virgin Mobile"</item> 
+    <item>"Claro PY"</item> 
+    <item>"TELSIM GSM"</item> 
+    <item>"@Vodafone IN"</item> 
+    <item>"JK"</item> 
+    <item>"NICMS"</item> 
+    <item>"@Movistar"</item> 
+    <item>"1O1O Next G"</item> 
+    <item>"IND  airtel"</item> 
+    <item>"CHINA PTT"</item> 
+    <item>"Sprint"</item> 
+    <item>"1O1O"</item> 
+    <item>"T-CDMA 64"</item> 
+    <item>"@IR-MCI"</item> 
+    <item>"IND  airtel"</item> 
+    <item>"Iusacell0"</item> 
+    <item>"Movicel"</item> 
+    <item>"@Vodafone IN"</item> 
+    <item>"IDEA"</item> 
+    <item>"Baykal Westcom/"</item> 
+    <item>"CELLONE"</item> 
+    <item>"Iusacell 3.5G"</item> 
+    <item>"IND-Idea"</item> 
+    <item>"CORIOLIS"</item> 
+    <item>"NRJ Mobile"</item> 
+    <item>"Sprint"</item> 
+    <item>"Digicel"</item> 
+    <item>"@airtel"</item> 
+    <item>"Sprint"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"TRUE-H"</item> 
+    <item>"UNTLMN"</item> 
+    <item>"@T-Mobile H"</item> 
+    <item>"IND  airtel"</item> 
+    <item>"TOGGLE MOBILE"</item> 
+    <item>"Vodafone"</item> 
+    <item>"SAF-COM"</item> 
+    <item>"Plus"</item> 
+    <item>"ok.-Mobile"</item> 
+    <item>"Lebara"</item> 
+    <item>"Cambodia"</item> 
+    <item>"MIUI"</item> 
+    <item>"TELKOMSEL 3G"</item> 
+    <item>"Chungwa"</item> 
+    <item>"@MegaFon"</item> 
+    <item>"TC-Golestan"</item> 
+    <item>"Sprint"</item> 
+    <item>"@XL"</item> 
+    <item>"Advanced Info S"</item> 
+    <item>"WP-1800 "</item> 
+    <item>"Q-TELCOM"</item> 
+    <item>"T-Mobile Hungar"</item> 
+    <item>"NRJ Mobile"</item> 
+    <item>"TURKCELL EU"</item> 
+    <item>"SoftBank"</item> 
+    <item>"F-Bouygues Tele"</item> 
+    <item>"@"</item> 
+    <item>"qb"</item> 
+    <item>"Vodafone IN"</item> 
+    <item>"LAO GSM"</item> 
+    <item>"Emirates Teleco"</item> 
+    <item>"TUNTEL"</item> 
+    <item>"@BATELCO"</item> 
+    <item>"3G AT&amp;T"</item> 
+    <item>"Vodafone IN"</item> 
+    <item>"MetroPCS"</item> 
+    <item>"Brasil Telecom"</item> 
+    <item>"CTI Movil"</item> 
+    <item>"3G F SFR"</item> 
+    <item>"skytel"</item> 
+    <item>"CMCC"</item> 
+    <item>"$TAMAYOUZ"</item> 
+    <item>"@orange"</item> 
+    <item>"Lebara"</item> 
+    <item>"@TELE2"</item> 
+    <item>"@CellOne"</item> 
+    <item>"Verizon"</item> 
+    <item>"CTBC"</item> 
+    <item>"Teletalk"</item> 
+    <item>"Shebang"</item> 
+    <item>"VIVO SP"</item> 
+    <item>"MTN Irancell"</item> 
+    <item>"ROSTELECOM"</item> 
+    <item>"TH 3G+"</item> 
+    <item>"BEE LIN"</item> 
+    <item>"TATA DOCOMO"</item> 
+    <item>"3G SKTelecom"</item> 
+    <item>"Tele2 EE"</item> 
+    <item>"TIM 3G+ 21"</item> 
+    <item>"Bite Latvija"</item> 
+    <item>"VODAFONE"</item> 
+    <item>"The connection "</item> 
+    <item>"@Cell C"</item> 
+    <item>"Irancell Teleco"</item> 
+    <item>"StarHub Mobile"</item> 
+    <item>"MetroPCS"</item> 
+    <item>"BTC 4G"</item> 
+    <item>"3ITA"</item> 
+    <item>"Beeline UA"</item> 
+    <item>"@Irancell"</item> 
+    <item>"@NOVA"</item> 
+    <item>"Entel Telefonia"</item> 
+    <item>"AIRTEL"</item> 
+    <item>"VINI"</item> 
+    <item>"@etisalat"</item> 
+    <item>"@Vodafone IN"</item> 
+    <item>"WIND"</item> 
+    <item>"IND  airtel"</item> 
+    <item>"Eroski Movil"</item> 
+    <item>"CLARO"</item> 
+    <item>"Vodafone Spain"</item> 
+    <item>"Virgin"</item> 
+    <item>"STCALJAWWAL"</item> 
+    <item>"@VIETTEL"</item> 
+    <item>"Ain't no I ph"</item> 
+    <item>"3G olleh"</item> 
+    <item>"ONO"</item> 
+    <item>"@Meteor"</item> 
+    <item>"Bsnl"</item> 
+    <item>"Vodafone IN"</item> 
+    <item>"ROSTELECOM"</item> 
+    <item>"3G TIGO"</item> 
+    <item>"PY Personal"</item> 
+    <item>"ALMADAR      "</item> 
+    <item>"O2 Ireland"</item> 
+    <item>"Irancell"</item> 
+    <item>"Singapore Telec"</item> 
+    <item>"@life:)"</item> 
+    <item>"@TRUE"</item> 
+    <item>"Virgin"</item> 
+    <item>"@AKOS GSM"</item> 
+    <item>"AIRCEL"</item> 
+    <item>"Iusacell NextG"</item> 
+    <item>"Dior Venezuela"</item> 
+    <item>"BSNL MOBILE"</item> 
+    <item>"L Orange-LU"</item> 
+    <item>"YUMTS  YUG03"</item> 
+    <item>"IND  airtel"</item> 
+    <item>"@KYIVSTAR"</item> 
+    <item>"TIGO PY"</item> 
+    <item>"IND airtel"</item> 
+    <item>"KD Mobile"</item> 
+    <item>"Orange FL"</item> 
+    <item>"IND  airtel"</item> 
+    <item>"Reliance"</item> 
+    <item>"my"</item> 
+    <item>"3G COMCEL"</item> 
+    <item>"@EMTEL"</item> 
+    <item>"@Beeline KZ"</item> 
+    <item>"Lebara"</item> 
+    <item>"DPAC"</item> 
+    <item>"@UMC"</item> 
+    <item>"Etisalat AF"</item> 
+    <item>"@M-Budget"</item> 
+    <item>"3G MY MAXIS"</item> 
+    <item>"T-Mobile"</item> 
+    <item>"HK CSL"</item> 
+    <item>"Vodafone"</item> 
+    <item>"IM3"</item> 
+    <item>"BSNL MOBILE"</item> 
+    <item>"Sprint"</item> 
+  </string-array>
+  <string-array name="mobile_operator_numeric_values">
+    <item>23430</item> 
+    <item>310410</item> 
+    <item>405799</item> 
+    <item>72404</item> 
+    <item>28601</item> 
+    <item>26006</item> 
+    <item>23415</item> 
+    <item>24201</item> 
+    <item>23410</item> 
+    <item>21630</item> 
+    <item>26207</item> 
+    <item>24004</item> 
+    <item>22288</item> 
+    <item>22201</item> 
+    <item>20408</item> 
+    <item>27202</item> 
+    <item>22210</item> 
+    <item>42502</item> 
+    <item>50503</item> 
+    <item>42001</item> 
+    <item>23433</item> 
+    <item>310260</item> 
+    <item>22601</item> 
+    <item>22299</item> 
+    <item>42502</item> 
+    <item>28601</item> 
+    <item>42001</item> 
+    <item>25002</item> 
+    <item>26003</item> 
+    <item>23201</item> 
+    <item>26801</item> 
+    <item>23820</item> 
+    <item>20416</item> 
+    <item>25501</item> 
+    <item>52001</item> 
+    <item>24405</item> 
+    <item>21901</item> 
+    <item>23806</item> 
+    <item>302500</item> 
+    <item>42003</item> 
+    <item>26002</item> 
+    <item>26806</item> 
+    <item>310260</item> 
+    <item>22603</item> 
+    <item>21401</item> 
+    <item>23106</item> 
+    <item>22610</item> 
+    <item>71610</item> 
+    <item>41701</item> 
+    <item>72405</item> 
+    <item>28602</item> 
+    <item>20801</item> 
+    <item>20620</item> 
+    <item>21890</item> 
+    <item>23002</item> 
+    <item>21601</item> 
+    <item>22605</item> 
+    <item>23001</item> 
+    <item>26002</item> 
+    <item>42003</item> 
+    <item>24202</item> 
+    <item>20404</item> 
+    <item>20820</item> 
+    <item>23102</item> 
+    <item>72234</item> 
+    <item>24601</item> 
+    <item>26201</item> 
+    <item>23102</item> 
+    <item>25901</item> 
+    <item>27821</item> 
+    <item>310260</item> 
+    <item>65510</item> 
+    <item>23433</item> 
+    <item>23430</item> 
+    <item>24008</item> 
+    <item>43235</item> 
+    <item>60202</item> 
+    <item>26001</item> 
+    <item>732123</item> 
+    <item>29341</item> 
+    <item>60400</item> 
+    <item>26207</item> 
+    <item>35611</item> 
+    <item>22001</item> 
+    <item>50212</item> 
+    <item>74404</item> 
+    <item>310410</item> 
+    <item>53001</item> 
+    <item>20801</item> 
+    <item>72403</item> 
+    <item>43235</item> 
+    <item>72411</item> 
+    <item>24005</item> 
+    <item>25099</item> 
+    <item>21902</item> 
+    <item>24005</item> 
+    <item>22801</item> 
+    <item>20210</item> 
+    <item>33011</item> 
+    <item>50502</item> 
+    <item>27201</item> 
+    <item>73001</item> 
+    <item>51502</item> 
+    <item>28603</item> 
+    <item>22802</item> 
+    <item>22003</item> 
+    <item>52505</item> 
+    <item>42402</item> 
+    <item>71201</item> 
+    <item>45202</item> 
+    <item>72431</item> 
+    <item>60201</item> 
+    <item>24007</item> 
+    <item>52018</item> 
+    <item>51011</item> 
+    <item>52503</item> 
+    <item>45005</item> 
+    <item>34008</item> 
+    <item>45201</item> 
+    <item>40441</item> 
+    <item>46000</item> 
+    <item>40420</item> 
+    <item>51503</item> 
+    <item>72410</item> 
+    <item>50219</item> 
+    <item>45204</item> 
+    <item>20210</item> 
+    <item>40445</item> 
+    <item>41501</item> 
+    <item>31026</item> 
+    <item>45008</item> 
+    <item>302720</item> 
+    <item>61710</item> 
+    <item>72402</item> 
+    <item>28001</item> 
+    <item>20601</item> 
+    <item>26003</item> 
+    <item>44010</item> 
+    <item>43211</item> 
+    <item>50216</item> 
+    <item>40419</item> 
+    <item>41603</item> 
+    <item>51001</item> 
+    <item>52503</item> 
+    <item>41902</item> 
+    <item>41001</item> 
+    <item>302610</item> 
+    <item>40403</item> 
+    <item>24602</item> 
+    <item>29340</item> 
+    <item>302720</item> 
+    <item>23003</item> 
+    <item>26202</item> 
+    <item>40480</item> 
+    <item>40431</item> 
+    <item>40478</item> 
+    <item>20201</item> 
+    <item>25001</item> 
+    <item>22610</item> 
+    <item>42202</item> 
+    <item>24801</item> 
+    <item>40410</item> 
+    <item>22603</item> 
+    <item>60202</item> 
+    <item>26203</item> 
+    <item>20620</item> 
+    <item>41003</item> 
+    <item>22605</item> 
+    <item>51010</item> 
+    <item>22601</item> 
+    <item>28405</item> 
+    <item>21403</item> 
+    <item>41805</item> 
+    <item>27203</item> 
+    <item>20201</item> 
+    <item>42001</item> 
+    <item>20210</item> 
+    <item>23430</item> 
+    <item>23420</item> 
+    <item>28403</item> 
+    <item>65501</item> 
+    <item>46000</item> 
+    <item>27203</item> 
+    <item>41201</item> 
+    <item>40466</item> 
+    <item>405805</item> 
+    <item>23203</item> 
+    <item>22606</item> 
+    <item>25001</item> 
+    <item>40405</item> 
+    <item>24001</item> 
+    <item>20810</item> 
+    <item>42501</item> 
+    <item>27202</item> 
+    <item>40440</item> 
+    <item>31026</item> 
+    <item>23801</item> 
+    <item>42403</item> 
+    <item>21407</item> 
+    <item>24201</item> 
+    <item>52015</item> 
+    <item>23101</item> 
+    <item>40473</item> 
+    <item>65507</item> 
+    <item>62150</item> 
+    <item>40102</item> 
+    <item>24405</item> 
+    <item>40411</item> 
+    <item>24201</item> 
+    <item>40490</item> 
+    <item>72423</item> 
+    <item>25020</item> 
+    <item>51502</item> 
+    <item>40492</item> 
+    <item>42004</item> 
+    <item>46000</item> 
+    <item>40440</item> 
+    <item>21670</item> 
+    <item>40434</item> 
+    <item>52018</item> 
+    <item>42501</item> 
+    <item>45204</item> 
+    <item>24202</item> 
+    <item>40422</item> 
+    <item>405030</item> 
+    <item>47201</item> 
+    <item>310260</item> 
+    <item>20820</item> 
+    <item>24601</item> 
+    <item>28401</item> 
+    <item>42901</item> 
+    <item>25506</item> 
+    <item>22201</item> 
+    <item>42604</item> 
+    <item>24005</item> 
+    <item>405809</item> 
+    <item>21805</item> 
+    <item>45412</item> 
+    <item>338050</item> 
+    <item>37002</item> 
+    <item>50506</item> 
+    <item>73404</item> 
+    <item>20205</item> 
+    <item>40420</item> 
+    <item>28603</item> 
+    <item>29370</item> 
+    <item>71401</item> 
+    <item>60203</item> 
+    <item>52501</item> 
+    <item>45419</item> 
+    <item>26203</item> 
+    <item>22803</item> 
+    <item>22003</item> 
+    <item>33011</item> 
+    <item>21403</item> 
+    <item>41702</item> 
+    <item>23430</item> 
+    <item>24004</item> 
+    <item>72404</item> 
+    <item>40420</item> 
+    <item>21805</item> 
+    <item>732103</item> 
+    <item>40486</item> 
+    <item>23801</item> 
+    <item>37002</item> 
+    <item>71403</item> 
+    <item>41007</item> 
+    <item>302220</item> 
+    <item>41503</item> 
+    <item>24007</item> 
+    <item>20820</item> 
+    <item>25702</item> 
+    <item>310260</item> 
+    <item>24004</item> 
+    <item>71402</item> 
+    <item>302720</item> 
+    <item>310260</item> 
+    <item>310260</item> 
+    <item>27602</item> 
+    <item>47001</item> 
+    <item>46001</item> 
+    <item>50501</item> 
+    <item>62501</item> 
+    <item>24603</item> 
+    <item>50216</item> 
+    <item>27077</item> 
+    <item>45602</item> 
+    <item>29701</item> 
+    <item>73406</item> 
+    <item>23433</item> 
+    <item>53024</item> 
+    <item>24005</item> 
+    <item>334020</item> 
+    <item>40449</item> 
+    <item>52099</item> 
+    <item>45202</item> 
+    <item>40486</item> 
+    <item>52811</item> 
+    <item>40411</item> 
+    <item>40484</item> 
+    <item>24412</item> 
+    <item>43211</item> 
+    <item>40430</item> 
+    <item>41840</item> 
+    <item>24602</item> 
+    <item>23802</item> 
+    <item>40407</item> 
+    <item>405801</item> 
+    <item>25035</item> 
+    <item>20620</item> 
+    <item>405046</item> 
+    <item>60401</item> 
+    <item>21902</item> 
+    <item>405799</item> 
+    <item>22005</item> 
+    <item>60503</item> 
+    <item>42701</item> 
+    <item>28202</item> 
+    <item>24491</item> 
+    <item>24702</item> 
+    <item>51505</item> 
+    <item>24701</item> 
+    <item>50218</item> 
+    <item>41007</item> 
+    <item>51010</item> 
+    <item>31020</item> 
+    <item>21404</item> 
+    <item>41840</item> 
+    <item>42602</item> 
+    <item>40420</item> 
+    <item>21910</item> 
+    <item>40004</item> 
+    <item>40490</item> 
+    <item>54601</item> 
+    <item>27402</item> 
+    <item>45404</item> 
+    <item>21902</item> 
+    <item>40471</item> 
+    <item>46697</item> 
+    <item>25002</item> 
+    <item>45406</item> 
+    <item>27001</item> 
+    <item>37413</item> 
+    <item>50219</item> 
+    <item>26203</item> 
+    <item>44020</item> 
+    <item>51011</item> 
+    <item>405039</item> 
+    <item>40494</item> 
+    <item>722310</item> 
+    <item>71606</item> 
+    <item>23106</item> 
+    <item>41904</item> 
+    <item>40427</item> 
+    <item>44010</item> 
+    <item>60303</item> 
+    <item>21890</item> 
+    <item>40402</item> 
+    <item>40468</item> 
+    <item>42503</item> 
+    <item>29401</item> 
+    <item>26203</item> 
+    <item>72403</item> 
+    <item>41006</item> 
+    <item>42102</item> 
+    <item>43211</item> 
+    <item>41003</item> 
+    <item>21601</item> 
+    <item>29340</item> 
+    <item>31038</item> 
+    <item>20601</item> 
+    <item>74001</item> 
+    <item>51010</item> 
+    <item>40404</item> 
+    <item>40481</item> 
+    <item>40001</item> 
+    <item>24491</item> 
+    <item>53005</item> 
+    <item>334020</item> 
+    <item>41820</item> 
+    <item>310020</item> 
+    <item>40456</item> 
+    <item>310004</item> 
+    <item>46001</item> 
+    <item>46692</item> 
+    <item>52501</item> 
+    <item>24405</item> 
+    <item>42899</item> 
+    <item>45406</item> 
+    <item>40486</item> 
+    <item>62130</item> 
+    <item>40518</item> 
+    <item>46689</item> 
+    <item>40457</item> 
+    <item>40444</item> 
+    <item>40405</item> 
+    <item>45005</item> 
+    <item>41308</item> 
+    <item>25702</item> 
+    <item>26806</item> 
+    <item>40430</item> 
+    <item>20201</item> 
+    <item>25503</item> 
+    <item>51089</item> 
+    <item>27801</item> 
+    <item>51008</item> 
+    <item>45204</item> 
+    <item>31020</item> 
+    <item>73001</item> 
+    <item>42503</item> 
+    <item>310260</item> 
+    <item>302720</item> 
+    <item>40453</item> 
+    <item>72403</item> 
+    <item>40420</item> 
+    <item>41903</item> 
+    <item>26202</item> 
+    <item>25001</item> 
+    <item>405034</item> 
+    <item>31020</item> 
+    <item>25507</item> 
+    <item>26203</item> 
+    <item>302780</item> 
+    <item>302880</item> 
+    <item>40486</item> 
+    <item>28601</item> 
+    <item>31000</item> 
+    <item>70401</item> 
+    <item>302720</item> 
+    <item>73406</item> 
+    <item>40458</item> 
+    <item>40468</item> 
+    <item>302720</item> 
+    <item>28201</item> 
+    <item>20620</item> 
+    <item>40484</item> 
+    <item>24702</item> 
+    <item>40486</item> 
+    <item>25701</item> 
+    <item>60600</item> 
+    <item>72406</item> 
+    <item>26203</item> 
+    <item>52015</item> 
+    <item>23210</item> 
+    <item>40421</item> 
+    <item>45400</item> 
+    <item>72405</item> 
+    <item>45205</item> 
+    <item>24491</item> 
+    <item>45403</item> 
+    <item>28602</item> 
+    <item>24802</item> 
+    <item>46601</item> 
+    <item>25099</item> 
+    <item>40445</item> 
+    <item>52811</item> 
+    <item>28010</item> 
+    <item>20416</item> 
+    <item>40413</item> 
+    <item>72402</item> 
+    <item>41702</item> 
+    <item>24802</item> 
+    <item>24205</item> 
+    <item>20404</item> 
+    <item>60801</item> 
+    <item>24701</item> 
+    <item>334050</item> 
+    <item>26801</item> 
+    <item>45601</item> 
+    <item>40421</item> 
+    <item>302720</item> 
+    <item>25501</item> 
+    <item>60601</item> 
+    <item>41302</item> 
+    <item>40488</item> 
+    <item>41302</item> 
+    <item>302490</item> 
+    <item>23801</item> 
+    <item>53024</item> 
+    <item>51001</item> 
+    <item>72423</item> 
+    <item>29370</item> 
+    <item>40567</item> 
+    <item>20610</item> 
+    <item>45202</item> 
+    <item>71201</item> 
+    <item>62130</item> 
+    <item>405042</item> 
+    <item>405925</item> 
+    <item>41004</item> 
+    <item>47002</item> 
+    <item>21303</item> 
+    <item>41820</item> 
+    <item>23410</item> 
+    <item>34001</item> 
+    <item>26207</item> 
+    <item>22299</item> 
+    <item>20416</item> 
+    <item>24007</item> 
+    <item>40515</item> 
+    <item>405803</item> 
+    <item>22288</item> 
+    <item>31020</item> 
+    <item>23001</item> 
+    <item>27077</item> 
+    <item>25002</item> 
+    <item>26006</item> 
+    <item>22802</item> 
+    <item>33403</item> 
+    <item>52015</item> 
+    <item>60400</item> 
+    <item>24001</item> 
+    <item>20408</item> 
+    <item>72402</item> 
+    <item>41006</item> 
+    <item>24491</item> 
+    <item>310260</item> 
+    <item>405037</item> 
+    <item>24002</item> 
+    <item>22210</item> 
+    <item>73003</item> 
+    <item>40566</item> 
+    <item>62006</item> 
+    <item>64804</item> 
+    <item>334020</item> 
+    <item>72416</item> 
+    <item>310260</item> 
+    <item>45601</item> 
+    <item>25001</item> 
+    <item>26002</item> 
+    <item>31020</item> 
+    <item>26203</item> 
+    <item>26806</item> 
+    <item>28201</item> 
+    <item>27205</item> 
+    <item>60501</item> 
+    <item>26201</item> 
+    <item>60302</item> 
+    <item>28010</item> 
+    <item>35811</item> 
+    <item>23203</item> 
+    <item>71610</item> 
+    <item>41820</item> 
+    <item>27602</item> 
+    <item>22201</item> 
+    <item>24202</item> 
+    <item>73402</item> 
+    <item>40470</item> 
+    <item>21910</item> 
+    <item>40470</item> 
+    <item>310410</item> 
+    <item>64501</item> 
+    <item>74801</item> 
+    <item>64304</item> 
+    <item>405035</item> 
+    <item>41677</item> 
+    <item>40497</item> 
+    <item>40442</item> 
+    <item>24802</item> 
+    <item>52505</item> 
+    <item>60402</item> 
+    <item>45412</item> 
+    <item>40420</item> 
+    <item>22005</item> 
+    <item>25902</item> 
+    <item>31000</item> 
+    <item>41004</item> 
+    <item>40472</item> 
+    <item>74810</item> 
+    <item>64710</item> 
+    <item>310770</item> 
+    <item>23433</item> 
+    <item>73002</item> 
+    <item>26803</item> 
+    <item>26207</item> 
+    <item>28403</item> 
+    <item>51503</item> 
+    <item>70603</item> 
+    <item>42899</item> 
+    <item>732103</item> 
+    <item>26001</item> 
+    <item>338180</item> 
+    <item>21890</item> 
+    <item>52023</item> 
+    <item>45503</item> 
+    <item>405041</item> 
+    <item>40495</item> 
+    <item>20610</item> 
+    <item>62130</item> 
+    <item>405034</item> 
+    <item>40476</item> 
+    <item>20416</item> 
+    <item>310260</item> 
+    <item>42602</item> 
+    <item>72207</item> 
+    <item>26203</item> 
+    <item>24005</item> 
+    <item>72234</item> 
+    <item>62002</item> 
+    <item>405031</item> 
+    <item>62150</item> 
+    <item>23430</item> 
+    <item>60401</item> 
+    <item>36301</item> 
+    <item>40498</item> 
+    <item>24405</item> 
+    <item>47001</item> 
+    <item>51502</item> 
+    <item>40444</item> 
+    <item>46601</item> 
+    <item>52802</item> 
+    <item>26207</item> 
+    <item>29364</item> 
+    <item>47007</item> 
+    <item>40424</item> 
+    <item>40487</item> 
+    <item>40407</item> 
+    <item>42004</item> 
+    <item>31020</item> 
+    <item>310260</item> 
+    <item>31099</item> 
+    <item>21803</item> 
+    <item>52015</item> 
+    <item>40470</item> 
+    <item>31020</item> 
+    <item>64110</item> 
+    <item>27099</item> 
+    <item>61701</item> 
+    <item>40002</item> 
+    <item>21901</item> 
+    <item>45601</item> 
+    <item>45204</item> 
+    <item>40476</item> 
+    <item>31600</item> 
+    <item>310260</item> 
+    <item>60301</item> 
+    <item>29403</item> 
+    <item>40554</item> 
+    <item>20801</item> 
+    <item>42601</item> 
+    <item>24801</item> 
+    <item>43211</item> 
+    <item>26803</item> 
+    <item>70604</item> 
+    <item>72402</item> 
+    <item>53001</item> 
+    <item>51505</item> 
+    <item>36269</item> 
+    <item>40422</item> 
+    <item>405806</item> 
+    <item>310410</item> 
+    <item>50218</item> 
+    <item>70402</item> 
+    <item>24803</item> 
+    <item>52000</item> 
+    <item>24602</item> 
+    <item>45606</item> 
+    <item>24803</item> 
+    <item>40430</item> 
+    <item>405850</item> 
+    <item>40492</item> 
+    <item>41903</item> 
+    <item>29702</item> 
+    <item>46692</item> 
+    <item>27603</item> 
+    <item>23410</item> 
+    <item>23205</item> 
+    <item>60501</item> 
+    <item>31026</item> 
+    <item>40506</item> 
+    <item>42203</item> 
+    <item>40430</item> 
+    <item>62001</item> 
+    <item>22210</item> 
+    <item>405926</item> 
+    <item>40455</item> 
+    <item>302880</item> 
+    <item>23205</item> 
+    <item>22803</item> 
+    <item>31064</item> 
+    <item>23415</item> 
+    <item>21407</item> 
+    <item>73402</item> 
+    <item>71203</item> 
+    <item>64700</item> 
+    <item>209099</item> 
+    <item>40493</item> 
+    <item>24705</item> 
+    <item>37412</item> 
+    <item>71401</item> 
+    <item>310260</item> 
+    <item>28202</item> 
+    <item>732123</item> 
+    <item>40401</item> 
+    <item>23410</item> 
+    <item>40488</item> 
+    <item>27099</item> 
+    <item>21401</item> 
+    <item>72403</item> 
+    <item>25017</item> 
+    <item>46001</item> 
+    <item>40474</item> 
+    <item>40460</item> 
+    <item>302320</item> 
+    <item>310410</item> 
+    <item>74000</item> 
+    <item>40429</item> 
+    <item>40505</item> 
+    <item>60201</item> 
+    <item>63902</item> 
+    <item>31038</item> 
+    <item>52023</item> 
+    <item>60402</item> 
+    <item>41401</item> 
+    <item>24414</item> 
+    <item>52001</item> 
+    <item>40486</item> 
+    <item>23415</item> 
+    <item>72234</item> 
+    <item>33805</item> 
+    <item>20815</item> 
+    <item>72416</item> 
+    <item>40472</item> 
+    <item>405929</item> 
+    <item>51001</item> 
+    <item>21601</item> 
+    <item>73001</item> 
+    <item>28305</item> 
+    <item>302500</item> 
+    <item>732103</item> 
+    <item>40413</item> 
+    <item>36301</item> 
+    <item>43232</item> 
+    <item>41601</item> 
+    <item>27401</item> 
+    <item>310410</item> 
+    <item>21910</item> 
+    <item>310260</item> 
+    <item>70802</item> 
+    <item>26003</item> 
+    <item>708001</item> 
+    <item>60303</item> 
+    <item>42901</item> 
+    <item>41301</item> 
+    <item>40421</item> 
+    <item>40420</item> 
+    <item>302610</item> 
+    <item>310120</item> 
+    <item>40467</item> 
+    <item>71030</item> 
+    <item>46689</item> 
+    <item>41902</item> 
+    <item>40487</item> 
+    <item>40510</item> 
+    <item>45412</item> 
+    <item>61701</item> 
+    <item>62910</item> 
+    <item>23205</item> 
+    <item>25012</item> 
+    <item>62001</item> 
+    <item>45602</item> 
+    <item>732101</item> 
+    <item>25702</item> 
+    <item>72405</item> 
+    <item>405800</item> 
+    <item>40002</item> 
+    <item>25503</item> 
+    <item>42702</item> 
+    <item>26203</item> 
+    <item>40551</item> 
+    <item>310410</item> 
+    <item>310090</item> 
+    <item>405036</item> 
+    <item>63310</item> 
+    <item>37001</item> 
+    <item>28301</item> 
+    <item>50219</item> 
+    <item>46000</item> 
+    <item>45008</item> 
+    <item>73003</item> 
+    <item>27801</item> 
+    <item>26203</item> 
+    <item>24205</item> 
+    <item>25039</item> 
+    <item>63601</item> 
+    <item>54601</item> 
+    <item>23002</item> 
+    <item>40501</item> 
+    <item>722310</item> 
+    <item>26003</item> 
+    <item>34020</item> 
+    <item>31026</item> 
+    <item>31020</item> 
+    <item>22601</item> 
+    <item>338180</item> 
+    <item>71403</item> 
+    <item>40404</item> 
+    <item>27411</item> 
+    <item>45608</item> 
+    <item>24005</item> 
+    <item>24602</item> 
+    <item>65201</item> 
+    <item>63401</item> 
+    <item>50501</item> 
+    <item>40411</item> 
+    <item>50502</item> 
+    <item>42902</item> 
+    <item>40477</item> 
+    <item>47202</item> 
+    <item>20404</item> 
+    <item>405852</item> 
+    <item>41401</item> 
+    <item>405044</item> 
+    <item>40402</item> 
+    <item>31020</item> 
+    <item>42503</item> 
+    <item>23801</item> 
+    <item>72403</item> 
+    <item>405025</item> 
+    <item>311480</item> 
+    <item>20820</item> 
+    <item>40413</item> 
+    <item>26207</item> 
+    <item>21803</item> 
+    <item>26207</item> 
+    <item>41840</item> 
+    <item>70267</item> 
+    <item>70601</item> 
+    <item>23203</item> 
+    <item>40551</item> 
+    <item>74603</item> 
+    <item>40427</item> 
+    <item>50506</item> 
+    <item>42701</item> 
+    <item>24205</item> 
+    <item>310090</item> 
+    <item>23201</item> 
+    <item>41220</item> 
+    <item>23403</item> 
+    <item>23455</item> 
+    <item>26006</item> 
+    <item>28204</item> 
+    <item>71201</item> 
+    <item>342600</item> 
+    <item>40416</item> 
+    <item>348570</item> 
+    <item>34002</item> 
+    <item>20408</item> 
+    <item>310450</item> 
+    <item>62120</item> 
+    <item>27402</item> 
+    <item>63401</item> 
+    <item>28305</item> 
+    <item>310590</item> 
+    <item>31020</item> 
+    <item>45602</item> 
+    <item>51010</item> 
+    <item>302220</item> 
+    <item>24601</item> 
+    <item>302720</item> 
+    <item>27202</item> 
+    <item>310004</item> 
+    <item>24412</item> 
+    <item>41503</item> 
+    <item>63510</item> 
+    <item>40459</item> 
+    <item>310004</item> 
+    <item>41677</item> 
+    <item>310320</item> 
+    <item>62150</item> 
+    <item>31026</item> 
+    <item>40460</item> 
+    <item>70403</item> 
+    <item>26601</item> 
+    <item>60600</item> 
+    <item>26203</item> 
+    <item>26201</item> 
+    <item>41601</item> 
+    <item>54201</item> 
+    <item>24201</item> 
+    <item>26207</item> 
+    <item>31020</item> 
+    <item>40443</item> 
+    <item>405802</item> 
+    <item>43407</item> 
+    <item>25901</item> 
+    <item>52015</item> 
+    <item>40464</item> 
+    <item>42505</item> 
+    <item>20404</item> 
+    <item>29402</item> 
+    <item>21901</item> 
+    <item>40492</item> 
+    <item>23205</item> 
+    <item>20811</item> 
+    <item>310120</item> 
+    <item>25020</item> 
+    <item>302720</item> 
+    <item>45404</item> 
+    <item>25099</item> 
+    <item>26202</item> 
+    <item>310420</item> 
+    <item>37412</item> 
+    <item>60601</item> 
+    <item>36611</item> 
+    <item>40424</item> 
+    <item>28401</item> 
+    <item>24602</item> 
+    <item>40470</item> 
+    <item>45204</item> 
+    <item>45609</item> 
+    <item>405804</item> 
+    <item>23458</item> 
+    <item>52802</item> 
+    <item>25039</item> 
+    <item>708001</item> 
+    <item>405038</item> 
+    <item>40438</item> 
+    <item>42701</item> 
+    <item>43407</item> 
+    <item>40001</item> 
+    <item>60301</item> 
+    <item>45201</item> 
+    <item>43701</item> 
+    <item>40473</item> 
+    <item>20610</item> 
+    <item>37412</item> 
+    <item>42604</item> 
+    <item>29402</item> 
+    <item>60400</item> 
+    <item>46000</item> 
+    <item>21407</item> 
+    <item>22003</item> 
+    <item>62160</item> 
+    <item>71030</item> 
+    <item>47202</item> 
+    <item>40420</item> 
+    <item>28603</item> 
+    <item>62120</item> 
+    <item>42888</item> 
+    <item>62001</item> 
+    <item>29403</item> 
+    <item>25701</item> 
+    <item>7127</item> 
+    <item>25020</item> 
+    <item>722310</item> 
+    <item>51001</item> 
+    <item>40452</item> 
+    <item>311370</item> 
+    <item>348170</item> 
+    <item>52015</item> 
+    <item>25501</item> 
+    <item>26202</item> 
+    <item>28001</item> 
+    <item>31000</item> 
+    <item>60502</item> 
+    <item>40454</item> 
+    <item>62502</item> 
+    <item>40474</item> 
+    <item>40419</item> 
+    <item>25003</item> 
+    <item>302720</item> 
+    <item>25012</item> 
+    <item>45708</item> 
+    <item>310260</item> 
+    <item>51011</item> 
+    <item>31045</item> 
+    <item>64101</item> 
+    <item>22003</item> 
+    <item>209099</item> 
+    <item>40460</item> 
+    <item>22803</item> 
+    <item>47002</item> 
+    <item>26006</item> 
+    <item>26002</item> 
+    <item>41904</item> 
+    <item>40101</item> 
+    <item>310120</item> 
+    <item>72402</item> 
+    <item>51011</item> 
+    <item>23450</item> 
+    <item>37004</item> 
+    <item>28202</item> 
+    <item>310004</item> 
+    <item>73406</item> 
+    <item>20620</item> 
+    <item>310260</item> 
+    <item>25005</item> 
+    <item>61202</item> 
+    <item>43405</item> 
+    <item>45207</item> 
+    <item>37000</item> 
+    <item>25005</item> 
+    <item>310140</item> 
+    <item>405834</item> 
+    <item>25704</item> 
+    <item>25704</item> 
+    <item>25020</item> 
+    <item>25012</item> 
+    <item>22201</item> 
+    <item>41303</item> 
+    <item>25503</item> 
+    <item>25902</item> 
+    <item>405752</item> 
+    <item>25007</item> 
+    <item>25500</item> 
+    <item>42103</item> 
+    <item>72404</item> 
+    <item>28305</item> 
+    <item>25007</item> 
+    <item>31053</item> 
+    <item>43404</item> 
+    <item>31079</item> 
+    <item>25005</item> 
+    <item>64005</item> 
+    <item>25016</item> 
+    <item>302720</item> 
+    <item>27001</item> 
+    <item>25012</item> 
+    <item>40445</item> 
+    <item>40411</item> 
+    <item>43602</item> 
+    <item>24603</item> 
+    <item>25704</item> 
+    <item>45203</item> 
+    <item>36439</item> 
+    <item>43605</item> 
+    <item>50502</item> 
+    <item>50502</item> 
+    <item>43603</item> 
+    <item>43405</item> 
+    <item>40452</item> 
+    <item>23410</item> 
+    <item>25507</item> 
+    <item>51009</item> 
+    <item>50212</item> 
+    <item>25010</item> 
+    <item>20801</item> 
+    <item>43604</item> 
+    <item>25003</item> 
+    <item>25501</item> 
+    <item>25005</item> 
+    <item>24702</item> 
+    <item>70401</item> 
+    <item>25003</item> 
+    <item>26207</item> 
+    <item>27202</item> 
+    <item>40455</item> 
+    <item>26207</item> 
+    <item>40469</item> 
+    <item>60503</item> 
+    <item>25099</item> 
+    <item>23400</item> 
+    <item>28401</item> 
+    <item>732103</item> 
+    <item>28301</item> 
+    <item>28310</item> 
+    <item>24602</item> 
+    <item>43705</item> 
+    <item>25035</item> 
+    <item>45403</item> 
+    <item>27402</item> 
+    <item>40488</item> 
+    <item>32300</item> 
+    <item>50501</item> 
+    <item>45412</item> 
+    <item>51099</item> 
+    <item>28603</item> 
+    <item>25503</item> 
+    <item>722310</item> 
+    <item>45406</item> 
+    <item>28603</item> 
+    <item>31020</item> 
+    <item>40177</item> 
+    <item>40552</item> 
+    <item>25012</item> 
+    <item>23430</item> 
+    <item>45406</item> 
+    <item>20408</item> 
+    <item>45504</item> 
+    <item>31027</item> 
+    <item>25901</item> 
+    <item>50216</item> 
+    <item>31030</item> 
+    <item>72403</item> 
+    <item>25002</item> 
+    <item>43407</item> 
+    <item>10231</item> 
+    <item>27203</item> 
+    <item>27205</item> 
+    <item>44020</item> 
+    <item>40424</item> 
+    <item>71201</item> 
+    <item>40425</item> 
+    <item>40412</item> 
+    <item>26006</item> 
+    <item>42503</item> 
+    <item>42003</item> 
+    <item>21601</item> 
+    <item>310127</item> 
+    <item>63401</item> 
+    <item>72403</item> 
+    <item>22801</item> 
+    <item>50501</item> 
+    <item>21601</item> 
+    <item>65501</item> 
+    <item>42003</item> 
+    <item>63301</item> 
+    <item>43601</item> 
+    <item>23820</item> 
+    <item>23433</item> 
+    <item>40460</item> 
+    <item>28601</item> 
+    <item>20620</item> 
+    <item>40478</item> 
+    <item>40491</item> 
+    <item>20810</item> 
+    <item>310260</item> 
+    <item>27601</item> 
+    <item>20408</item> 
+    <item>23201</item> 
+    <item>732103</item> 
+    <item>22299</item> 
+    <item>41240</item> 
+    <item>310410</item> 
+    <item>40475</item> 
+    <item>62003</item> 
+    <item>31000</item> 
+    <item>31000</item> 
+    <item>311480</item> 
+    <item>20416</item> 
+    <item>405827</item> 
+    <item>20201</item> 
+    <item>47007</item> 
+    <item>25503</item> 
+    <item>53024</item> 
+    <item>26002</item> 
+    <item>20800</item> 
+    <item>52000</item> 
+    <item>27877</item> 
+    <item>40004</item> 
+    <item>74801</item> 
+    <item>70402</item> 
+    <item>25704</item> 
+    <item>63402</item> 
+    <item>25007</item> 
+    <item>20601</item> 
+    <item>40446</item> 
+    <item>20610</item> 
+    <item>31020</item> 
+    <item>50502</item> 
+    <item>20205</item> 
+    <item>61203</item> 
+    <item>40492</item> 
+    <item>31000</item> 
+    <item>22288</item> 
+    <item>21901</item> 
+    <item>72404</item> 
+    <item>374130</item> 
+    <item>41902</item> 
+    <item>29001</item> 
+    <item>26207</item> 
+    <item>40519</item> 
+    <item>24803</item> 
+    <item>63907</item> 
+    <item>334020</item> 
+    <item>22610</item> 
+    <item>302610</item> 
+    <item>40102</item> 
+    <item>50218</item> 
+    <item>41701</item> 
+    <item>40419</item> 
+    <item>64602</item> 
+    <item>40513</item> 
+    <item>23458</item> 
+    <item>74404</item> 
+    <item>40469</item> 
+    <item>29402</item> 
+    <item>42505</item> 
+    <item>714020</item> 
+    <item>20404</item> 
+    <item>72404</item> 
+    <item>311470</item> 
+    <item>26003</item> 
+    <item>45400</item> 
+    <item>40431</item> 
+    <item>25005</item> 
+    <item>334050</item> 
+    <item>71404</item> 
+    <item>40415</item> 
+    <item>36291</item> 
+    <item>61202</item> 
+    <item>62006</item> 
+    <item>73603</item> 
+    <item>20416</item> 
+    <item>51000</item> 
+    <item>31000</item> 
+    <item>40102</item> 
+    <item>63510</item> 
+    <item>40102</item> 
+    <item>31016</item> 
+    <item>33404</item> 
+    <item>310260</item> 
+    <item>25012</item> 
+    <item>51011</item> 
+    <item>40511</item> 
+    <item>72404</item> 
+    <item>40497</item> 
+    <item>24202</item> 
+    <item>64700</item> 
+    <item>72404</item> 
+    <item>31000</item> 
+    <item>43407</item> 
+    <item>25099</item> 
+    <item>302720</item> 
+    <item>51011</item> 
+    <item>25702</item> 
+    <item>310770</item> 
+    <item>72431</item> 
+    <item>405820</item> 
+    <item>26202</item> 
+    <item>24005</item> 
+    <item>20810</item> 
+    <item>31020</item> 
+    <item>52503</item> 
+    <item>72410</item> 
+    <item>310260</item> 
+    <item>24701</item> 
+    <item>31000</item> 
+    <item>20205</item> 
+    <item>42001</item> 
+    <item>45602</item> 
+    <item>40518</item> 
+    <item>405827</item> 
+    <item>40566</item> 
+    <item>26201</item> 
+    <item>45505</item> 
+    <item>45008</item> 
+    <item>41305</item> 
+    <item>51402</item> 
+    <item>310000</item> 
+    <item>26203</item> 
+    <item>23802</item> 
+    <item>23201</item> 
+    <item>26203</item> 
+    <item>72403</item> 
+    <item>27411</item> 
+    <item>43701</item> 
+    <item>25039</item> 
+    <item>42506</item> 
+    <item>710300</item> 
+    <item>26203</item> 
+    <item>31001</item> 
+    <item>50219</item> 
+    <item>21407</item> 
+    <item>405043</item> 
+    <item>23415</item> 
+    <item>23410</item> 
+    <item>20610</item> 
+    <item>28801</item> 
+    <item>40507</item> 
+    <item>60801</item> 
+    <item>64803</item> 
+    <item>26203</item> 
+    <item>51503</item> 
+    <item>62160</item> 
+    <item>47003</item> 
+    <item>22201</item> 
+    <item>42001</item> 
+    <item>46689</item> 
+    <item>21201</item> 
+    <item>330110</item> 
+    <item>45416</item> 
+    <item>405046</item> 
+    <item>405045</item> 
+    <item>64601</item> 
+    <item>74602</item> 
+    <item>310260</item> 
+    <item>31026</item> 
+    <item>732101</item> 
+    <item>23210</item> 
+    <item>45412</item> 
+    <item>28405</item> 
+    <item>310410</item> 
+    <item>41250</item> 
+    <item>25506</item> 
+    <item>40424</item> 
+    <item>310260</item> 
+    <item>51505</item> 
+    <item>40001</item> 
+    <item>42101</item> 
+    <item>25901</item> 
+    <item>24603</item> 
+    <item>73801</item> 
+    <item>21404</item> 
+    <item>97600</item> 
+    <item>21890</item> 
+    <item>46000</item> 
+    <item>405044</item> 
+    <item>63902</item> 
+    <item>21401</item> 
+    <item>71403</item> 
+    <item>70267</item> 
+    <item>302720</item> 
+    <item>405756</item> 
+    <item>40410</item> 
+    <item>302720</item> 
+    <item>310260</item> 
+    <item>45606</item> 
+    <item>44000</item> 
+    <item>31000</item> 
+    <item>29341</item> 
+    <item>51008</item> 
+    <item>50218</item> 
+    <item>73404</item> 
+    <item>302720</item> 
+    <item>45203</item> 
+    <item>73002</item> 
+    <item>70402</item> 
+    <item>37002</item> 
+    <item>36439</item> 
+    <item>42901</item> 
+    <item>22605</item> 
+    <item>43220</item> 
+    <item>21407</item> 
+    <item>22802</item> 
+    <item>40460</item> 
+    <item>25039</item> 
+    <item>21805</item> 
+    <item>40446</item> 
+    <item>22001</item> 
+    <item>405840</item> 
+    <item>46697</item> 
+    <item>21401</item> 
+    <item>64005</item> 
+    <item>330110</item> 
+    <item>45202</item> 
+    <item>405811</item> 
+    <item>40428</item> 
+    <item>74807</item> 
+    <item>405036</item> 
+    <item>37203</item> 
+    <item>31000</item> 
+    <item>334020</item> 
+    <item>65510</item> 
+    <item>24603</item> 
+    <item>65310</item> 
+    <item>42202</item> 
+    <item>63401</item> 
+    <item>40497</item> 
+    <item>46000</item> 
+    <item>60201</item> 
+    <item>45618</item> 
+    <item>40521</item> 
+    <item>40101</item> 
+    <item>26203</item> 
+    <item>61404</item> 
+    <item>310100</item> 
+    <item>25007</item> 
+    <item>23410</item> 
+    <item>65510</item> 
+    <item>25506</item> 
+    <item>25905</item> 
+    <item>26203</item> 
+    <item>24412</item> 
+    <item>28001</item> 
+    <item>63903</item> 
+    <item>22005</item> 
+    <item>24205</item> 
+    <item>21803</item> 
+    <item>65202</item> 
+    <item>40456</item> 
+    <item>74602</item> 
+    <item>26207</item> 
+    <item>40440</item> 
+    <item>62002</item> 
+    <item>320</item> 
+    <item>22601</item> 
+    <item>53001</item> 
+    <item>21403</item> 
+    <item>1001</item> 
+    <item>41003</item> 
+    <item>23101</item> 
+    <item>41401</item> 
+    <item>40405</item> 
+    <item>64501</item> 
+    <item>71201</item> 
+    <item>52503</item> 
+    <item>22201</item> 
+    <item>64301</item> 
+    <item>47002</item> 
+    <item>42502</item> 
+    <item>405042</item> 
+    <item>23433</item> 
+    <item>40401</item> 
+    <item>45006</item> 
+    <item>310120</item> 
+    <item>25001</item> 
+    <item>70802</item> 
+    <item>41503</item> 
+    <item>60301</item> 
+    <item>62101</item> 
+    <item>43211</item> 
+    <item>310470</item> 
+    <item>62160</item> 
+    <item>40477</item> 
+    <item>40415</item> 
+    <item>732103</item> 
+    <item>60702</item> 
+    <item>40440</item> 
+    <item>70401</item> 
+    <item>43405</item> 
+    <item>310004</item> 
+    <item>64004</item> 
+    <item>310120</item> 
+    <item>46692</item> 
+    <item>405047</item> 
+    <item>21403</item> 
+    <item>23806</item> 
+    <item>31000</item> 
+    <item>302720</item> 
+    <item>51502</item> 
+    <item>311220</item> 
+    <item>405802</item> 
+    <item>28601</item> 
+    <item>44004</item> 
+    <item>62402</item> 
+    <item>40177</item> 
+    <item>29340</item> 
+    <item>72403</item> 
+    <item>23205</item> 
+    <item>405810</item> 
+    <item>334050</item> 
+    <item>26203</item> 
+    <item>45005</item> 
+    <item>31000</item> 
+    <item>40409</item> 
+    <item>36291</item> 
+    <item>342600</item> 
+    <item>26203</item> 
+    <item>70603</item> 
+    <item>40407</item> 
+    <item>25016</item> 
+    <item>25016</item> 
+    <item>21401</item> 
+    <item>71021</item> 
+    <item>22802</item> 
+    <item>26202</item> 
+    <item>42888</item> 
+    <item>45406</item> 
+    <item>40445</item> 
+    <item>42901</item> 
+    <item>61603</item> 
+    <item>23430</item> 
+    <item>52000</item> 
+    <item>23002</item> 
+    <item>45702</item> 
+    <item>40420</item> 
+    <item>33403</item> 
+    <item>311220</item> 
+    <item>20620</item> 
+    <item>73602</item> 
+    <item>334050</item> 
+    <item>24603</item> 
+    <item>310120</item> 
+    <item>311480</item> 
+    <item>28603</item> 
+    <item>23430</item> 
+    <item>25506</item> 
+    <item>63001</item> 
+    <item>43703</item> 
+    <item>63089</item> 
+    <item>64501</item> 
+    <item>23201</item> 
+    <item>26803</item> 
+    <item>64114</item> 
+    <item>43405</item> 
+    <item>20416</item> 
+    <item>46001</item> 
+    <item>42503</item> 
+    <item>73603</item> 
+    <item>21403</item> 
+    <item>26207</item> 
+    <item>46605</item> 
+    <item>310590</item> 
+    <item>42888</item> 
+    <item>31099</item> 
+    <item>60601</item> 
+    <item>25012</item> 
+    <item>26017</item> 
+    <item>65507</item> 
+    <item>3167</item> 
+    <item>45618</item> 
+    <item>63102</item> 
+    <item>40436</item> 
+    <item>21407</item> 
+    <item>50502</item> 
+    <item>25504</item> 
+    <item>71201</item> 
+    <item>43404</item> 
+    <item>310260</item> 
+    <item>42004</item> 
+    <item>23801</item> 
+    <item>310000</item> 
+    <item>31000</item> 
+    <item>31094</item> 
+    <item>334020</item> 
+    <item>310260</item> 
+    <item>21401</item> 
+    <item>72404</item> 
+    <item>50900</item> 
+    <item>11103</item> 
+    <item>40470</item> 
+    <item>310000</item> 
+    <item>23802</item> 
+    <item>310000</item> 
+    <item>61710</item> 
+    <item>45201</item> 
+    <item>45703</item> 
+    <item>40522</item> 
+    <item>41840</item> 
+    <item>51011</item> 
+    <item>40414</item> 
+    <item>23433</item> 
+    <item>40509</item> 
+    <item>45201</item> 
+    <item>11103</item> 
+    <item>46001</item> 
+    <item>42601</item> 
+    <item>42507</item> 
+    <item>310000</item> 
+    <item>42501</item> 
+    <item>46003</item> 
+    <item>40411</item> 
+    <item>405812</item> 
+    <item>52802</item> 
+    <item>40427</item> 
+    <item>310260</item> 
+    <item>45400</item> 
+    <item>31100</item> 
+    <item>42502</item> 
+    <item>40466</item> 
+    <item>21201</item> 
+    <item>310000</item> 
+    <item>74402</item> 
+    <item>28602</item> 
+    <item>40566</item> 
+    <item>40555</item> 
+    <item>710300</item> 
+    <item>72207</item> 
+    <item>45400</item> 
+    <item>40496</item> 
+    <item>46000</item> 
+    <item>1023127</item> 
+    <item>45400</item> 
+    <item>20909</item> 
+    <item>43211</item> 
+    <item>40494</item> 
+    <item>33450</item> 
+    <item>63104</item> 
+    <item>40420</item> 
+    <item>40489</item> 
+    <item>25012</item> 
+    <item>40462</item> 
+    <item>334050</item> 
+    <item>40470</item> 
+    <item>20810</item> 
+    <item>20810</item> 
+    <item>71400</item> 
+    <item>70602</item> 
+    <item>47007</item> 
+    <item>64844</item> 
+    <item>40534</item> 
+    <item>52099</item> 
+    <item>42888</item> 
+    <item>21630</item> 
+    <item>40416</item> 
+    <item>23410</item> 
+    <item>22210</item> 
+    <item>63902</item> 
+    <item>26203</item> 
+    <item>22803</item> 
+    <item>22802</item> 
+    <item>45608</item> 
+    <item>310000</item> 
+    <item>51010</item> 
+    <item>46692</item> 
+    <item>25002</item> 
+    <item>43211</item> 
+    <item>31047</item> 
+    <item>51011</item> 
+    <item>52001</item> 
+    <item>52018</item> 
+    <item>20210</item> 
+    <item>21630</item> 
+    <item>20801</item> 
+    <item>26201</item> 
+    <item>44004</item> 
+    <item>20820</item> 
+    <item>52811</item> 
+    <item>45604</item> 
+    <item>405755</item> 
+    <item>45701</item> 
+    <item>42402</item> 
+    <item>60502</item> 
+    <item>42601</item> 
+    <item>31020</item> 
+    <item>405752</item> 
+    <item>31082</item> 
+    <item>72416</item> 
+    <item>722310</item> 
+    <item>20810</item> 
+    <item>42801</item> 
+    <item>31026</item> 
+    <item>42001</item> 
+    <item>22610</item> 
+    <item>23802</item> 
+    <item>25020</item> 
+    <item>40472</item> 
+    <item>311480</item> 
+    <item>72432</item> 
+    <item>47004</item> 
+    <item>23420</item> 
+    <item>72410</item> 
+    <item>310260</item> 
+    <item>25017</item> 
+    <item>52000</item> 
+    <item>25099</item> 
+    <item>40442</item> 
+    <item>45005</item> 
+    <item>24803</item> 
+    <item>72402</item> 
+    <item>24705</item> 
+    <item>40478</item> 
+    <item>310120</item> 
+    <item>65507</item> 
+    <item>43235</item> 
+    <item>52505</item> 
+    <item>31093</item> 
+    <item>36439</item> 
+    <item>22299</item> 
+    <item>25503</item> 
+    <item>43235</item> 
+    <item>27411</item> 
+    <item>73001</item> 
+    <item>64005</item> 
+    <item>54720</item> 
+    <item>42402</item> 
+    <item>40486</item> 
+    <item>302490</item> 
+    <item>40493</item> 
+    <item>21401</item> 
+    <item>74001</item> 
+    <item>21401</item> 
+    <item>73002</item> 
+    <item>42001</item> 
+    <item>45204</item> 
+    <item>31000</item> 
+    <item>45008</item> 
+    <item>21407</item> 
+    <item>27203</item> 
+    <item>40462</item> 
+    <item>405756</item> 
+    <item>25012</item> 
+    <item>74404</item> 
+    <item>74405</item> 
+    <item>60601</item> 
+    <item>27202</item> 
+    <item>31020</item> 
+    <item>52501</item> 
+    <item>25506</item> 
+    <item>52099</item> 
+    <item>20810</item> 
+    <item>25012</item> 
+    <item>405030</item> 
+    <item>334050</item> 
+    <item>73404</item> 
+    <item>40459</item> 
+    <item>27099</item> 
+    <item>22003</item> 
+    <item>40490</item> 
+    <item>25503</item> 
+    <item>74404</item> 
+    <item>40445</item> 
+    <item>26207</item> 
+    <item>29502</item> 
+    <item>40449</item> 
+    <item>40520</item> 
+    <item>52000</item> 
+    <item>732101</item> 
+    <item>61710</item> 
+    <item>40101</item> 
+    <item>26201</item> 
+    <item>310470</item> 
+    <item>25501</item> 
+    <item>41250</item> 
+    <item>22801</item> 
+    <item>50212</item> 
+    <item>31020</item> 
+    <item>45400</item> 
+    <item>20404</item> 
+    <item>51001</item> 
+    <item>40466</item> 
+    <item>45502</item> 
+  </string-array>
+  <string-array name="mobile_operator_numeric_equivalencies">
+    <item>23430</item> 
+    <item>310410</item> 
+    <item>405799</item> 
+    <item>72404</item> 
+    <item>28601</item> 
+    <item>26006</item> 
+    <item>23415</item> 
+    <item>24201</item> 
+    <item>23410</item> 
+    <item>21630</item> 
+    <item>26207</item> 
+    <item>24004</item> 
+    <item>22288</item> 
+    <item>22201</item> 
+    <item>20408</item> 
+    <item>27202</item> 
+    <item>22210</item> 
+    <item>42502</item> 
+    <item>50503</item> 
+    <item>42001</item> 
+    <item>23433</item> 
+    <item>310260</item> 
+    <item>22601</item> 
+    <item>22299</item> 
+    <item>42502</item> 
+    <item>28601</item> 
+    <item>42001</item> 
+    <item>25002</item> 
+    <item>26003</item> 
+    <item>23201</item> 
+    <item>26801</item> 
+    <item>23820</item> 
+    <item>20416</item> 
+    <item>25501</item> 
+    <item>52001</item> 
+    <item>24405</item> 
+    <item>21901</item> 
+    <item>23806</item> 
+    <item>302500</item> 
+    <item>42003</item> 
+    <item>26002</item> 
+    <item>26806</item> 
+    <item>310260</item> 
+    <item>22603</item> 
+    <item>21401</item> 
+    <item>23106</item> 
+    <item>22610</item> 
+    <item>71610</item> 
+    <item>41701</item> 
+    <item>72405</item> 
+    <item>28602</item> 
+    <item>20801</item> 
+    <item>20620</item> 
+    <item>21890</item> 
+    <item>23002</item> 
+    <item>21601</item> 
+    <item>22605</item> 
+    <item>23001</item> 
+    <item>26002</item> 
+    <item>42003</item> 
+    <item>24202</item> 
+    <item>20404</item> 
+    <item>20820</item> 
+    <item>23102</item> 
+    <item>72234</item> 
+    <item>24601</item> 
+    <item>26201</item> 
+    <item>23102</item> 
+    <item>25901</item> 
+    <item>27821</item> 
+    <item>310260</item> 
+    <item>65510</item> 
+    <item>23433</item> 
+    <item>23430</item> 
+    <item>24008</item> 
+    <item>43235</item> 
+    <item>60202</item> 
+    <item>26001</item> 
+    <item>732123</item> 
+    <item>29341</item> 
+    <item>60400</item> 
+    <item>26207</item> 
+    <item>35611</item> 
+    <item>22001</item> 
+    <item>50212</item> 
+    <item>74404</item> 
+    <item>310410</item> 
+    <item>53001</item> 
+    <item>20801</item> 
+    <item>72403</item> 
+    <item>43235</item> 
+    <item>72411</item> 
+    <item>24005</item> 
+    <item>25099</item> 
+    <item>21902</item> 
+    <item>24005</item> 
+    <item>22801</item> 
+    <item>20210</item> 
+    <item>33011</item> 
+    <item>50502</item> 
+    <item>27201</item> 
+    <item>73001</item> 
+    <item>51502</item> 
+    <item>28603</item> 
+    <item>22802</item> 
+    <item>22003</item> 
+    <item>52505</item> 
+    <item>42402</item> 
+    <item>71201</item> 
+    <item>45202</item> 
+    <item>72431</item> 
+    <item>60201</item> 
+    <item>24007</item> 
+    <item>52018</item> 
+    <item>51011</item> 
+    <item>52503</item> 
+    <item>45005</item> 
+    <item>34008</item> 
+    <item>45201</item> 
+    <item>40441</item> 
+    <item>46000</item> 
+    <item>40420</item> 
+    <item>51503</item> 
+    <item>72410</item> 
+    <item>50219</item> 
+    <item>45204</item> 
+    <item>20210</item> 
+    <item>40445</item> 
+    <item>41501</item> 
+    <item>31026</item> 
+    <item>45008</item> 
+    <item>302720</item> 
+    <item>61710</item> 
+    <item>72402</item> 
+    <item>28001</item> 
+    <item>20601</item> 
+    <item>26003</item> 
+    <item>44010</item> 
+    <item>43211</item> 
+    <item>50216</item> 
+    <item>40419</item> 
+    <item>41603</item> 
+    <item>51001</item> 
+    <item>52503</item> 
+    <item>41902</item> 
+    <item>41001</item> 
+    <item>302610</item> 
+    <item>40403</item> 
+    <item>24602</item> 
+    <item>29340</item> 
+    <item>302720</item> 
+    <item>23003</item> 
+    <item>26202</item> 
+    <item>40480</item> 
+    <item>40431</item> 
+    <item>40478</item> 
+    <item>20201</item> 
+    <item>25001</item> 
+    <item>22610</item> 
+    <item>42202</item> 
+    <item>24801</item> 
+    <item>40410</item> 
+    <item>22603</item> 
+    <item>60202</item> 
+    <item>26203</item> 
+    <item>20620</item> 
+    <item>41003</item> 
+    <item>22605</item> 
+    <item>51010</item> 
+    <item>22601</item> 
+    <item>28405</item> 
+    <item>21403</item> 
+    <item>41805</item> 
+    <item>27203</item> 
+    <item>20201</item> 
+    <item>42001</item> 
+    <item>20210</item> 
+    <item>23430</item> 
+    <item>23420</item> 
+    <item>28403</item> 
+    <item>65501</item> 
+    <item>46000</item> 
+    <item>27203</item> 
+    <item>41201</item> 
+    <item>40466</item> 
+    <item>405805</item> 
+    <item>23203</item> 
+    <item>22606</item> 
+    <item>25001</item> 
+    <item>40405</item> 
+    <item>24001</item> 
+    <item>20810</item> 
+    <item>42501</item> 
+    <item>27202</item> 
+    <item>40440</item> 
+    <item>31026</item> 
+    <item>23801</item> 
+    <item>42403</item> 
+    <item>21407</item> 
+    <item>24201</item> 
+    <item>52015</item> 
+    <item>23101</item> 
+    <item>40473</item> 
+    <item>65507</item> 
+    <item>62150</item> 
+    <item>40102</item> 
+    <item>24405</item> 
+    <item>40411</item> 
+    <item>24201</item> 
+    <item>40490</item> 
+    <item>72423</item> 
+    <item>25020</item> 
+    <item>51502</item> 
+    <item>40492</item> 
+    <item>42004</item> 
+    <item>46000</item> 
+    <item>40440</item> 
+    <item>21670</item> 
+    <item>40434</item> 
+    <item>52018</item> 
+    <item>42501</item> 
+    <item>45204</item> 
+    <item>24202</item> 
+    <item>40422</item> 
+    <item>405030</item> 
+    <item>47201</item> 
+    <item>310260</item> 
+    <item>20820</item> 
+    <item>24601</item> 
+    <item>28401</item> 
+    <item>42901</item> 
+    <item>25506</item> 
+    <item>22201</item> 
+    <item>42604</item> 
+    <item>24005</item> 
+    <item>405809</item> 
+    <item>21805</item> 
+    <item>45412</item> 
+    <item>338050</item> 
+    <item>37002</item> 
+    <item>50506</item> 
+    <item>73404</item> 
+    <item>20205</item> 
+    <item>40420</item> 
+    <item>28603</item> 
+    <item>29370</item> 
+    <item>71401</item> 
+    <item>60203</item> 
+    <item>52501</item> 
+    <item>45419</item> 
+    <item>26203</item> 
+    <item>22803</item> 
+    <item>22003</item> 
+    <item>33011</item> 
+    <item>21403</item> 
+    <item>41702</item> 
+    <item>23430</item> 
+    <item>24004</item> 
+    <item>72404</item> 
+    <item>40420</item> 
+    <item>21805</item> 
+    <item>732103</item> 
+    <item>40486</item> 
+    <item>23801</item> 
+    <item>37002</item> 
+    <item>71403</item> 
+    <item>41007</item> 
+    <item>302220</item> 
+    <item>41503</item> 
+    <item>24007</item> 
+    <item>20820</item> 
+    <item>25702</item> 
+    <item>310260</item> 
+    <item>24004</item> 
+    <item>71402</item> 
+    <item>302720</item> 
+    <item>310260</item> 
+    <item>310260</item> 
+    <item>27602</item> 
+    <item>47001</item> 
+    <item>46001</item> 
+    <item>50501</item> 
+    <item>62501</item> 
+    <item>24603</item> 
+    <item>50216</item> 
+    <item>27077</item> 
+    <item>45602</item> 
+    <item>29701</item> 
+    <item>73406</item> 
+    <item>23433</item> 
+    <item>53024</item> 
+    <item>24005</item> 
+    <item>334020</item> 
+    <item>40449</item> 
+    <item>52099</item> 
+    <item>45202</item> 
+    <item>40486</item> 
+    <item>52811</item> 
+    <item>40411</item> 
+    <item>40484</item> 
+    <item>24412</item> 
+    <item>43211</item> 
+    <item>40430</item> 
+    <item>41840</item> 
+    <item>24602</item> 
+    <item>23802</item> 
+    <item>40407</item> 
+    <item>405801</item> 
+    <item>25035</item> 
+    <item>20620</item> 
+    <item>405046</item> 
+    <item>60401</item> 
+    <item>21902</item> 
+    <item>405799</item> 
+    <item>22005</item> 
+    <item>60503</item> 
+    <item>42701</item> 
+    <item>28202</item> 
+    <item>24491</item> 
+    <item>24702</item> 
+    <item>51505</item> 
+    <item>24701</item> 
+    <item>50218</item> 
+    <item>41007</item> 
+    <item>51010</item> 
+    <item>31020</item> 
+    <item>21404</item> 
+    <item>41840</item> 
+    <item>42602</item> 
+    <item>40420</item> 
+    <item>21910</item> 
+    <item>40004</item> 
+    <item>40490</item> 
+    <item>54601</item> 
+    <item>27402</item> 
+    <item>45404</item> 
+    <item>21902</item> 
+    <item>40471</item> 
+    <item>46697</item> 
+    <item>25002</item> 
+    <item>45406</item> 
+    <item>27001</item> 
+    <item>37413</item> 
+    <item>50219</item> 
+    <item>26203</item> 
+    <item>44020</item> 
+    <item>51011</item> 
+    <item>405039</item> 
+    <item>40494</item> 
+    <item>722310</item> 
+    <item>71606</item> 
+    <item>23106</item> 
+    <item>41904</item> 
+    <item>40427</item> 
+    <item>44010</item> 
+    <item>60303</item> 
+    <item>21890</item> 
+    <item>40402</item> 
+    <item>40468</item> 
+    <item>42503</item> 
+    <item>29401</item> 
+    <item>26203</item> 
+    <item>72403</item> 
+    <item>41006</item> 
+    <item>42102</item> 
+    <item>43211</item> 
+    <item>41003</item> 
+    <item>21601</item> 
+    <item>29340</item> 
+    <item>31038</item> 
+    <item>20601</item> 
+    <item>74001</item> 
+    <item>51010</item> 
+    <item>40404</item> 
+    <item>40481</item> 
+    <item>40001</item> 
+    <item>24491</item> 
+    <item>53005</item> 
+    <item>334020</item> 
+    <item>41820</item> 
+    <item>310020</item> 
+    <item>40456</item> 
+    <item>310004</item> 
+    <item>46001</item> 
+    <item>46692</item> 
+    <item>52501</item> 
+    <item>24405</item> 
+    <item>42899</item> 
+    <item>45406</item> 
+    <item>40486</item> 
+    <item>62130</item> 
+    <item>40518</item> 
+    <item>46689</item> 
+    <item>40457</item> 
+    <item>40444</item> 
+    <item>40405</item> 
+    <item>45005</item> 
+    <item>41308</item> 
+    <item>25702</item> 
+    <item>26806</item> 
+    <item>40430</item> 
+    <item>20201</item> 
+    <item>25503</item> 
+    <item>51089</item> 
+    <item>27801</item> 
+    <item>51008</item> 
+    <item>45204</item> 
+    <item>31020</item> 
+    <item>73001</item> 
+    <item>42503</item> 
+    <item>310260</item> 
+    <item>302720</item> 
+    <item>40453</item> 
+    <item>72403</item> 
+    <item>40420</item> 
+    <item>41903</item> 
+    <item>26202</item> 
+    <item>25001</item> 
+    <item>405034</item> 
+    <item>31020</item> 
+    <item>25507</item> 
+    <item>26203</item> 
+    <item>302780</item> 
+    <item>302880</item> 
+    <item>40486</item> 
+    <item>28601</item> 
+    <item>31000</item> 
+    <item>70401</item> 
+    <item>302720</item> 
+    <item>73406</item> 
+    <item>40458</item> 
+    <item>40468</item> 
+    <item>302720</item> 
+    <item>28201</item> 
+    <item>20620</item> 
+    <item>40484</item> 
+    <item>24702</item> 
+    <item>40486</item> 
+    <item>25701</item> 
+    <item>60600</item> 
+    <item>72406</item> 
+    <item>26203</item> 
+    <item>52015</item> 
+    <item>23210</item> 
+    <item>40421</item> 
+    <item>45400</item> 
+    <item>72405</item> 
+    <item>45205</item> 
+    <item>24491</item> 
+    <item>45403</item> 
+    <item>28602</item> 
+    <item>24802</item> 
+    <item>46601</item> 
+    <item>25099</item> 
+    <item>40445</item> 
+    <item>52811</item> 
+    <item>28010</item> 
+    <item>20416</item> 
+    <item>40413</item> 
+    <item>72402</item> 
+    <item>41702</item> 
+    <item>24802</item> 
+    <item>24205</item> 
+    <item>20404</item> 
+    <item>60801</item> 
+    <item>24701</item> 
+    <item>334050</item> 
+    <item>26801</item> 
+    <item>45601</item> 
+    <item>40421</item> 
+    <item>302720</item> 
+    <item>25501</item> 
+    <item>60601</item> 
+    <item>41302</item> 
+    <item>40488</item> 
+    <item>41302</item> 
+    <item>302490</item> 
+    <item>23801</item> 
+    <item>53024</item> 
+    <item>51001</item> 
+    <item>72423</item> 
+    <item>29370</item> 
+    <item>40567</item> 
+    <item>20610</item> 
+    <item>45202</item> 
+    <item>71201</item> 
+    <item>62130</item> 
+    <item>405042</item> 
+    <item>405925</item> 
+    <item>41004</item> 
+    <item>47002</item> 
+    <item>21303</item> 
+    <item>41820</item> 
+    <item>23410</item> 
+    <item>34001</item> 
+    <item>26207</item> 
+    <item>22299</item> 
+    <item>20416</item> 
+    <item>24007</item> 
+    <item>40515</item> 
+    <item>405803</item> 
+    <item>22288</item> 
+    <item>31020</item> 
+    <item>23001</item> 
+    <item>27077</item> 
+    <item>25002</item> 
+    <item>26006</item> 
+    <item>22802</item> 
+    <item>33403</item> 
+    <item>52015</item> 
+    <item>60400</item> 
+    <item>24001</item> 
+    <item>20408</item> 
+    <item>72402</item> 
+    <item>41006</item> 
+    <item>24491</item> 
+    <item>310260</item> 
+    <item>405037</item> 
+    <item>24002</item> 
+    <item>22210</item> 
+    <item>73003</item> 
+    <item>40566</item> 
+    <item>62006</item> 
+    <item>64804</item> 
+    <item>334020</item> 
+    <item>72416</item> 
+    <item>310260</item> 
+    <item>45601</item> 
+    <item>25001</item> 
+    <item>26002</item> 
+    <item>31020</item> 
+    <item>26203</item> 
+    <item>26806</item> 
+    <item>28201</item> 
+    <item>27205</item> 
+    <item>60501</item> 
+    <item>26201</item> 
+    <item>60302</item> 
+    <item>28010</item> 
+    <item>35811</item> 
+    <item>23203</item> 
+    <item>71610</item> 
+    <item>41820</item> 
+    <item>27602</item> 
+    <item>22201</item> 
+    <item>24202</item> 
+    <item>73402</item> 
+    <item>40470</item> 
+    <item>21910</item> 
+    <item>40470</item> 
+    <item>310410</item> 
+    <item>64501</item> 
+    <item>74801</item> 
+    <item>64304</item> 
+    <item>405035</item> 
+    <item>41677</item> 
+    <item>40497</item> 
+    <item>40442</item> 
+    <item>24802</item> 
+    <item>52505</item> 
+    <item>60402</item> 
+    <item>45412</item> 
+    <item>40420</item> 
+    <item>22005</item> 
+    <item>25902</item> 
+    <item>31000</item> 
+    <item>41004</item> 
+    <item>40472</item> 
+    <item>74810</item> 
+    <item>64710</item> 
+    <item>310770</item> 
+    <item>23433</item> 
+    <item>73002</item> 
+    <item>26803</item> 
+    <item>26207</item> 
+    <item>28403</item> 
+    <item>51503</item> 
+    <item>70603</item> 
+    <item>42899</item> 
+    <item>732103</item> 
+    <item>26001</item> 
+    <item>338180</item> 
+    <item>21890</item> 
+    <item>52023</item> 
+    <item>45503</item> 
+    <item>405041</item> 
+    <item>40495</item> 
+    <item>20610</item> 
+    <item>62130</item> 
+    <item>405034</item> 
+    <item>40476</item> 
+    <item>20416</item> 
+    <item>310260</item> 
+    <item>42602</item> 
+    <item>72207</item> 
+    <item>26203</item> 
+    <item>24005</item> 
+    <item>72234</item> 
+    <item>62002</item> 
+    <item>405031</item> 
+    <item>62150</item> 
+    <item>23430</item> 
+    <item>60401</item> 
+    <item>36301</item> 
+    <item>40498</item> 
+    <item>24405</item> 
+    <item>47001</item> 
+    <item>51502</item> 
+    <item>40444</item> 
+    <item>46601</item> 
+    <item>52802</item> 
+    <item>26207</item> 
+    <item>29364</item> 
+    <item>47007</item> 
+    <item>40424</item> 
+    <item>40487</item> 
+    <item>40407</item> 
+    <item>42004</item> 
+    <item>31020</item> 
+    <item>310260</item> 
+    <item>31099</item> 
+    <item>21803</item> 
+    <item>52015</item> 
+    <item>40470</item> 
+    <item>31020</item> 
+    <item>64110</item> 
+    <item>27099</item> 
+    <item>61701</item> 
+    <item>40002</item> 
+    <item>21901</item> 
+    <item>45601</item> 
+    <item>45204</item> 
+    <item>40476</item> 
+    <item>31600</item> 
+    <item>310260</item> 
+    <item>60301</item> 
+    <item>29403</item> 
+    <item>40554</item> 
+    <item>20801</item> 
+    <item>42601</item> 
+    <item>24801</item> 
+    <item>43211</item> 
+    <item>26803</item> 
+    <item>70604</item> 
+    <item>72402</item> 
+    <item>53001</item> 
+    <item>51505</item> 
+    <item>36269</item> 
+    <item>40422</item> 
+    <item>405806</item> 
+    <item>310410</item> 
+    <item>50218</item> 
+    <item>70402</item> 
+    <item>24803</item> 
+    <item>52000</item> 
+    <item>24602</item> 
+    <item>45606</item> 
+    <item>24803</item> 
+    <item>40430</item> 
+    <item>405850</item> 
+    <item>40492</item> 
+    <item>41903</item> 
+    <item>29702</item> 
+    <item>46692</item> 
+    <item>27603</item> 
+    <item>23410</item> 
+    <item>23205</item> 
+    <item>60501</item> 
+    <item>31026</item> 
+    <item>40506</item> 
+    <item>42203</item> 
+    <item>40430</item> 
+    <item>62001</item> 
+    <item>22210</item> 
+    <item>405926</item> 
+    <item>40455</item> 
+    <item>302880</item> 
+    <item>23205</item> 
+    <item>22803</item> 
+    <item>31064</item> 
+    <item>23415</item> 
+    <item>21407</item> 
+    <item>73402</item> 
+    <item>71203</item> 
+    <item>64700</item> 
+    <item>209099</item> 
+    <item>40493</item> 
+    <item>24705</item> 
+    <item>37412</item> 
+    <item>71401</item> 
+    <item>310260</item> 
+    <item>28202</item> 
+    <item>732123</item> 
+    <item>40401</item> 
+    <item>23410</item> 
+    <item>40488</item> 
+    <item>27099</item> 
+    <item>21401</item> 
+    <item>72403</item> 
+    <item>25017</item> 
+    <item>46001</item> 
+    <item>40474</item> 
+    <item>40460</item> 
+    <item>302320</item> 
+    <item>310410</item> 
+    <item>74000</item> 
+    <item>40429</item> 
+    <item>40505</item> 
+    <item>60201</item> 
+    <item>63902</item> 
+    <item>31038</item> 
+    <item>52023</item> 
+    <item>60402</item> 
+    <item>41401</item> 
+    <item>24414</item> 
+    <item>52001</item> 
+    <item>40486</item> 
+    <item>23415</item> 
+    <item>72234</item> 
+    <item>33805</item> 
+    <item>20815</item> 
+    <item>72416</item> 
+    <item>40472</item> 
+    <item>405929</item> 
+    <item>51001</item> 
+    <item>21601</item> 
+    <item>73001</item> 
+    <item>28305</item> 
+    <item>302500</item> 
+    <item>732103</item> 
+    <item>40413</item> 
+    <item>36301</item> 
+    <item>43232</item> 
+    <item>41601</item> 
+    <item>27401</item> 
+    <item>310410</item> 
+    <item>21910</item> 
+    <item>310260</item> 
+    <item>70802</item> 
+    <item>26003</item> 
+    <item>708001</item> 
+    <item>60303</item> 
+    <item>42901</item> 
+    <item>41301</item> 
+    <item>40421</item> 
+    <item>40420</item> 
+    <item>302610</item> 
+    <item>310120</item> 
+    <item>40467</item> 
+    <item>71030</item> 
+    <item>46689</item> 
+    <item>41902</item> 
+    <item>40487</item> 
+    <item>40510</item> 
+    <item>45412</item> 
+    <item>61701</item> 
+    <item>62910</item> 
+    <item>23205</item> 
+    <item>25012</item> 
+    <item>62001</item> 
+    <item>45602</item> 
+    <item>732101</item> 
+    <item>25702</item> 
+    <item>72405</item> 
+    <item>405800</item> 
+    <item>40002</item> 
+    <item>25503</item> 
+    <item>42702</item> 
+    <item>26203</item> 
+    <item>40551</item> 
+    <item>310410</item> 
+    <item>310090</item> 
+    <item>405036</item> 
+    <item>63310</item> 
+    <item>37001</item> 
+    <item>28301</item> 
+    <item>50219</item> 
+    <item>46000</item> 
+    <item>45008</item> 
+    <item>73003</item> 
+    <item>27801</item> 
+    <item>26203</item> 
+    <item>24205</item> 
+    <item>25039</item> 
+    <item>63601</item> 
+    <item>54601</item> 
+    <item>23002</item> 
+    <item>40501</item> 
+    <item>722310</item> 
+    <item>26003</item> 
+    <item>34020</item> 
+    <item>31026</item> 
+    <item>31020</item> 
+    <item>22601</item> 
+    <item>338180</item> 
+    <item>71403</item> 
+    <item>40404</item> 
+    <item>27411</item> 
+    <item>45608</item> 
+    <item>24005</item> 
+    <item>24602</item> 
+    <item>65201</item> 
+    <item>63401</item> 
+    <item>50501</item> 
+    <item>40411</item> 
+    <item>50502</item> 
+    <item>42902</item> 
+    <item>40477</item> 
+    <item>47202</item> 
+    <item>20404</item> 
+    <item>405852</item> 
+    <item>41401</item> 
+    <item>405044</item> 
+    <item>40402</item> 
+    <item>31020</item> 
+    <item>42503</item> 
+    <item>23801</item> 
+    <item>72403</item> 
+    <item>405025</item> 
+    <item>311480</item> 
+    <item>20820</item> 
+    <item>40413</item> 
+    <item>26207</item> 
+    <item>21803</item> 
+    <item>26207</item> 
+    <item>41840</item> 
+    <item>70267</item> 
+    <item>70601</item> 
+    <item>23203</item> 
+    <item>40551</item> 
+    <item>74603</item> 
+    <item>40427</item> 
+    <item>50506</item> 
+    <item>42701</item> 
+    <item>24205</item> 
+    <item>310090</item> 
+    <item>23201</item> 
+    <item>41220</item> 
+    <item>23403</item> 
+    <item>23455</item> 
+    <item>26006</item> 
+    <item>28204</item> 
+    <item>71201</item> 
+    <item>342600</item> 
+    <item>40416</item> 
+    <item>348570</item> 
+    <item>34002</item> 
+    <item>20408</item> 
+    <item>310450</item> 
+    <item>62120</item> 
+    <item>27402</item> 
+    <item>63401</item> 
+    <item>28305</item> 
+    <item>310590</item> 
+    <item>31020</item> 
+    <item>45602</item> 
+    <item>51010</item> 
+    <item>302220</item> 
+    <item>24601</item> 
+    <item>302720</item> 
+    <item>27202</item> 
+    <item>310004</item> 
+    <item>24412</item> 
+    <item>41503</item> 
+    <item>63510</item> 
+    <item>40459</item> 
+    <item>310004</item> 
+    <item>41677</item> 
+    <item>310320</item> 
+    <item>62150</item> 
+    <item>31026</item> 
+    <item>40460</item> 
+    <item>70403</item> 
+    <item>26601</item> 
+    <item>60600</item> 
+    <item>26203</item> 
+    <item>26201</item> 
+    <item>41601</item> 
+    <item>54201</item> 
+    <item>24201</item> 
+    <item>26207</item> 
+    <item>31020</item> 
+    <item>40443</item> 
+    <item>405802</item> 
+    <item>43407</item> 
+    <item>25901</item> 
+    <item>52015</item> 
+    <item>40464</item> 
+    <item>42505</item> 
+    <item>20404</item> 
+    <item>29402</item> 
+    <item>21901</item> 
+    <item>40492</item> 
+    <item>23205</item> 
+    <item>20811</item> 
+    <item>310120</item> 
+    <item>25020</item> 
+    <item>302720</item> 
+    <item>45404</item> 
+    <item>25099</item> 
+    <item>26202</item> 
+    <item>310420</item> 
+    <item>37412</item> 
+    <item>60601</item> 
+    <item>36611</item> 
+    <item>40424</item> 
+    <item>28401</item> 
+    <item>24602</item> 
+    <item>40470</item> 
+    <item>45204</item> 
+    <item>45609</item> 
+    <item>405804</item> 
+    <item>23458</item> 
+    <item>52802</item> 
+    <item>25039</item> 
+    <item>708001</item> 
+    <item>405038</item> 
+    <item>40438</item> 
+    <item>42701</item> 
+    <item>43407</item> 
+    <item>40001</item> 
+    <item>60301</item> 
+    <item>45201</item> 
+    <item>43701</item> 
+    <item>40473</item> 
+    <item>20610</item> 
+    <item>37412</item> 
+    <item>42604</item> 
+    <item>29402</item> 
+    <item>60400</item> 
+    <item>46000</item> 
+    <item>21407</item> 
+    <item>22003</item> 
+    <item>62160</item> 
+    <item>71030</item> 
+    <item>47202</item> 
+    <item>40420</item> 
+    <item>28603</item> 
+    <item>62120</item> 
+    <item>42888</item> 
+    <item>62001</item> 
+    <item>29403</item> 
+    <item>25701</item> 
+    <item>7127</item> 
+    <item>25020</item> 
+    <item>722310</item> 
+    <item>51001</item> 
+    <item>40452</item> 
+    <item>311370</item> 
+    <item>348170</item> 
+    <item>52015</item> 
+    <item>25501</item> 
+    <item>26202</item> 
+    <item>28001</item> 
+    <item>31000</item> 
+    <item>60502</item> 
+    <item>40454</item> 
+    <item>62502</item> 
+    <item>40474</item> 
+    <item>40419</item> 
+    <item>25003</item> 
+    <item>302720</item> 
+    <item>25012</item> 
+    <item>45708</item> 
+    <item>310260</item> 
+    <item>51011</item> 
+    <item>31045</item> 
+    <item>64101</item> 
+    <item>22003</item> 
+    <item>209099</item> 
+    <item>40460</item> 
+    <item>22803</item> 
+    <item>47002</item> 
+    <item>26006</item> 
+    <item>26002</item> 
+    <item>41904</item> 
+    <item>40101</item> 
+    <item>310120</item> 
+    <item>72402</item> 
+    <item>51011</item> 
+    <item>23450</item> 
+    <item>37004</item> 
+    <item>28202</item> 
+    <item>310004</item> 
+    <item>73406</item> 
+    <item>20620</item> 
+    <item>310260</item> 
+    <item>25005</item> 
+    <item>61202</item> 
+    <item>43405</item> 
+    <item>45207</item> 
+    <item>37000</item> 
+    <item>25005</item> 
+    <item>310140</item> 
+    <item>405834</item> 
+    <item>25704</item> 
+    <item>25704</item> 
+    <item>25020</item> 
+    <item>25012</item> 
+    <item>22201</item> 
+    <item>41303</item> 
+    <item>25503</item> 
+    <item>25902</item> 
+    <item>405752</item> 
+    <item>25007</item> 
+    <item>25500</item> 
+    <item>42103</item> 
+    <item>72404</item> 
+    <item>28305</item> 
+    <item>25007</item> 
+    <item>31053</item> 
+    <item>43404</item> 
+    <item>31079</item> 
+    <item>25005</item> 
+    <item>64005</item> 
+    <item>25016</item> 
+    <item>302720</item> 
+    <item>27001</item> 
+    <item>25012</item> 
+    <item>40445</item> 
+    <item>40411</item> 
+    <item>43602</item> 
+    <item>24603</item> 
+    <item>25704</item> 
+    <item>45203</item> 
+    <item>36439</item> 
+    <item>43605</item> 
+    <item>50502</item> 
+    <item>50502</item> 
+    <item>43603</item> 
+    <item>43405</item> 
+    <item>40452</item> 
+    <item>23410</item> 
+    <item>25507</item> 
+    <item>51009</item> 
+    <item>50212</item> 
+    <item>25010</item> 
+    <item>20801</item> 
+    <item>43604</item> 
+    <item>25003</item> 
+    <item>25501</item> 
+    <item>25005</item> 
+    <item>24702</item> 
+    <item>70401</item> 
+    <item>25003</item> 
+    <item>26207</item> 
+    <item>27202</item> 
+    <item>40455</item> 
+    <item>26207</item> 
+    <item>40469</item> 
+    <item>60503</item> 
+    <item>25099</item> 
+    <item>23400</item> 
+    <item>28401</item> 
+    <item>732103</item> 
+    <item>28301</item> 
+    <item>28310</item> 
+    <item>24602</item> 
+    <item>43705</item> 
+    <item>25035</item> 
+    <item>45403</item> 
+    <item>27402</item> 
+    <item>40488</item> 
+    <item>32300</item> 
+    <item>50501</item> 
+    <item>45412</item> 
+    <item>51099</item> 
+    <item>28603</item> 
+    <item>25503</item> 
+    <item>722310</item> 
+    <item>45406</item> 
+    <item>28603</item> 
+    <item>31020</item> 
+    <item>40177</item> 
+    <item>40552</item> 
+    <item>25012</item> 
+    <item>23430</item> 
+    <item>45406</item> 
+    <item>20408</item> 
+    <item>45504</item> 
+    <item>31027</item> 
+    <item>25901</item> 
+    <item>50216</item> 
+    <item>31030</item> 
+    <item>72403</item> 
+    <item>25002</item> 
+    <item>43407</item> 
+    <item>10231</item> 
+    <item>27203</item> 
+    <item>27205</item> 
+    <item>44020</item> 
+    <item>40424</item> 
+    <item>71201</item> 
+    <item>40425</item> 
+    <item>40412</item> 
+    <item>26006</item> 
+    <item>42503</item> 
+    <item>42003</item> 
+    <item>21601</item> 
+    <item>310127</item> 
+    <item>63401</item> 
+    <item>72403</item> 
+    <item>22801</item> 
+    <item>50501</item> 
+    <item>21601</item> 
+    <item>65501</item> 
+    <item>42003</item> 
+    <item>63301</item> 
+    <item>43601</item> 
+    <item>23820</item> 
+    <item>23433</item> 
+    <item>40460</item> 
+    <item>28601</item> 
+    <item>20620</item> 
+    <item>40478</item> 
+    <item>40491</item> 
+    <item>20810</item> 
+    <item>310260</item> 
+    <item>27601</item> 
+    <item>20408</item> 
+    <item>23201</item> 
+    <item>732103</item> 
+    <item>22299</item> 
+    <item>41240</item> 
+    <item>310410</item> 
+    <item>40475</item> 
+    <item>62003</item> 
+    <item>31000</item> 
+    <item>31000</item> 
+    <item>311480</item> 
+    <item>20416</item> 
+    <item>405827</item> 
+    <item>20201</item> 
+    <item>47007</item> 
+    <item>25503</item> 
+    <item>53024</item> 
+    <item>26002</item> 
+    <item>20800</item> 
+    <item>52000</item> 
+    <item>27877</item> 
+    <item>40004</item> 
+    <item>74801</item> 
+    <item>70402</item> 
+    <item>25704</item> 
+    <item>63402</item> 
+    <item>25007</item> 
+    <item>20601</item> 
+    <item>40446</item> 
+    <item>20610</item> 
+    <item>31020</item> 
+    <item>50502</item> 
+    <item>20205</item> 
+    <item>61203</item> 
+    <item>40492</item> 
+    <item>31000</item> 
+    <item>22288</item> 
+    <item>21901</item> 
+    <item>72404</item> 
+    <item>374130</item> 
+    <item>41902</item> 
+    <item>29001</item> 
+    <item>26207</item> 
+    <item>40519</item> 
+    <item>24803</item> 
+    <item>63907</item> 
+    <item>334020</item> 
+    <item>22610</item> 
+    <item>302610</item> 
+    <item>40102</item> 
+    <item>50218</item> 
+    <item>41701</item> 
+    <item>40419</item> 
+    <item>64602</item> 
+    <item>40513</item> 
+    <item>23458</item> 
+    <item>74404</item> 
+    <item>40469</item> 
+    <item>29402</item> 
+    <item>42505</item> 
+    <item>714020</item> 
+    <item>20404</item> 
+    <item>72404</item> 
+    <item>311470</item> 
+    <item>26003</item> 
+    <item>45400</item> 
+    <item>40431</item> 
+    <item>25005</item> 
+    <item>334050</item> 
+    <item>71404</item> 
+    <item>40415</item> 
+    <item>36291</item> 
+    <item>61202</item> 
+    <item>62006</item> 
+    <item>73603</item> 
+    <item>20416</item> 
+    <item>51000</item> 
+    <item>31000</item> 
+    <item>40102</item> 
+    <item>63510</item> 
+    <item>40102</item> 
+    <item>31016</item> 
+    <item>33404</item> 
+    <item>310260</item> 
+    <item>25012</item> 
+    <item>51011</item> 
+    <item>40511</item> 
+    <item>72404</item> 
+    <item>40497</item> 
+    <item>24202</item> 
+    <item>64700</item> 
+    <item>72404</item> 
+    <item>31000</item> 
+    <item>43407</item> 
+    <item>25099</item> 
+    <item>302720</item> 
+    <item>51011</item> 
+    <item>25702</item> 
+    <item>310770</item> 
+    <item>72431</item> 
+    <item>405820</item> 
+    <item>26202</item> 
+    <item>24005</item> 
+    <item>20810</item> 
+    <item>31020</item> 
+    <item>52503</item> 
+    <item>72410</item> 
+    <item>310260</item> 
+    <item>24701</item> 
+    <item>31000</item> 
+    <item>20205</item> 
+    <item>42001</item> 
+    <item>45602</item> 
+    <item>40518</item> 
+    <item>405827</item> 
+    <item>40566</item> 
+    <item>26201</item> 
+    <item>45505</item> 
+    <item>45008</item> 
+    <item>41305</item> 
+    <item>51402</item> 
+    <item>310000</item> 
+    <item>26203</item> 
+    <item>23802</item> 
+    <item>23201</item> 
+    <item>26203</item> 
+    <item>72403</item> 
+    <item>27411</item> 
+    <item>43701</item> 
+    <item>25039</item> 
+    <item>42506</item> 
+    <item>710300</item> 
+    <item>26203</item> 
+    <item>31001</item> 
+    <item>50219</item> 
+    <item>21407</item> 
+    <item>405043</item> 
+    <item>23415</item> 
+    <item>23410</item> 
+    <item>20610</item> 
+    <item>28801</item> 
+    <item>40507</item> 
+    <item>60801</item> 
+    <item>64803</item> 
+    <item>26203</item> 
+    <item>51503</item> 
+    <item>62160</item> 
+    <item>47003</item> 
+    <item>22201</item> 
+    <item>42001</item> 
+    <item>46689</item> 
+    <item>21201</item> 
+    <item>330110</item> 
+    <item>45416</item> 
+    <item>405046</item> 
+    <item>405045</item> 
+    <item>64601</item> 
+    <item>74602</item> 
+    <item>310260</item> 
+    <item>31026</item> 
+    <item>732101</item> 
+    <item>23210</item> 
+    <item>45412</item> 
+    <item>28405</item> 
+    <item>310410</item> 
+    <item>41250</item> 
+    <item>25506</item> 
+    <item>40424</item> 
+    <item>310260</item> 
+    <item>51505</item> 
+    <item>40001</item> 
+    <item>42101</item> 
+    <item>25901</item> 
+    <item>24603</item> 
+    <item>73801</item> 
+    <item>21404</item> 
+    <item>97600</item> 
+    <item>21890</item> 
+    <item>46000</item> 
+    <item>405044</item> 
+    <item>63902</item> 
+    <item>21401</item> 
+    <item>71403</item> 
+    <item>70267</item> 
+    <item>302720</item> 
+    <item>405756</item> 
+    <item>40410</item> 
+    <item>302720</item> 
+    <item>310260</item> 
+    <item>45606</item> 
+    <item>44000</item> 
+    <item>31000</item> 
+    <item>29341</item> 
+    <item>51008</item> 
+    <item>50218</item> 
+    <item>73404</item> 
+    <item>302720</item> 
+    <item>45203</item> 
+    <item>73002</item> 
+    <item>70402</item> 
+    <item>37002</item> 
+    <item>36439</item> 
+    <item>42901</item> 
+    <item>22605</item> 
+    <item>43220</item> 
+    <item>21407</item> 
+    <item>22802</item> 
+    <item>40460</item> 
+    <item>25039</item> 
+    <item>21805</item> 
+    <item>40446</item> 
+    <item>22001</item> 
+    <item>405840</item> 
+    <item>46697</item> 
+    <item>21401</item> 
+    <item>64005</item> 
+    <item>330110</item> 
+    <item>45202</item> 
+    <item>405811</item> 
+    <item>40428</item> 
+    <item>74807</item> 
+    <item>405036</item> 
+    <item>37203</item> 
+    <item>31000</item> 
+    <item>334020</item> 
+    <item>65510</item> 
+    <item>24603</item> 
+    <item>65310</item> 
+    <item>42202</item> 
+    <item>63401</item> 
+    <item>40497</item> 
+    <item>46000</item> 
+    <item>60201</item> 
+    <item>45618</item> 
+    <item>40521</item> 
+    <item>40101</item> 
+    <item>26203</item> 
+    <item>61404</item> 
+    <item>310100</item> 
+    <item>25007</item> 
+    <item>23410</item> 
+    <item>65510</item> 
+    <item>25506</item> 
+    <item>25905</item> 
+    <item>26203</item> 
+    <item>24412</item> 
+    <item>28001</item> 
+    <item>63903</item> 
+    <item>22005</item> 
+    <item>24205</item> 
+    <item>21803</item> 
+    <item>65202</item> 
+    <item>40456</item> 
+    <item>74602</item> 
+    <item>26207</item> 
+    <item>40440</item> 
+    <item>62002</item> 
+    <item>320</item> 
+    <item>22601</item> 
+    <item>53001</item> 
+    <item>21403</item> 
+    <item>1001</item> 
+    <item>41003</item> 
+    <item>23101</item> 
+    <item>41401</item> 
+    <item>40405</item> 
+    <item>64501</item> 
+    <item>71201</item> 
+    <item>52503</item> 
+    <item>22201</item> 
+    <item>64301</item> 
+    <item>47002</item> 
+    <item>42502</item> 
+    <item>405042</item> 
+    <item>23433</item> 
+    <item>40401</item> 
+    <item>45006</item> 
+    <item>310120</item> 
+    <item>25001</item> 
+    <item>70802</item> 
+    <item>41503</item> 
+    <item>60301</item> 
+    <item>62101</item> 
+    <item>43211</item> 
+    <item>310470</item> 
+    <item>62160</item> 
+    <item>40477</item> 
+    <item>40415</item> 
+    <item>732103</item> 
+    <item>60702</item> 
+    <item>40440</item> 
+    <item>70401</item> 
+    <item>43405</item> 
+    <item>310004</item> 
+    <item>64004</item> 
+    <item>310120</item> 
+    <item>46692</item> 
+    <item>405047</item> 
+    <item>21403</item> 
+    <item>23806</item> 
+    <item>31000</item> 
+    <item>302720</item> 
+    <item>51502</item> 
+    <item>311220</item> 
+    <item>405802</item> 
+    <item>28601</item> 
+    <item>44004</item> 
+    <item>62402</item> 
+    <item>40177</item> 
+    <item>29340</item> 
+    <item>72403</item> 
+    <item>23205</item> 
+    <item>405810</item> 
+    <item>334050</item> 
+    <item>26203</item> 
+    <item>45005</item> 
+    <item>31000</item> 
+    <item>40409</item> 
+    <item>36291</item> 
+    <item>342600</item> 
+    <item>26203</item> 
+    <item>70603</item> 
+    <item>40407</item> 
+    <item>25016</item> 
+    <item>25016</item> 
+    <item>21401</item> 
+    <item>71021</item> 
+    <item>22802</item> 
+    <item>26202</item> 
+    <item>42888</item> 
+    <item>45406</item> 
+    <item>40445</item> 
+    <item>42901</item> 
+    <item>61603</item> 
+    <item>23430</item> 
+    <item>52000</item> 
+    <item>23002</item> 
+    <item>45702</item> 
+    <item>40420</item> 
+    <item>33403</item> 
+    <item>311220</item> 
+    <item>20620</item> 
+    <item>73602</item> 
+    <item>334050</item> 
+    <item>24603</item> 
+    <item>310120</item> 
+    <item>311480</item> 
+    <item>28603</item> 
+    <item>23430</item> 
+    <item>25506</item> 
+    <item>63001</item> 
+    <item>43703</item> 
+    <item>63089</item> 
+    <item>64501</item> 
+    <item>23201</item> 
+    <item>26803</item> 
+    <item>64114</item> 
+    <item>43405</item> 
+    <item>20416</item> 
+    <item>46001</item> 
+    <item>42503</item> 
+    <item>73603</item> 
+    <item>21403</item> 
+    <item>26207</item> 
+    <item>46605</item> 
+    <item>310590</item> 
+    <item>42888</item> 
+    <item>31099</item> 
+    <item>60601</item> 
+    <item>25012</item> 
+    <item>26017</item> 
+    <item>65507</item> 
+    <item>3167</item> 
+    <item>45618</item> 
+    <item>63102</item> 
+    <item>40436</item> 
+    <item>21407</item> 
+    <item>50502</item> 
+    <item>25504</item> 
+    <item>71201</item> 
+    <item>43404</item> 
+    <item>310260</item> 
+    <item>42004</item> 
+    <item>23801</item> 
+    <item>310000</item> 
+    <item>31000</item> 
+    <item>31094</item> 
+    <item>334020</item> 
+    <item>310260</item> 
+    <item>21401</item> 
+    <item>72404</item> 
+    <item>50900</item> 
+    <item>11103</item> 
+    <item>40470</item> 
+    <item>310000</item> 
+    <item>23802</item> 
+    <item>310000</item> 
+    <item>61710</item> 
+    <item>45201</item> 
+    <item>45703</item> 
+    <item>40522</item> 
+    <item>41840</item> 
+    <item>51011</item> 
+    <item>40414</item> 
+    <item>23433</item> 
+    <item>40509</item> 
+    <item>45201</item> 
+    <item>11103</item> 
+    <item>46001</item> 
+    <item>42601</item> 
+    <item>42507</item> 
+    <item>310000</item> 
+    <item>42501</item> 
+    <item>46003</item> 
+    <item>40411</item> 
+    <item>405812</item> 
+    <item>52802</item> 
+    <item>40427</item> 
+    <item>310260</item> 
+    <item>45400</item> 
+    <item>31100</item> 
+    <item>42502</item> 
+    <item>40466</item> 
+    <item>21201</item> 
+    <item>310000</item> 
+    <item>74402</item> 
+    <item>28602</item> 
+    <item>40566</item> 
+    <item>40555</item> 
+    <item>710300</item> 
+    <item>72207</item> 
+    <item>45400</item> 
+    <item>40496</item> 
+    <item>46000</item> 
+    <item>1023127</item> 
+    <item>45400</item> 
+    <item>20909</item> 
+    <item>43211</item> 
+    <item>40494</item> 
+    <item>33450</item> 
+    <item>63104</item> 
+    <item>40420</item> 
+    <item>40489</item> 
+    <item>25012</item> 
+    <item>40462</item> 
+    <item>334050</item> 
+    <item>40470</item> 
+    <item>20810</item> 
+    <item>20810</item> 
+    <item>71400</item> 
+    <item>70602</item> 
+    <item>47007</item> 
+    <item>64844</item> 
+    <item>40534</item> 
+    <item>52099</item> 
+    <item>42888</item> 
+    <item>21630</item> 
+    <item>40416</item> 
+    <item>23410</item> 
+    <item>22210</item> 
+    <item>63902</item> 
+    <item>26203</item> 
+    <item>22803</item> 
+    <item>22802</item> 
+    <item>45608</item> 
+    <item>310000</item> 
+    <item>51010</item> 
+    <item>46692</item> 
+    <item>25002</item> 
+    <item>43211</item> 
+    <item>31047</item> 
+    <item>51011</item> 
+    <item>52001</item> 
+    <item>52018</item> 
+    <item>20210</item> 
+    <item>21630</item> 
+    <item>20801</item> 
+    <item>26201</item> 
+    <item>44004</item> 
+    <item>20820</item> 
+    <item>52811</item> 
+    <item>45604</item> 
+    <item>405755</item> 
+    <item>45701</item> 
+    <item>42402</item> 
+    <item>60502</item> 
+    <item>42601</item> 
+    <item>31020</item> 
+    <item>405752</item> 
+    <item>31082</item> 
+    <item>72416</item> 
+    <item>722310</item> 
+    <item>20810</item> 
+    <item>42801</item> 
+    <item>31026</item> 
+    <item>42001</item> 
+    <item>22610</item> 
+    <item>23802</item> 
+    <item>25020</item> 
+    <item>40472</item> 
+    <item>311480</item> 
+    <item>72432</item> 
+    <item>47004</item> 
+    <item>23420</item> 
+    <item>72410</item> 
+    <item>310260</item> 
+    <item>25017</item> 
+    <item>52000</item> 
+    <item>25099</item> 
+    <item>40442</item> 
+    <item>45005</item> 
+    <item>24803</item> 
+    <item>72402</item> 
+    <item>24705</item> 
+    <item>40478</item> 
+    <item>310120</item> 
+    <item>65507</item> 
+    <item>43235</item> 
+    <item>52505</item> 
+    <item>31093</item> 
+    <item>36439</item> 
+    <item>22299</item> 
+    <item>25503</item> 
+    <item>43235</item> 
+    <item>27411</item> 
+    <item>73001</item> 
+    <item>64005</item> 
+    <item>54720</item> 
+    <item>42402</item> 
+    <item>40486</item> 
+    <item>302490</item> 
+    <item>40493</item> 
+    <item>21401</item> 
+    <item>74001</item> 
+    <item>21401</item> 
+    <item>73002</item> 
+    <item>42001</item> 
+    <item>45204</item> 
+    <item>31000</item> 
+    <item>45008</item> 
+    <item>21407</item> 
+    <item>27203</item> 
+    <item>40462</item> 
+    <item>405756</item> 
+    <item>25012</item> 
+    <item>74404</item> 
+    <item>74405</item> 
+    <item>60601</item> 
+    <item>27202</item> 
+    <item>31020</item> 
+    <item>52501</item> 
+    <item>25506</item> 
+    <item>52099</item> 
+    <item>20810</item> 
+    <item>25012</item> 
+    <item>405030</item> 
+    <item>334050</item> 
+    <item>73404</item> 
+    <item>40459</item> 
+    <item>27099</item> 
+    <item>22003</item> 
+    <item>40490</item> 
+    <item>25503</item> 
+    <item>74404</item> 
+    <item>40445</item> 
+    <item>26207</item> 
+    <item>29502</item> 
+    <item>40449</item> 
+    <item>40520</item> 
+    <item>52000</item> 
+    <item>732101</item> 
+    <item>61710</item> 
+    <item>40101</item> 
+    <item>26201</item> 
+    <item>310470</item> 
+    <item>25501</item> 
+    <item>41250</item> 
+    <item>22801</item> 
+    <item>50212</item> 
+    <item>31020</item> 
+    <item>45400</item> 
+    <item>20404</item> 
+    <item>51001</item> 
+    <item>40466</item> 
+    <item>45502</item> 	
+  </string-array>
+  <string-array name="supported_locale">
+    <item>zh_CN</item>
+    <item>zh_TW</item>
+    <item>en_US</item>
+    <item>en_GB</item>
+    <item>ar_PS</item>
+    <item>da_DK</item>
+    <item>de_DE</item>
+    <item>el_GR</item>
+    <item>es_ES</item>
+    <item>hu_HU</item>
+    <item>it_IT</item>
+    <item>iw_IL</item>
+    <item>ko_KR</item>
+    <item>nl_NL</item>
+    <item>pl_PL</item>
+    <item>pt_BR</item>
+    <item>tr_TR</item>
+    <item>vi_VN</item>
+    <item>ru_RU</item>
+    <item>sk_SK</item>
+    <item>id_ID</item>
+    <item>uk_UA</item>
+    <item>cs_CZ</item>
+    <item>fr_FR</item>
+    <item>nb_NO</item>
+    <item>bg_BG</item>
+    <item>ro_RO</item>
+  </string-array>
+</resources>
