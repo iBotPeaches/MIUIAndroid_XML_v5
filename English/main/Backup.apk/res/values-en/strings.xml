@@ -41,6 +41,7 @@
   <string name="button_abandon">Abort</string>
   <string name="button_backup">Backup</string>
   <string name="button_cancel">Cancel</string>
+  <string name="button_continue">Continue</string>
   <string name="button_delete">Delete</string>
   <string name="button_finish">Finish</string>
   <string name="button_next">Next</string>
@@ -51,11 +52,18 @@
   <string name="cancel">Cancel</string>
   <string name="cancel_backup">Cancel Backup</string>
   <string name="cancel_restore">Cancel Restore</string>
+  <string name="cloud_app_backup_cancel">Cancel backup</string>
+  <string name="cloud_app_backup_cancel_prompt_message">"Backup incompleted, press 
+Ok to cancel backup"</string>
+  <string name="cloud_app_backup_cancel_prompt_title">Cancel backup</string>
   <string name="cloud_app_backup_date">"Backed up on "</string>
   <string name="cloud_app_backup_pending">Pending...</string>
   <string name="cloud_app_backup_progress">Backing up...</string>
   <string name="cloud_app_backup_summary">Automatically back up apps and user data when phone is charging and connected to Wi-Fi</string>
   <string name="cloud_app_backup_title">Backup in MiCloud</string>
+  <string name="cloud_app_check_data">Querying data from MiCloud...</string>
+  <string name="cloud_app_check_data_fail">Failed to query data from MiCloud</string>
+  <string name="cloud_app_check_data_timeout">Timeout for querying data from MiCloud</string>
   <string name="cloud_app_current_device">Current device</string>
   <string name="cloud_app_data_in_other_devices">No MiCloud backups on this device.</string>
   <string name="cloud_app_delete_data">Delete backup</string>
@@ -65,17 +73,32 @@
   <string name="cloud_app_find_backup_prompt_2">If you abandon it now, it will be overwritten when you restore.</string>
   <string name="cloud_app_function_summary">When you back up your data to the cloud, you can restore it quickly on any device.</string>
   <string name="cloud_app_invalid_op">"You can't view cloud data while it is being backed up or restored."</string>
+  <string name="cloud_app_invalid_op_when_removing">"You can't view MiCloud data while it is being removed!"</string>
   <string name="cloud_app_just_show_in_current_device">Only show apps on this device</string>
+  <string name="cloud_app_load_data">Querying backup data list...</string>
+  <string name="cloud_app_load_data_timeout">Timeout querying data from MiCloud</string>
+  <string name="cloud_app_loading_with_mobile_network_prompt">"Mobile data traffic will be used for continuing. Would you like to continue?"</string>
   <string name="cloud_app_mine">Downloaded apps</string>
   <string name="cloud_app_name">Cloud Backup</string>
   <string name="cloud_app_no_data">No data here.</string>
+  <string name="cloud_app_no_network">Network unavailable</string>
+  <string name="cloud_app_no_wifi">Wi-Fi unavailable</string>
+  <string name="cloud_app_no_wifi_connect">No Wi-Fi connection available</string>
   <string name="cloud_app_other_devices">Other devices</string>
+  <string name="cloud_app_remove_cancel">Cancel deletion</string>
+  <string name="cloud_app_remove_cancel_prompt_message">"Delete incomplete backup, press OK
+to cancel"</string>
+  <string name="cloud_app_remove_cancel_prompt_title">Stop deletion</string>
   <string name="cloud_app_remove_error">Failed to delete!</string>
   <string name="cloud_app_remove_pending">Waiting to delete...</string>
   <string name="cloud_app_remove_progress">Deleting...</string>
   <string name="cloud_app_remove_prompt">%1$s of data will be deleted. Do you want to continue?</string>
   <string name="cloud_app_restore_action_bar_title">%1$s of data has been backed up</string>
   <string name="cloud_app_restore_app_and_data">Restore apps and user data</string>
+  <string name="cloud_app_restore_cancel">Cancel restore</string>
+  <string name="cloud_app_restore_cancel_prompt_message">"Restore unfinised, press OK
+to cancel restore"</string>
+  <string name="cloud_app_restore_cancel_prompt_title">Cancel restore</string>
   <string name="cloud_app_restore_data">Restore previously installed apps</string>
   <string name="cloud_app_restore_data_title">Restore user data</string>
   <string name="cloud_app_restore_error">Restore failed!</string>
@@ -88,6 +111,7 @@
   <string name="cloud_app_restore_wifi_prompt">Connect using the Internet via Wi-Fi to restore app and user data.</string>
   <string name="cloud_app_total_size">Total MiCloud backup size: %1$s</string>
   <string name="cloud_app_version_size">Version: %1$s, Size: %2$s</string>
+  <string name="cloud_app_wait_wifi">Waiting for Wi-Fi connection</string>
   <string name="cloud_backup_hint">Login to securely store and restore your backups</string>
   <string name="cloud_backup_login">Login using your Xiaomi account</string>
   <string name="cloud_backup_window_title">Cloud Backup</string>
