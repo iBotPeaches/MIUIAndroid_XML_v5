@@ -121,6 +121,7 @@
   <string name="presetlist_autoselect_title">Confirm Auto-Select</string>
   <string name="quit_warining">Radio playback will stop in %d minutes</string>
   <string name="radio_text_string">This is the long Radio Text String Message that needs to scroll</string>
+  <string name="record_completed">Recording completed</string>
   <string name="record_error_file_removed">Recording stopped. Recorded file has been removed.</string>
   <string name="record_error_unknown">Recording stopped. Unknown error during recording.</string>
   <string name="record_fail">Recording failed</string>

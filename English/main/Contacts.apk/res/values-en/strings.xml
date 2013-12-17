@@ -493,6 +493,8 @@ If you are using the contact sync service, contact info in the cloud will also b
   <string name="local_profile_title">My local profile</string>
   <string name="local_search_label">All contacts</string>
   <string name="locale_change_in_progress">Contact list is being updated to reflect the change of language.</string>
+  <string name="login_before_recharging">You need to sign in before you can top up.</string>
+  <string name="login_ok">Login</string>
   <string name="lunarBirthdayLabelsGroup">Lunar birthday</string>
   <string name="make_primary">Remember this choice</string>
   <string name="map_custom">View %s address</string>
@@ -758,6 +760,7 @@ To add a contact to your list of favorites:
   <string name="recent_updates">Recent updates</string>
   <string name="redirect_calls_to_vm_confirm_message">If you have not applied to the operator of this business, please do not turn on. Otherwise, you may not be able to receive calls from this contact.</string>
   <string name="redirect_calls_to_vm_confirm_text">Turn on</string>
+  <string name="refresh">Refresh</string>
   <string name="relationLabelsGroup">Relationship</string>
   <string name="remind_btn_ignore">Ignore</string>
   <string name="remind_btn_sync_now">Sync Now</string>
@@ -1028,6 +1031,8 @@ the content you're looking for is not currently available in your region.”</st
   <string name="success_message_import_from_account">Imported successfully</string>
   <string name="summary_kind_title">Summary</string>
   <string name="t9_search_guide">You may type 7 and 5 to search, e.g. Steve Jobs</string>
+  <string name="t9_search_guide_pinyin">Type 7 and 5 to search, e.g. Steve Jobs</string>
+  <string name="t9_search_guide_zhuyin">Type 7 and 5 to search, e.g. Steve Jobs</string>
   <string name="take_new_photo">Take new photo</string>
   <string name="take_photo">Take photo</string>
   <string name="titleJoinContactDataWith">Join contacts</string>
@@ -1089,5 +1094,12 @@ the content you're looking for is not currently available in your region.”</st
   <string name="websiteLabelsGroup">Website</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Clear data</string>
+  <string name="yellowPageNavigationIconLabel">Directory</string>
+  <string name="yellowPageNavigationLabel">Directory</string>
+  <string name="yellowpage_navigation_no_content">No search results</string>
+  <string name="yellowpage_navigation_search_city_name_hint">Search by City</string>
+  <string name="yellowpage_navigation_search_hint">Search</string>
+  <string name="yellowpage_navigation_search_offline_hint">Network unavailable</string>
+  <string name="yellowpage_navigation_search_select_city">Please select City</string>
   <string name="zero_items_selected">No items selected</string>
 </resources>

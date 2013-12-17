@@ -31,6 +31,8 @@
   <string name="express_inquiry">Tracking</string>
   <string name="express_inquiry_button_text">Track</string>
   <string name="express_inquiry_data_owner">Tracking info provided by %s</string>
+  <string name="express_inquiry_data_owner_prefix">Tracking info provided by</string>
+  <string name="express_inquiry_data_owner_suffix"/>
   <string name="express_inquiry_delete_warning_multiple">Delete %d selected history entries?</string>
   <string name="express_inquiry_delete_warning_single">Delete selected entry?</string>
   <string name="express_inquiry_delivered">Delivered</string>
@@ -62,7 +64,18 @@
   <string name="menu_remove_black_list">Remove from blacklist</string>
   <string name="mishop_web_payment_title">MiStore checkout</string>
   <string name="module_sms_sent">Text message delivered</string>
+  <string name="navigation_search_all_cities">All cities</string>
+  <string name="navigation_search_automatically_positioned_city">Current city</string>
+  <string name="navigation_search_hot_cities">Popular</string>
+  <string name="navigation_search_no_city_list">No City data found!</string>
+  <string name="navigation_search_positioning">Locating...</string>
+  <string name="navigation_search_positioning_failed">Failed to locate city</string>
   <string name="network_unavaliable">Network is not available, please check network settings</string>
+  <string name="order_empty_hint">No orders</string>
+  <string name="order_id">Order ref: %s</string>
+  <string name="order_merchant_title">My orders - %s</string>
+  <string name="order_price">%s</string>
+  <string name="order_status">%s</string>
   <string name="packages_no_package">No suitable traffic package available</string>
   <string name="packages_pay">Buy</string>
   <string name="packages_pay_confirm">Confirm payment</string>
@@ -78,6 +91,7 @@
   <string name="payment_unknown_status_summary">Check your network connection and try again.</string>
   <string name="payment_unknown_status_title">"Payment Status Error"</string>
   <string name="phone_info_divider">" ｜ "</string>
+  <string name="provider">Identified by %s</string>
   <string name="provider_tag">Data source</string>
   <string name="recharge_actual_price">Price：</string>
   <string name="recharge_charge_range">Price:¥%1$s-%2$s</string>

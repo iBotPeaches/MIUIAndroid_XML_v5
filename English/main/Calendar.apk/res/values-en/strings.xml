@@ -16,6 +16,8 @@
   <string name="accessibility_remove_reminder">Remove reminder</string>
   <string name="accessibility_repeats">Repetition</string>
   <string name="accessibility_sync_cal">Sync calendar</string>
+  <string name="account_and_calendar">Account and calendar</string>
+  <string name="account_and_calendar_to_display">Account and calendar to display</string>
   <string name="accounts">Accounts &amp; sync</string>
   <string name="acct_not_synced">"This account isn't being synced so your calendars may not be up-to-date."</string>
   <string name="acessibility_cal_notification">Calendar Notification</string>
@@ -39,8 +41,11 @@
   <string name="birthday_notification_title_three_days_later">"%1$s's birthday is coming up"</string>
   <string name="birthday_notification_title_today">"%1$s's birthday"</string>
   <string name="birthday_notification_type_term_lunar"/>
+  <string name="button_day">D</string>
+  <string name="button_month">M</string>
   <string name="calendar_refresh">Refresh</string>
   <string name="change_response_title">Change response</string>
+  <string name="chongsha"/>
   <string name="copy_db">Send database</string>
   <string name="copy_email">Copy E-mail address</string>
   <string name="copy_number">Copy Phone number</string>
@@ -55,6 +60,7 @@
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Day</string>
   <string name="day_view_new_event_hint">+ New event</string>
+  <string name="default_reminder_mode">Default reminder mode</string>
   <string name="delete_label">Delete</string>
   <string name="delete_recurring_event_title">Delete %s?</string>
   <string name="delete_this_event_title">Delete this event?</string>
@@ -76,13 +82,22 @@
   <string name="email_picker_label">E-mail with</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">Empty event not created.</string>
+  <string name="event_account">Calendar account</string>
+  <string name="event_all_day_label">All day</string>
   <string name="event_create">New event</string>
   <string name="event_delete">Delete event</string>
   <string name="event_edit">Edit event</string>
+  <string name="event_hide_more">Hide</string>
+  <string name="event_info_descrip">"Description: "</string>
   <string name="event_info_organizer">Organizer:</string>
   <string name="event_info_reminders_label">Reminders</string>
+  <string name="event_info_repeat">"Recurrance: "</string>
   <string name="event_info_title">View event</string>
   <string name="event_info_title_invite">Meeting invitation</string>
+  <string name="event_info_when">"When: "</string>
+  <string name="event_info_where">"Where: "</string>
+  <string name="event_lunar_month"/>
+  <string name="event_show_more">Show</string>
   <string name="event_view">View event</string>
   <string name="every_weekday">Every weekday (Mon–Fri)</string>
   <string name="gadget_no_events">No upcoming calendar events</string>
@@ -93,11 +108,14 @@
   <string name="hint_description">Description</string>
   <string name="hint_what">Event name</string>
   <string name="hint_where">Location</string>
+  <string name="huangli_bad_type"/>
+  <string name="huangli_good_type"/>
   <string name="jump_date">Skip</string>
   <string name="jump_date_full">Skip to date</string>
   <string name="loading">Loading…</string>
   <string name="local_calendar_display_name">Local Calendar</string>
   <string name="local_owner_account_name">Local Account</string>
+  <string name="lunar_date">Lunar Date</string>
   <string name="menu_about_preferences">About Calendar</string>
   <string name="menu_general_preferences">General settings</string>
   <string name="menu_preferences">Settings</string>
@@ -119,6 +137,7 @@
   <string name="no_syncable_calendars">No calendars</string>
   <string name="no_title_label">(No title)</string>
   <string name="not_synced">not synced</string>
+  <string name="pengzu"/>
   <string name="prefDefault_alerts_vibrateWhen">never</string>
   <string name="prefDefault_alerts_vibrate_false">never</string>
   <string name="prefDefault_alerts_vibrate_true">always</string>
@@ -172,6 +191,7 @@
   <string name="select_synced_calendars_button">Calendars to sync</string>
   <string name="select_synced_calendars_title">Calendars to sync</string>
   <string name="select_visible_calendars_title">Calendars to display</string>
+  <string name="show_all_lunar">Show lunar</string>
   <string name="show_controls">Show controls</string>
   <string name="show_day_view">Show day</string>
   <string name="show_newer_events">Touch to view events after %1$s</string>
@@ -179,8 +199,10 @@
   <string name="snooze_all_label">Snooze all</string>
   <string name="snooze_label">Snooze</string>
   <string name="synced">synced</string>
+  <string name="taishen"/>
   <string name="tardis">TARDIS</string>
   <string name="template_announce_item_index">Event %1$s of %2$s.</string>
+  <string name="time_zone">Timezone</string>
   <string name="timezone_label">Time zone</string>
   <string name="today">Today</string>
   <string name="today_at_time_fmt">Today at %s</string>
@@ -194,7 +216,13 @@
   <string name="what_label">What</string>
   <string name="when_label">When</string>
   <string name="where_label">Where</string>
+  <string name="widget_events">Upcoming events</string>
+  <string name="widget_no_events">No upcoming events</string>
+  <string name="widget_select_style">Select widget style</string>
   <string name="work_day_indication"/>
+  <string name="wuxing"/>
+  <string name="xingxiu"/>
   <string name="yearly">Yearly (on %s)</string>
   <string name="yearly_plain">Yearly</string>
+  <string name="zhushen"/>
 </resources>

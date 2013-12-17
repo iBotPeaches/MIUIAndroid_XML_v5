@@ -482,6 +482,7 @@ Try again in %d seconds."</string>
   <string name="v5_date_picker_label_day"/>
   <string name="v5_date_picker_label_month"/>
   <string name="v5_date_picker_label_year"/>
+  <string name="v5_date_time_picker_dialog_title">Set reminder time</string>
   <string name="v5_deselect_all">Deselect all</string>
   <string name="v5_edit_mode_title_empty">Check Items</string>
   <string name="v5_icon_menu_bar_more_item_label">More</string>
