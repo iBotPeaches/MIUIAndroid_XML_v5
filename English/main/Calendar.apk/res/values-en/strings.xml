@@ -23,6 +23,8 @@
   <string name="acessibility_cal_notification">Calendar Notification</string>
   <string name="acessibility_selected_marker_description">Selected event</string>
   <string name="acessibility_snooze_notification">Snooze Notification</string>
+  <string name="activity_summary">10 yuan lottery</string>
+  <string name="activity_title">MIUI New year gifts</string>
   <string name="add_account">Add account</string>
   <string name="agenda_today">TODAY, %1$s</string>
   <string name="agenda_tomorrow">TOMORROW, %1$s</string>

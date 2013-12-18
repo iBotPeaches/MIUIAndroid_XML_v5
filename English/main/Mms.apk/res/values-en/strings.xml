@@ -135,6 +135,8 @@
   <string name="failed_to_add_media">Sorry, you cannot add this %1$s to your message.</string>
   <string name="failed_to_resize_image">Picture not resized.</string>
   <string name="fdn_check_failure">You can only send messages to your fixed dialling numbers.</string>
+  <string name="feedback_description_hint">Please enter your feedback here</string>
+  <string name="feedback_submit">Submit</string>
   <string name="festival">Recommended</string>
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Loading...</string>
@@ -270,6 +272,7 @@
   <string name="pref_collapse_sp_messages_summary">Combine service provider message into same entry</string>
   <string name="pref_edit_smsc_address">SMS centre number</string>
   <string name="pref_forward_title">Forward</string>
+  <string name="pref_key_mx_feedback">Submit feedback</string>
   <string name="pref_messages_to_save">Set number of messages to save</string>
   <string name="pref_mms_settings_title">Multimedia message (MMS) settings</string>
   <string name="pref_notification_settings_title">Notification settings</string>
@@ -283,6 +286,8 @@
   <string name="pref_summary_mms_auto_retrieval">Automatically retrieve messages</string>
   <string name="pref_summary_mms_read_reports">Request a read report for each message you send</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Automatically retrieve messages while roaming</string>
+  <string name="pref_summary_mx_feedback">"Help improve MIUI!
+Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="pref_summary_new_message_popup">Show pop-ups when new message is received</string>
   <string name="pref_summary_new_message_popup_when_secure">No popup notifications when access controlled</string>
   <string name="pref_summary_notification_body_enabled">Preview messages on lock screen and status bar</string>
@@ -437,6 +442,10 @@
   <string name="to_count">%d in all</string>
   <string name="to_label">"To "</string>
   <string name="to_send_wrapper">Will send at %s</string>
+  <string name="toast_description_required">Feedback is required to submit</string>
+  <string name="toast_feedback_finish">Your report will be sent automatically when you connect to a Wi-Fi network</string>
+  <string name="toast_feedback_max">Only 3 reports may be submitted per day</string>
+  <string name="toast_feedback_start">Sending feedback data…</string>
   <string name="too_many_attachments">There is a limit of %1$s attachments. Only the first %2$s will be added.</string>
   <string name="too_many_recipients">This message has too many recipients (%1$s). There is a limit of %2$s recipients.</string>
   <string name="too_many_unsent_mms">"Can't send message right now. There are too many unsent multimedia messages."</string>
