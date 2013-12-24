@@ -5146,6 +5146,7 @@
     <item>nb_NO</item>
     <item>bg_BG</item>
     <item>ro_RO</item>
-	<item>fi_FI</item>
+    <item>fi_FI</item>
+    <item>my_MY</item>
   </string-array>
 </resources>
