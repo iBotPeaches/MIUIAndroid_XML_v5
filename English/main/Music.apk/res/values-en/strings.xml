@@ -220,6 +220,7 @@
   <string name="overwrite_confirm">Overwrite</string>
   <string name="pay_service_guide_dowload">Download quality</string>
   <string name="pay_service_guide_listen">Stream quality</string>
+  <string name="pay_service_guide_new">Higher quality music now available</string>
   <string name="payment_fail">Payment failed!</string>
   <string name="payment_success">Payment successful!</string>
   <string name="play_all">Play All</string>

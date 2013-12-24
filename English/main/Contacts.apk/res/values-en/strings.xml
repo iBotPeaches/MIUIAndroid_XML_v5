@@ -1052,6 +1052,7 @@ the content you're looking for is not currently available in your region.”</st
   <string name="today">Today</string>
   <string name="type_incoming">Incoming call</string>
   <string name="type_missed">Missed call</string>
+  <string name="type_mx_msg">Cloud messaging</string>
   <string name="type_outgoing">Outgoing call</string>
   <string name="type_vcard">vCard</string>
   <string name="type_voicemail">Voicemail</string>
@@ -1100,6 +1101,10 @@ the content you're looking for is not currently available in your region.”</st
   <string name="yellowpage_navigation_search_city_name_hint">Search by City</string>
   <string name="yellowpage_navigation_search_hint">Search</string>
   <string name="yellowpage_navigation_search_offline_hint">Network unavailable</string>
+  <string name="yellowpage_navigation_search_result_network_error">"Couldn't connect to network"</string>
+  <string name="yellowpage_navigation_search_result_no_more">No more results</string>
+  <string name="yellowpage_navigation_search_result_service_error">Service currently unavailable</string>
+  <string name="yellowpage_navigation_search_result_unknown_error">Unknown error occurred!</string>
   <string name="yellowpage_navigation_search_select_city">Please select City</string>
   <string name="zero_items_selected">No items selected</string>
 </resources>

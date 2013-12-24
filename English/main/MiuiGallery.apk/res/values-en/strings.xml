@@ -211,6 +211,7 @@ friends."</string>
   <string name="flip">Flip</string>
   <string name="flip_tooltip">Drag photo to flip it</string>
   <string name="focal_length">Focal length</string>
+  <string name="folder_holder_file">File placeholder</string>
   <string name="frame_black">Black</string>
   <string name="frame_button">Frame</string>
   <string name="frame_classic">Classic</string>
@@ -484,6 +485,7 @@ friends."</string>
   <string name="there_is_no_image">There is no image.</string>
   <string name="tieba">Tie Ba</string>
   <string name="time">Time</string>
+  <string name="time_line_view">Timeline_View</string>
   <string name="times">Times</string>
   <string name="tint">Tint</string>
   <string name="title">Title</string>

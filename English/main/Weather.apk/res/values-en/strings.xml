@@ -16,6 +16,7 @@
   <string name="act_set_city_re_find_side">Locating...</string>
   <string name="act_weather_aqi_share">Share</string>
   <string name="act_weather_aqi_title">Air quality index</string>
+  <string name="act_weather_cycle_link_china">Chinese Weather Network</string>
   <string name="act_weather_cycle_low_temp">low</string>
   <string name="act_weather_cycle_update">Updating…</string>
   <string name="act_weather_find_city_connect_net">Check your network connection and try again.</string>
@@ -69,10 +70,12 @@
   <string name="location_management">Locations</string>
   <string name="location_notification">Weather notifications</string>
   <string name="menu_about">About</string>
+  <string name="menu_add">Add City</string>
   <string name="menu_around">Surrounding</string>
   <string name="menu_delete">Delete</string>
   <string name="menu_location">Locations</string>
   <string name="menu_main">Index</string>
+  <string name="menu_more">Details</string>
   <string name="menu_notification">Notifications</string>
   <string name="menu_reload">Refresh</string>
   <string name="menu_reloading">Updating…</string>

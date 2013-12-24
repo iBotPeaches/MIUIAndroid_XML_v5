@@ -194,6 +194,7 @@
   <string name="select_synced_calendars_title">Calendars to sync</string>
   <string name="select_visible_calendars_title">Calendars to display</string>
   <string name="show_all_lunar">Show lunar</string>
+  <string name="show_almanac">Show almanac</string>
   <string name="show_controls">Show controls</string>
   <string name="show_day_view">Show day</string>
   <string name="show_newer_events">Touch to view events after %1$s</string>

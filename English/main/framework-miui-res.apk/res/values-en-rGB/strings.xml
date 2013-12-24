@@ -453,6 +453,8 @@ Try again in %d seconds."</string>
   <string name="summer_solstice"/>
   <string name="sync_one_time_sync">Touch to sync (%1$s)</string>
   <string name="teachers_day"/>
+  <string name="text_copied">Text copied to clipboard.</string>
+  <string name="text_cut">Text cut</string>
   <string name="text_pastelist">Clipboard</string>
   <string name="the_armys_day"/>
   <string name="the_double_ninth_festival"/>
