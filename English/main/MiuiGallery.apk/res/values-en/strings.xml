@@ -127,6 +127,8 @@ friends."</string>
   <string name="confirm_delete_this_video">Do you want to delete the selected video?</string>
   <string name="confirm_delete_videos">%s videos</string>
   <string name="confirm_download">"You need to download %s. This tip won't be displayed again."</string>
+  <string name="confirm_download_video_message">Video requires download! Download will resume when a Wi-Fi connection is available.</string>
+  <string name="confirm_download_video_title">Download video</string>
   <string name="contact_photo">Contact photo</string>
   <string name="context_menu_add_contact">Add to contacts</string>
   <string name="context_menu_copy">Copy</string>
@@ -238,6 +240,7 @@ friends."</string>
   <string name="how_many_sub_folders">%d Folders</string>
   <string name="how_many_videos">%d Videos</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
+  <string name="image_download_item_title">Download image (%s)</string>
   <string name="image_quota_fulfiled">"Can't create image, images quota reached limit."</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Import complete</string>
@@ -260,8 +263,11 @@ friends."</string>
   <string name="landscape_mode">Enable Landscape Mode</string>
   <string name="loading">Loading...</string>
   <string name="loading_failure">Photo cannot be loaded</string>
+  <string name="loading_image">Downloading image…</string>
   <string name="loading_members">Loading members...</string>
+  <string name="loading_suspend">Download paused: Will resume when Wi-Fi connection is available</string>
   <string name="loading_thumbnail">Loading thumbnail...</string>
+  <string name="loading_video">Downloading video…</string>
   <string name="local_albums">Local images</string>
   <string name="location">Location</string>
   <string name="locations">Locations</string>

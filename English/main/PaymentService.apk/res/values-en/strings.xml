@@ -5,6 +5,7 @@
   <string name="app_name">Payment service</string>
   <string name="balance">Balance: %1$s MiCredits</string>
   <string name="balance_giftcard_payment">%1$s MiCredits（%2$s-MiCredit gift card）</string>
+  <string name="balance_no_giftcard_payment">%1$s MiCredits (cannot use MiCredit gift card for this order)</string>
   <string name="balance_payment">%1$s MiCredits</string>
   <string name="bankcall_bank_account">Bank card:</string>
   <string name="bankcall_call_hint">You will receive a call from UnionPay (020-96585) shortly.</string>

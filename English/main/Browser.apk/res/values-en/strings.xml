@@ -349,6 +349,7 @@
   <string name="pref_content_auto_light_mode">Auto brightness</string>
   <string name="pref_content_autofit">Auto-fit pages</string>
   <string name="pref_content_autofit_summary">Format webpages to fit the screen</string>
+  <string name="pref_content_block_float_popups">Block floating pop-ups</string>
   <string name="pref_content_block_popups">Block pop-ups</string>
   <string name="pref_content_fontsize_setting">Font Settings</string>
   <string name="pref_content_homepage">Set homepage</string>

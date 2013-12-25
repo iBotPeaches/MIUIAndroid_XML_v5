@@ -151,6 +151,7 @@
   <string name="text_day"/>
   <string name="text_done">Done</string>
   <string name="text_save">Save</string>
+  <string name="traffic_bought">Traffic purchased</string>
   <string name="traffic_none">N/A</string>
   <string name="traffic_remain">Remaining</string>
   <string name="traffic_settings_error">There is an error in your settings for monthly free traffic. According to your settings and operator SMS, your monthly free traffic is: %1$s and remaining traffic is: %2$s.</string>
