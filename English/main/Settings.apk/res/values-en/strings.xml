@@ -2589,7 +2589,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_button_clear">Clean up</string>
   <string name="virus_scan">Virus scan</string>
   <string name="virus_scan_app_continue">Continue scan</string>
-  <string name="virus_scan_app_find_risk">% d risks found</string>
+  <string name="virus_scan_app_find_risk">%d risks found. You should remove right now.</string>
   <string name="virus_scan_app_finish">Scan complete</string>
   <string name="virus_scan_app_force_stop">Scan paused</string>
   <string name="virus_scan_app_is_stop_scan">Stop scan?</string>
