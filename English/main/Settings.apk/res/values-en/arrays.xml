@@ -25,7 +25,6 @@
        <item>Camera</item>
        <item>Albums</item>
        <item>Music</item>
-       <item>Video</item>
        <item>E-mail</item>
    </string-array>
 </resources>
