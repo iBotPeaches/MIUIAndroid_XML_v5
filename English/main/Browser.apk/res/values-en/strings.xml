@@ -297,6 +297,10 @@
   <string name="menu_share_url">Share</string>
   <string name="menu_theme_setting">Theme Settings</string>
   <string name="menu_view_download">Downloads</string>
+  <string name="miui_quicksearch_enable_pref_summary">Enable quick search</string>
+  <string name="miui_quicksearch_enable_pref_title">Quick search notifications</string>
+  <string name="miui_search_notification_message">Open quick search</string>
+  <string name="miui_search_notification_title">Quick search</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">USB storage is required to modify.</string>
   <string name="move_to_up_folder">Up a level</string>
   <string name="multi_select_title">Selected %1$s item(s)</string>
