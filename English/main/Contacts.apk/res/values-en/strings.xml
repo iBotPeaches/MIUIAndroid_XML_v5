@@ -1097,6 +1097,7 @@ the content you're looking for is not currently available in your region.”</st
   <string name="wipe_data">Clear data</string>
   <string name="yellowPageNavigationIconLabel">Directory</string>
   <string name="yellowPageNavigationLabel">Directory</string>
+  <string name="yellowpage_navigation_menu_order">My order</string>
   <string name="yellowpage_navigation_no_content">No search results</string>
   <string name="yellowpage_navigation_search_city_name_hint">Search by City</string>
   <string name="yellowpage_navigation_search_hint">Search</string>

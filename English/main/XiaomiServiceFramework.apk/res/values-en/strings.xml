@@ -90,6 +90,8 @@
   <string name="enableAll">Enable All</string>
   <string name="enable_find_device_error">%1$s, failed to enable locate device</string>
   <string name="enable_micloud">Enable cloud services</string>
+  <string name="enable_sync">Enable sync</string>
+  <string name="enable_sync_dspt">Sync is off</string>
   <string name="error_dup_phone">Phone has been registered</string>
   <string name="error_invalid_dev_id">Device id is invalid</string>
   <string name="error_mili_title">Insufficient Mi credits</string>
@@ -139,6 +141,7 @@
   <string name="mibi_license_message_span">Mi Credit User Agreement</string>
   <string name="mibi_license_title">Mi Credit User agreement</string>
   <string name="micloud_account">Xiaomi account</string>
+  <string name="micloud_account_details">Account details</string>
   <string name="micloud_account_label">Account: %1$s</string>
   <string name="micloud_account_name">Xiaomi Account</string>
   <string name="micloud_account_not_actived">Account not activated</string>
@@ -155,8 +158,10 @@
   <string name="micloud_activing_account">Activating your account...</string>
   <string name="micloud_activing_account_delayed">"It probably needs 30 seconds to complete activating. You can do something else..."</string>
   <string name="micloud_activing_account_failed">Failed to activate your account</string>
+  <string name="micloud_app_data">MiCloud app backups</string>
   <string name="micloud_click_email">Click the link in the E-mail to activate your Xiaomi Account</string>
   <string name="micloud_click_email_to_valid">Click the activation link in the message sent to your inbox</string>
+  <string name="micloud_data_loading">Loading...</string>
   <string name="micloud_delete_account">Delete account</string>
   <string name="micloud_dspt">Cloud services include MiCloud messaging, mobile sync, locating device and other features. You can also manage your data online at any time!</string>
   <string name="micloud_email">E-mail address</string>
@@ -166,6 +171,16 @@
   <string name="micloud_error_empty_username">Username is blank</string>
   <string name="micloud_error_empty_vcode">Enter verification code.</string>
   <string name="micloud_error_illegal_pwd">Illegal password</string>
+  <string name="micloud_full_influence_dspt">"All photos, videos, notes and apps will be backed up to MiCloud.
+
+If you lose or damage your phone, your data will still be safe.
+
+When your MiCloud account is full, your old data won't be removed. However, any new content you add (e.g. photos, videos, notes or  apps) won't be backed up.
+
+To solve this, you can either clean out old files, or purchase additional storage space."</string>
+  <string name="micloud_full_influence_title">When your MiCloud is full</string>
+  <string name="micloud_gallery_image">MiCloud images</string>
+  <string name="micloud_gallery_video">MiCloud videos</string>
   <string name="micloud_input_password_prompt">Input password</string>
   <string name="micloud_intro_01_part_01">Save on SMS costs</string>
   <string name="micloud_intro_01_part_02">MIUI allows you to send free cloud messaging via the network</string>
@@ -175,16 +190,35 @@
   <string name="micloud_intro_03_part_02">Mange your data and also locate, lock or erase device contents on i.xiaomi.com</string>
   <string name="micloud_is_what">What is MiCloud?</string>
   <string name="micloud_more">Learn more</string>
+  <string name="micloud_none">None</string>
   <string name="micloud_password_confirm_hint">Confirm password</string>
   <string name="micloud_password_error_inconsistent">Password mismatch</string>
   <string name="micloud_password_req_notice">8~16 chars, contains digits, alphabet letters, case sensitive</string>
   <string name="micloud_proceed">Continue</string>
   <string name="micloud_reg_new">Create new</string>
   <string name="micloud_resend_active_email">Re-send activation E-mail</string>
+  <string name="micloud_space_full_influence">What happens if I run out of space?</string>
+  <string name="micloud_storage_space">MiCloud storage space</string>
   <string name="micloud_summary">Login to Xiaomi account to sync Contacts, Gallery Albums and other functions.</string>
+  <string name="micloud_title_dspt" formatted="false">"Total space %s
+ used %s | left %s"</string>
+  <string name="micloud_title_full_dspt">Storage limit has been reached!</string>
   <string name="micloud_use_existing">Existing</string>
+  <string name="micloud_user_base_info">User info</string>
+  <string name="micloud_user_email">E-mail</string>
+  <string name="micloud_user_id">Xiaomi ID</string>
+  <string name="micloud_user_name">Username</string>
+  <string name="micloud_user_phone">Phone number</string>
+  <string name="micloud_user_space_usage">Space used</string>
   <string name="micloud_via_int_sms_alert">An SMS will be sent to your device at your carriers messaging rate. Are you sure you want to continue?</string>
   <string name="micloud_via_sms_alert">An SMS will be sent to validate your phone number. Are you sure you want to continue?</string>
+  <string name="micloud_warn_full_msg">You have reached your storage limit!</string>
+  <string name="micloud_warn_full_sum">"New items won't be synced with your MiCloud account."</string>
+  <string name="micloud_warn_full_title">MiCloud storage full!</string>
+  <string name="micloud_warn_low_sum">Storage space is 90% used.</string>
+  <string name="micloud_warn_low_title">Low storage space!</string>
+  <string name="micloud_web_discription_01">Login at http://i.xiaomi.com</string>
+  <string name="micloud_web_discription_02">to store and access your files from anywhere</string>
   <string name="micloud_welcome_skip_login">Skip registration</string>
   <string name="mili_center">Mi Credit</string>
   <string name="msg_denomination_type">Mi Credit</string>

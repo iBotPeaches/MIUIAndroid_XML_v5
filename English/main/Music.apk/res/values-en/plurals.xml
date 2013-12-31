@@ -60,6 +60,10 @@
         <item quantity="other">" categories"</item>
         <item quantity="one">" category"</item>
     </plurals>
+    <plurals name="Nexpiration_reminder">
+        <item quantity="other">%d days are about to expire</item>
+        <item quantity="one">%d day is about to expire</item>
+    </plurals>
     <plurals name="album_details_format">
         <item quantity="other">%1$s, %2$d songs</item>
         <item quantity="one">%1$s, %2$d song</item>
@@ -79,5 +83,8 @@
     <plurals name="Nhot_tracks_total">
         <item quantity="other">%d top rated songs</item>
         <item quantity="one">%d top rated song</item>
+    </plurals>
+    <plurals name="Nvip_expired_remind">
+        <item quantity="other">Your higher quality music access is about to expire (%d days remaining)</item>
     </plurals>
 </resources>

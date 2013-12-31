@@ -105,6 +105,12 @@
   <string name="gadget_no_events">No upcoming calendar events</string>
   <string name="gadget_title">Calendar</string>
   <string name="goto_today">Today</string>
+  <string name="gou_piao_event_title">Train reminders %s</string>
+  <string name="gou_piao_item1">Remind me of times for trains</string>
+  <string name="gou_piao_item2">For telephone bookings call 12306</string>
+  <string name="gou_piao_item3">Purchase tickets by calling 12306</string>
+  <string name="gou_piao_website_start_time">Purchase at %s online or by phone</string>
+  <string name="gou_piao_window_start_time">Tickets can be purchased at the station from %s</string>
   <string name="hide_controls">Hide controls</string>
   <string name="hint_attendees">Guests</string>
   <string name="hint_description">Description</string>
@@ -197,6 +203,7 @@
   <string name="show_almanac">Show almanac</string>
   <string name="show_controls">Show controls</string>
   <string name="show_day_view">Show day</string>
+  <string name="show_gou_piao">Display spring festival ticket calendar</string>
   <string name="show_newer_events">Touch to view events after %1$s</string>
   <string name="show_older_events">Touch to view events before %1$s</string>
   <string name="snooze_all_label">Snooze all</string>

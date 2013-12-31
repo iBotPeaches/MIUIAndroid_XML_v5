@@ -58,6 +58,8 @@
   <string name="create_equalzier_create_text_prompt">Equalizer effect name</string>
   <string name="create_playlist_create_text_prompt">Playlist name</string>
   <string name="custom">Customize</string>
+  <string name="data_usage_warning">Data usage warning!</string>
+  <string name="data_usage_warning_summary">Using your mobile data connection to stream higher quality music may increase your data usage costs.</string>
   <string name="default_interval">30</string>
   <string name="delete_file_from_sdcard">Delete file from SD card</string>
   <string name="delete_item">Delete</string>
@@ -87,6 +89,7 @@
   <string name="empty_edit_hint">Song information unavailable</string>
   <string name="empty_track_list">No track list</string>
   <string name="emptyplaylist">Selected playlist is empty.</string>
+  <string name="enabled">Enabled</string>
   <string name="enter_sleep_mode">Enter Sleep Mode</string>
   <string name="eq_auto">Custom</string>
   <string name="eq_blues">Blues</string>
@@ -112,6 +115,7 @@
   <string name="equalizer_delete">Delete</string>
   <string name="equalizer_delete_success">Equalizer profile successfully removed</string>
   <string name="equalizer_save_success">Equalizer profile saved</string>
+  <string name="expired">Expired</string>
   <string name="fade_effect_settings">Fade settings</string>
   <string name="fade_effect_summary">Enables fading between each played song</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
@@ -137,6 +141,8 @@
   <string name="frequentlyplayed_title">Frequently played</string>
   <string name="headphone_settings">Headphone type settings</string>
   <string name="high_quality">High quality</string>
+  <string name="higher_quality_music">High quality music</string>
+  <string name="higher_quality_music_summary">Listen to and download higher quality music</string>
   <string name="hot_artists">Hot Artists</string>
   <string name="i_know">OK</string>
   <string name="id3_edit">Edit ID3 information</string>
@@ -186,6 +192,7 @@
   <string name="lyric_picker_not_found">File Manager not found on the device</string>
   <string name="max_interval">90</string>
   <string name="mediaplaybacklabel">Music</string>
+  <string name="menu_higher_quality_music">Higher quality music (monthly access)</string>
   <string name="mi_effect">MI Effects</string>
   <string name="mi_effect_summary">Always use MiSound enhancer when using speakers</string>
   <string name="mi_effect_title">Use MiSound enhancer</string>
@@ -202,6 +209,7 @@
   <string name="music_not_loaded">No audio files found!</string>
   <string name="music_open_other_connect">Download music using mobile data connection</string>
   <string name="music_picker_title">Select song</string>
+  <string name="music_quality">Music quality</string>
   <string name="music_settings">Settings</string>
   <string name="network_error">No network connection, please check your network settings</string>
   <string name="new_albums">New Albums</string>
@@ -318,9 +326,14 @@
   <string name="unknown_artist_name">Unknown artist</string>
   <string name="use_local_album">Use saved album art</string>
   <string name="use_local_lyric">Use saved lyrics</string>
+  <string name="valid_period">"Valid from: "</string>
+  <string name="vip_bought">"You've already purchased higher quality music access"</string>
+  <string name="vip_expired">Your higher quality music access has expired</string>
+  <string name="vip_rebuy">Renew</string>
   <string name="vip_recommend_buy">Purchase (RMB 5 for 1 month)</string>
   <string name="vip_recommend_exchange">Use gift code</string>
   <string name="vip_recommend_main_title">Unlimited CD quality (320 kbps)</string>
+  <string name="vip_recommend_rebuy">Renewing VIP access for 30 days costs 5 MiCredits</string>
   <string name="vip_recommend_sub_title">Only 5 RMB per month</string>
   <string name="vip_recommend_summary">Stream or download all your favorite artists from Baidu Music at 320 kbps.</string>
   <string name="vip_recommend_title">Higher quality music</string>

@@ -196,6 +196,7 @@ friends."</string>
   <string name="exposure_time">Exposure time</string>
   <string name="external_sd_card">SD card</string>
   <string name="external_usb_device">USB device</string>
+  <string name="external_usb_device_hm">External USB storage</string>
   <string name="facelift">Face Glow</string>
   <string name="facetan">Face Tan</string>
   <string name="fail_hint">Operation failed.</string>
@@ -252,9 +253,11 @@ friends."</string>
   <string name="internal_camera_folder_display_name">Internal Camera Photos</string>
   <string name="internal_miui_capture_screen_folder_display_name">Internal Screenshots</string>
   <string name="internal_sd_card">Internal SD card</string>
+  <string name="internal_sd_card_hm">Phone storage</string>
   <string name="invalid_invition_url">Invalid invitation URL.</string>
   <string name="invalid_recipient_message">"Correct recipient(s) errors or they will not receive the message."</string>
   <string name="iso">ISO</string>
+  <string name="item_not_sync">This item has not been synchronized to the cloud and can not be downloaded</string>
   <string name="kick_owner_user_positive_button_text">Remove</string>
   <string name="kick_owner_user_title">Remove this member?</string>
   <string name="kick_sharer">Remove sharer</string>
@@ -301,6 +304,7 @@ friends."</string>
   <string name="modify_allow_hint">Adding new images to the album is allowed</string>
   <string name="modify_disallow_hint">Adding new images to the album is disallowed</string>
   <string name="more">More</string>
+  <string name="move">Move</string>
   <string name="move_to_cloud_album">Move to Cloud</string>
   <string name="mtgif">MTGIF</string>
   <string name="mtxx">MTXX</string>
