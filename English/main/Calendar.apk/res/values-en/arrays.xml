@@ -136,6 +136,7 @@
         <item>Tonga</item>
     </string-array> 
     <string-array name="availability">
+        <item>Busy</item>
         <item>Available</item>
         <item>Tentative</item>
     </string-array>
@@ -186,5 +187,9 @@
         <item>Always</item>
         <item>Only when silent</item>
         <item>Never</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Transparent black</item>
+        <item>White background</item>
     </string-array>
 </resources>
