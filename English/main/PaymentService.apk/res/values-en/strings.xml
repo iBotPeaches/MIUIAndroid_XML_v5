@@ -338,9 +338,9 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="msg_denomination_type">MiCredit</string>
   <string name="msg_error">Top-up failed</string>
   <string name="msg_picker_hint_1_1">1.</string>
-  <string name="msg_picker_hint_1_2">Topping up via text maybe more expensive: &lt;font color=red&gt;￥2 = 1 MiCredit&lt;/font&gt;</string>
+  <string name="msg_picker_hint_1_2">Topping up via text maybe more expensive: &lt;font color=red&gt;￥%1$d = %2$d MiCredit&lt;/font&gt;</string>
   <string name="msg_picker_hint_2_1">2.</string>
-  <string name="msg_picker_hint_2_2">Carriers charge a 0.1 yuan service fee per top-up</string>
+  <string name="msg_picker_hint_2_2">Carriers charge a %1$s yuan service fee per top-up</string>
   <string name="msg_picker_hint_3_1">3.</string>
   <string name="msg_picker_hint_3_2">Maximum monthly top-up: %1$s yuan</string>
   <string name="msg_send_no_net_error">"Failed to send message: couldn't connect to network provider."</string>

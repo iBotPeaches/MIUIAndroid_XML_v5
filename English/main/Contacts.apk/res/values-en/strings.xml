@@ -789,6 +789,7 @@ To add a contact to your list of favorites:
   <string name="resource_comment_all_comments">All comments</string>
   <string name="resource_comment_average_score">Average</string>
   <string name="resource_comment_bad_comments">Negative</string>
+  <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_current_version">Current version</string>
   <string name="resource_comment_edit_comment">Add comments</string>
   <string name="resource_comment_edit_comment_waiting">Checking user history…</string>
@@ -960,6 +961,7 @@ the content you're looking for is not currently available in your region.”</st
   <string name="simContacts_empty">No contacts found on SIM card.</string>
   <string name="simContacts_emptyLoading">Loading contacts from SIM card…</string>
   <string name="simContacts_title">SIM card contacts</string>
+  <string name="sim_capacity">View SIM Card Capacity</string>
   <string name="sim_capacity_content" formatted="false">Total capacity %d, used %d</string>
   <string name="sim_card1">SIM 1</string>
   <string name="sim_card2">SIM 2</string>
@@ -968,12 +970,15 @@ the content you're looking for is not currently available in your region.”</st
   <string name="sim_card_no_free_space_title">SIM is full!</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Deselect all</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Select all</string>
+  <string name="sim_contact_existing">Contact already exists</string>
+  <string name="sim_contact_invalid">Invalid SIM contact</string>
   <string name="sim_contact_search_error">Error occurred when searching SIM card contacts</string>
   <string name="sim_contacts">SIM Contacts</string>
   <string name="sim_error_anr_full">Storage for number is full!</string>
   <string name="sim_error_email_full">Storage for E-mail is full!</string>
   <string name="sim_error_email_too_long">E-mail address is too long.</string>
   <string name="sim_error_generic_failure">Generic SIM Failure.</string>
+  <string name="sim_error_not_ready">Loading SIM contacts…</string>
   <string name="sim_error_number_too_long">SIM Number is too long!</string>
   <string name="sim_error_password_error">SIM Password error.</string>
   <string name="sim_error_storage_full">SIM Storage is full!</string>

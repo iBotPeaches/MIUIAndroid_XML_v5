@@ -203,7 +203,6 @@
   <string name="attachment_not_found">"Couldn't download the attachment."</string>
   <string name="bcc">Bcc</string>
   <string name="body_hint">Compose e-mail</string>
-  <string name="build_number">20080722-0001</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_action">Cancel</string>
   <string name="cannot_move_multiple_accounts_toast">"Can't move because selection contains multiple accounts."</string>
@@ -213,6 +212,7 @@
   <string name="cc">Cc</string>
   <string name="choose_attachment_dialog_title">Choose attachment</string>
   <string name="choosertitle_sharevia">Share via</string>
+  <string name="cleared_trusted_senders_message">Images embedded in mail will not be shown automatically.</string>
   <string name="close_action">Close</string>
   <string name="completed_no_file">File not found</string>
   <string name="compose_action">Compose</string>

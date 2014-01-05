@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Name</item>
+        <item>Nickname</item>
+        <item>Phone</item>
+        <item>E-mail</item>
+        <item>Organization</item>
+        <item>IM</item>
+        <item>SIP Phone</item>
+        <item>Birthday</item>
+        <item>Website</item>
+        <item>Address</item>
+        <item>Note</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Small</item>
+        <item>Default</item>
+        <item>Large</item>
+        <item>Super</item>
+    </string-array>
+</resources>
