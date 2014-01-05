@@ -135,7 +135,7 @@
         <item>Auckland</item>
         <item>Fiji</item>
         <item>Tonga</item>
-    </string-array> 
+    </string-array>
     <string-array name="availability">
         <item>Busy</item>
         <item>Available</item>
