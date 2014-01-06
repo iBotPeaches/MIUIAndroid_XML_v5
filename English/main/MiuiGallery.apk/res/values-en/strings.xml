@@ -240,7 +240,6 @@ friends."</string>
   <string name="how_many_pics">%d Photos</string>
   <string name="how_many_sub_folders">%d Folders</string>
   <string name="how_many_videos">%d Videos</string>
-  <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="image_download_item_title">Download image (%s)</string>
   <string name="image_quota_fulfiled">"Can't create image, images quota reached limit."</string>
   <string name="immomo_camera">Immomo</string>
@@ -377,6 +376,7 @@ friends."</string>
   <string name="remove_hidden_album">Cancel hidden</string>
   <string name="remove_recent_album">Remove from favorite albums</string>
   <string name="rename_failed">Rename failed</string>
+  <string name="rename_failed_duplicated_name">A file with the same name already exists.</string>
   <string name="renren_image">RenRen</string>
   <string name="request_qr_code">Requesting QR code, please wait...</string>
   <string name="request_qr_code_failed">QR code request failed, click to retry</string>
