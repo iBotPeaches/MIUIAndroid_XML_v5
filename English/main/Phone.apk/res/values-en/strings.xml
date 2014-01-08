@@ -5,7 +5,7 @@
   <string name="absent_num">ABSENT NUMBER</string>
   <string name="accessibility_call_muted">Call muted.</string>
   <string name="accessibility_speakerphone_enabled">Speakerphone enabled.</string>
-  <string name="addSimEntries">Add SIM Contact</string>
+  <string name="addSimEntries">Add SIM contact</string>
   <string name="add_button_miui">Add</string>
   <string name="add_fdn_contact">Add fixed dialing number</string>
   <string name="add_sip_account">Add account</string>
@@ -72,7 +72,7 @@
   <string name="auto_answer_scenario_enteries_headset_only_miui">Headset connected only</string>
   <string name="auto_answer_scenario_title_miui">Scenario for auto answer</string>
   <string name="auto_answer_setting_title_miui">Auto answer settings</string>
-  <string name="auto_answer_summary_delay">(delay:%ss)</string>
+  <string name="auto_answer_summary_delay">(delay: %s seconds)</string>
   <string name="auto_answer_summary_not_enabled">Not enabled</string>
   <string name="auto_country_code_miui">Auto-add the country code</string>
   <string name="auto_country_code_sum_miui">Append country code before phone number for known contacts.</string>
@@ -174,8 +174,7 @@
   <string name="caller_manage_manage_done_text_miui">Back to call</string>
   <string name="callind">Call Feature Settings</string>
   <string name="callind_multi_sim">Select Subscription</string>
-  <string name="calling_via_template">"Calling via ^1
-"</string>
+  <string name="calling_via_template">Calling via %s</string>
   <string name="calling_via_template_miui">"Calling via ^1
 "</string>
   <string name="cancel">Cancel</string>
@@ -223,13 +222,13 @@
   <string name="cdma_options">CDMA Options</string>
   <string name="cdma_subscription_dialogtitle">subscription</string>
   <string name="cdma_subscription_summary">Change between UIM and NV</string>
-  <string name="cdma_subscription_title">CDMA Subscription</string>
+  <string name="cdma_subscription_title">CDMA subscription</string>
   <string name="cdma_system_select_choices_auto_miui">Automatic</string>
   <string name="cdma_system_select_choices_home_only_miui">Home only</string>
   <string name="cdma_system_select_dialogtitle">System select</string>
   <string name="cdma_system_select_summary">Change CDMA roaming mode</string>
   <string name="cdma_system_select_title">System select</string>
-  <string name="cdma_three_way_calls_miui">Three-way Call</string>
+  <string name="cdma_three_way_calls_miui">Three-way call</string>
   <string name="cell_bc_sms_disable">Cell Broadcast SMS disabled</string>
   <string name="cell_bc_sms_enable">Cell Broadcast SMS enabled</string>
   <string name="cell_broadcast_sms">Cell Broadcast SMS</string>
@@ -306,7 +305,7 @@
   <string name="data_enable_summary">Enable data access over Mobile network</string>
   <string name="data_enabled">Data enabled</string>
   <string name="deact_all_sub_not_supported">Deactivation of both the subscriptions is not supported.</string>
-  <string name="default_contacts_countrycode_hint_miui">For example: 86</string>
+  <string name="default_contacts_countrycode_hint_miui">Enter country code e.g 44 for UK</string>
   <string name="default_contacts_countrycode_miui">Default contacts country code</string>
   <string name="default_contacts_countrycode_sum_miui">Set the default country code of your contacts</string>
   <string name="default_port">5060</string>
@@ -928,9 +927,7 @@ Switch to the new provider anyway?"</string>
   <string name="sim_contacts_title_miui">Contacts on SIM card</string>
   <string name="sim_lock_off_miui">Require PIN to use phone</string>
   <string name="sim_lock_on_miui">Require PIN to use phone</string>
-  <string name="sim_lock_title_miui">SIM Lock Settings</string>
-  <string name="sim_missing_continueView_text">Continue without SIM card</string>
-  <string name="sim_missing_msg_text">No SIM card found. Please insert a SIM card into the phone.</string>
+  <string name="sim_lock_title_miui">SIM lock settings</string>
   <string name="sim_ndp_dismiss_text">Dismiss</string>
   <string name="sim_ndp_unlock_text">Unlock</string>
   <string name="sim_pin_change_miui">Change SIM PIN</string>
