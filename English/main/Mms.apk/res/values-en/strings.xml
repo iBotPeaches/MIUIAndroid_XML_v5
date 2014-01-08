@@ -3,6 +3,7 @@
   <string name="activity_not_found">Cannot find a program to open the attachment</string>
   <string name="activity_not_found_uri">Cannot find a program for this</string>
   <string name="addBlackList">Add to Blacklist</string>
+  <string name="add_attachment">Attach</string>
   <string name="add_bookmark">Favourites</string>
   <string name="add_contact">Contact</string>
   <string name="add_festival">Recommend</string>
@@ -292,6 +293,7 @@ Report bugs and send feedback directly to Xiaomi.”</string>
   <string name="pref_summary_new_message_popup_when_secure">No popup notifications when access controlled</string>
   <string name="pref_summary_notification_body_enabled">Preview messages on lock screen and status bar</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Previewing messages disabled when access control is enabled</string>
+  <string name="pref_summary_off_system_mms_priority">Other app may get MMS broadcast before system mms app get it</string>
   <string name="pref_summary_on_system_mms_priority">System Mms app will receive message first</string>
   <string name="pref_summary_show_recent_contacts">Show a list of recent contacts while composing a new message</string>
   <string name="pref_summary_wake_up_screen">Wake up screen when new message is received</string>
