@@ -2630,12 +2630,13 @@ Add a word by touching the Add (+) button"</string>
   <string name="virus_scan_finish_text">OK, the bad stuff is gone!</string>
   <string name="virus_scan_guard_provider_missed">Virus scanner has been compromised. You need to factory reset your phone.</string>
   <string name="virus_scan_installed_package">%s (installed app)</string>
+  <string name="virus_scan_is_cloud_scanning">Scanning MiCloud...</string>
   <string name="virus_scan_is_scanning">Scanning...</string>
   <string name="virus_scan_judge_is_virus">Check apps for viruses before installation</string>
   <string name="virus_scan_last_risk">Suspicious apps discovered in the most recent scan have not been not removed.</string>
   <string name="virus_scan_last_scan_date">Most recent scan was %d days ago</string>
-  <string name="virus_scan_last_scan_today">Most recent scan: Today</string>
-  <string name="virus_scan_last_scan_yesterday">&gt;Most recent scan: Yesterday</string>
+  <string name="virus_scan_last_scan_today">"Most recent scan: Today "</string>
+  <string name="virus_scan_last_scan_yesterday">"Most recent scan: Yesterday "</string>
   <string name="virus_scan_last_time">Most recent scan: %s</string>
   <string name="virus_scan_last_virus">Found viruses in last scan.</string>
   <string name="virus_scan_lib_unknow">Last updated: unknown</string>
