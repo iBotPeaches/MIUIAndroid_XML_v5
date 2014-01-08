@@ -356,7 +356,6 @@ friends."</string>
   <string name="remove_hidden_album">Unhide album</string>
   <string name="remove_recent_album">Remove from favorite albums</string>
   <string name="rename_failed">Rename failed</string>
-  <string name="rename_failed_duplicated_name">A file with the same name already exists.</string>
   <string name="renren_image">RenRen</string>
   <string name="request_qr_code_failed">QR code request failed, click to retry</string>
   <string name="request_sms_url_failed">Failed to request url for sharing via SMS</string>
