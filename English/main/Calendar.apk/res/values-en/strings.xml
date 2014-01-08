@@ -146,9 +146,6 @@
   <string name="no_title_label">(No title)</string>
   <string name="not_synced">not synced</string>
   <string name="pengzu"/>
-  <string name="prefDefault_alerts_vibrateWhen">never</string>
-  <string name="prefDefault_alerts_vibrate_false">never</string>
-  <string name="prefDefault_alerts_vibrate_true">always</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrate</string>
   <string name="preferences_about_title">About</string>
   <string name="preferences_alerts_popup_title">Pop-up notification</string>
@@ -160,7 +157,6 @@
   <string name="preferences_category_general_title">General</string>
   <string name="preferences_clear_search_history_summary">"Remove all the searches you've performed"</string>
   <string name="preferences_clear_search_history_title">Clear search history</string>
-  <string name="preferences_default_reminder_default">10</string>
   <string name="preferences_default_reminder_dialog">Default reminder time</string>
   <string name="preferences_default_reminder_title">Default reminder time</string>
   <string name="preferences_general_title">Calendar view setting</string>

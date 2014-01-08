@@ -780,6 +780,7 @@ To add a contact to your list of favorites:
   <string name="resource_comment_average_score">Ratings</string>
   <string name="resource_comment_bad_comments">Negative</string>
   <string name="resource_comment_current_version">Current version</string>
+  <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Add comments</string>
   <string name="resource_comment_edit_comment_waiting">Checking user history…</string>
   <string name="resource_comment_edit_text_default">Add a comment</string>

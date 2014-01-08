@@ -194,7 +194,6 @@
   <string name="attachment_not_found">"Couldn't download the attachment."</string>
   <string name="bcc">Bcc</string>
   <string name="body_hint">Compose mail</string>
-  <string name="build_number">20080722-0001</string>
   <string name="cancel_action">Cancel</string>
   <string name="cannot_move_multiple_accounts_toast">"Can't move because selection contains multiple accounts"</string>
   <string name="cannot_move_protocol_not_supported_toast">"Move isn't supported on POP3 accounts"</string>
