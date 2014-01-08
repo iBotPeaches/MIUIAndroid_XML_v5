@@ -159,8 +159,8 @@
   <string name="resource_on_trial">Trying: %1$s</string>
   <string name="resource_online">Online %1$s</string>
   <string name="resource_pack_confirm">You have already purchased %1$d items, but the current price is still better than individually purchasing left items, would you like to continue?</string>
-  <string name="resource_pack_discount_info">%1$s Saved!</string>
-  <string name="resource_pack_price_info">%1$s Original</string>
+  <string name="resource_pack_discount_info">You save %1$s!</string>
+  <string name="resource_pack_price_info">Original price %1$s</string>
   <string name="resource_pack_warning">Warning! you have already purchased %1$d items, current price is no longer valid for left items, please purchase them individually.</string>
   <string name="resource_present">Gift</string>
   <string name="resource_preview">Preview</string>
