@@ -52,17 +52,9 @@
         <item quantity="other">%d songs added to playlist.</item>
         <item quantity="one">1 song added to playlist.</item>
     </plurals>
-    <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d songs removed from playlist</item>
-        <item quantity="one">1 song removed from playlist</item>
-    </plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
         <item quantity="other">%d songs added to playlist.</item>
         <item quantity="one">1 song added to playlist.</item>
-    </plurals>
-    <plurals name="Nsearch_results">
-        <item quantity="other">%d results</item>
-        <item quantity="one">%d result</item>
     </plurals>
     <plurals name="Nonlinecategory">
         <item quantity="other">" categories"</item>

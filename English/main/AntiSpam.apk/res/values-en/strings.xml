@@ -2,21 +2,21 @@
 <resources>
   <string name="app_name">Guard</string>
   <string name="bl_block_info" formatted="false">Blocked: Number %d, details %d</string>
-  <string name="bl_no_blacklist">Blacklist empty</string>
-  <string name="bl_no_block_call">All blocked calls will be logged here</string>
-  <string name="bl_no_block_sms">All blocked messages will be logged here</string>
-  <string name="dlg_add_blacklist">Add number to blacklist?</string>
+  <string name="bl_no_blacklist">No blocked numbers</string>
+  <string name="bl_no_block_call">No blocked calls</string>
+  <string name="bl_no_block_sms">No blocked messages</string>
+  <string name="dlg_add_blacklist">Block this number?</string>
   <string name="dlg_add_keyword">Add keywords</string>
   <string name="dlg_add_manual_hint">Input phone number</string>
   <string name="dlg_add_manual_ok">Add</string>
   <string name="dlg_bl_add_manual">Add number to blacklist maunally</string>
-  <string name="dlg_clear_all_call">Remove all blocked calls?</string>
-  <string name="dlg_clear_all_ok">Remove all</string>
-  <string name="dlg_clear_all_sms">Remove all blocked messages?</string>
+  <string name="dlg_clear_all_call">Clear blocked calls?</string>
+  <string name="dlg_clear_all_ok">Clear all</string>
+  <string name="dlg_clear_all_sms">Clear all blocked messages?</string>
   <string name="dlg_clear_blacklist">Clear blacklist?</string>
   <string name="dlg_clear_blacklist_ok">Clear</string>
-  <string name="dlg_clear_current_call">Remove all blocked calls from this number?</string>
-  <string name="dlg_clear_current_ok">Remove</string>
+  <string name="dlg_clear_current_call">Clear all blocked calls from this number?</string>
+  <string name="dlg_clear_current_ok">Delete</string>
   <string name="dlg_clear_current_sms">Remove all blocked messages from this number?</string>
   <string name="dlg_delete_keyword">Remove selected keywords?</string>
   <string name="dlg_edit_keyword">Edit keyword</string>
@@ -33,13 +33,13 @@
   <string name="fw_blocked_count" formatted="false">Intercepted: %d Calls and %d Messages</string>
   <string name="log_count">(%d)</string>
   <string name="marked_by_others">%d people marked it as</string>
-  <string name="marked_by_user">marked by user</string>
+  <string name="marked_by_user">marked by me</string>
   <string name="menu_add">Add</string>
   <string name="menu_add_into_contact">Add to existing contact</string>
   <string name="menu_add_new_contact">New contact</string>
   <string name="menu_bl_add_contact">Contacts</string>
   <string name="menu_bl_add_manual">Add</string>
-  <string name="menu_bl_call_log">Check blocked call log</string>
+  <string name="menu_bl_call_log">View blocked calls</string>
   <string name="menu_bl_clear">Clear blacklist</string>
   <string name="menu_bl_remove">Remove from blacklist</string>
   <string name="menu_bl_sms_log">Check blocked messages</string>
@@ -50,11 +50,11 @@
   <string name="menu_clear_current_sms">Remove all blocked message sent by this number</string>
   <string name="menu_edit">Edit</string>
   <string name="menu_mark">Mark</string>
-  <string name="menu_no_block">"Don't block"</string>
+  <string name="menu_no_block">Unblock</string>
   <string name="menu_remove">Remove</string>
-  <string name="menu_restore">Restore to messaging app</string>
+  <string name="menu_restore">Restore to messages</string>
   <string name="menu_sms">Send message</string>
-  <string name="st_advanced_setting_group">Advanced Settings</string>
+  <string name="st_advanced_setting_group">Advanced settings</string>
   <string name="st_block_all">Block calls and messages</string>
   <string name="st_block_mute">Block calls and mute messages</string>
   <string name="st_block_private_call_button">Block incoming private number</string>
@@ -64,11 +64,11 @@
   <string name="st_block_unknown_call">Block all unknown calls</string>
   <string name="st_block_unknown_sms">Block all unknown messages</string>
   <string name="st_call_group">Call</string>
-  <string name="st_common_setting_group">Quick view</string>
+  <string name="st_common_setting_group">Filter settings</string>
   <string name="st_filter_keywords_setting_summary1">Messages from unknown contacts will be blocked.</string>
   <string name="st_filter_keywords_setting_summary2">Add multiple keywords delimited by a comma.</string>
   <string name="st_filter_keywords_setting_title">Set filter keywords</string>
-  <string name="st_filter_keywords_title">Filter keywords for messages</string>
+  <string name="st_filter_keywords_title">Filter keywords</string>
   <string name="st_filter_sms_button">Filter spam messages</string>
   <string name="st_mute_all">Mute calls and messages</string>
   <string name="st_mute_block">Mute calls and block messages</string>
@@ -83,7 +83,7 @@
   <string name="tab_call">Call log</string>
   <string name="tab_sms">Message log</string>
   <string name="tab_title">Guard</string>
-  <string name="toast_keyword_blank">Keyword is blank</string>
-  <string name="toast_keyword_exist">Keyword: %s already exists</string>
+  <string name="toast_keyword_blank">Please input a keyword</string>
+  <string name="toast_keyword_exist">Keyword already exists</string>
   <string name="toast_keyword_invalid">Invalid keyword entered</string>
 </resources>

@@ -264,6 +264,10 @@
   <string name="phrase_list_title" formatted="false">Phrases (%1$d)</string>
   <string name="pick_too_many_recipients">Too many recipients</string>
   <string name="play">Play</string>
+  <string name="prefDefault_ringtone_repeat">1</string>
+  <string name="prefDefault_vibrateWhen">never</string>
+  <string name="prefDefault_vibrate_false">never</string>
+  <string name="prefDefault_vibrate_true">always</string>
   <string name="pref_advanced_settings_title">Advanced settings</string>
   <string name="pref_collapse_sp_messages_summary">Combine service provider message into same entry</string>
   <string name="pref_edit_smsc_address">SMS centre number</string>

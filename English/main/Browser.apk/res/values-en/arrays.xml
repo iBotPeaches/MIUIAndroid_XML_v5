@@ -5,13 +5,9 @@
         <item>yahoo</item>
         <item>bing</item>
     </string-array>
-    <string-array name="pref_content_plugins_choices">
-        <item>Always on</item>
-        <item>On demand</item>
-        <item>Off</item>
-    </string-array>
+
     <string-array name="pref_homepage_choices">
-        <item>Browser will open to this page</item>
+        <item>Default start page</item>
         <item>Custom</item>
     </string-array>
     <string-array name="pref_text_size_choices">
@@ -31,17 +27,10 @@
         <item>Desktop</item>
         <item>iPhone</item>
         <item>iPad</item>
+        <item>Froyo-N1</item>
+        <item>Honeycomb-Xoom</item>
     </string-array>
-    <string-array name="pref_default_text_encoding_choices">
-        <item>Latin-1 (ISO-8859-1)</item>
-        <item>Unicode (UTF-8)</item>
-        <item>Chinese (GBK)</item>
-        <item>Chinese (Big5)</item>
-        <item>Japanese (ISO-2022-JP)</item>
-        <item>Japanese (SHIFT_JIS)</item>
-        <item>Japanese (EUC-JP)</item>
-        <item>Korean (EUC-KR)</item>
-    </string-array>
+
     <string-array name="pref_data_preload_choices">
         <item>Never</item>
         <item>Only on Wi-Fi</item>
@@ -81,8 +70,49 @@
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
     </string-array>
-    <string-array name="search_engines_cmcc">
+    <string-array name="search_engines_rCN">
+        <item>baidu</item>
+        <item>sogou</item>
         <item>google</item>
+        <item>bing_zh_CN</item>
+    </string-array>
+    <string-array name="search_engines_default">
+        <item>google</item>
+        <item>yahoo</item>
+        <item>bing</item>
+    </string-array>
+    <string-array name="search_engines_cmcc">
+        <item>s139</item>
+        <item>baidu</item>
+        <item>sogou</item>
+        <item>bing_zh_CN</item>
+    </string-array>
+    <string-array name="search_bar_search_engines_rCN">
+        <item>baidu</item>
+        <item>sogou</item>
+        <item>taobao</item>
+        <item>yicha</item>
+        <item>easou</item>
+        <item>dianping</item>
+        <item>google</item>
+        <item>shipin</item>
+        <item>tupian</item>
+    </string-array>
+    <string-array name="search_bar_search_engines_default">
+        <item>google</item>
+        <item>yahoo</item>
+        <item>bing</item>
+    </string-array>
+    <string-array name="search_bar_search_engines_cmcc">
+        <item>s139</item>
+        <item>baidu</item>
+        <item>sogou</item>
+        <item>taobao</item>
+        <item>yicha</item>
+        <item>easou</item>
+        <item>dianping</item>
+        <item>shipin</item>
+        <item>tupian</item>
     </string-array>
     <integer-array name="readmode_content_font_size">
         <item>16</item>
@@ -116,42 +146,6 @@
         <item>0xff36495d</item>
         <item>0xffbbbbbb</item>
     </integer-array>
-    <string-array name="google_in_list">
-        <item>search_google</item>
-        <item>ic_search_engine_google_list_item</item>
-        <item>google</item>
-    </string-array>
-    <string-array name="yahoo_in_list">
-        <item>search_yahoo</item>
-        <item>ic_search_engine_yahoo_list_item</item>
-        <item>yahoo</item>
-    </string-array>
-    <string-array name="bing_in_list">
-        <item>search_bing</item>
-        <item>ic_search_engine_bing_list_item</item>
-        <item>bing</item>
-    </string-array>
-    <string-array name="pref_ua_choices">
-        <item>Android</item>
-        <item>Desktop</item>
-        <item>iPhone</item>
-        <item>iPad</item>
-        <item>Froyo-N1</item>
-        <item>Honeycomb-Xoom</item>
-    </string-array>
-    <string-array name="pref_volume_key_choices">
-        <item>Page up/down</item>
-        <item>Switch window</item>
-    </string-array>
-    <string-array name="pref_fling_on_border_choices">
-        <item>Page forward/backward</item>
-        <item>Switch window</item>
-    </string-array>
-    <string-array name="pref_images_preload_choices">
-        <item>Never</item>
-        <item>Smart</item>
-        <item>Always</item>
-    </string-array>
     <string-array name="menu_theme_setting">
         <item>White</item>
         <item>Yellow</item>
@@ -160,5 +154,35 @@
         <item>Green</item>
         <item>Blue</item>
         <item>Dark</item>
+    </string-array>
+    <string-array name="google_in_list">
+        <item>search_google</item>
+        <item>ic_search_engine_google</item>
+        <item>google</item>
+    </string-array>
+    <string-array name="yahoo_in_list">
+        <item>search_yahoo</item>
+        <item>ic_search_engine_yahoo</item>
+        <item>yahoo</item>
+    </string-array>
+    <string-array name="bing_in_list">
+        <item>search_bing</item>
+        <item>ic_search_engine_bing</item>
+        <item>bing</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>Page forward/backward</item>
+        <item>Switch window</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>Never</item>
+        <item>Only on Wi-Fi</item>
+        <item>Always</item>
     </string-array>
 </resources>

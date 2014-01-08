@@ -4,6 +4,7 @@
   <string name="alert_action_edit_anyway">Continue editing</string>
   <string name="alert_edit_action_delete">Remove</string>
   <string name="alert_edit_action_update">Update</string>
+  <string name="alert_message_delete_folder">Delete folder and its notes?</string>
   <string name="alert_message_delete_folders">Delete the selected %1$s folders?</string>
   <string name="alert_message_delete_folders_notes">Delete the selected %1$s folders and %2$s notes?</string>
   <string name="alert_message_delete_note">Are you sure you want to delete this note?</string>
@@ -56,6 +57,7 @@
   <string name="menu_rename_folder">Rename folder</string>
   <string name="menu_send_to_desktop">Send to home screen</string>
   <string name="menu_setting">Settings</string>
+  <string name="menu_share">Share</string>
   <string name="menu_stick">Stick</string>
   <string name="menu_title_select_folder">Select folder</string>
   <string name="menu_unstick">Unstick</string>

@@ -33,7 +33,7 @@
   <string name="Generic_Check">Check</string>
   <string name="Generic_Clean">Clean</string>
   <string name="Generic_Configuration">Settings</string>
-  <string name="Generic_Copyright">Support provided by Xiaomi</string>
+  <string name="Generic_Copyright">Powered by LBE Privacy Guard</string>
   <string name="Generic_Disable">Disable</string>
   <string name="Generic_Enable">Enable</string>
   <string name="Generic_Good">Good</string>
@@ -106,15 +106,15 @@
   <string name="HIPS_Perm_Location_Source_Cellular">Source: Cellular Network</string>
   <string name="HIPS_Perm_Location_Source_GPS">Source: GPS</string>
   <string name="HIPS_Perm_Location_Source_Network">Source: Network</string>
-  <string name="HIPS_Perm_MobileNetwork">Mobile network</string>
-  <string name="HIPS_Perm_MobileNetwork_Desc">Access Internet through mobile network</string>
-  <string name="HIPS_Perm_MobileNetwork_Hint">%1$s apps have the permission to access Internet</string>
-  <string name="HIPS_Perm_Network_Accept">Allow connection from %1$s</string>
-  <string name="HIPS_Perm_Network_Connect">Connect to %1$s</string>
-  <string name="HIPS_Perm_Network_Listen">Listen on port %1$s</string>
-  <string name="HIPS_Perm_Network_MobileEvent">Using Mobile network</string>
-  <string name="HIPS_Perm_Network_Recv">Receive data</string>
-  <string name="HIPS_Perm_Network_Send">Send data</string>
+  <string name="HIPS_Perm_MobileNetwork">Mobile Network</string>
+  <string name="HIPS_Perm_MobileNetwork_Desc">Mobile Network</string>
+  <string name="HIPS_Perm_MobileNetwork_Hint">%1$s apps are allowed to access Internet through mobile network</string>
+  <string name="HIPS_Perm_Network_Accept">accept connection from %1$s</string>
+  <string name="HIPS_Perm_Network_Connect">connect to %1$s</string>
+  <string name="HIPS_Perm_Network_Listen">listen on port %1$s</string>
+  <string name="HIPS_Perm_Network_MobileEvent">using Mobile network</string>
+  <string name="HIPS_Perm_Network_Recv">receive data</string>
+  <string name="HIPS_Perm_Network_Send">send data</string>
   <string name="HIPS_Perm_Network_UnknownAddr">Unknown address</string>
   <string name="HIPS_Perm_Network_WIFIEvent">Using Wi-Fi network</string>
   <string name="HIPS_Perm_PhoneID">Phone ID</string>
@@ -184,5 +184,5 @@
   <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
   <string name="SysOpt_Boost_Boot">Boot</string>
   <string name="SysOpt_Boost_Receiver">Background</string>
-  <string name="app_name">LBE Guard</string>
+  <string name="app_name">Permissions</string>
 </resources>

@@ -4,7 +4,7 @@
 %1$s"</string>
   <string name="app_name">Payment service</string>
   <string name="balance">Balance: %1$s MiCredits</string>
-  <string name="balance_giftcard_payment">%1$s MiCredits（%2$s-MiCredit gift card）</string>
+  <string name="balance_giftcard_payment">%1$s MiCredits (%2$s-MiCredit gift card)</string>
   <string name="balance_no_giftcard_payment">%1$s MiCredits (cannot use MiCredit gift card for this order)</string>
   <string name="balance_payment">%1$s MiCredits</string>
   <string name="bankcall_bank_account">Bank card:</string>
@@ -16,7 +16,7 @@
   <string name="bankcall_city">City</string>
   <string name="bankcall_credit_card">Credit card</string>
   <string name="bankcall_debit_card">Debit card</string>
-  <string name="bankcall_denom">Payment:</string>
+  <string name="bankcall_denom">Amount:</string>
   <string name="bankcall_denom_number">%1$s yuan</string>
   <string name="bankcall_error_card">Account number invalid: please correct your account number.</string>
   <string name="bankcall_error_card_info">Account info is incorrect: please correct your account information.</string>
@@ -40,7 +40,6 @@
   <string name="btn_net_connection_retry">Retry</string>
   <string name="btn_next">Next</string>
   <string name="btn_other_bankcard">Use another card</string>
-  <string name="btn_pay_large">Pay</string>
   <string name="btn_prev">Previous</string>
   <string name="btn_query">Inquire</string>
   <string name="btn_recharge_confirm">Confirm purchase</string>
@@ -338,9 +337,9 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="msg_denomination_type">MiCredit</string>
   <string name="msg_error">Top-up failed</string>
   <string name="msg_picker_hint_1_1">1.</string>
-  <string name="msg_picker_hint_1_2">Topping up via text maybe more expensive: &lt;font color=red&gt;￥%1$d = %2$d MiCredit&lt;/font&gt;</string>
+  <string name="msg_picker_hint_1_2">Topping up via text maybe more expensive: &lt;font color=red&gt;￥2 = 1 MiCredit&lt;/font&gt;</string>
   <string name="msg_picker_hint_2_1">2.</string>
-  <string name="msg_picker_hint_2_2">Carriers charge a %1$s yuan service fee per top-up</string>
+  <string name="msg_picker_hint_2_2">Carriers charge a 0.1 yuan service fee per top-up</string>
   <string name="msg_picker_hint_3_1">3.</string>
   <string name="msg_picker_hint_3_2">Maximum monthly top-up: %1$s yuan</string>
   <string name="msg_send_no_net_error">"Failed to send message: couldn't connect to network provider."</string>
@@ -355,9 +354,9 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="msg_telecom_picker_hint_2_1">Your network provider has been contacted!</string>
   <string name="msg_telecom_picker_hint_2_2">You will receive a text confirmation shortly.</string>
   <string name="msg_telecom_sending">Contacting network provider…</string>
-  <string name="onemore_click_exit">One more click to exit</string>
   <string name="order_price">%1$s MiCredits</string>
   <string name="password_error">Password incorrect.</string>
+  <string name="password_forget">Forgot password?</string>
   <string name="password_hint">Enter account password</string>
   <string name="pay_record_empty">No payment records.</string>
   <string name="pay_record_typeall">All</string>
@@ -366,9 +365,6 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="paytool_error_msp">%1$s failed</string>
   <string name="paytool_msp_not_installed">You have not installed %1$s mobile security plugin, install it now?</string>
   <string name="paytool_tenpay">Tenpay</string>
-  <string name="prepaid_china_mobile">China Mobile</string>
-  <string name="prepaid_china_telcom">China Telecom</string>
-  <string name="prepaid_china_unicom">China Unicom</string>
   <string name="prepaid_edit_limit">digits</string>
   <string name="prepaid_error_card_length">Invalid card number or password.</string>
   <string name="prepaid_error_card_number">Card number invalid.</string>
@@ -399,7 +395,6 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="progress_prepaid_creating">Generating order...</string>
   <string name="progress_querying">Processing...</string>
   <string name="progress_submit_hint">Top-up will be reflected in you account balance within 3 minutes.</string>
-  <string name="progress_submit_pay_summary">Paying for %1$s MiCredits.</string>
   <string name="progress_submit_recharge_summary">Adding Top-up for %1$s MiCredits.</string>
   <string name="progress_submit_title">Request submitted</string>
   <string name="progress_success_pay_summary">%1$s MiCredits added, %2$s MiCredits paid</string>
@@ -445,12 +440,11 @@ We will check again within two working days."</string>
   <string name="title_giftcard">Promotions</string>
   <string name="title_lockpattern">Pattern lock required</string>
   <string name="title_mili_center">MiCredits</string>
-  <string name="title_myaccount">Mi Account: %s</string>
+  <string name="title_myaccount">My account: %s</string>
   <string name="title_nopassword">"Don't require for small payments"</string>
   <string name="title_nopassword_dialog">Daily limit</string>
   <string name="title_password">Password</string>
   <string name="title_password_threshold">Daily limit = %1$s yuan</string>
-  <string name="title_pay">Pay with MiCredits</string>
   <string name="title_pay_record">Payment records</string>
   <string name="title_recharge">Top up MiCredit</string>
   <string name="title_recharge_record">Top-up records</string>
@@ -459,6 +453,5 @@ We will check again within two working days."</string>
   <string name="voucher_edit_hint">Code</string>
   <string name="voucher_edit_limit">digits</string>
   <string name="voucher_error_password">Invalid voucher code!</string>
-  <string name="voucher_error_password_empty">Code empty.</string>
   <string name="voucher_input_password_prompt">Enter code</string>
 </resources>

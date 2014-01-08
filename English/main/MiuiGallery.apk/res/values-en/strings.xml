@@ -12,7 +12,6 @@
   <string name="add_to_cloud_fail_too_many_items">Failed to complete operation, too many items selected</string>
   <string name="add_to_cloud_failed_message_with_count">%2$s item(s) can not be added to cloud album: %1$s.</string>
   <string name="add_to_cloud_file_exist_message">Photo already exists in selected album.</string>
-  <string name="add_to_cloud_file_not_exist_message">File does not exist.</string>
   <string name="add_to_cloud_folder">Add to Cloud folder</string>
   <string name="add_to_cloud_image_limit_exceeded_message">Image quota exceeded.</string>
   <string name="add_to_cloud_local_space_full_message">Storage is full or not yet ready.</string>
@@ -39,14 +38,12 @@
   <string name="albums">Albums</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Notice</string>
-  <string name="alert_message_initial_cloud">The system will automatically upload old and new photos and screenshots only when there is a Wi-Fi connection.</string>
   <string name="alert_message_open_sync">Sync is required, would you like to open sync now?</string>
   <string name="already_apply_album">Open %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Android Desk Wallpapers</string>
   <string name="aperture">Aperture</string>
   <string name="app_name">Gallery</string>
-  <string name="apply_successfully">Joined album successfully</string>
   <string name="appwidget_empty_text">No photos.</string>
   <string name="appwidget_title">Photo Gallery</string>
   <string name="auto">Auto</string>
@@ -61,7 +58,6 @@
   <string name="big_screen_alertdialog_title">Projector Device</string>
   <string name="bigscreen_slide_exit">Exit slideshow</string>
   <string name="bigscreen_slide_fail_cause_loading">Please load the slideshow after image has loaded.</string>
-  <string name="bigscrren_slide_exit">Exit slide show via TV</string>
   <string name="browse_category">Browse photos</string>
   <string name="by_email">E-mail</string>
   <string name="by_others">By others</string>
@@ -72,7 +68,6 @@
   <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Wallpaper</string>
   <string name="camera_view_none_message">Captured photos will be displayed here.</string>
-  <string name="can_modified">Allow sharer to add picture(s)</string>
   <string name="cancel">Cancel</string>
   <string name="cancel_hint">Operation is canceled</string>
   <string name="cannot_delete_sharer_photo">Cannot delete %s item(s) uploaded by other users.</string>
@@ -80,12 +75,10 @@
   <string name="cannot_send_message">"Can't send message"</string>
   <string name="cannot_send_message_reason">Your message has no valid recipients.</string>
   <string name="cant_delete_cloud_album">Failed to delete: %s is a system album or is shared by other people.</string>
-  <string name="cant_delete_system_album">%s is a system album and cannot be deleted!</string>
   <string name="cleaning_cache">Cleaning cache...</string>
   <string name="clear_thumbnail_cache">Clear thumbnail cache</string>
   <string name="clear_thumbnail_cache_confirm">Thumbnail cache will be cleared. Gallery will rescan media files and re-create thumbnails.</string>
   <string name="clear_thumbnail_cache_summary">Browsing gallery will generate thumbnails. Clearing the cache will increase space.</string>
-  <string name="click_to_enter_camera">Open camera</string>
   <string name="click_top_right">Tap icon on the top-right</string>
   <string name="close">Close</string>
   <string name="cloud_album_more_settings">Cloud album settings</string>
@@ -117,10 +110,6 @@ friends."</string>
   <string name="confirm_delete">Are you sure you wish to delete %s selected items?</string>
   <string name="confirm_delete_album" formatted="false">Are you sure you want to delete %s albums (including %s items)?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s picture(s) in %s album(s), are you sure you want to delete?</string>
-  <string name="confirm_delete_folders_and_pictures">Are you sure you want to delete %s?</string>
-  <string name="confirm_delete_folders_including" formatted="false">%s folders (including %s)</string>
-  <string name="confirm_delete_including_null">0 items</string>
-  <string name="confirm_delete_items">%s items</string>
   <string name="confirm_delete_pictures">%s pictures</string>
   <string name="confirm_delete_system_album">%s is system album, are you sure you want to delete?</string>
   <string name="confirm_delete_this_picture">Do you want to delete the selected picture?</string>
@@ -133,14 +122,12 @@ friends."</string>
   <string name="context_menu_add_contact">Add to contacts</string>
   <string name="context_menu_copy">Copy</string>
   <string name="context_menu_copy_notice">Selection copied to clipboard</string>
-  <string name="context_menu_new_contact">New contact</string>
-  <string name="context_menu_view_contact">View contact</string>
   <string name="contrast">Contrast</string>
   <string name="create_new_cloud_folder">Create new Cloud folder</string>
   <string name="crop">Crop</string>
   <string name="crop_fail_to_load_image">Failed to load image for crop.</string>
-  <string name="crop_label">Crop picture</string>
-  <string name="crop_save_text">Crop</string>
+  <string name="crop_label">Crop</string>
+  <string name="crop_save_text">Save</string>
   <string name="crop_tooltip">Drag markers to crop photo</string>
   <string name="crossprocess">Cross-process</string>
   <string name="cut">Crop</string>
@@ -148,15 +135,14 @@ friends."</string>
   <string name="dcim_100media">Taobao TMall</string>
   <string name="dcim_opaipic">Opaipic</string>
   <string name="dcim_viva_pics">VIVA</string>
-  <string name="defalt_local_mobile">mobile</string>
+  <string name="defalt_local_mobile">Mobile</string>
   <string name="delete">Delete</string>
-  <string name="delete_fail_too_many_items">Failed to delete, too many items selected</string>
-  <string name="delete_file">Are you sure to delete %1$d selected file(s)?</string>
+  <string name="delete_file">Delete %1$d files?</string>
   <string name="delete_files_and_folders">Are you sure to delete %1$d selected file(s) and %2$d selected folder(s)?</string>
-  <string name="delete_folder">Are you sure to delete %1$d selected folder(s)?</string>
+  <string name="delete_folder">Delete %1$d selected folder(s)?</string>
   <string name="delete_smb_file_fail">Failed to delete smb file</string>
   <string name="deleting_files">Deleting files...</string>
-  <string name="demo_video_folder_display_name">Demo Video</string>
+  <string name="demo_video_folder_display_name">Demo video</string>
   <string name="deny">Reject</string>
   <string name="description">Description</string>
   <string name="details">Details</string>
@@ -176,8 +162,7 @@ friends."</string>
   <string name="duration">Duration</string>
   <string name="edit">Edit</string>
   <string name="edited_photo_bucket_name">Edited</string>
-  <string name="email_picker_title">Add shared E-mail</string>
-  <string name="empty_album">O images/videos available.</string>
+  <string name="email_picker_title">Add shared e-mail</string>
   <string name="enable_cloud_for_sharing">Enable the MiCloud album to view shared pictures.</string>
   <string name="enter_email_hint">"Enter E-mail address "</string>
   <string name="error_album_not_exist">"Album doesn't exist."</string>
@@ -201,7 +186,6 @@ friends."</string>
   <string name="facetan">Face Tan</string>
   <string name="fail_hint">Operation failed.</string>
   <string name="fail_init_gallery_db_helper">Closed application, failed to open gallery database; disk is full.</string>
-  <string name="fail_to_apply">Failed to join album.</string>
   <string name="fail_to_pick_email">No valid E-mail selected</string>
   <string name="fail_to_sync_album">Failed to synchronize album to server. Please check your network connection!</string>
   <string name="file_not_exist_message">File does not exist.</string>
@@ -221,8 +205,8 @@ friends."</string>
   <string name="frame_movie">Movie</string>
   <string name="frame_semicircle">Semicircle</string>
   <string name="frame_white">white</string>
-  <string name="gallery_cloud_provider_name">Gallery</string>
-  <string name="gallery_setting">Gallery Settings</string>
+  <string name="gallery_cloud_provider_name">MiCloud album</string>
+  <string name="gallery_setting">Settings</string>
   <string name="get_album_info_in_process">"Requesting shared album's info, please wait..."</string>
   <string name="global_setting">Settings</string>
   <string name="grain">Film Grain</string>
@@ -240,6 +224,7 @@ friends."</string>
   <string name="how_many_pics">%d Photos</string>
   <string name="how_many_sub_folders">%d Folders</string>
   <string name="how_many_videos">%d Videos</string>
+  <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="image_download_item_title">Download image (%s)</string>
   <string name="image_quota_fulfiled">"Can't create image, images quota reached limit."</string>
   <string name="immomo_camera">Immomo</string>
@@ -262,7 +247,6 @@ friends."</string>
   <string name="kick_sharer">Remove sharer</string>
   <string name="kick_sharer_failed">Removing sharer failed</string>
   <string name="kick_sharer_successfully">Removed sharer successfully</string>
-  <string name="landscape_mode">Enable Landscape Mode</string>
   <string name="loading">Loading...</string>
   <string name="loading_failure">Photo cannot be loaded</string>
   <string name="loading_image">Downloading image…</string>
@@ -277,7 +261,6 @@ friends."</string>
   <string name="make_download_dir_fail">Failed to create a directory!</string>
   <string name="maker">Maker</string>
   <string name="manual">Manual</string>
-  <string name="marked_by_others">%d people marked this</string>
   <string name="me">me</string>
   <string name="menu_item_sort">Sort</string>
   <string name="menu_item_sort_date_asc">Date ascending</string>
@@ -300,8 +283,6 @@ friends."</string>
   <string name="mishop_saved_folder_display_name">MiShop Saves</string>
   <string name="miui_capture_screen_folder_display_name">Screenshots</string>
   <string name="model">Model</string>
-  <string name="modify_allow_hint">Adding new images to the album is allowed</string>
-  <string name="modify_disallow_hint">Adding new images to the album is disallowed</string>
   <string name="more">More</string>
   <string name="move">Move</string>
   <string name="move_to_cloud_album">Move to Cloud</string>
@@ -373,12 +354,10 @@ friends."</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="redeye">Red Eye</string>
   <string name="redeye_tooltip">Tap to remove red eyes</string>
-  <string name="remove_hidden_album">Cancel hidden</string>
+  <string name="remove_hidden_album">Unhide album</string>
   <string name="remove_recent_album">Remove from favorite albums</string>
   <string name="rename_failed">Rename failed</string>
-  <string name="rename_failed_duplicated_name">A file with the same name already exists.</string>
   <string name="renren_image">RenRen</string>
-  <string name="request_qr_code">Requesting QR code, please wait...</string>
   <string name="request_qr_code_failed">QR code request failed, click to retry</string>
   <string name="request_sms_url_failed">Failed to request url for sharing via SMS</string>
   <string name="request_sms_url_msg">Requesting url for SMS sharing, please wait...</string>
@@ -393,17 +372,13 @@ friends."</string>
   <string name="save_photo">Save edited photo?</string>
   <string name="saving_failure">Photo cannot be saved</string>
   <string name="saving_image">Saving picture...</string>
-  <string name="scan_barcode">Scan QR code</string>
   <string name="scan_barcode_guide">To get album QR code, touch the Share icon in the upper-right corner.</string>
   <string name="scan_barcode_to_join">Scan QR code to join an album.</string>
-  <string name="scan_qr_code">Let others scan QR code to view this shared album</string>
   <string name="scan_qr_code_buttom_text">Scan QR code to view this album.</string>
   <string name="scan_qr_code_failure">Failed to scan QR code.</string>
-  <string name="scan_qr_code_top_text">Members can view and add photos.</string>
   <string name="screensaver_activate_mode">Screensaver Slideshow</string>
   <string name="screensaver_activate_only_charging">Activate Screensaver only When charging</string>
   <string name="screensaver_category">Screensaver</string>
-  <string name="screensaver_no_data">No pictures in the album.</string>
   <string name="screensaver_path">Screensaver album:</string>
   <string name="screensaver_path_not_set">Not set</string>
   <string name="sd_not_available">SD card unmounted or unavailable</string>
@@ -417,7 +392,6 @@ friends."</string>
   <string name="send">Send</string>
   <string name="send_multiple_files_hint_format">Send multiple files (%s)</string>
   <string name="send_public_url">Send album URL</string>
-  <string name="send_to_cloud_failed_message">Item failed to send to Cloud album storage</string>
   <string name="sepia">Sepia</string>
   <string name="set_hidden_album">Hidden album</string>
   <string name="set_image">Set picture as</string>
@@ -437,23 +411,16 @@ friends."</string>
   <string name="shadow">Shadows</string>
   <string name="share_album">Share album</string>
   <string name="share_album_owner">Owner</string>
-  <string name="share_album_qr_code">QR code</string>
-  <string name="share_album_share_to">Share to</string>
   <string name="share_album_space_full">This shared album is full. Please delete some unwanted pictures.</string>
   <string name="share_by_email_start">Attempting to share %1$s in the background</string>
   <string name="share_by_email_successfully">Share %1$s via E-mail successful</string>
   <string name="share_current_album">Share current album</string>
   <string name="share_public_url_text">I have shared album %1$s. Browse %2$s</string>
-  <string name="share_user_name">Name</string>
   <string name="sharer_quota_fulfiled">"Can't add sharer, sharing quota has been reached."</string>
-  <string name="sharer_status_accepted">Accepted</string>
-  <string name="sharer_status_refused">Rejected</string>
-  <string name="sharer_status_waiting">Waiting</string>
-  <string name="sharer_status_waitting">waiting</string>
   <string name="sharpen">Sharpen</string>
   <string name="show_all">Images and videos</string>
-  <string name="show_hidden_album">Show hidden album(s)</string>
-  <string name="show_hidden_albums">Show hidden album(s)</string>
+  <string name="show_hidden_album">Show hidden albums</string>
+  <string name="show_hidden_albums">Show hidden albums</string>
   <string name="show_images_only">Images only</string>
   <string name="show_on_map">Show on map</string>
   <string name="show_videos_only">Videos only</string>
@@ -502,8 +469,6 @@ friends."</string>
   <string name="to_count">%d total</string>
   <string name="too_many_recipients">Message has too many recipients (%1$s), %2$s is the allowed total recipients.</string>
   <string name="try_to_send">Attempt send</string>
-  <string name="turn_left">Rotate left</string>
-  <string name="turn_right">Rotate right</string>
   <string name="ucdownloads_screenshot">UC Browser</string>
   <string name="unit_mm">mm</string>
   <string name="unpublish_failed">Failed to unpublish!</string>
@@ -511,8 +476,6 @@ friends."</string>
   <string name="unpublishing">Cancelling publishing, please wait...</string>
   <string name="untagged">Untagged</string>
   <string name="user_alias_self">Self</string>
-  <string name="video_download_in_process">Video is being downloaded, please wait.</string>
-  <string name="video_download_start">Start video download</string>
   <string name="video_err">"Can't play video."</string>
   <string name="video_not_exist">Video does not exist!</string>
   <string name="view_sharers">View sharers</string>

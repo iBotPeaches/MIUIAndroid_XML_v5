@@ -90,7 +90,7 @@
   <string name="error_no_sms_service">SMS service not available</string>
   <string name="error_server">Server error</string>
   <string name="error_sim_not_ready">SIM not ready</string>
-  <string name="error_unknown">Unknown error: %1$s</string>
+  <string name="error_unknown">Unknown error</string>
   <string name="error_user_name">Invalid username!</string>
   <string name="failed_to_send_activate_email">Failed to send an activation E-mail</string>
   <string name="find_device">Locate device</string>
@@ -128,7 +128,7 @@
   <string name="micloud_account">Xiaomi account</string>
   <string name="micloud_account_details">Account details</string>
   <string name="micloud_account_label">Account: %1$s</string>
-  <string name="micloud_account_name">Xiaomi Account</string>
+  <string name="micloud_account_name">Xiaomi account</string>
   <string name="micloud_account_not_actived">Account not activated</string>
   <string name="micloud_activate_account_fail_notify_title">Failed to activate your Xiaomi account</string>
   <string name="micloud_activate_account_success_notify_title">Successfully activated your Xiaomi account</string>
@@ -155,7 +155,7 @@
   <string name="micloud_error_empty_pwd">Password is blank</string>
   <string name="micloud_error_empty_username">Username is blank</string>
   <string name="micloud_error_empty_vcode">Enter verification code.</string>
-  <string name="micloud_error_illegal_pwd">Illegal password</string>
+  <string name="micloud_error_illegal_pwd">Invalid password</string>
   <string name="micloud_full_influence_dspt">"All photos, videos, notes and apps will be backed up to MiCloud.
 
 If you lose or damage your phone, your data will still be safe.
@@ -206,9 +206,9 @@ To solve this, you can either clean out old files, or purchase additional storag
   <string name="micloud_web_discription_02">to store and access your files from anywhere</string>
   <string name="micloud_welcome_skip_login">Skip registration</string>
   <string name="mili_center">Mi Credit</string>
-  <string name="my_xiaomi_account">My current Xiaomi account</string>
+  <string name="my_xiaomi_account">My Xiaomi account</string>
   <string name="next">Next</string>
-  <string name="noRemind">"Don't remind"</string>
+  <string name="noRemind">No reminder</string>
   <string name="nobind">No authorised</string>
   <string name="other_settings">Other settings</string>
   <string name="password">Password</string>
@@ -250,18 +250,19 @@ To solve this, you can either clean out old files, or purchase additional storag
   <string name="sync_on">On</string>
   <string name="sync_sub_dspt">An SMS will be sent to activate the service</string>
   <string name="sync_sub_int_dspt">An international SMS may be sent to activate the service</string>
-  <string name="title_reg">Register Xiaomi account</string>
+  <string name="title_reg">Register</string>
+  <string name="title_voucher">Top-up using Mi Credit voucher</string>
   <string name="trust_device">Trust device</string>
-  <string name="unactivated_user">Unactivated</string>
+  <string name="unactivated_user">Deactivated</string>
   <string name="unbind">De-authorise</string>
   <string name="update_contacts">Update contacts</string>
   <string name="update_contacts_description">Update your phone contacts and other information</string>
   <string name="updated_contacts">Updated %s contacts</string>
   <string name="updated_nothing">Nothing updated!</string>
   <string name="user_agreement_p1">"By signing in, you are agreeing to the "</string>
-  <string name="user_agreement_p2">Xiaomi Terms of Service</string>
+  <string name="user_agreement_p2">Xiaomi terms of service</string>
   <string name="user_agreement_p3"> and </string>
-  <string name="user_agreement_p4">Privacy Policy</string>
+  <string name="user_agreement_p4">Privacy policy</string>
   <string name="user_agreement_p5">"By signing up, you are agreeing to the "</string>
   <string name="vcode">Verification code</string>
   <string name="vcode_notification_title">Your login verification is incomplete</string>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alert_message_delete_record">Do you want to delete selected record?</string>
+  <string name="alert_message_delete_record">Delete selected recordings?</string>
   <string name="app_name">Recorder</string>
   <string name="audio_db_album_name">Audio recordings</string>
   <string name="audio_db_artist_name">Your recordings</string>
@@ -8,7 +8,7 @@
   <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
   <string name="back">Back</string>
   <string name="button_ok">OK</string>
-  <string name="call_record">Record Call(%d)</string>
+  <string name="call_record">Call recordings (%d)</string>
   <string name="call_record_or">or</string>
   <string name="default_record_name">Untitled recording</string>
   <string name="delete">Delete</string>
@@ -28,8 +28,8 @@
   <string name="error_filename_too_long">Filename too long</string>
   <string name="error_mediadb_new_record">Unable to save recorded audio</string>
   <string name="error_sdcard_access">Unable to access external or internal storage</string>
-  <string name="fm_record">FM recording (%d)</string>
-  <string name="hour" formatted="false">%d hour(s)</string>
+  <string name="fm_record">Radio recordings (%d)</string>
+  <string name="hour">%d hours</string>
   <string name="insert_sd_card">SD card is required</string>
   <string name="low_battery_error">Battery has less than 5% left, to ensure that the recording is not lost, recording has been stopped and saved.</string>
   <string name="low_battery_message_title">Low battery</string>
@@ -37,16 +37,16 @@
   <string name="mark_now">(Current)</string>
   <string name="max_length_reached">Maximum length reached</string>
   <string name="menu_settings">Settings</string>
-  <string name="menu_view_record_list">View recordings</string>
+  <string name="menu_view_record_list">My recordings</string>
   <string name="message_file_size_error">Recording has reached the maximum recording length supported for %s</string>
-  <string name="minute" formatted="false">%d minute</string>
+  <string name="minute">%d minute</string>
   <string name="no_file">No recordings</string>
   <string name="notification_playback">Playing back recording…</string>
   <string name="notification_recording">Recording...</string>
   <string name="notification_stopped">Recording has stopped</string>
   <string name="notification_warning" formatted="false">Low storage (less than %d minutes)...</string>
   <string name="open_file_explorer">Open File Explorer</string>
-  <string name="overwrite_dialog_message" formatted="false">%s already exists. Do you wish to overwrite it?</string>
+  <string name="overwrite_dialog_message">%s already exists. Do you wish to overwrite it?</string>
   <string name="pause">Pause</string>
   <string name="play_record">Play</string>
   <string name="preference_enable_earpiece_summary">Use receiver for external playback</string>
@@ -58,7 +58,6 @@
   <string name="preference_record_type_title">Recording type</string>
   <string name="preference_scenes">Settings for scenes</string>
   <string name="preference_silent_mode">Silent mode recording</string>
-  <string name="preference_silent_mode_summary">Set to enable silent recording operation</string>
   <string name="record_list">Recordings list</string>
   <string name="record_loading">Loading recording, please wait.</string>
   <string name="record_name_hour">.</string>
@@ -68,11 +67,11 @@
   <string name="recording_stopped">Recording has stopped</string>
   <string name="rename">Rename</string>
   <string name="rename_dialog_title">Rename for this recording</string>
-  <string name="rename_duplicate">Duplicate recording name, please re-enter:</string>
-  <string name="rename_illegal">Illegal recording name, please re-enter:</string>
+  <string name="rename_duplicate">A recording with the same name already exists.</string>
+  <string name="rename_illegal">Invalid recording name provided.</string>
   <string name="sd_card_not_available">SD card is not available</string>
   <string name="search_for_recordings_in_folders">Search folders for recordings</string>
-  <string name="second" formatted="false">%d seconds</string>
+  <string name="second">%d seconds</string>
   <string name="send_to">Send to</string>
   <string name="sound_recorder_settings">Recording Settings</string>
   <string name="start_recording">Start recording</string>
@@ -83,8 +82,8 @@
   <string name="stop_recording">Stop recording</string>
   <string name="storage_is_full">Storage is full</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
-  <string name="toast_max_record_time">App: %1$s maximum supported recording time %2$s</string>
-  <string name="toast_uninstall_fileexplorer">FileExplorer is not installed!</string>
+  <string name="toast_max_record_time">%1$s can record for about %2$s</string>
+  <string name="toast_uninstall_fileexplorer">"File explorer app isn't installed"</string>
   <string name="unknown_caller">Unknown caller</string>
   <string name="view_list_of_recordings">View recordings</string>
 </resources>

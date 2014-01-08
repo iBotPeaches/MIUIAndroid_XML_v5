@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account">Account</string>
-  <string name="account_delete_dlg_instructions_fmt">The account \"%s\" will be removed from E-mail.</string>
+  <string name="account_delete_dlg_instructions_fmt">The account \"%s\" will be removed from Mail.</string>
   <string name="account_delete_dlg_title">Remove account</string>
   <string name="account_duplicate_dlg_message_fmt">"You're already using this username for the account \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Duplicate account</string>
@@ -48,8 +47,8 @@
   <string name="account_settings_sync_calendar_summary">Sync calendar for this account</string>
   <string name="account_settings_sync_contacts_enable">Sync contacts</string>
   <string name="account_settings_sync_contacts_summary">Sync contacts for this account</string>
-  <string name="account_settings_sync_email_enable">Sync e-mail</string>
-  <string name="account_settings_sync_email_summary">Sync e-mail for this account</string>
+  <string name="account_settings_sync_email_enable">Sync mail</string>
+  <string name="account_settings_sync_email_summary">Sync mail for this account</string>
   <string name="account_settings_vibrate_when_label">Vibrate</string>
   <string name="account_setup_account_type_exchange_action">Exchange</string>
   <string name="account_setup_account_type_exchange_action_alternate">Microsoft Exchange ActiveSync</string>
@@ -123,9 +122,9 @@
   <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (accept all certificates)</string>
   <string name="account_setup_incoming_title">Account setup</string>
   <string name="account_setup_incoming_username_label">Username</string>
-  <string name="account_setup_index_label">Please choose from the list of e-mail service providers:</string>
-  <string name="account_setup_index_other_mails">Other mail account</string>
-  <string name="account_setup_index_title">Account settings guide</string>
+  <string name="account_setup_index_label">Add an account</string>
+  <string name="account_setup_index_other_mails">Other</string>
+  <string name="account_setup_index_title">Mail Settings Guide</string>
   <string name="account_setup_names_account_name_label">Give this account a name (optional)</string>
   <string name="account_setup_names_headline">Your account is set up, and e-mail is on its way!</string>
   <string name="account_setup_names_title">Account setup</string>
@@ -139,7 +138,7 @@
   <string name="account_setup_options_mail_check_frequency_1hour">Every hour</string>
   <string name="account_setup_options_mail_check_frequency_30min">Every 30 minutes</string>
   <string name="account_setup_options_mail_check_frequency_5min">Every 5 minutes</string>
-  <string name="account_setup_options_mail_check_frequency_label">Inbox checking frequency</string>
+  <string name="account_setup_options_mail_check_frequency_label">Check for new mail</string>
   <string name="account_setup_options_mail_check_frequency_never">Never</string>
   <string name="account_setup_options_mail_check_frequency_push">Automatic (Push)</string>
   <string name="account_setup_options_mail_window_1day">One day</string>
@@ -166,7 +165,7 @@
   <string name="account_setup_outgoing_username_label">Username</string>
   <string name="account_setup_security_policies_required_fmt">The server %s requires that you allow it to remotely control some security features of your Android device. Do you want to finish setting up this account?</string>
   <string name="account_setup_security_required_title">Remote security administration</string>
-  <string name="account_setup_username_password_toast">Type a valid e-mail address and password.</string>
+  <string name="account_setup_username_password_toast">Input a valid e-mail address and password.</string>
   <string name="account_setup_username_uneditable_error">"You can't change an account's username. To add an account with a different username, touch Add Account."</string>
   <string name="account_shortcut_picker_name">E-mail account</string>
   <string name="account_shortcut_picker_title">Choose an account</string>
@@ -194,16 +193,17 @@
   <string name="attachment_info_wifi_settings">Wi-Fi settings</string>
   <string name="attachment_not_found">"Couldn't download the attachment."</string>
   <string name="bcc">Bcc</string>
-  <string name="body_hint">Compose e-mail</string>
+  <string name="body_hint">Compose mail</string>
+  <string name="build_number">20080722-0001</string>
   <string name="cancel_action">Cancel</string>
-  <string name="cannot_move_multiple_accounts_toast">"Can't move because selection contains multiple accounts."</string>
-  <string name="cannot_move_protocol_not_supported_toast">"Move isn't supported on POP3 accounts."</string>
-  <string name="cannot_move_special_mailboxes_toast">"Messages in Drafts, Outbox, and Sent can't be moved."</string>
-  <string name="category_general_preferences">Application</string>
+  <string name="cannot_move_multiple_accounts_toast">"Can't move because selection contains multiple accounts"</string>
+  <string name="cannot_move_protocol_not_supported_toast">"Move isn't supported on POP3 accounts"</string>
+  <string name="cannot_move_special_mailboxes_toast">"Messages in Drafts, Outbox, and Sent can't be moved"</string>
+  <string name="category_general_preferences">PREFERENCES</string>
   <string name="cc">Cc</string>
   <string name="choose_attachment_dialog_title">Choose attachment</string>
   <string name="choosertitle_sharevia">Share via</string>
-  <string name="cleared_trusted_senders_message">Images embedded in mail will not be shown automatically.</string>
+  <string name="cleared_trusted_senders_message">"Clear \"show pictures\", pictures in messages won't be shown automatically."</string>
   <string name="close_action">Close</string>
   <string name="compose_action">Compose</string>
   <string name="compose_title">Compose</string>
@@ -230,12 +230,12 @@
   <string name="debug_force_one_minute_refresh_label">Force 1-minute refresh for POP/IMAP</string>
   <string name="debug_title">Debug</string>
   <string name="debug_version_fmt">Version: %s</string>
-  <string name="default_signature">Sent from my MIPHONE</string>
+  <string name="default_signature">Sent from my phone</string>
   <string name="delete_action">Delete</string>
   <string name="delete_quick_response_action">Delete</string>
   <string name="device_admin_description">Enables server-specified security policies</string>
-  <string name="device_admin_label">E-mail</string>
-  <string name="disable_admin_warning">"WARNING: Deactivating the E-mail app's authority to administer your device will delete all e-mail accounts that require it, along with their e-mail, contacts, calendar events, and other data."</string>
+  <string name="device_admin_label">MAIL</string>
+  <string name="disable_admin_warning">"WARNING: Deactivating the Email app's authority to administer your device will delete all email accounts that require it, along with their email, contacts, calendar events, and other data."</string>
   <string name="discard_action">Discard</string>
   <string name="done">Done</string>
   <string name="done_action">Done</string>
@@ -294,10 +294,10 @@
   <string name="mailbox_settings_activity_title">Sync options</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Sync options (%s)</string>
   <string name="mailbox_settings_mailbox_check_frequency_label">Check frequency</string>
-  <string name="mailbox_settings_mailbox_sync_window_label">Days to sync</string>
-  <string name="mailbox_shortcut_picker_title">Select a folder</string>
+  <string name="mailbox_settings_mailbox_sync_window_label">Sync inbox history</string>
+  <string name="mailbox_shortcut_picker_title">Choose a folder</string>
   <string name="mark_as_unread_action">Mark as unread</string>
-  <string name="message_compose_attachment_size">File too large to attach.</string>
+  <string name="message_compose_attachment_size">File too large to attach</string>
   <string name="message_compose_bcc_hint">Bcc</string>
   <string name="message_compose_cc_hint">Cc</string>
   <string name="message_compose_display_name">%1$s and %2$d others</string>
@@ -325,7 +325,7 @@ CC: %4$s
   <string name="message_compose_to_hint">To</string>
   <string name="message_decode_error">There was an error while decoding the message.</string>
   <string name="message_delete_dialog_title"/>
-  <string name="message_discarded_toast">Message discarded.</string>
+  <string name="message_discarded_toast">Message discarded</string>
   <string name="message_is_empty_description">No subject</string>
   <string name="message_list_load_more_messages_action">Load more messages</string>
   <string name="message_list_no_messages">No messages</string>
@@ -376,7 +376,7 @@ CC: %4$s
   <string name="more_than_999">999+</string>
   <string name="move_action">Move</string>
   <string name="move_to_folder_dialog_title">Move to</string>
-  <string name="multiple_new_message_notification_item">"%1$s  %2$s"</string>
+  <string name="multiple_new_message_notification_item">%1$s"   %2$s"</string>
   <string name="newer_action">Newer</string>
   <string name="next_action">Next</string>
   <string name="notification_multiple_new_messages_fmt">%1$d new messages</string>
@@ -391,10 +391,10 @@ CC: %4$s
   <string name="password_expired_dialog_content_fmt">The data for %s is being erased from your device. You can restore it by changing your lock screen PIN or password. Change it now?</string>
   <string name="password_expired_dialog_title">Lock screen password expired</string>
   <string name="password_expired_ticker">Your lock screen PIN or password has expired.</string>
-  <string name="permission_access_provider_desc">Allows application to access your e-mail database, including received messages, sent messages, usernames, and passwords.</string>
-  <string name="permission_access_provider_label">Access e-mail provider data</string>
-  <string name="permission_read_attachment_desc">Allows application to read your e-mail attachments.</string>
-  <string name="permission_read_attachment_label">Read e-mail attachments</string>
+  <string name="permission_access_provider_desc">Allows this application to access your email database, including received messages, sent messages, usernames, and passwords.</string>
+  <string name="permission_access_provider_label">Access mail provider data</string>
+  <string name="permission_read_attachment_desc">Allows this application to read your email attachments.</string>
+  <string name="permission_read_attachment_label">Read mail attachments</string>
   <string name="picker_combined_view_fmt">Combined view (%s)</string>
   <string name="picker_mailbox_name_all_inbox">Inbox (all)</string>
   <string name="picker_mailbox_name_all_unread">Inbox (unread)</string>
@@ -406,7 +406,7 @@ CC: %4$s
   <string name="quick_responses_empty_view">No quick responses</string>
   <string name="read_action">Mark read</string>
   <string name="refresh_action">Refresh</string>
-  <string name="remove_star_action">Remove star</string>
+  <string name="remove_star_action">Unstar</string>
   <string name="reply_action">Reply</string>
   <string name="reply_all_action">Reply all</string>
   <string name="require_manual_sync_message">Background sync for this account is disabled while roaming.</string>
@@ -414,7 +414,7 @@ CC: %4$s
   <string name="save_draft_action">Save draft</string>
   <string name="search_action">Search</string>
   <string name="search_header_text_fmt">Results</string>
-  <string name="search_hint">Search e-mail</string>
+  <string name="search_hint">Search mail</string>
   <string name="search_mailbox_hint">Search %1$s</string>
   <string name="search_slow_warning_message">Some servers may take a long time.</string>
   <string name="search_slow_warning_title">Waiting for results</string>
@@ -428,16 +428,16 @@ CC: %4$s
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
   <string name="status_loading_messages">Loading messages…</string>
-  <string name="status_network_error">Connection problem.</string>
+  <string name="status_network_error">Network error</string>
   <string name="subject_hint">Subject</string>
   <string name="system_account_create_failed">"Couldn't create the account. Try again."</string>
   <string name="to">To</string>
   <string name="toast_account_not_found">"Account wasn't found. It may have been removed."</string>
   <string name="toast_mailbox_not_found">"Folder wasn't found. It may have been removed."</string>
-  <string name="trusted_senders_cleared">\"Show pictures\" cleared.</string>
+  <string name="trusted_senders_cleared">\"Show pictures\" cleared</string>
   <string name="unread_action">Mark unread</string>
-  <string name="waitinf_for_sync_message_1">Waiting for sync</string>
-  <string name="waitinf_for_sync_message_2">Your e-mail will appear soon.</string>
+  <string name="waitinf_for_sync_message_1">Syncing...</string>
+  <string name="waitinf_for_sync_message_2">Your inbox will appear soon.</string>
   <string name="widget_all_mail">Combined Inbox</string>
   <string name="widget_loading">Loading…</string>
   <string name="widget_no_accounts">"You haven't set up an e-mail account yet."</string>

@@ -49,14 +49,14 @@
   <string name="change_response_title">Change response</string>
   <string name="chongsha"/>
   <string name="copy_db">Send database</string>
-  <string name="copy_email">Copy E-mail address</string>
-  <string name="copy_number">Copy Phone number</string>
-  <string name="create_an_account_desc">"Calendar works better with a Google Account.
+  <string name="copy_email">Copy e-mail address</string>
+  <string name="copy_number">Copy phone number</string>
+  <string name="create_an_account_desc">"Calendar works better with a Xiaomi or Google account.
 
 • Access it from any web browser
 • Back up your events securely"</string>
-  <string name="creating_event">Event created.</string>
-  <string name="creating_event_with_guest">Invitations will be sent.</string>
+  <string name="creating_event">Event created</string>
+  <string name="creating_event_with_guest">Invitations will be sent</string>
   <string name="custom">"Custom (can't customize on phone)"</string>
   <string name="daily">Daily</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
@@ -75,10 +75,10 @@
   <string name="done">Return</string>
   <string name="edit_event_all_day_label">All day</string>
   <string name="edit_event_calendar_label">Calendar</string>
-  <string name="edit_event_from_label">Start time</string>
+  <string name="edit_event_from_label">From</string>
   <string name="edit_event_label">Details</string>
   <string name="edit_event_show_all">Show all</string>
-  <string name="edit_event_to_label">End time</string>
+  <string name="edit_event_to_label">To</string>
   <string name="edit_label">Edit</string>
   <string name="email_guests_label">E-mail guests</string>
   <string name="email_picker_label">E-mail with</string>
@@ -93,7 +93,7 @@
   <string name="event_info_descrip">"Description: "</string>
   <string name="event_info_organizer">Organizer:</string>
   <string name="event_info_reminders_label">Reminders</string>
-  <string name="event_info_repeat">"Recurrance: "</string>
+  <string name="event_info_repeat">"Recurring: "</string>
   <string name="event_info_title">View event</string>
   <string name="event_info_title_invite">Meeting invitation</string>
   <string name="event_info_when">"When: "</string>
@@ -121,8 +121,8 @@
   <string name="jump_date">Skip</string>
   <string name="jump_date_full">Skip to date</string>
   <string name="loading">Loading…</string>
-  <string name="local_calendar_display_name">Local Calendar</string>
-  <string name="local_owner_account_name">Local Account</string>
+  <string name="local_calendar_display_name">Local calendar</string>
+  <string name="local_owner_account_name">Local account</string>
   <string name="lunar_date">Lunar Date</string>
   <string name="menu_about_preferences">About Calendar</string>
   <string name="menu_general_preferences">General settings</string>
@@ -130,7 +130,7 @@
   <string name="menu_select_visible_calendars">Calendars to display</string>
   <string name="miui_chinese_week_range_double"/>
   <string name="miui_chinese_week_range_single"/>
-  <string name="miui_menu_create_event">New Event</string>
+  <string name="miui_menu_create_event">New event</string>
   <string name="modify_all">Change all events in the series</string>
   <string name="modify_all_following">Change this and all future events</string>
   <string name="modify_event">Change only this event</string>
@@ -146,10 +146,13 @@
   <string name="no_title_label">(No title)</string>
   <string name="not_synced">not synced</string>
   <string name="pengzu"/>
+  <string name="prefDefault_alerts_vibrateWhen">never</string>
+  <string name="prefDefault_alerts_vibrate_false">never</string>
+  <string name="prefDefault_alerts_vibrate_true">always</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrate</string>
   <string name="preferences_about_title">About</string>
   <string name="preferences_alerts_popup_title">Pop-up notification</string>
-  <string name="preferences_alerts_ringtone_title">Choose ringtone</string>
+  <string name="preferences_alerts_ringtone_title">Select ringtone</string>
   <string name="preferences_alerts_title">Notifications</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibrate</string>
   <string name="preferences_build_version">Build version</string>
@@ -157,6 +160,7 @@
   <string name="preferences_category_general_title">General</string>
   <string name="preferences_clear_search_history_summary">"Remove all the searches you've performed"</string>
   <string name="preferences_clear_search_history_title">Clear search history</string>
+  <string name="preferences_default_reminder_default">10</string>
   <string name="preferences_default_reminder_dialog">Default reminder time</string>
   <string name="preferences_default_reminder_title">Default reminder time</string>
   <string name="preferences_general_title">Calendar view setting</string>
@@ -175,7 +179,7 @@
   <string name="privacy_label">Privacy</string>
   <string name="quick_response_custom_msg">Custom message…</string>
   <string name="quick_response_dialog_title">Choose quick response</string>
-  <string name="quick_response_email_failed">Failed to find an E-mail program</string>
+  <string name="quick_response_email_failed">Failed to find an e-mail app</string>
   <string name="quick_response_settings">Quick responses</string>
   <string name="quick_response_settings_edit_title">Quick response</string>
   <string name="quick_response_settings_summary">Edit default responses when e-mailing guests</string>
