@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_scenes_entries">
+        <item>For music</item>
+        <item>For human voice</item>
+    </string-array>
+</resources>
