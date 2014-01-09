@@ -2,7 +2,7 @@
     "quicklinks":[
         {
             "title":"Google",
-            "url":"http://www.google.com/",
+            "url":"https://www.google.com/",
             "thumbnail":"thumb_google.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
@@ -176,7 +176,7 @@
 "topquicklinks": [
                 {
             "title":"Google",
-            "url":"http://www.google.com/",
+            "url":"https://www.google.com/",
             "thumbnail":"thumb_google.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",

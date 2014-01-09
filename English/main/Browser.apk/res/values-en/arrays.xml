@@ -48,7 +48,7 @@
     </string-array>
     <string-array name="bookmarks">
         <item>Google</item>
-        <item>http://www.google.com/</item>
+        <item>https://www.google.com/</item>
         <item>Twitter</item>
         <item>http://twitter.com/</item>
         <item>Facebook</item>
