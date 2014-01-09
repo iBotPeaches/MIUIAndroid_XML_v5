@@ -289,7 +289,7 @@
   <string name="move_to_up_folder">Up a level</string>
   <string name="multi_select_title">%1$s items selected</string>
   <string name="name">Label</string>
-  <string name="network_alert_message">Wi-Fi unavaliable, use mobile network instead?</string>
+  <string name="network_alert_message">Wi-Fi unavailable, use mobile network instead?</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Wi-Fi connection found, would you like to connect?</string>
   <string name="network_show_wifi_setting_tip_dialog_notshow">Save</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Wi-Fi network available</string>
