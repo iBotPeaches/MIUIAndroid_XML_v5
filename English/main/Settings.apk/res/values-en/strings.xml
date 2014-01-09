@@ -10,14 +10,14 @@
   <string name="accelerometer_summary_on">Switch orientation automatically when rotating phone</string>
   <string name="accelerometer_title">Auto-rotate screen</string>
   <string name="access_control_app_entry_multiple">Open %s</string>
-  <string name="access_control_app_entry_single">Open selected app</string>
-  <string name="access_control_need_password">"%s has been protected 
+  <string name="access_control_app_entry_single">Open app</string>
+  <string name="access_control_need_password">"%s has been protected
 "</string>
-  <string name="access_control_need_to_unlock">Password required</string>
+  <string name="access_control_need_to_unlock">Password required:</string>
   <string name="access_control_no_back_footer">Touch [icon] to exit</string>
   <string name="access_control_password_title">Password</string>
-  <string name="access_control_recording_intro_header">Draw an unlock pattern</string>
-  <string name="access_control_reset_by_account">Login to your Xiaomi account to reset your password</string>
+  <string name="access_control_recording_intro_header">Draw an unlock pattern:</string>
+  <string name="access_control_reset_by_account">Log in to your Xiaomi account to reset password</string>
   <string name="accessibility_enable">Accessibility</string>
   <string name="accessibility_long_press_timeout_title">Touch &amp; hold delay</string>
   <string name="accessibility_menu_item_settings">Settings</string>
@@ -199,7 +199,7 @@
   <string name="auto_start_summary">%1$d apps enabled autorun</string>
   <string name="auto_start_title">Autorun Managment</string>
   <string name="auto_startup_application_manage">Auto-start</string>
-  <string name="auto_startup_count">%d apps are currently allowed to auto start</string>
+  <string name="auto_startup_count">%d apps are currently allowed to auto-start</string>
   <string name="auto_startup_dialog_msg">"MIUI will allow app auto start without prompt. App may increase power consumption consumption of power or data usage. Allow 
  to autostart？"</string>
   <string name="automatic_brightness">Automatic brightness</string>
@@ -931,13 +931,13 @@ Some apps may not work until updated by their developers."</string>
   <string name="error_name_empty">"The Name field can't be empty."</string>
   <string name="error_title"/>
   <string name="examination_score_100">No need to scan, everything looks good!</string>
-  <string name="examination_score_60_0">Yikes! You should probably optimize your phone.</string>
+  <string name="examination_score_60_0">You should probably optimize your phone.</string>
   <string name="examination_score_80_100">Some items can be optimized.</string>
   <string name="examination_score_80_60">Some items can be optimized.</string>
   <string name="examination_score_has_virus">We detected some suspicious apps!</string>
   <string name="external_code_size_label">USB storage app</string>
   <string name="external_data_size_label">USB storage data</string>
-  <string name="factory_reset_summary">You can choose to erase personal data by resetting phone, or erase installed programs and format SD card to restore factory settings. Confirm erase?</string>
+  <string name="factory_reset_summary">"Erase all data from your phone's internal storage"</string>
   <string name="failed_to_open_app_settings_toast">Failed to open settings for %1$s</string>
   <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
   <string name="fancy_icon_power_center">com.miui.powercenter</string>
@@ -1094,7 +1094,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="immediately_destroy_activities_summary">Destroy every activity as soon as the user leaves it</string>
   <string name="ims_reg_required_off">Turn off IMS registration required</string>
   <string name="ims_reg_required_on">Turn on IMS registration required</string>
-  <string name="incoming_call_vibrate_abbreviation">Calls</string>
+  <string name="incoming_call_vibrate_abbreviation">"Calls "</string>
   <string name="incoming_call_volume_title">Ringtone</string>
   <string name="input_method">Input method</string>
   <string name="input_method_selector">Input method selector</string>
@@ -1124,7 +1124,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="internal_format">Erase Internal storage</string>
   <string name="internal_format_summary">Erases all data on the internal storage, such as music and photos</string>
   <string name="internal_media_format_button_text">Erase Internal storage</string>
-  <string name="internal_media_format_desc">Erase all Internal storage? You will lose </string>
+  <string name="internal_media_format_desc">Erase all Internal storage? You will lose &lt;b&gt;all&lt;/b&gt; stored data, and then phone will restart!</string>
   <string name="internal_media_format_final_desc">"Erase the Internal storage, deleting all files stored there? You can't reverse this action! Phone will restart after Internel storage is erased!"</string>
   <string name="internal_media_format_title">Erase Internal storage</string>
   <string name="internal_memory">Internal storage</string>
@@ -1285,8 +1285,7 @@ Ready to start? Touch Next."</string>
 
 You are currently signed into the following accounts:
 "</string>
-  <string name="master_clear_all">"Are you sure you want to erase all data and reset to factory settings?
-Attention: this operation cannot be undone."</string>
+  <string name="master_clear_all">"Erase all data from your phone's internal storage? You can't reverse this action!"</string>
   <string name="master_clear_button_text">Reset phone</string>
   <string name="master_clear_confirm_title">Reset?</string>
   <string name="master_clear_desc">"This will erase all data from your phone's "&lt;b&gt;internal storage&lt;/b&gt;", including:
@@ -1299,24 +1298,21 @@ Attention: this operation cannot be undone."</string>
 "&lt;li&gt;Other user data&lt;/li&gt;</string>
   <string name="master_clear_desc_erase_external_storage">"
 
-To clear music, pictures, and other user data, the "</string>
-  <string name="master_clear_erase_application_progress">Erasing applications...</string>
+To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&gt; needs to be erased.</string>
+  <string name="master_clear_erase_application_progress">Erasing apps…</string>
   <string name="master_clear_failed">"No reset was performed because the System Clear service isn't available."</string>
   <string name="master_clear_final_button_text">Erase everything</string>
   <string name="master_clear_final_desc">"Erase all your personal information and downloaded apps? You can't reverse this action!"</string>
   <string name="master_clear_gesture_explanation">You need to draw your unlock pattern to confirm a factory data reset.</string>
   <string name="master_clear_gesture_prompt">Draw your unlock pattern</string>
-  <string name="master_clear_personal_data">"Are you sure you want to erase your personal data?
-Attention: this operation cannot be undone."</string>
-  <string name="master_clear_personal_data_application">"Are you sure you want to erase your personal data and installed applications？
-Attention: this operation cannot be undone."</string>
-  <string name="master_clear_personal_data_sdcard">"Are you sure you want to erase your personal data and format sdcard？
-Attention: this operation cannot be undone."</string>
+  <string name="master_clear_personal_data">"Erase all your personal information? You can't reverse this action!"</string>
+  <string name="master_clear_personal_data_application">"Erase your personal information and downloaded apps？ You can't reverse this action!"</string>
+  <string name="master_clear_personal_data_sdcard">"Erase your personal information and content? You can't reverse this action!"</string>
   <string name="master_clear_summary">Erases all data on phone</string>
   <string name="master_clear_title">Factory data reset</string>
   <string name="media_button">Media button</string>
   <string name="media_format_button_text">Erase USB storage</string>
-  <string name="media_format_desc">Erase all USB storage? You will lose </string>
+  <string name="media_format_desc">Erase all USB storage? You will lose &lt;b&gt;all&lt;/b&gt; stored data!</string>
   <string name="media_format_final_button_text">Erase everything</string>
   <string name="media_format_final_desc">"Erase the USB storage, deleting all files stored there? You can't reverse this action!"</string>
   <string name="media_format_gesture_explanation">You need to draw your unlock pattern to confirm that you want to erase the USB storage.</string>
@@ -1444,7 +1440,7 @@ please follow the steps to complete installation"</string>
   <string name="notification_pulse_title">Pulse notification light</string>
   <string name="notification_sound_dialog_title">Choose notification ringtone</string>
   <string name="notification_sound_title">Default notification</string>
-  <string name="notification_vibrate_abbreviation">Notification</string>
+  <string name="notification_vibrate_abbreviation">"Notifications "</string>
   <string name="notification_volume_title">Notification</string>
   <string name="nsd_quick_toggle_summary">Allow apps on other devices to discover apps on this device</string>
   <string name="nsd_quick_toggle_title">Network service discovery</string>
@@ -1511,7 +1507,7 @@ please follow the steps to complete installation"</string>
   <string name="optimize_tips_residual_title">Residual content</string>
   <string name="optimize_tips_title">Help</string>
   <string name="optimize_title_ad">Advert files</string>
-  <string name="optimize_title_apk">Packages</string>
+  <string name="optimize_title_apk">Apps</string>
   <string name="optimize_title_cache">Cache</string>
   <string name="optimize_title_residual">Residuals</string>
   <string name="optimizing">Optimizing</string>
@@ -1604,11 +1600,11 @@ please follow the steps to complete installation"</string>
   <string name="perm_hips_safe">Normal Permissions (%1$d)</string>
   <string name="perm_hips_security_prompt_accept">Allow (%d)</string>
   <string name="perm_hips_security_prompt_accept_root">Allow</string>
-  <string name="perm_hips_security_prompt_caption">Security Warning</string>
+  <string name="perm_hips_security_prompt_caption">Security warning</string>
   <string name="perm_hips_security_prompt_next">Next</string>
   <string name="perm_hips_security_prompt_reject">Deny (%d)</string>
   <string name="perm_hips_security_prompt_remember">Remember my choice</string>
-  <string name="perm_hips_security_prompt_root_caption">Important Warning</string>
+  <string name="perm_hips_security_prompt_root_caption">Important warning</string>
   <string name="perm_hips_security_prompt_root_step1">Do you wish to allow %1$s to get ROOT permission?</string>
   <string name="perm_hips_security_prompt_root_step2">ROOT permission may cause system instability</string>
   <string name="perm_hips_security_prompt_root_step3">Your privacy data such as accounts, password and messages might be compromised</string>
@@ -1664,12 +1660,15 @@ please follow the steps to complete installation"</string>
   <string name="perm_su_desc">Monitoring %1$d apps for ROOT Permission</string>
   <string name="perm_su_desc1">Manage ROOT Permission</string>
   <string name="perm_su_disabled">ROOT Permission is disabled</string>
-  <string name="perm_su_disabled_desc">Grant ROOT permission to 3rd-party apps may cause system instability, even loss of personal data, system or hardware damage. Please make sure you know ROOT permission.</string>
-  <string name="perm_su_disabled_in_stable">ROOT is not available in MIUI Stable</string>
-  <string name="perm_su_disabled_in_stable_desc">"Grant ROOT permission to 3rd-party apps may cause system instability, even loss of personal data, system or hardware damage. Please switch to MIUI development version to enable ROOT permission."</string>
+  <string name="perm_su_disabled_desc">Grant ROOT permission to 3rd-party apps may cause system instability, loss of personal data, and system or hardware damage. Please make sure you know ROOT permission.</string>
+  <string name="perm_su_disabled_in_stable">ROOT is not available in MIUI stable</string>
+  <string name="perm_su_disabled_in_stable_desc">"Grant ROOT permission to 3rd-party apps may cause system instability, loss of personal data, and system or hardware damage.
+
+Please switch to MIUI development version to enable ROOT permission."</string>
   <string name="perm_su_disabled_in_stable_download">Download MIUI</string>
-  <string name="perm_su_enable_content">"Enabling it will allow apps to request ROOT permission. Note: Apps with the permission may cause system instability, even loss of personal data, system or hardware damage, please be cautions. Would you like to enable it?"</string>
-  <string name="perm_su_enable_dialog">%1$s is trying to get system ROOT permission which is disabled by default to ensure system security. If you need to enable it, please go to settings in Permission Manager.</string>
+  <string name="perm_su_enable_content">"Enabling it will allow apps to request ROOT permission.
+Note: Apps with the permission may cause system instability, loss of personal data, and system or hardware damage. Continue to enable feature?"</string>
+  <string name="perm_su_enable_dialog">%1$s is trying to get system ROOT permission which is disabled by default to ensure system security. If you need to enable it, please go to settings in Permission manager.</string>
   <string name="perm_su_enable_summary">Applications may gain root permission</string>
   <string name="perm_su_enable_title">ROOT Permission</string>
   <string name="perm_su_switch">ROOT Permission</string>
@@ -1677,18 +1676,18 @@ please follow the steps to complete installation"</string>
   <string name="perm_summary_enabled">On</string>
   <string name="perm_sysopt_boost_auto_start">Autostart permission</string>
   <string name="perm_sysopt_boost_auto_start_group">Autostart</string>
-  <string name="perm_sysopt_boost_auto_start_summary">Allow this process to autostart</string>
+  <string name="perm_sysopt_boost_auto_start_summary">Allow autostart operation</string>
   <string name="perm_sysopt_boost_boot">Boot</string>
   <string name="perm_sysopt_boost_receiver">Background</string>
-  <string name="perm_system_app">System Apps (%d)</string>
+  <string name="perm_system_app">System apps (%d)</string>
   <string name="perm_system_app_label">[System App]</string>
-  <string name="perm_trusted_app">Trusted Apps (%1$d)</string>
+  <string name="perm_trusted_app">Trusted apps (%1$d)</string>
   <string name="perm_update">Software upgrade</string>
-  <string name="perm_user_app">Downloaded Apps (%d)</string>
+  <string name="perm_user_app">Downloaded apps (%d)</string>
   <string name="perm_version">Version: %1$s</string>
-  <string name="permission_detail_info">View permissions info</string>
-  <string name="permission_detail_info_summary">All permissions: Safe %1$d，Private %2$d，Others %3$d</string>
-  <string name="permission_manage">Permission management</string>
+  <string name="permission_detail_info">Permission details</string>
+  <string name="permission_detail_info_summary">Permissions: Security %1$d，Privacy %2$d，Other %3$d</string>
+  <string name="permission_manage">Manage permissions</string>
   <string name="permission_manage_summary">Auto start, privacy, secure permission management</string>
   <string name="permission_manage_title">%s permission details</string>
   <string name="permission_mgr">Permissions</string>
@@ -1712,7 +1711,7 @@ please follow the steps to complete installation"</string>
   <string name="pointer_settings_category">Mouse/trackpad</string>
   <string name="pointer_speed">Pointer speed</string>
   <string name="power_autorun_apps_empty">No auto-start apps</string>
-  <string name="power_autorun_control_desc">"Increasing the number of auto-start programs may increase your phone's power consumption"</string>
+  <string name="power_autorun_control_desc">"Increasing the number of auto-start programs may increase you're phone's power consumption"</string>
   <string name="power_autorun_control_title">Auto-start</string>
   <string name="power_autorun_empty">No apps installed</string>
   <string name="power_battery_history_days">%1$d days %2$d hrs %3$d mins</string>
@@ -1723,8 +1722,8 @@ please follow the steps to complete installation"</string>
   <string name="power_cell">Mobile signal</string>
   <string name="power_center_battery_full">Battery is fully charged</string>
   <string name="power_center_charge_time">Charge will complete in %1$s</string>
-  <string name="power_center_consume_rank">Power usage</string>
-  <string name="power_center_consume_time">%1$s remaining</string>
+  <string name="power_center_consume_rank">Battery use</string>
+  <string name="power_center_consume_time">%1$s left</string>
   <string name="power_center_custom_summary_default">Optimize settings, conserve battery</string>
   <string name="power_center_custom_title">Conserve battery</string>
   <string name="power_center_low_battery_summary_default">Switch mode when battery is low</string>
@@ -1745,7 +1744,7 @@ please follow the steps to complete installation"</string>
   <string name="power_chooser_smart_summary">Save current settings, clear processes at lock screen</string>
   <string name="power_chooser_smart_title">Default mode</string>
   <string name="power_chooser_standby_summary">Disable Internet functions</string>
-  <string name="power_chooser_standby_title">Marathon mode</string>
+  <string name="power_chooser_standby_title">Performance mode</string>
   <string name="power_chooser_title">Conserve battery</string>
   <string name="power_chooser_user_define_summary">Create a custom configuration for battery</string>
   <string name="power_chooser_user_define_title">Add custom profile</string>
@@ -1762,7 +1761,7 @@ please follow the steps to complete installation"</string>
   <string name="power_customizer_save">Save</string>
   <string name="power_customizer_sleep_mode">Sleep</string>
   <string name="power_customizer_smart_mode">Default</string>
-  <string name="power_customizer_standby_mode">Marathon</string>
+  <string name="power_customizer_standby_mode">Performance</string>
   <string name="power_customizer_user_define_mode">Profile name:</string>
   <string name="power_customizer_user_define_name">Custom</string>
   <string name="power_customizer_user_define_summary">User defined settings</string>
@@ -1835,10 +1834,10 @@ please follow the steps to complete installation"</string>
   <string name="power_new_choose_mode">Select mode</string>
   <string name="power_perm_logs_empty">No logs</string>
   <string name="power_phone">Voice calls</string>
-  <string name="power_save_choose_mode">Choose a profile</string>
-  <string name="power_save_choose_recovery_mode">Select recovery mode</string>
-  <string name="power_save_low_battery_auto_save_title">Conserve power when battery is low</string>
-  <string name="power_save_low_battery_option_recovery_title">If battery recovers, switch mode</string>
+  <string name="power_save_choose_mode">Power saving profile</string>
+  <string name="power_save_choose_recovery_mode">Restore power profile</string>
+  <string name="power_save_low_battery_auto_save_title">Conserve battery when low</string>
+  <string name="power_save_low_battery_option_recovery_title">When battery is charged switch to</string>
   <string name="power_save_low_battery_option_summary">When battery is above the low threshold device will revert to most recently used profile</string>
   <string name="power_save_low_battery_option_title">When battery is low switch to</string>
   <string name="power_save_low_battery_percentage_fifty">50%</string>
@@ -1848,15 +1847,15 @@ please follow the steps to complete installation"</string>
   <string name="power_save_low_battery_percentage_twenty">20%</string>
   <string name="power_save_low_battery_seekbar_title">Battery is low when remaining power is less than: %1$d%%</string>
   <string name="power_save_low_battery_title">Conserve power when battery is low</string>
-  <string name="power_save_on_time_auto_save_title">Scheduled</string>
+  <string name="power_save_on_time_auto_save_title">Enable schedule</string>
   <string name="power_save_on_time_default_time">00:00</string>
-  <string name="power_save_on_time_end_time_summary">End</string>
+  <string name="power_save_on_time_end_time_summary">Ends</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
-  <string name="power_save_on_time_goout_title">Restore to</string>
-  <string name="power_save_on_time_option_recovery_title">Scheduled time reached, switch mode</string>
-  <string name="power_save_on_time_option_summary">At the end of this period device will revert to most recently used profile</string>
-  <string name="power_save_on_time_option_title">During this period</string>
-  <string name="power_save_on_time_start_time_summary">Start</string>
+  <string name="power_save_on_time_goout_title">Restore profile to</string>
+  <string name="power_save_on_time_option_recovery_title">Scheduled time ended, switch profile</string>
+  <string name="power_save_on_time_option_summary">When schedule has ended the most recently used profile will be enabled</string>
+  <string name="power_save_on_time_option_title">Power saving profile</string>
+  <string name="power_save_on_time_start_time_summary">Starts</string>
   <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_title">Scheduled</string>
   <string name="power_screen">Screen</string>
@@ -1872,7 +1871,7 @@ please follow the steps to complete installation"</string>
   <string name="power_usage_sort_title">View power consumption</string>
   <string name="power_usage_summary">What has been using the battery</string>
   <string name="power_usage_summary_title">Battery</string>
-  <string name="power_used_hours">hrs</string>
+  <string name="power_used_hours">"hrs "</string>
   <string name="power_used_hours_test">8</string>
   <string name="power_used_mins">mins</string>
   <string name="power_used_mins_test">23</string>
@@ -1893,10 +1892,10 @@ please follow the steps to complete installation"</string>
   <string name="preferred_application_warning_replace">Replace</string>
   <string name="preferred_application_warning_title">Replace default %s</string>
   <string name="preferred_application_warning_use_system">Use default %s</string>
-  <string name="preferred_launcher_title">Preferred Launcher</string>
-  <string name="preferred_launcher_warning_message">Replacing the default launcher may consume more resources than the default launcher. Are you sure you wish to continue?</string>
-  <string name="preferred_launcher_warning_replace">Replace Launcher</string>
-  <string name="preferred_launcher_warning_title">Replacing default launcher</string>
+  <string name="preferred_launcher_title">Preferred launcher</string>
+  <string name="preferred_launcher_warning_message">Replacing your default launcher may increase power consumption, reduce speed, and can put phone contents at risk.</string>
+  <string name="preferred_launcher_warning_replace">Replace</string>
+  <string name="preferred_launcher_warning_title">Replace default launcher</string>
   <string name="preferred_launcher_warning_use_system">Use default launcher</string>
   <string name="preferred_media_app_summary">Choose music player</string>
   <string name="privacy_mode_enable_sum">Hide call log, messages and so on to protect privacy.</string>
@@ -1905,9 +1904,9 @@ please follow the steps to complete installation"</string>
   <string name="privacy_relative">Privacy related</string>
   <string name="privacy_settings">Backup &amp; reset</string>
   <string name="privacy_settings_title">Backup &amp; reset</string>
-  <string name="private_sms_need_to_unlock">Please enter private SMS password</string>
-  <string name="private_sms_recording_intro_header">Draw pattern to create password lock</string>
-  <string name="private_sms_reset_by_account">Login Xiaomi account to reset private SMS password</string>
+  <string name="private_sms_need_to_unlock">Password required:</string>
+  <string name="private_sms_recording_intro_header">Draw an unlock pattern:</string>
+  <string name="private_sms_reset_by_account">Login to your Xiaomi account to reset password</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="process_list_empty_hints">No cached processes.</string>
   <string name="process_manage_title">Clear %1$d processes, free %2$s of memory</string>
@@ -2098,7 +2097,7 @@ please follow the steps to complete installation"</string>
   <string name="screen_saturation_adjust">Color saturation adjust</string>
   <string name="screen_timeout">Sleep</string>
   <string name="screen_timeout_summary">After %1$s of inactivity</string>
-  <string name="screen_timeout_title">Screen on sleep mode</string>
+  <string name="screen_timeout_title">Sleep mode</string>
   <string name="screensaver_activate_on_dock_title">Also start when docked</string>
   <string name="screensaver_component_title">Selected candy</string>
   <string name="screensaver_settings_summary_off">Disabled</string>
@@ -2189,7 +2188,7 @@ please follow the steps to complete installation"</string>
   <string name="service_restarting">Restarting</string>
   <string name="service_started_by_app">Started by app.</string>
   <string name="service_stop">Stop</string>
-  <string name="service_stop_description">This service was started by its app. Stopping it may cause the app to fail.</string>
+  <string name="service_stop_description">App has started running service. Stopping may cause errors.</string>
   <string name="set_data_subscription_progress">Set data subscription in progress</string>
   <string name="set_dds_error">Error in set data subscription.</string>
   <string name="set_dds_failed">Error in set data subscription. Clean up any existing data connection and try again.</string>
@@ -2236,8 +2235,7 @@ please follow the steps to complete installation"</string>
   <string name="sim_bad_pin">Incorrect PIN</string>
   <string name="sim_change_failed">"Can't change PIN.
 Possibly incorrect PIN."</string>
-  <string name="sim_change_failed_enable_sim_lock">"Unable to Change SIM PIN.
- Enable SIM Lock."</string>
+  <string name="sim_change_failed_enable_sim_lock">Enable SIM Lock to change PIN.</string>
   <string name="sim_change_pin">SIM PIN</string>
   <string name="sim_change_succeeded">SIM PIN changed successfully</string>
   <string name="sim_disable_sim_lock">Unlock SIM card</string>
@@ -2510,7 +2508,7 @@ Attempts Remaining :"</string>
   <string name="unlock_set_unlock_pattern_title">Pattern</string>
   <string name="unlock_set_unlock_pin_summary">Medium to high security</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
-  <string name="unlock_set_unlock_summary">Please enable screen password to set guard</string>
+  <string name="unlock_set_unlock_summary">Please set a screen lock.</string>
   <string name="unmount_inform_text">USB storage will be unmounted.</string>
   <string name="untitled_apn">Untitled</string>
   <string name="upload_debug_log_summary">Help Xiaomi improve its products and services by sending anonymous diagnostic and usage data</string>
@@ -2787,9 +2785,9 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_config_info">Wi-Fi config</string>
   <string name="wifi_connect">Connect</string>
   <string name="wifi_context_menu_change_password">Change password</string>
-  <string name="wifi_context_menu_change_wapi_certificate">Change WAPI Certificate</string>
-  <string name="wifi_context_menu_connect">Connect to network</string>
-  <string name="wifi_context_menu_forget">Forget network</string>
+  <string name="wifi_context_menu_change_wapi_certificate">Change WAPI certificate</string>
+  <string name="wifi_context_menu_connect">Connect</string>
+  <string name="wifi_context_menu_forget">Forget</string>
   <string name="wifi_disabled_generic">Disabled</string>
   <string name="wifi_disabled_help">Network was disconnected due to poor connection. To adjust this setting, go to Settings &gt; Wi-Fi Screen, Advance Menu.</string>
   <string name="wifi_disabled_network_failure">Avoided poor Internet connection</string>
@@ -2954,7 +2952,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_share_turn_off">Sharing off</string>
   <string name="wifi_share_turn_on">Sharing on</string>
   <string name="wifi_share_upload">Share</string>
-  <string name="wifi_share_upload_finish">Sharing successful!</string>
+  <string name="wifi_share_upload_finish">Shared successfully!</string>
   <string name="wifi_share_uploading">Sharing public Wi-Fi network</string>
   <string name="wifi_show_advanced">Show advanced options</string>
   <string name="wifi_show_password">Show password</string>
