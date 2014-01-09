@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_smart_antispam_summary">About Smart Antispam unknown number detection</string>
-  <string name="about_telephone_fraud">About Telephone Fraud</string>
+  <string name="about_smart_antispam_summary">About smart antispam unknown number detection</string>
+  <string name="about_telephone_fraud">About telephone fraud</string>
   <string name="agree">Agree</string>
   <string name="all_numbers">All numbers</string>
   <string name="app_label">Directory</string>
@@ -36,11 +36,11 @@
   <string name="express_inquiry_delete_warning_single">Delete selected entry?</string>
   <string name="express_inquiry_delivered">Delivered</string>
   <string name="express_inquiry_history">History</string>
-  <string name="express_inquiry_indication">Tracking number</string>
-  <string name="express_inquiry_internal_failure">@string/service_unavailiable</string>
+  <string name="express_inquiry_internal_failure">"An error occurred.
+Please your check tracking number."</string>
   <string name="express_inquiry_logistics_indication">Courier name</string>
   <string name="express_inquiry_no_history">No history</string>
-  <string name="express_inquiry_no_result">No results.</string>
+  <string name="express_inquiry_no_result">No results</string>
   <string name="express_inquiry_serial_number_indication">Tracking number</string>
   <string name="express_inquiry_serial_number_prefix">"Serial Number: "</string>
   <string name="expresss_inquiry_all_logistics">All</string>
@@ -75,7 +75,7 @@
   <string name="navigation_search_no_city_list">No City data found!</string>
   <string name="navigation_search_positioning">Locating...</string>
   <string name="navigation_search_positioning_failed">Failed to locate city</string>
-  <string name="network_unavaliable">Network is not available, please check network settings</string>
+  <string name="network_unavaliable">Network unavailable, please check network settings</string>
   <string name="order_empty_hint">No orders</string>
   <string name="order_id">Order ref: %s</string>
   <string name="order_merchant_title">My orders</string>
@@ -89,12 +89,12 @@
   <string name="packages_select_sim_cards_summmary">System will recommend traffic packages according to your usage</string>
   <string name="packages_select_sim_cards_title">Please select SIM card</string>
   <string name="packages_select_to_buy_title">Buy the following:</string>
-  <string name="packages_title">Package data preferences</string>
+  <string name="packages_title">Mobile data packages</string>
   <string name="packages_wait_for_op_reply">"Please wait for network operator's confirmation message"</string>
   <string name="payment_back">Back</string>
   <string name="payment_failed_common_problems">A problem occurred during payment.</string>
   <string name="payment_unknown_status_summary">Check your network connection and try again.</string>
-  <string name="payment_unknown_status_title">"Payment Status Error"</string>
+  <string name="payment_unknown_status_title">"Couldn't confirm payment status"</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="provider">Identified by %s</string>
   <string name="provider_tag">Data source</string>
@@ -105,7 +105,7 @@
   <string name="recharge_history_empty">No history</string>
   <string name="recharge_input_phone_title">Enter phone number (China Mobile, China Unicom, or China Telecom)</string>
   <string name="recharge_order_actual_price">¥%s</string>
-  <string name="recharge_order_id">Order ID：</string>
+  <string name="recharge_order_id">Order ID:</string>
   <string name="recharge_order_original_price">RMB%s</string>
   <string name="recharge_order_pay">Checkout</string>
   <string name="recharge_pay">Top up now</string>
@@ -124,7 +124,7 @@
 
 Total amount: RMB %3$s"</string>
   <string name="recharge_user_confirm_title">Confirm</string>
-  <string name="remind_another_time">"Don't prompt for this number"</string>
+  <string name="remind_another_time">"Don't remind me"</string>
   <string name="remind_user_confirm">OK</string>
   <string name="remind_user_suspect_number_message">"Criminals may steal other people's identities for fraud, if in doubt, please call back to verify the caller. Banks, e-commerce companies and courier companies will not ask for your password or bank card information."</string>
   <string name="remind_user_suspect_number_title">Beware Fraudulent Calls</string>

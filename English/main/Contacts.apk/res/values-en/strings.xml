@@ -47,7 +47,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="btn_delete_multi_contacts">Delete %d</string>
   <string name="btn_delete_one_contact">Delete contact</string>
   <string name="btn_rotation">Rotation</string>
-  <string name="btn_split_contact">Separate contact</string>
+  <string name="btn_split_contact">Split contact</string>
   <string name="button_cancel_scan">Stop</string>
   <string name="button_scan">Re-scan</string>
   <string name="caching_vcard_message">Caching vCard(s) to phone...</string>
@@ -191,7 +191,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="contactsAllLabel">Contacts</string>
   <string name="contactsFavoritesLabel">Favorites</string>
   <string name="contactsGroupsLabel">Groups</string>
-  <string name="contactsJoinedMessage">Contacts joined</string>
+  <string name="contactsJoinedMessage">Contacts merged</string>
   <string name="contactsList">Contacts</string>
   <string name="contacts_unavailable_add_account">Sign into an account</string>
   <string name="contacts_unavailable_create_contact">Create a new contact</string>
@@ -212,8 +212,8 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="deleteConfirmation_title">Delete</string>
   <string name="delete_call_log_title">Select call log to delete?</string>
   <string name="delete_contact_calllog_title">"Are you sure you want to delete contact's call log?"</string>
-  <string name="delete_dial_input">delete</string>
-  <string name="delete_duplicate">merge</string>
+  <string name="delete_dial_input">Delete</string>
+  <string name="delete_duplicate">Merge</string>
   <string name="delete_duplicate_message">"Merging contacts..."</string>
   <string name="delete_group_dialog_message">Delete the group \"%1$s\", contacts themselves will not be deleted.</string>
   <string name="delete_group_dialog_title">Delete group</string>
@@ -279,7 +279,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="device_import_progress_end_message">Done import!</string>
   <string name="device_import_progress_message">Importing...</string>
   <string name="device_import_progress_toast">%1$d contacts imported</string>
-  <string name="device_import_title">import process</string>
+  <string name="device_import_title">Import</string>
   <string name="device_list_title">Select phone to pair with</string>
   <string name="device_other_guide">if your phone is not in the manufacturer list, try to use the help below</string>
   <string name="device_other_title">other phone</string>
@@ -290,9 +290,9 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="device_version_header_bluetooth">open your phones bluetooth</string>
   <string name="device_version_header_no_bluetooth">Import contacts from SIM card</string>
   <string name="device_version_title">select cell phone version</string>
-  <string name="dial">dial</string>
+  <string name="dial">Dial</string>
   <string name="dialerDialpadHintText">Dial to add a call</string>
-  <string name="dialerIconLabel">Recents</string>
+  <string name="dialerIconLabel">Recent</string>
   <string name="dialerKeyboardHintText">Use keyboard to dial</string>
   <string name="dialer_addAnotherCall">Add call</string>
   <string name="dialer_empty_text_loading">Loading...</string>
@@ -313,8 +313,8 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="dirty_contacts_notification_message">(Disable reminder in contact settings)</string>
   <string name="dirty_contacts_notification_title">Do you want to sync contacts?</string>
   <string name="display_all_contacts">All contacts</string>
-  <string name="display_more_groups">More groups...</string>
-  <string name="display_only_phones">Only show contacts with phone number</string>
+  <string name="display_more_groups">More groups…</string>
+  <string name="display_only_phones">Hide incomplete numbers</string>
   <string name="display_options_sort_by_family_name">Family name</string>
   <string name="display_options_sort_by_given_name">Given name</string>
   <string name="display_options_sort_list_by">Sort list by</string>
@@ -341,7 +341,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="email_other">E-mail</string>
   <string name="email_work">E-mail work</string>
   <string name="emptyGroup">No people in this group.</string>
-  <string name="empty_divider_title">You can</string>
+  <string name="empty_divider_title"/>
   <string name="enter_contact_name">"Type person's name"</string>
   <string name="eventLabelsGroup">Birthday</string>
   <string name="event_edit_field_hint_text">Date</string>
@@ -410,7 +410,7 @@ Reason: \"%s\""</string>
   <string name="help_url_people_add"/>
   <string name="help_url_people_edit"/>
   <string name="help_url_people_main"/>
-  <string name="hint_distance">keep the distance</string>
+  <string name="hint_distance"/>
   <string name="hint_findContacts">Find contacts</string>
   <string name="hint_more_contact">Merge duplicate contacts</string>
   <string name="hint_search_contacts">%d contacts</string>
@@ -428,7 +428,7 @@ Reason: \"%s\""</string>
   <string name="import_from_sdcard">Import from storage</string>
   <string name="import_from_sim">Import from SIM card</string>
   <string name="import_multiple_vcard_string">Import multiple vCard files</string>
-  <string name="import_name">name</string>
+  <string name="import_name">Name</string>
   <string name="import_one_vcard_string">Import one vCard file</string>
   <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">Import selected contacts</string>
@@ -457,7 +457,7 @@ Reason: \"%s\""</string>
   <string name="importing_vcard_finished_title">Finished importing vCard %s</string>
   <string name="insertContactDescription">Create contact</string>
   <string name="insertGroupDescription">Create group</string>
-  <string name="invalidContactMessage">"The contact doesn't exist."</string>
+  <string name="invalidContactMessage">"Contact doesn't exist"</string>
   <string name="keep_local">Keep local</string>
   <string name="keep_local_btn">"Use phone's internal storage."</string>
   <string name="label_custom_type">Custom</string>
@@ -613,7 +613,7 @@ To add a contact to your list of favorites:
   <string name="non_phone_caption">Phone number</string>
   <string name="non_phone_close">Close</string>
   <string name="none_found">No devices found</string>
-  <string name="none_paired">No devices have been paired</string>
+  <string name="none_paired">No devices paired</string>
   <string name="not_applied">Not supported</string>
   <string name="notification_action_voicemail_play">Play</string>
   <string name="notification_new_voicemail_ticker">New voicemail from %1$s</string>
@@ -755,7 +755,7 @@ To add a contact to your list of favorites:
   <string name="remind_btn_ignore">Ignore</string>
   <string name="remind_btn_sync_now">Sync</string>
   <string name="removePhoto">Remove photo</string>
-  <string name="remove_blacklist">Remove from blacklist</string>
+  <string name="remove_blacklist">Unblock</string>
   <string name="remove_duplicate">"MIUI will help you find and merge duplicate contacts, contacts will not be merged automatically. To merge contacts please do this manually"</string>
   <string name="resource_account_abnormal_state">Account error, please try again later.</string>
   <string name="resource_account_current">Account: %1$s</string>
@@ -769,7 +769,7 @@ To add a contact to your list of favorites:
   <string name="resource_apply">Apply</string>
   <string name="resource_apply_trial">Try now</string>
   <string name="resource_buy">Buy</string>
-  <string name="resource_can_not_selected">%1$s cannot be selected!</string>
+  <string name="resource_can_not_selected">"%1$s can't be selected"</string>
   <string name="resource_category">Category</string>
   <string name="resource_comment_1_star">1 Star</string>
   <string name="resource_comment_2_star">2 Stars</string>
@@ -798,7 +798,7 @@ To add a contact to your list of favorites:
   <string name="resource_comment_score_count">%1$s users</string>
   <string name="resource_comment_sending">Adding comment…</string>
   <string name="resource_comment_title">Comments: %1$s</string>
-  <string name="resource_comment_upload_data_invalid">Comment invalid!</string>
+  <string name="resource_comment_upload_data_invalid">Comment input is invalid</string>
   <string name="resource_comment_upload_failed">Failed add comments!</string>
   <string name="resource_comment_upload_hint">Comments will be displayed after being reviewed.</string>
   <string name="resource_comment_upload_not_bought">Please use this theme before leaving comments.</string>
@@ -808,9 +808,9 @@ To add a contact to your list of favorites:
   <string name="resource_default_name">Resource</string>
   <string name="resource_delete_all">Delete %1$d selected resources?</string>
   <string name="resource_delete_confirm">Delete these resources?</string>
-  <string name="resource_delta_update_failed">Patch update failed! The complete resource will now be downloaded</string>
-  <string name="resource_delta_update_successful">Patch update successful，saving %1$s.</string>
-  <string name="resource_delta_update_total">%1$d patch updates. Total saved %2$s</string>
+  <string name="resource_delta_update_failed">Update failed! The complete resource will now be downloaded</string>
+  <string name="resource_delta_update_successful">Update successful，saving %1$s.</string>
+  <string name="resource_delta_update_total">%1$d updates. Total saved %2$s</string>
   <string name="resource_detail">Details</string>
   <string name="resource_detail_comment_title">Comments</string>
   <string name="resource_detail_jump_to_online_title">Online</string>
@@ -826,14 +826,14 @@ To add a contact to your list of favorites:
   <string name="resource_downloading">Downloading...</string>
   <string name="resource_exchange">Redeem</string>
   <string name="resource_exchange_confirm">Confirm</string>
-  <string name="resource_exchange_empty_format">Please enter a code!</string>
+  <string name="resource_exchange_empty_format">Please input gift code</string>
   <string name="resource_exchange_has_bought">"You've already purchased this theme."</string>
   <string name="resource_exchange_has_expired">This code has expired.</string>
   <string name="resource_exchange_has_used">This code has already been used.</string>
   <string name="resource_exchange_hint">Enter your code</string>
   <string name="resource_exchange_purchase_unkown_error">An unknown error occurred. Please login at http://market.xiaomi.com to view your payment status.</string>
   <string name="resource_exchange_share_code_content">You have received a code for %1$s on the MIUI theme store. Your MiCredit code is: %2$s. Touch %3$s to use it now.</string>
-  <string name="resource_exchange_share_code_dlg_content">Code successfully purchased for %1$s is: %2$s. You can now share this with friends.</string>
+  <string name="resource_exchange_share_code_dlg_content">The gift code you purchased for %1$s is: %2$s. You can now share this with friends.</string>
   <string name="resource_exchange_share_code_dlg_title">Send code</string>
   <string name="resource_exchange_success">Transaction successful</string>
   <string name="resource_exchange_unavailable">The code entered is not valid for this theme</string>
@@ -886,7 +886,7 @@ To add a contact to your list of favorites:
   <string name="resource_server_alert_dialog_title">Service is currently unavailable</string>
   <string name="resource_server_out_of_service">Server currently unavailable, please try again later.</string>
   <string name="resource_share_subject">Share theme: %1$s</string>
-  <string name="resource_share_text">Here is a theme I thought you might like: %1$s! Link: %2$s</string>
+  <string name="resource_share_text">"Here's a theme I thought you might like: %1$s! Link: %2$s"</string>
   <string name="resource_share_title">Share</string>
   <string name="resource_system_title">System resources</string>
   <string name="resource_tip_select_ringtone">None selected</string>
@@ -925,7 +925,7 @@ the content you're looking for is not currently available in your region."</stri
   <string name="search_settings_description">Names of your contacts</string>
   <string name="searching_vcard_message">Searching for vCard data in storage…</string>
   <string name="select_all">Select all</string>
-  <string name="select_device">Select a device to connect with</string>
+  <string name="select_device">Select device</string>
   <string name="select_groups">Select groups</string>
   <string name="select_new_photo_from_photo_package">Select new photo from photo package</string>
   <string name="select_none">Nothing selected, the operation is invalid</string>

@@ -45,8 +45,8 @@
         <item quantity="one">%1$d item selected</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">Successfully add %1$d people</item>
-        <item quantity="one">Successfully add %1$d person</item>
+        <item quantity="other">" %1$d  added"</item>
+        <item quantity="one">%1$d contact added</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d people</item>
@@ -54,7 +54,7 @@
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">" %1$d items selected"</item>
-        <item quantity="zero">%1$d item selected</item>
+        <item quantity="zero">%1$d items selected</item>
         <item quantity="one">%1$d item selected</item>
     </plurals>
 </resources>
