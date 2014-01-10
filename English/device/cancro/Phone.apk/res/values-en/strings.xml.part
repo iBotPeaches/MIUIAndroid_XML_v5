@@ -29,7 +29,7 @@
   <string name="managed_roaming_title_sub1">Managed roaming (SUB1)</string>
   <string name="managed_roaming_title_sub2">Managed roaming (SUB2)</string>
   <string name="managed_roaming_title_sub3">Managed roaming (SUB3)</string>
-  <string name="modify_call_failure_str”>”Failed to modify call request
+  <string name="modify_call_failure_str”>"Failed to modify call request
 "</string>
   <string name="modify_call_option_title">Select call type</string>
   <string name="modify_call_option_voice">Voice</string>
