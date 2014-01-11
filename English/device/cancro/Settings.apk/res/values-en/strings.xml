@@ -272,10 +272,6 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="battery_desc_users">Battery used by users</string>
   <string name="battery_desc_voice">Battery used by voice calls</string>
   <string name="battery_desc_wifi">Battery used by Wi-Fi</string>
-  <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
-  <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
-  <string name="battery_history_minutes">%1$dm %2$ds</string>
-  <string name="battery_history_seconds">%1$ds</string>
   <string name="battery_indicator_style">Battery indicator</string>
   <string name="battery_info_awake_battery">Awake time on battery:</string>
   <string name="battery_info_awake_plugged">Awake time when charging:</string>
@@ -321,7 +317,6 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="battery_stats_charging_label">Charging</string>
   <string name="battery_stats_duration">%1$s since unplugged</string>
   <string name="battery_stats_gps_on_label">GPS on</string>
-  <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
   <string name="battery_stats_on_battery">%1$s on battery</string>
   <string name="battery_stats_phone_signal_label">Mobile network signal</string>
   <string name="battery_stats_screen_on_label">Screen on</string>
@@ -473,7 +468,6 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
   <string name="bluetooth_tethering_overflow_error">"Can't tether to more than %1$d devices."</string>
   <string name="bluetooth_turning_off">Turning Bluetooth off…</string>
   <string name="bluetooth_turning_on">Turning Bluetooth on…</string>
-  <string name="bluetooth_unknown"/>
   <string name="bluetooth_untether_blank">%1$s will be untethered.</string>
   <string name="bluetooth_visibility_timeout">Visibility timeout</string>
   <string name="breathing_light_color_menu_title">Light color</string>
@@ -802,7 +796,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="dirac_mode_earbuds">Xiaomi earbuds</string>
   <string name="dirac_mode_general">General</string>
   <string name="dirac_mode_in_ear">Xiaomi in-ear headphones</string>
-  <string name="dirac_mode_off">Dirac Off</string>
+  <string name="dirac_mode_off">Dirac off</string>
   <string name="dirac_mode_piston_100">Xiaomi piston headphones</string>
   <string name="dirac_switch_summary">Always use MiSound enhancement with speakers</string>
   <string name="dirac_switch_title">MiSound enhancement</string>
@@ -828,7 +822,6 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="dlg_confirm_unmount_text">If you unmount the USB storage, some apps you are using will stop and may be unavailable until you remount the USB storage.</string>
   <string name="dlg_confirm_unmount_title">Unmount USB storage?</string>
   <string name="dlg_error_unmount_text">"Couldn't unmount USB storage. Try again later."</string>
-  <string name="dlg_error_unmount_title"/>
   <string name="dlg_ok">OK</string>
   <string name="dndm_auto_button_title">Time</string>
   <string name="dndm_auto_setting_group">Scheduled</string>
@@ -878,15 +871,15 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="dolby_bassboost_high">Strong</string>
   <string name="dolby_bassboost_low">Soft</string>
   <string name="dolby_bassboost_normal">Normal</string>
-  <string name="dolby_bassboost_title">Bass：</string>
+  <string name="dolby_bassboost_title">Bass:</string>
   <string name="dolby_effects">Dolby effects</string>
   <string name="dolby_eq_enter_alert_msg">You can only use the EQ in Dolby music mode. Enable it now?</string>
   <string name="dolby_eq_enter_alert_title">Turn on Dolby music</string>
   <string name="dolby_mode_movie">Movie Mode</string>
   <string name="dolby_mode_music">Music Mode</string>
   <string name="dolby_mode_off">Turn Off</string>
-  <string name="dolby_movie_advance">Video Enhancer</string>
-  <string name="dolby_music_advance">Music Enhancer</string>
+  <string name="dolby_movie_advance">Video enhancer</string>
+  <string name="dolby_music_advance">Music enhancer</string>
   <string name="dolby_roomsize_high">Outdoor</string>
   <string name="dolby_roomsize_low">Indoor</string>
   <string name="dolby_roomsize_normal">Normal</string>
@@ -966,8 +959,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="external_data_size_label">USB storage data</string>
   <string name="factory_reset_summary">"Erase all data from your phone's internal storage"</string>
   <string name="failed_to_open_app_settings_toast">Failed to open settings for %1$s</string>
-  <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
-  <string name="fancy_icon_power_center">com.miui.powercenter.PowerCenter</string>
   <string name="fcc_equipment_id">Equipment ID</string>
   <string name="filter">Filter</string>
   <string name="filter_apps_all">All</string>
@@ -1023,9 +1014,9 @@ Some apps may not work until updated by their developers."</string>
   <string name="fw_blacklist">Blocklist</string>
   <string name="fw_blacklist_hint">Calls and messages will be blocked by default</string>
   <string name="fw_blocked">Blocked log</string>
-  <string name="fw_blocked_count" formatted="false">Intercepted:%dCalls and %dMessages</string>
+  <string name="fw_blocked_count" formatted="false">Intercepted: %d calls and %d messages</string>
   <string name="fw_call" formatted="false">Call time: %s (%d)</string>
-  <string name="fw_call_imported">Import Call log</string>
+  <string name="fw_call_imported">Import call log</string>
   <string name="fw_call_muted">Call muted.</string>
   <string name="fw_call_rejected">Call diverted.</string>
   <string name="fw_clear_all_keyword">Clear all keywords</string>
@@ -1038,7 +1029,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="fw_import_ms">Import call logs and messages</string>
   <string name="fw_import_whitelist">Import exceptions</string>
   <string name="fw_import_whitelist_confirm">%d numbers are selected, are you sure to import into exceptions?</string>
-  <string name="fw_in_blacklist">%s is already blocked. :)</string>
+  <string name="fw_in_blacklist">%s is already blocked.</string>
   <string name="fw_in_whitelist">%s is already an exception.</string>
   <string name="fw_keyword_filter">Spam keyword filter</string>
   <string name="fw_keyword_filter_summary">Block messages which contain selected keywords</string>
@@ -1076,7 +1067,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="gadget_picker_title">Choose gadget</string>
   <string name="gadget_state_off">Off</string>
   <string name="gadget_state_on">On</string>
-  <string name="gadget_state_template">%1$s %2$s</string>
   <string name="gadget_state_turning_off">Turning off</string>
   <string name="gadget_state_turning_on">Turning on</string>
   <string name="gadget_sync">Sync</string>
@@ -1110,10 +1100,10 @@ Some apps may not work until updated by their developers."</string>
   <string name="header_add_an_account">Add an account</string>
   <string name="header_application_sync_settings">App sync settings</string>
   <string name="header_category_accounts">Accounts</string>
-  <string name="header_category_device">DEVICE</string>
-  <string name="header_category_personal">PERSONAL</string>
-  <string name="header_category_system">SYSTEM</string>
-  <string name="header_category_wireless_networks">WIRELESS &amp; NETWORKS</string>
+  <string name="header_category_device">Device</string>
+  <string name="header_category_personal">Personal</string>
+  <string name="header_category_system">System</string>
+  <string name="header_category_wireless_networks">Wireless &amp; Networks</string>
   <string name="header_data_and_synchronization">Data &amp; synchronization</string>
   <string name="headset_calibrate">Calibrate buttons</string>
   <string name="headset_calibrate_apply">Apply</string>
@@ -1133,21 +1123,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="heavy_weight_stop_description">"This app can't safely be stopped. If you stop it, you may lose some of your current work."</string>
   <string name="hello_world">Hello world!</string>
   <string name="help_label">Help</string>
-  <string name="help_url_accounts"/>
-  <string name="help_url_backup_reset"/>
-  <string name="help_url_battery"/>
-  <string name="help_url_bluetooth"/>
-  <string name="help_url_choose_lockscreen"/>
-  <string name="help_url_data_usage"/>
-  <string name="help_url_dreams"/>
-  <string name="help_url_location_access"/>
-  <string name="help_url_more_networks"/>
-  <string name="help_url_security"/>
-  <string name="help_url_sound"/>
-  <string name="help_url_tether"/>
-  <string name="help_url_users"/>
-  <string name="help_url_vpn"/>
-  <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Hidden SSID:</string>
   <string name="history_details_title">History details</string>
   <string name="home_key">Home key</string>
@@ -1161,12 +1136,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="input_method">Input method</string>
   <string name="input_method_selector">Input method selector</string>
   <string name="input_method_selector_always_hide_title">Always hide</string>
-  <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">Always show</string>
-  <string name="input_method_selector_always_show_value">1</string>
   <string name="input_method_selector_show_automatically_title">Automatic</string>
-  <string name="input_method_selector_show_automatically_value">0</string>
-  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Settings</string>
   <string name="input_method_settings_button">Settings</string>
   <string name="input_methods_and_subtype_enabler_title">Choose active input methods</string>
@@ -1201,9 +1172,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="item_usb_debug">USB debugging</string>
   <string name="item_virus">Virus</string>
   <string name="item_virus_lib">Update virus definitions automatically</string>
-  <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s and %2$s</string>
-  <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s and %2$s</string>
   <string name="just_checked">System OK!</string>
   <string name="keep_screen_on">Stay awake</string>
@@ -1262,7 +1231,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="location_network_based">"Google's location service"</string>
   <string name="location_settings_title">Location services</string>
   <string name="location_street_level">Let apps use GPS to pinpoint your location</string>
-  <string name="location_title">My Location</string>
+  <string name="location_title">My location</string>
   <string name="lock_after_timeout">Automatically lock</string>
   <string name="lock_after_timeout_summary">%1$s after sleep</string>
   <string name="lock_screen_unlock_show">Disable swipe screen</string>
@@ -1306,9 +1275,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockpattern_continue_button_text">Continue</string>
   <string name="lockpattern_need_to_confirm">Draw pattern again to confirm</string>
   <string name="lockpattern_need_to_unlock">Confirm saved pattern</string>
-  <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">Try again</string>
-  <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Your new unlock pattern</string>
   <string name="lockpattern_pattern_entered_header">Pattern recorded</string>
   <string name="lockpattern_recording_incorrect_too_short">Connect at least %d dots. Try again:</string>
@@ -1330,7 +1297,6 @@ Some apps may not work until updated by their developers."</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many incorrect attempts!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancel</string>
   <string name="lockpattern_tutorial_continue_label">Next</string>
-  <string name="log_count">(%d)</string>
   <string name="lte_ram_dump_off">Turn off lte ram dump</string>
   <string name="lte_ram_dump_on">Turn on lte ram dump</string>
   <string name="macaddr_label">MAC addr:</string>
@@ -1406,7 +1372,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="memory_media_usage">Media</string>
   <string name="memory_music_usage">Audio (music, ringtones, podcasts, etc.)</string>
   <string name="memory_size">Total space</string>
-  <string name="memory_title">Available %1$s\u0009\u0009Total %2$s</string>
+  <string name="memory_title">"Available %1$s | Total %2$s"</string>
   <string name="menu_cancel">Discard</string>
   <string name="menu_delete">Delete APN</string>
   <string name="menu_edit">Edit</string>
@@ -1422,7 +1388,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="menu_new">New APN</string>
   <string name="menu_restore">Reset to default</string>
   <string name="menu_save">Save</string>
-  <string name="menu_stats_last_unplugged">While last unplugged for %1$s</string>
+  <string name="menu_stats_last_unplugged">While unplugged for %1$s</string>
   <string name="menu_stats_refresh">Refresh</string>
   <string name="menu_stats_total">Usage totals</string>
   <string name="menu_stats_unplugged">%1$s since unplugged</string>
@@ -1473,7 +1439,6 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="model_number">Model Number</string>
   <string name="move_app">Move</string>
   <string name="move_app_failed_dlg_text">"Couldn't move app. %1$s"</string>
-  <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">Move to phone</string>
   <string name="move_app_to_sdcard">Move to USB storage</string>
   <string name="moving">Moving</string>
@@ -1595,7 +1560,6 @@ Try the following:
   <string name="opt_restore_perm">Restored default privacy permissions for %d programs</string>
   <string name="opt_resume_desc">Continue</string>
   <string name="opt_scanning">Scanning…</string>
-  <string name="opt_score">83</string>
   <string name="opt_score_desc">pts</string>
   <string name="opt_state_done">Complete</string>
   <string name="opt_state_pause">Pause</string>
@@ -1637,8 +1601,6 @@ Try the following:
   <string name="owner_info_settings_title">Owner info</string>
   <string name="packages_subtitle">Included packages</string>
   <string name="password_guard">Password</string>
-  <string name="percent_mark">%</string>
-  <string name="percentage">%d%%</string>
   <string name="perm">Permissions</string>
   <string name="perm_app">Apps</string>
   <string name="perm_app_enable">Monitor permission requests</string>
@@ -1769,7 +1731,7 @@ Try the following:
   <string name="perm_privacy_app_trust_summary_off">MIUI will monitor this app</string>
   <string name="perm_privacy_app_trust_summary_on">MIUI will trust this app</string>
   <string name="perm_privacy_app_uninstall">Uninstall</string>
-  <string name="perm_privacy_count">Allowed: %1$d | Denied: %2$d</string>
+  <string name="perm_privacy_count">"Allowed: %1$d | Denied: %2$d"</string>
   <string name="perm_root_manage_empty">None of your apps have ROOT permission</string>
   <string name="perm_service_disabled">Service is disabled</string>
   <string name="perm_service_enabled">Service is enabled</string>
@@ -1836,9 +1798,9 @@ Be careful, granting root permission to third-party apps may destabilize your de
   <string name="power_autorun_control_desc">"Increasing the number of auto-start programs may increase you're phone's power consumption"</string>
   <string name="power_autorun_control_title">Auto-start</string>
   <string name="power_autorun_empty">No apps installed</string>
-  <string name="power_battery_history_days">%1$d days %2$d hrs %3$d mins</string>
-  <string name="power_battery_history_hours">%1$d hrs %2$d mins</string>
-  <string name="power_battery_history_minutes">%1$d mins</string>
+  <string name="power_battery_history_days">"%1$d days %2$d hrs %3$d mins"</string>
+  <string name="power_battery_history_hours">"%1$d hrs %2$d mins"</string>
+  <string name="power_battery_history_minutes">"%1$d mins"</string>
   <string name="power_battery_history_zero_minutes">0 mins</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Mobile signal</string>
@@ -1971,33 +1933,27 @@ Be careful, granting root permission to third-party apps may destabilize your de
   <string name="power_save_low_battery_seekbar_title">Battery is low when remaining power is less than: %1$d%%</string>
   <string name="power_save_low_battery_title">Conserve power when battery is low</string>
   <string name="power_save_on_time_auto_save_title">Enable schedule</string>
-  <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Ends</string>
-  <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_goout_title">Restore profile to</string>
   <string name="power_save_on_time_option_recovery_title">Scheduled time ended, switch profile</string>
   <string name="power_save_on_time_option_summary">When schedule has ended the most recently used profile will be enabled</string>
   <string name="power_save_on_time_option_title">Power saving profile</string>
   <string name="power_save_on_time_start_time_summary">Starts</string>
-  <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_title">Scheduled</string>
   <string name="power_screen">Screen</string>
   <string name="power_settings_category_title">Battery indicator</string>
   <string name="power_settings_number">Percentage</string>
   <string name="power_settings_shape">Graphical</string>
-  <string name="power_settings_title">Set</string>
+  <string name="power_settings_title">Power settings</string>
   <string name="power_settings_top">Top bar</string>
   <string name="power_usage_history">Battery use</string>
-  <string name="power_usage_level_and_status">%1$s - %2$s</string>
   <string name="power_usage_not_available">"Battery usage data isn't available."</string>
   <string name="power_usage_sort_desc">Sort programs by power-consumption</string>
   <string name="power_usage_sort_title">View power consumption</string>
   <string name="power_usage_summary">What has been using the battery</string>
   <string name="power_usage_summary_title">Battery</string>
   <string name="power_used_hours">"hrs "</string>
-  <string name="power_used_hours_test">8</string>
   <string name="power_used_mins">mins</string>
-  <string name="power_used_mins_test">23</string>
   <string name="power_used_prefix">Power used</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Button light</string>
@@ -2131,8 +2087,8 @@ Be careful, granting root permission to third-party apps may destabilize your de
   <string name="radio_info_neighboring_location_label">Neighboring CID:</string>
   <string name="radio_info_network_type_label">Network type:</string>
   <string name="radio_info_phone_number_label">Phone number:</string>
-  <string name="radio_info_ping_hostname">Ping Hostname(www.google.com):</string>
-  <string name="radio_info_ping_ipaddr">Ping IpAddr:</string>
+  <string name="radio_info_ping_hostname">Ping Hostname:</string>
+  <string name="radio_info_ping_ipaddr">Ping IP:</string>
   <string name="radio_info_ppp_received_label">PPP received:</string>
   <string name="radio_info_ppp_resets_label">Number of PPP reset since boot:</string>
   <string name="radio_info_ppp_sent_label">PPP sent:</string>
@@ -2197,7 +2153,6 @@ Be careful, granting root permission to third-party apps may destabilize your de
   <string name="restriction_wifi_config_title">Wi-Fi and Mobile</string>
   <string name="retry">Retry</string>
   <string name="ring_volume_title">Ringer volume</string>
-  <string name="ringtone_summary"/>
   <string name="ringtone_title">Phone ringtone</string>
   <string name="roaming">Data roaming</string>
   <string name="roaming_disable">Connect to data services when roaming</string>
@@ -2269,7 +2224,6 @@ This setting affects all users on this phone."</string>
   <string name="sd_insert_summary">Insert USB storage for mounting</string>
   <string name="sd_memory">USB storage</string>
   <string name="sd_mount">Mount USB storage</string>
-  <string name="sd_mount_summary"/>
   <string name="sdcard_changes_instructions">Changes take effect when USB cable is reconnected.</string>
   <string name="sdcard_format">Erase USB storage</string>
   <string name="sdcard_setting">USB storage</string>
@@ -2337,11 +2291,9 @@ This setting affects all users on this phone."</string>
   <string name="selinux_status_enforcing">Enforcing</string>
   <string name="selinux_status_permissive">Permissive</string>
   <string name="service_background_processes">%1$s free</string>
-  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s used</string>
   <string name="service_manage">Setup</string>
   <string name="service_manage_description">%1$s: currently in use. Touch Settings to control it.</string>
-  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Restarting</string>
   <string name="service_started_by_app">Started by app.</string>
   <string name="service_stop">Stop</string>
@@ -2359,7 +2311,6 @@ This setting affects all users on this phone."</string>
   <string name="settings_safetylegal_activity_unreachable">"You don't have a data connection. To view this information now, go to %s from any computer connected to the Internet."</string>
   <string name="settings_safetylegal_title">Safety information</string>
   <string name="settings_shortcut">Settings shortcut</string>
-  <string name="seventy">70</string>
   <string name="show_all_anrs">Show all ANRs</string>
   <string name="show_all_anrs_summary">Show App Not Responding dialog for background apps</string>
   <string name="show_background_processes">Show cached processes</string>
@@ -2469,7 +2420,7 @@ Possibly incorrect PIN."</string>
   <string name="status_service_state">Service state</string>
   <string name="status_signal_strength">Signal strength</string>
   <string name="status_unavailable">Unavailable</string>
-  <string name="status_up_time">Up time</string>
+  <string name="status_up_time">Uptime</string>
   <string name="status_wifi_mac_address">Wi-Fi MAC address</string>
   <string name="status_wimax_mac_address">4G MAC address</string>
   <string name="storage_format">Format</string>
@@ -2674,7 +2625,6 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="upload_debug_log_summary">Help Xiaomi improve its products and services by sending anonymous diagnostic and usage data</string>
   <string name="upload_debug_log_title">User experience program</string>
   <string name="usage_log">App usage statistics</string>
-  <string name="usage_name_percent">"%1$s -  %2$s%%"</string>
   <string name="usage_stats_label">Usage statistics</string>
   <string name="usage_time_label">Usage time</string>
   <string name="usage_type_audio">Audio</string>
@@ -2792,8 +2742,6 @@ Add a word by touching the Add (+) button"</string>
   <string name="verify_applications_summary">Disallow or warn before installation of apps that may cause harm</string>
   <string name="verify_apps_over_usb_summary">Check apps installed via ADB/ADT for harmful behavior.</string>
   <string name="verify_apps_over_usb_title">Verify apps over USB</string>
-  <string name="versionCode">2</string>
-  <string name="versionName">1.0.131218</string>
   <string name="version_text">version %1$s</string>
   <string name="vibrate_category_title">Vibrate</string>
   <string name="vibrate_in_normal_title">Vibrate in normal mode</string>
@@ -3126,11 +3074,9 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">None</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_wep">WEP</string>
   <string name="wifi_security_short_wpa">WPA</string>
   <string name="wifi_security_short_wpa2">WPA2</string>
@@ -3146,7 +3092,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_setting_sleep_policy_title">Keep Wi-Fi on during sleep</string>
   <string name="wifi_settings">Wi-Fi settings</string>
   <string name="wifi_settings_category">Wi-Fi settings</string>
-  <string name="wifi_settings_summary">Set up &amp; manage wireless access points</string>
+  <string name="wifi_settings_summary">Set up &amp; manage Wi-Fi access points</string>
   <string name="wifi_settings_title">Wi-Fi settings</string>
   <string name="wifi_setup_add_network">Add network</string>
   <string name="wifi_setup_back">Back</string>
