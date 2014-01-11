@@ -232,7 +232,6 @@ To solve this, you can either clean out old files, or purchase additional storag
   <string name="send_int_sms_for_sync_notice">An activation SMS will be sent to your device at your carriers messaging rate. Are you sure you want to continue?</string>
   <string name="send_sms_for_sync_notice">An activation SMS will be sent, continue?</string>
   <string name="send_sms_for_sync_title">Sync service not activated</string>
-  <string name="service_error">Service error</string>
   <string name="show_password">Show password</string>
   <string name="sim_changed_notification_content">SIM card not activated</string>
   <string name="sina_weibo">Sina Weibo</string>
@@ -251,7 +250,6 @@ To solve this, you can either clean out old files, or purchase additional storag
   <string name="sync_sub_dspt">An SMS will be sent to activate the service</string>
   <string name="sync_sub_int_dspt">An international SMS may be sent to activate the service</string>
   <string name="title_reg">Register</string>
-  <string name="title_voucher">Top-up using Mi Credit voucher</string>
   <string name="trust_device">Trust device</string>
   <string name="unactivated_user">Deactivated</string>
   <string name="unbind">Unbind</string>
