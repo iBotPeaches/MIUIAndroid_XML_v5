@@ -80,8 +80,8 @@
   <string name="bookmark_title">Label</string>
   <string name="bookmark_to_readmodelist_not_saved">"Couldn't save Reading List bookmark."</string>
   <string name="bookmark_to_readmodelist_saved">Saved to Reading List bookmarks.</string>
-  <string name="bookmark_url">Url</string>
-  <string name="bookmark_url_not_valid">"This URL isn't valid."</string>
+  <string name="bookmark_url">URL</string>
+  <string name="bookmark_url_not_valid">"Invalid URL."</string>
   <string name="bookmarks">Bookmarks</string>
   <string name="bookmarks_content_is_null">No bookmarks</string>
   <string name="bookmarks_management">Bookmarks</string>
@@ -397,7 +397,7 @@
   <string name="pref_general_setting_title">Settings</string>
   <string name="pref_general_sync_title">Sync</string>
   <string name="pref_general_title">General</string>
-  <string name="pref_gesture_title">Gesture operations</string>
+  <string name="pref_gesture_title">Gestures</string>
   <string name="pref_images_preload_dialogtitle">Images preloading...</string>
   <string name="pref_images_preload_summary">" Allow browser to preload images when supported by server"</string>
   <string name="pref_images_preload_title">Image preloading</string>
@@ -466,8 +466,8 @@
   <string name="pref_ua_mione_value">4</string>
   <string name="pref_ua_string">User agent string</string>
   <string name="pref_ua_title">User agent management</string>
-  <string name="pref_use_instant_search">Google Instant</string>
-  <string name="pref_use_instant_search_summary">Use Google Instant when you use Google Search, to show results as you type (this can increase data use).</string>
+  <string name="pref_use_instant_search">Google instant search</string>
+  <string name="pref_use_instant_search_summary">Use Google instant search to show results as you type (this may increase data usage).</string>
   <string name="pref_video_preload_dialogtitle">Video preloading...</string>
   <string name="pref_video_preload_summary">Allow browser to preload video when server supports it</string>
   <string name="pref_video_preload_title">Video preloading</string>
@@ -497,7 +497,7 @@
   <string name="readmode_recommend">View recommended</string>
   <string name="readmode_recommend_message">"You've read all the sections of this book. Please select another"</string>
   <string name="readmode_refresh">Refresh</string>
-  <string name="readmodelist_bookmarks_to_show">Reading List</string>
+  <string name="readmodelist_bookmarks_to_show">Reading list</string>
   <string name="recover">Recover</string>
   <string name="recover_from_crash">Continue with last browser session</string>
   <string name="reload">Refresh</string>
@@ -517,7 +517,7 @@
   <string name="save_bookmark">Save bookmark</string>
   <string name="save_dialog_title">Save</string>
   <string name="save_file_already_exist_alert_message">File already exists, would you like to overwrite it?</string>
-  <string name="save_file_already_exist_alert_title">File Exists!</string>
+  <string name="save_file_already_exist_alert_title">File exists!</string>
   <string name="save_to_bookmarks">Save to bookmarks</string>
   <string name="saving_snapshot">Saving…</string>
   <string name="search">Search</string>
@@ -589,13 +589,13 @@
   <string name="warning">Warning</string>
   <string name="webapp_add_to_desktop">Add to home screen</string>
   <string name="webapp_addtodeskpop_append">Added app to home screen</string>
-  <string name="webapp_app_name">MiMarket Web Store</string>
+  <string name="webapp_app_name">MiMarket web store</string>
   <string name="webapp_bottom_bar_addtodesk">Add to home screen</string>
   <string name="webapp_bottom_bar_already_addtodesk">Already added to home screen</string>
   <string name="webapp_bottom_bar_exit">Exit</string>
-  <string name="webapp_bottom_bar_hidebar">Hide Bottom Bar</string>
-  <string name="webapp_bottom_bar_openbrowser">Open in Browser</string>
-  <string name="webapp_bottom_bar_showbar">Show Bottom Bar</string>
+  <string name="webapp_bottom_bar_hidebar">Hide bottom bar</string>
+  <string name="webapp_bottom_bar_openbrowser">Open in browser</string>
+  <string name="webapp_bottom_bar_showbar">Show bottom bar</string>
   <string name="webapp_dialog_title">Add app to your home screen</string>
   <string name="webapp_splashview_loading">Loading, please wait…</string>
   <string name="webapp_web_forward">Forward</string>
