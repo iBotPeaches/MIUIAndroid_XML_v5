@@ -605,7 +605,7 @@ To add a contact to your list of favorites:
 • Back up your contacts securely."</string>
   <string name="no_contact_details">No additional information for this contact.</string>
   <string name="no_contact_in_other_phone">No contacts dectected</string>
-  <string name="no_contacts_dialog_message">"Your contacts may be stored on your SIM card. Try importing contacts from you SIM card to your phone's internal storage and then try again."</string>
+  <string name="no_contacts_dialog_message">"Contacts may be stored on SIM card. Try importing contacts from SIM card to the phone's internal storage."</string>
   <string name="no_contacts_dialog_title">Failed to find contacts</string>
   <string name="no_contacts_selected">No contacts selected.</string>
   <string name="no_sdcard_message">No storage was found.</string>

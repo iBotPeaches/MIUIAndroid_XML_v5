@@ -162,7 +162,7 @@
   <string name="app_install_location_summary">Change the preferred installation location for new apps</string>
   <string name="app_install_location_title">Preferred install location</string>
   <string name="app_log_tab_title">Permission log</string>
-  <string name="app_manage_tab_title">Applications</string>
+  <string name="app_manage_tab_title">Apps</string>
   <string name="app_name">Security</string>
   <string name="app_name_label">App</string>
   <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
@@ -191,7 +191,7 @@
   <string name="auto_launch_label">Launch by default</string>
   <string name="auto_launch_label_generic">Defaults</string>
   <string name="auto_punctuate">Auto-punctuate</string>
-  <string name="auto_punctuate_summary">Press Space key twice to insert \".\"</string>
+  <string name="auto_punctuate_summary">Press space key twice to insert \".\"</string>
   <string name="auto_replace">Auto-replace</string>
   <string name="auto_replace_summary">Correct mistyped words</string>
   <string name="auto_restore_summary">When reinstalling an app, restore backed up settings and data</string>
@@ -473,7 +473,7 @@ Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"
   <string name="bluetooth_visibility">Discoverable</string>
   <string name="bluetooth_visibility_timeout">Visibility timeout</string>
   <string name="bluetooth_visibility_timeout_summary">Set how long device will be discoverable</string>
-  <string name="breathing_light_color_menu_title">Light colour</string>
+  <string name="breathing_light_color_menu_title">Light color</string>
   <string name="breathing_light_color_summary">LED color when receiving new notification</string>
   <string name="breathing_light_color_title">" LED Color"</string>
   <string name="breathing_light_freq_summary">Pulse LED on new notifications</string>
@@ -865,7 +865,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="dolby_preset_select">Choose a preset</string>
   <string name="dolby_surround_virtualizer">Surround sound</string>
   <string name="dolby_volume_leveler">Volume leveler</string>
-  <string name="downloaded_rom_title">Update packages</string>
+  <string name="downloaded_rom_title">Downloaded ROMs</string>
   <string name="drive_mode">Car mode</string>
   <string name="drive_mode_auto_reply">Quick response</string>
   <string name="drive_mode_auto_sms_reply_content">"Can't talk right now... I'll call you later"</string>
@@ -887,7 +887,7 @@ To choose which kinds of information to sync within each account, go to Settings
   <string name="empty_folder_title">Empty folder (%d)</string>
   <string name="empty_list_msg">"You don't have any third-party apps installed."</string>
   <string name="emptylist_fwlog_call">Blocked calls will be logged here.</string>
-  <string name="emptylist_fwlog_ms">All blocked texts and MMS messages will be logged here.</string>
+  <string name="emptylist_fwlog_ms">All blocked SMS and MMS messages will be logged here.</string>
   <string name="enableNetwork">enableNetwork</string>
   <string name="enable_adb">USB debugging</string>
   <string name="enable_adb_debug_summary">When connected via USB, use the ADB command</string>
@@ -1038,7 +1038,7 @@ Some apps may not work until updated by their developers."</string>
   <string name="fw_whitelist_hint">Calls and messages will not be blocked by default</string>
   <string name="gadget_picker_title">Choose gadget</string>
   <string name="gadget_title">Power control</string>
-  <string name="gadget_toggle_bluetooth">Updating Bluetooth setting</string>
+  <string name="gadget_toggle_bluetooth">Updating Bluetooth settings</string>
   <string name="gadget_toggle_wifi">Updating Wi-Fi settings</string>
   <string name="game_controller_settings_category">Game Controller</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
@@ -1127,8 +1127,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="internal_media_format_desc">Erase all Internal storage? You will lose &lt;b&gt;all&lt;/b&gt; stored data, and then phone will restart!</string>
   <string name="internal_media_format_final_desc">"Erase the Internal storage, deleting all files stored there? You can't reverse this action! Phone will restart after Internel storage is erased!"</string>
   <string name="internal_media_format_title">Erase Internal storage</string>
-  <string name="internal_memory">Internal storage</string>
-  <string name="internal_storage">System storage</string>
+  <string name="internal_memory">Internal memory</string>
+  <string name="internal_storage">Internal storage</string>
   <string name="invalid_location">"Install location isn't valid."</string>
   <string name="invalid_size_value">"Couldn't compute package size."</string>
   <string name="ipaddr_label">IPaddr:</string>
@@ -1180,8 +1180,8 @@ Some apps may not work until updated by their developers."</string>
   <string name="link_speed_label">Link speed:</string>
   <string name="list_sub_view_item_clean">Clean</string>
   <string name="list_sub_view_item_install">Install</string>
-  <string name="list_sub_view_item_lock">Lock</string>
-  <string name="list_sub_view_item_unlock">Unlock</string>
+  <string name="list_sub_view_item_lock">Locked</string>
+  <string name="list_sub_view_item_unlock">Unlocked</string>
   <string name="list_sub_view_item_view">Detail</string>
   <string name="local_backup_password_summary_change">Touch to change or remove the password for desktop full backups</string>
   <string name="local_backup_password_summary_none">"Desktop full backups aren't currently protected"</string>
@@ -1359,7 +1359,7 @@ To clear music, pictures, and other user data, the "&lt;b&gt;USB storage&lt;/b&g
   <string name="misc_files_selected_count">selected %1$d out of %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s out of %2$s</string>
   <string name="miui_screensaver_show_time">Duration</string>
-  <string name="miui_screensaver_show_time_select_title">Set duration</string>
+  <string name="miui_screensaver_show_time_select_title">Set slideshow duration</string>
   <string name="miui_screensaver_state_off">Off</string>
   <string name="miui_screensaver_state_on">On</string>
   <string name="miui_screensaver_title">Screensaver</string>
@@ -1393,7 +1393,7 @@ Try the following:
 5) Access mounted device mtpfs /media/mtp via File explorer; same as local directory
 6) Uninstall device fusermount -u /media/mtp
  Note: For ubuntu 8.04 environment"</string>
-  <string name="msd_install_retry_mac">"If the computer did not detect MI 2 properly,
+  <string name="msd_install_retry_mac">"If the computer failed to detect your phone,
 Try the following:
 "</string>
   <string name="msd_install_retry_windows_vista">"If the computer did not detect MI 2 properly,
@@ -1405,8 +1405,7 @@ try the following:
   <string name="msd_install_status_done">Driver already installed</string>
   <string name="msd_install_status_undo">Install driver</string>
   <string name="msd_install_succeed">Driver installed successfully</string>
-  <string name="msd_install_windows_xp_step_2_1">"1.If the Setup Wizard pops up, 
-please follow the steps to complete installation"</string>
+  <string name="msd_install_windows_xp_step_2_1">Follow the steps in Setup Wizard to complete installation.</string>
   <string name="multi_sim_settings_summary">Set up Multi Sim Settings for Voice, Data and SMS</string>
   <string name="multi_sim_settings_title">Multi SIM Settings</string>
   <string name="multi_touch_points_category_title">Multi-touch points</string>
@@ -1435,10 +1434,10 @@ please follow the steps to complete installation"</string>
   <string name="no_nearby_wifi">No networks detected.</string>
   <string name="no_running_services">Nothing running.</string>
   <string name="no_services">Not active services</string>
-  <string name="noise_suppression">Noise suppression</string>
+  <string name="noise_suppression">Ambient noise suppression</string>
   <string name="normal_date_format">Regional (%s)</string>
   <string name="notification_pulse_title">Pulse notification light</string>
-  <string name="notification_sound_dialog_title">Choose notification ringtone</string>
+  <string name="notification_sound_dialog_title">Select notification sound</string>
   <string name="notification_sound_title">Default notification</string>
   <string name="notification_vibrate_abbreviation">"Notifications "</string>
   <string name="notification_volume_title">Notification</string>
@@ -1448,20 +1447,20 @@ please follow the steps to complete installation"</string>
   <string name="oem_radio_info_label">OEM-specific Info/Settings</string>
   <string name="only_when_charging">Only whilst charging</string>
   <string name="onscreen_keyboard_settings_summary">Onscreen keyboard settings</string>
-  <string name="open_wifi_connect_summary">Click to manage</string>
+  <string name="open_wifi_connect_summary">Tap to manage</string>
   <string name="open_wifi_connect_title">Connect to open network %1$s</string>
   <string name="opt_accept_whitelist">Accept calls from numbers on exceptions list</string>
   <string name="opt_cancel_desc">Cancel</string>
-  <string name="opt_clean_garbage">Cleared %d MB</string>
+  <string name="opt_clean_garbage">Cleared %dMB</string>
   <string name="opt_disabled_autorun">Disabled %d startup programs</string>
   <string name="opt_done_desc">Complete</string>
   <string name="opt_freed_ram">Free %dMBs of memory</string>
-  <string name="opt_garbage_size">Garbage size：</string>
-  <string name="opt_item_app_perm">Permission control</string>
-  <string name="opt_item_autorun">Auto start</string>
-  <string name="opt_item_cache_clean">Garbage clean</string>
+  <string name="opt_garbage_size">Garbage size:</string>
+  <string name="opt_item_app_perm">Permissions</string>
+  <string name="opt_item_autorun">Auto-start</string>
+  <string name="opt_item_cache_clean">Clean caches</string>
   <string name="opt_item_file_scan">File scan</string>
-  <string name="opt_item_procs_clean">Process manage</string>
+  <string name="opt_item_procs_clean">Manage processes</string>
   <string name="opt_killed_process">Killed %d processes</string>
   <string name="opt_progress_done">Complete</string>
   <string name="opt_progress_started">Optimizing…</string>
@@ -1470,7 +1469,7 @@ please follow the steps to complete installation"</string>
   <string name="opt_reject_blacklist">Reject calls from numbers on blocklist</string>
   <string name="opt_reject_blacklist_stranger">Reject calls from unknown numbers on blocklist</string>
   <string name="opt_reject_blacklist_stranger_summary">Calls from blocked numbers will be rejected automatically</string>
-  <string name="opt_restore_perm">Restored defalut privacy permissions of %d programs</string>
+  <string name="opt_restore_perm">Restored default privacy permissions of %d programs</string>
   <string name="opt_resume_desc">Continue</string>
   <string name="opt_scanning">Scanning…：</string>
   <string name="opt_score">83</string>
@@ -1479,7 +1478,7 @@ please follow the steps to complete installation"</string>
   <string name="opt_state_pause">Pause</string>
   <string name="opt_state_running">Optimizing...</string>
   <string name="opt_virus_scan">Scan now</string>
-  <string name="opt_virus_suggest">Number of suspicious files：%d，we recommend that you scan for viruses</string>
+  <string name="opt_virus_suggest">%d suspicious files found! Please scan for viruses immediately</string>
   <string name="opt_waiting">Waiting</string>
   <string name="optimize_ad_header_left">Ad files: %d</string>
   <string name="optimize_ad_list_empty_content">No ad files found.</string>
@@ -1495,7 +1494,7 @@ please follow the steps to complete installation"</string>
   <string name="optimize_residual_list_empty_content">No residuals found.</string>
   <string name="optimize_tips_ad">iconAd files are images, text, and other advertisement-related data which third-party service providers store on your phone.</string>
   <string name="optimize_tips_ad_content">Images, text and other ad-related content via third-party providers stored on your phone.</string>
-  <string name="optimize_tips_ad_title">Ad files</string>
+  <string name="optimize_tips_ad_title">Advert files</string>
   <string name="optimize_tips_apk">"iconInstall packages are used to install apps on your device, however they don't do anything except take up space once you've installed the app."</string>
   <string name="optimize_tips_apk_content">"Used to install apps on your device, however they don't do anything once you've already installed the app."</string>
   <string name="optimize_tips_apk_title">Apps</string>
@@ -1504,7 +1503,7 @@ please follow the steps to complete installation"</string>
   <string name="optimize_tips_cache_title">Cache</string>
   <string name="optimize_tips_residual">"iconResiduals are files (e.g. videos, wallpapers, music, etc.) that have been downloaded on to your device's SD card by apps which have since been uninstalled. As some of these files may still be of use to you, we recommend that you use the Advanced feature when cleaning up residual files."</string>
   <string name="optimize_tips_residual_content">Residual content created by apps which have been uninstalled. Some files may still be required, we recommended you use the advanced cleanup feature to remove these files.</string>
-  <string name="optimize_tips_residual_title">Residual content</string>
+  <string name="optimize_tips_residual_title">Residual files</string>
   <string name="optimize_tips_title">Help</string>
   <string name="optimize_title_ad">Advert files</string>
   <string name="optimize_title_apk">Apps</string>
@@ -1539,7 +1538,7 @@ please follow the steps to complete installation"</string>
   <string name="perm_good">Good</string>
   <string name="perm_header">Monitoring %1$d apps</string>
   <string name="perm_header_disabled">Permission monitor is disabled</string>
-  <string name="perm_hide_system_app">Hide System Apps</string>
+  <string name="perm_hide_system_app">Hide system apps</string>
   <string name="perm_hips">Manage App Permissions</string>
   <string name="perm_hips_action_accept_count">Allowed: %1$d</string>
   <string name="perm_hips_action_reject_count">Denied: %1$d</string>
@@ -1550,11 +1549,11 @@ please follow the steps to complete installation"</string>
   <string name="perm_hips_call_number">Call %1$s</string>
   <string name="perm_hips_calllog_access">Read call logs</string>
   <string name="perm_hips_cancel_missed_calls">Clear missed calls notification</string>
-  <string name="perm_hips_contact_access">Read Contact list</string>
+  <string name="perm_hips_contact_access">Read contact list</string>
   <string name="perm_hips_desc">Monitoring %1$d apps for security and privacy</string>
   <string name="perm_hips_desc1">Monitoring apps for security and privacy</string>
   <string name="perm_hips_desc2">Monitoring %1$d apps for security and privacy</string>
-  <string name="perm_hips_disable_content">"Disabling it will stop MIUI from monitoring application requests and no longer ensure content's security and privacy. Continue?"</string>
+  <string name="perm_hips_disable_content">"MIUI will stop monitoring app's requests and the security of related app content."</string>
   <string name="perm_hips_disable_title">Permission manager</string>
   <string name="perm_hips_end_call">Hang up current call</string>
   <string name="perm_hips_get_call_state">Get current call status</string>
@@ -1567,8 +1566,8 @@ please follow the steps to complete installation"</string>
   <string name="perm_hips_group_root">ROOT</string>
   <string name="perm_hips_listen_call_state">Monitor call status</string>
   <string name="perm_hips_location_access">Obtain your current position</string>
-  <string name="perm_hips_location_cell_location">Obtain cellular location</string>
-  <string name="perm_hips_location_cellinfo">Obtain cellular location</string>
+  <string name="perm_hips_location_cell_location">Obtain mobile location</string>
+  <string name="perm_hips_location_cellinfo">Obtain mobile location</string>
   <string name="perm_hips_location_monitor">Track your position</string>
   <string name="perm_hips_location_source_cellular">Source: carrier network</string>
   <string name="perm_hips_location_source_gps">Source: GPS</string>
@@ -1584,20 +1583,20 @@ please follow the steps to complete installation"</string>
   <string name="perm_hips_network_send">send data</string>
   <string name="perm_hips_network_unknown_addr">Unknown address</string>
   <string name="perm_hips_network_wifi_event">via Wi-Fi network</string>
-  <string name="perm_hips_phoneid_iccid">Obtain SIM Card SN</string>
+  <string name="perm_hips_phoneid_iccid">Obtain SIM card SN</string>
   <string name="perm_hips_phoneid_imei">Obtain IMEI number</string>
   <string name="perm_hips_phoneid_imeisn">Obtain IMEI/SN</string>
   <string name="perm_hips_phoneid_imsi">Obtain IMSI number</string>
   <string name="perm_hips_phoneid_number">Obtain your phone number</string>
   <string name="perm_hips_prompt_all">Prompt all</string>
   <string name="perm_hips_reject_all">Deny all</string>
-  <string name="perm_hips_risky">Risky Permissions (%1$d)</string>
+  <string name="perm_hips_risky">Risky permissions (%1$d)</string>
   <string name="perm_hips_root">ROOT</string>
-  <string name="perm_hips_root_desc">Request ROOT Permission</string>
-  <string name="perm_hips_root_desc_stable">Unavailable in MIUI Stable</string>
-  <string name="perm_hips_root_hint">%1$s apps are allowed to get ROOT Permission</string>
-  <string name="perm_hips_root_title">Obtain ROOT Permission</string>
-  <string name="perm_hips_safe">Normal Permissions (%1$d)</string>
+  <string name="perm_hips_root_desc">Request ROOT permission</string>
+  <string name="perm_hips_root_desc_stable">"Feature isn't available in this version of MIUI"</string>
+  <string name="perm_hips_root_hint">%1$s apps are allowed to get ROOT permission</string>
+  <string name="perm_hips_root_title">Obtain ROOT permission</string>
+  <string name="perm_hips_safe">Normal permissions (%1$d)</string>
   <string name="perm_hips_security_prompt_accept">Allow (%d)</string>
   <string name="perm_hips_security_prompt_accept_root">Allow</string>
   <string name="perm_hips_security_prompt_caption">Security warning</string>
@@ -1643,14 +1642,14 @@ please follow the steps to complete installation"</string>
   <string name="perm_privacy_app_launch">Launch</string>
   <string name="perm_privacy_app_log">Logs</string>
   <string name="perm_privacy_app_manage">Details</string>
-  <string name="perm_privacy_app_trust">I trust this App</string>
+  <string name="perm_privacy_app_trust">I trust this app</string>
   <string name="perm_privacy_app_trust_dialog_content">MIUI will not ask you for confirmation of any security and privacy related operations from this app.</string>
   <string name="perm_privacy_app_trust_dialog_title">Trust this app</string>
   <string name="perm_privacy_app_trust_summary">Trusted</string>
   <string name="perm_privacy_app_trust_summary_off">MIUI will monitor this app</string>
   <string name="perm_privacy_app_trust_summary_on">MIUI will trust this app</string>
   <string name="perm_privacy_app_uninstall">Uninstall</string>
-  <string name="perm_privacy_count">Allowed: %1$d Denied: %2$d</string>
+  <string name="perm_privacy_count">Allowed: %1$d | Denied: %2$d</string>
   <string name="perm_root_manage_empty">No apps with ROOT permission</string>
   <string name="perm_service_disabled">Service is disabled</string>
   <string name="perm_service_enabled">Service is enabled</string>
@@ -1680,7 +1679,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="perm_sysopt_boost_boot">Boot</string>
   <string name="perm_sysopt_boost_receiver">Background</string>
   <string name="perm_system_app">System apps (%d)</string>
-  <string name="perm_system_app_label">[System App]</string>
+  <string name="perm_system_app_label">[System app]</string>
   <string name="perm_trusted_app">Trusted apps (%1$d)</string>
   <string name="perm_update">Software upgrade</string>
   <string name="perm_user_app">Downloaded apps (%d)</string>
@@ -1693,7 +1692,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="permission_mgr">Permissions</string>
   <string name="permissions_label">Permissions</string>
   <string name="personal_data_section_title">Personal data</string>
-  <string name="phone_call_noise_suppression">Phone call noise suppression</string>
+  <string name="phone_call_noise_suppression">Call noise suppression</string>
   <string name="phone_info_label">Phone info</string>
   <string name="phone_language">Language</string>
   <string name="phone_language_summary"/>
@@ -1865,16 +1864,13 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="power_settings_title">Set</string>
   <string name="power_settings_top">Top bar</string>
   <string name="power_usage_history">Battery use</string>
-  <string name="power_usage_level_and_status">%1$s - %2$s</string>
   <string name="power_usage_not_available">"Battery usage data isn't available."</string>
   <string name="power_usage_sort_desc">Sort programs by power-consumption</string>
   <string name="power_usage_sort_title">View power consumption</string>
   <string name="power_usage_summary">What has been using the battery</string>
   <string name="power_usage_summary_title">Battery</string>
   <string name="power_used_hours">"hrs "</string>
-  <string name="power_used_hours_test">8</string>
   <string name="power_used_mins">mins</string>
-  <string name="power_used_mins_test">23</string>
   <string name="power_used_prefix">Power used</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Button light</string>
@@ -1883,7 +1879,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="pref_volume_wake_summary">Pressing the volume up/down wakes the device. Intended for devices with a hard to press power key.</string>
   <string name="pref_volume_wake_title">Volume rocker wake</string>
   <string name="preference_change_password_title">Change password</string>
-  <string name="preferred_app_settings">Default app Settings</string>
+  <string name="preferred_app_settings">Default app settings</string>
   <string name="preferred_app_settings_default">Default</string>
   <string name="preferred_app_settings_reset">Restore defaults</string>
   <string name="preferred_app_settings_reset_message">Are you sure want to restore default application Settings?</string>
@@ -1999,7 +1995,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="radio_info_http_client_test">HTTP Client test:</string>
   <string name="radio_info_imei_label">IMEI:</string>
   <string name="radio_info_message_waiting_label">Message waiting:</string>
-  <string name="radio_info_neighboring_location_label">Neighbouring CID:</string>
+  <string name="radio_info_neighboring_location_label">Neighboring CID:</string>
   <string name="radio_info_network_type_label">Network type:</string>
   <string name="radio_info_phone_number_label">Phone number:</string>
   <string name="radio_info_ping_hostname">Ping Hostname(www.google.com):</string>
@@ -2045,7 +2041,7 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="reset_app_preferences_title">Reset app preferences?</string>
   <string name="residual_cancel">Cancel</string>
   <string name="residual_clean">Clean</string>
-  <string name="residual_tips_hints">%s residual files found on SD card</string>
+  <string name="residual_tips_hints">%s residual files found</string>
   <string name="restore_default_apn">Restoring default APN settings.</string>
   <string name="restore_default_apn_completed">Reset default APN settings completed.</string>
   <string name="restore_default_settings">Restore default settings</string>
@@ -2091,8 +2087,8 @@ Note: Apps with the permission may cause system instability, loss of personal da
   <string name="screen_key_long_press_action">Trigger function</string>
   <string name="screen_key_long_press_timeout">Long press timeout</string>
   <string name="screen_never_timeout_title">Always on</string>
-  <string name="screen_on_proximity_sensor_summary">Prevent misuse while phone is in pocket (detected by the proximity sensor).</string>
-  <string name="screen_on_proximity_sensor_title">Prevent misuse</string>
+  <string name="screen_on_proximity_sensor_summary">Phone will lock automatically when placed in a pocket</string>
+  <string name="screen_on_proximity_sensor_title">Prevent pocket dials</string>
   <string name="screen_saturation">Color saturation</string>
   <string name="screen_saturation_adjust">Color saturation adjust</string>
   <string name="screen_timeout">Sleep</string>
@@ -2312,7 +2308,7 @@ Attempts Remaining :"</string>
   <string name="status_network_type">Mobile network type</string>
   <string name="status_number">My phone number</string>
   <string name="status_operator">Network</string>
-  <string name="status_prl_version">PRL Version</string>
+  <string name="status_prl_version">PRL version</string>
   <string name="status_roaming">Roaming</string>
   <string name="status_serial_number">Serial number</string>
   <string name="status_service_state">Service state</string>
@@ -2329,7 +2325,7 @@ Attempts Remaining :"</string>
   <string name="storage_settings">Storage</string>
   <string name="storage_settings_summary">Unmount USB storage, view available storage</string>
   <string name="storage_settings_title">Storage settings</string>
-  <string name="storage_size_content">%1$s Used | %2$s Available</string>
+  <string name="storage_size_content">%1$s used | %2$s available</string>
   <string name="storage_size_title">Storage</string>
   <string name="storage_title_usb">USB computer connection</string>
   <string name="storageuse_settings_summary">View storage used by apps</string>
@@ -2395,7 +2391,7 @@ Attempts Remaining :"</string>
   <string name="title_app_update_yes">All apps up to date</string>
   <string name="title_data_flow_no">Data usage monitor off</string>
   <string name="title_data_flow_yes">Data usage monitor on</string>
-  <string name="title_dolby_control">Dobly digital plus</string>
+  <string name="title_dolby_control">Dobly mobile control</string>
   <string name="title_font_size">Font size</string>
   <string name="title_install_virus_no">Install monitor off</string>
   <string name="title_install_virus_yes">Install monitor on</string>
@@ -2551,7 +2547,7 @@ Attempts Remaining :"</string>
   <string name="use_location_summary">Let Google use your location to improve search results and other services</string>
   <string name="use_location_title">Location &amp; Google search</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system language</string>
-  <string name="user_add_user_menu">Add user</string>
+  <string name="user_add_user_menu">Add user or profile</string>
   <string name="user_confirm_remove_message">Are you sure you want to remove the user and all associated data from the device?</string>
   <string name="user_confirm_remove_title">Remove user?</string>
   <string name="user_details_title">Edit details</string>
@@ -2704,7 +2700,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="voice_title">Voice/USSD/MMI</string>
   <string name="volume_alarm_description">Alarm volume</string>
   <string name="volume_alarm_mute">Mute alarms</string>
-  <string name="volume_bluetooth_description">Bluetooth Volume</string>
+  <string name="volume_bluetooth_description">Bluetooth volume</string>
   <string name="volume_category_title">Volume</string>
   <string name="volume_media_description">Media volume, for music, video, games, and other media</string>
   <string name="volume_media_mute">Mute music &amp; other media</string>
@@ -2789,13 +2785,13 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_context_menu_connect">Connect</string>
   <string name="wifi_context_menu_forget">Forget</string>
   <string name="wifi_disabled_generic">Disabled</string>
-  <string name="wifi_disabled_help">Network was disconnected due to poor connection. To adjust this setting, go to Settings &gt; Wi-Fi Screen, Advance Menu.</string>
+  <string name="wifi_disabled_help">Wi-Fi network was disconnected due to poor connection. To adjust this setting, go to Settings &gt; Wi-Fi screen, Advanced menu.</string>
   <string name="wifi_disabled_network_failure">Avoided poor Internet connection</string>
   <string name="wifi_disabled_password_failure">Authentication problem</string>
   <string name="wifi_dns1">DNS 1</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
-  <string name="wifi_dns2_hint">4.4.4.4</string>
+  <string name="wifi_dns2_hint">8.8.4.4</string>
   <string name="wifi_eap_anonymous">Anonymous identity</string>
   <string name="wifi_eap_ca_cert">CA certificate</string>
   <string name="wifi_eap_identity">Identity</string>
@@ -2804,7 +2800,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_empty_list_wifi_off">To see available networks, turn Wi-Fi on.</string>
   <string name="wifi_empty_list_wifi_on">Searching for Wi-Fi networks...</string>
   <string name="wifi_enable">Enable Wi-Fi</string>
-  <string name="wifi_enable_watchdog_service_summary">Use Wi-Fi network only when internet connection is strong</string>
+  <string name="wifi_enable_watchdog_service_summary">Avoid poor connections</string>
   <string name="wifi_error">Error</string>
   <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
   <string name="wifi_failed_connect_message">Failed to connect to network</string>
@@ -2827,11 +2823,11 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_menu_connect">Connect to network</string>
   <string name="wifi_menu_forget">Forget network</string>
   <string name="wifi_menu_modify">Modify network</string>
-  <string name="wifi_menu_p2p">Wi-Fi Direct</string>
+  <string name="wifi_menu_p2p">Wi-Fi direct</string>
   <string name="wifi_menu_scan">Scan</string>
-  <string name="wifi_menu_wfd">Wi-Fi Display</string>
-  <string name="wifi_menu_wps_pbc">WPS Push Button</string>
-  <string name="wifi_menu_wps_pin">WPS Pin Entry</string>
+  <string name="wifi_menu_wfd">Wi-Fi display</string>
+  <string name="wifi_menu_wps_pbc">WPS push button</string>
+  <string name="wifi_menu_wps_pin">WPS pin entry</string>
   <string name="wifi_more">More</string>
   <string name="wifi_network_prefix_length">Prefix length</string>
   <string name="wifi_network_prefix_length_hint">24</string>
@@ -2857,7 +2853,7 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_p2p_peer_devices">Peer devices</string>
   <string name="wifi_p2p_persist_network">Remember this connection</string>
   <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
-  <string name="wifi_p2p_wps_setup">Wi-Fi protected setup</string>
+  <string name="wifi_p2p_wps_setup">WPS setup</string>
   <string name="wifi_password">Password</string>
   <string name="wifi_poor_network_detection">Avoid poor connections</string>
   <string name="wifi_poor_network_detection_summary">"Don't use a Wi-Fi network unless it has a good Internet connection"</string>
@@ -2888,10 +2884,10 @@ Add a word by touching the Add (+) button"</string>
   <string name="wifi_setting_frequency_band_title">Wi-Fi frequency band</string>
   <string name="wifi_setting_sleep_policy_error">There was a problem changing the setting</string>
   <string name="wifi_setting_sleep_policy_title">Keep Wi-Fi on during sleep</string>
-  <string name="wifi_settings">Wi-Fi Settings</string>
+  <string name="wifi_settings">Wi-Fi settings</string>
   <string name="wifi_settings_category">Wi-Fi settings</string>
   <string name="wifi_settings_summary">Set up &amp; manage wireless access points</string>
-  <string name="wifi_settings_title">Wi-Fi Settings</string>
+  <string name="wifi_settings_title">Wi-Fi settings</string>
   <string name="wifi_setup_add_network">Add network</string>
   <string name="wifi_setup_back">Back</string>
   <string name="wifi_setup_cancel">Cancel</string>
@@ -2974,7 +2970,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s portable Wi-Fi hotspot</string>
   <string name="wifi_tether_enabled_subtext">Portable hotspot %1$s active</string>
-  <string name="wifi_tether_failed_subtext">Portable Wi-Fi Hotspot error</string>
+  <string name="wifi_tether_failed_subtext">Portable Wi-Fi hotspot error</string>
   <string name="wifi_unchanged">(unchanged)</string>
   <string name="wifi_unspecified">(unspecified)</string>
   <string name="wifi_update">Refresh stats</string>
@@ -2984,9 +2980,9 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wifi_wapi_cert_delet_subdir">Select a suit certificate</string>
   <string name="wifi_wapi_cert_install">Install WAPI Certificate</string>
   <string name="wifi_wapi_cert_install_button">Install</string>
-  <string name="wifi_wapi_cert_mgmt_as_dont_exist">AS certificate not found on SD card, please check and try again</string>
-  <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">The as certificate format is wrong! Please install right as certificate</string>
-  <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Please input the as certificate name</string>
+  <string name="wifi_wapi_cert_mgmt_as_dont_exist">AS certificate not found, please check and try again</string>
+  <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">The AS certificate format is wrong! Please install right as certificate</string>
+  <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Please input the AS certificate name</string>
   <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Create directory fail</string>
   <string name="wifi_wapi_cert_mgmt_subdir_exist">Please input the other directory name, this one does exist</string>
   <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Please input the directory name which you want to create!</string>
@@ -3023,7 +3019,7 @@ Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different Wi-Fi network.</string>
   <string name="wps_connect_title">Connect using WPS</string>
   <string name="xiaomi_account">Xiaomi account</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
-  <string name="xiaomi_money_service">MiCredit center</string>
+  <string name="xiaomi_money_service">MiCredit</string>
   <string name="yes">OK</string>
   <string name="zone_auto">Automatic time zone</string>
   <string name="zone_auto_summaryOff">Use network-provided time zone</string>
