@@ -98,6 +98,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="callrecordview_item_op_time_short_incoming">"Incoming: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Outgoing: "</string>
   <string name="callrecordview_menu_add_call_note">Add call note</string>
+  <string name="callrecordview_menu_batch_delete">Batch delete</string>
   <string name="callrecordview_menu_delete">Delete call log</string>
   <string name="callrecordview_menu_delete_accepted">Clear log for received calls</string>
   <string name="callrecordview_menu_delete_all">Clear call log</string>
@@ -210,6 +211,7 @@ Contact data stored in your MiCloud account will also be deleted."</string>
   <string name="deleteConfirmation">This contact will be deleted.</string>
   <string name="deleteConfirmationDetail">Delete \"%s\"?</string>
   <string name="deleteConfirmation_title">Delete</string>
+  <string name="delete_call_log_selected_title">Delete selected call log?</string>
   <string name="delete_call_log_title">Select call log to delete</string>
   <string name="delete_contact_calllog_title">Delete call logs?</string>
   <string name="delete_dial_input">Delete</string>
@@ -1038,6 +1040,7 @@ the content you're looking for is not currently available in your region."</stri
   <string name="toast_copying">Copying…</string>
   <string name="toast_displaying_all_contacts">Displaying all contacts</string>
   <string name="toast_finish_delete_call_log">Call log deleted</string>
+  <string name="toast_finish_delete_selected_call_log">Selected call log deleted</string>
   <string name="toast_for_failed_saving_nickname">Failed to save nickname</string>
   <string name="toast_for_saving_nickname">Nickname saved</string>
   <string name="toast_join_with_empty_contact">Type contact name before merging with another</string>

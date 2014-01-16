@@ -109,7 +109,6 @@
   <string name="eq_preset_hint">Please enter preset name</string>
   <string name="eq_preset_rename">Rename</string>
   <string name="eq_preset_select">Choose a preset</string>
-  <string name="eq_rb">R &amp; B</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizer</string>
   <string name="equalizer_delete">Delete</string>

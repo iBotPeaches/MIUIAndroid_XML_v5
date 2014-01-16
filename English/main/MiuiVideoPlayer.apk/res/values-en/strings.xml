@@ -19,7 +19,9 @@
   <string name="loading_video_netplay_label">Loading, please wait...</string>
   <string name="loading_video_netplay_label_v5">Loading stream, Please wait...</string>
   <string name="menu_item_about_label">About</string>
-  <string name="menu_item_disable_audio_enhance">Disable audio enhancement</string>
+  <string name="menu_item_disable_3d_mode">Disable 3D</string>
+  <string name="menu_item_disable_audio_enhance">Disable audio enhancer</string>
+  <string name="menu_item_enable_3d_mode">Enable 3D</string>
   <string name="menu_item_enable_audio_enhance">Enable audio enhancement</string>
   <string name="menu_item_hide_media_info_label">Hide media info</string>
   <string name="menu_item_media_info_label">Show media info</string>
