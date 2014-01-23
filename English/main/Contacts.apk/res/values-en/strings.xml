@@ -1107,5 +1107,6 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_search_result_service_error">Service currently unavailable</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Unknown error occurred!</string>
   <string name="yellowpage_navigation_search_select_city">Please select City</string>
+  <string name="yellowpage_navigation_send_to_desktop_succeeded">Added to Home screen</string>
   <string name="zero_items_selected">No items selected</string>
 </resources>

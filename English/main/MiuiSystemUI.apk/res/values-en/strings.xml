@@ -160,6 +160,8 @@
   <string name="notification_otg_unknow_out">OTG device disconnected</string>
   <string name="notifications_off_text">Tap here to turn notifications back on.</string>
   <string name="notifications_off_title">Notifications off</string>
+  <string name="oldman_airplane_mode_text">Airplane</string>
+  <string name="oldman_incall_text">incall</string>
   <string name="recent_apps_key">Recent apps key</string>
   <string name="recent_apps_key_show">Show recent apps key</string>
   <string name="return_to_incall_screen">Click to return to call</string>

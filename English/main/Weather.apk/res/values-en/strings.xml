@@ -99,6 +99,8 @@
   <string name="settings_weather_title">Settings</string>
   <string name="share_aqi_content">"\#MIUI weather#
 Today %1$s's air quality: %2$s, %3$s. %4$s %5$s."</string>
+  <string name="share_button_text">Share</string>
+  <string name="share_choice_titile">Share weather info</string>
   <string name="share_content">\#MIUI weather#</string>
   <string name="share_qq">Share via Tencent Weibo</string>
   <string name="share_sina">Share via Sina Weibo</string>

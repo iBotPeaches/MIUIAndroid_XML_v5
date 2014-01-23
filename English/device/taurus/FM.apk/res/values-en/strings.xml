@@ -126,6 +126,7 @@
   <string name="toast_added_to_list">Added to station list</string>
   <string name="toast_delete_station">%sMHz has been deleted.</string>
   <string name="toast_edit_station">Changes have been saved</string>
+  <string name="toast_fm_error_startfailed">Recording failed, another app may be using the recording function. Please check and try again.</string>
   <string name="toast_fm_not_stated">FM not stated</string>
   <string name="toast_fm_recorder_internal_error">FM recording error!</string>
   <string name="toast_fm_recorder_storage_full">Storage full, unable to record!</string>
