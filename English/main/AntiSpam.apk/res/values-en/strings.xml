@@ -9,7 +9,7 @@
   <string name="dlg_add_keyword">Add keywords</string>
   <string name="dlg_add_manual_hint">Input phone number</string>
   <string name="dlg_add_manual_ok">Add</string>
-  <string name="dlg_bl_add_manual">Add number to blacklist maunally</string>
+  <string name="dlg_bl_add_manual">Add number to blacklist manually</string>
   <string name="dlg_clear_all_call">Clear blocked calls?</string>
   <string name="dlg_clear_all_ok">Clear all</string>
   <string name="dlg_clear_all_sms">Clear all blocked messages?</string>
