@@ -3,13 +3,53 @@
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Tiny text</item>
         <item>Small text</item>
-        <item>Default text</item>
+        <item>Normal-sized text</item>
         <item>Large text</item>
         <item>Huge text</item>
     </string-array>
-    <string-array name="general_preference_auto_advance_summary_array">
-        <item>Go to newer message after you delete a message</item>
-        <item>Go to older message after you delete a message</item>
-        <item>Go to inbox after you delete a message</item>
+    <string-array name="compose_modes">
+        <item>Reply</item>
+        <item>Reply all</item>
+        <item>Forward</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Success</item>
+        <item>No connection.</item>
+        <item>"Couldn't sign in."</item>
+        <item>Security error.</item>
+        <item>"Couldn't sync."</item>
+        <item>Internal Error</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>System</item>
+        <item>Frequently Used</item>
+        <item>All Folders</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Newer</item>
+        <item>Older</item>
+        <item>Conversation list</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Show newer conversation after you delete</item>
+        <item>Show older conversation after you delete</item>
+        <item>Show conversation list after you delete</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Show archive only</item>
+        <item>Show delete only</item>
+        <item>Show archive &amp;amp; delete</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Show archive only</item>
+        <item>Show delete only</item>
+        <item>Show archive &amp;amp; delete</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Default</item>
+        <item>Format</item>
+        <item>Name</item>
+        <item>Sender</item>
+        <item>Date</item>
     </string-array>
 </resources>
