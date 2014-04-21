@@ -404,7 +404,6 @@
   <string name="invalid_recipient">The address %s is invalid.</string>
   <string name="kilobytes">%s KB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
-  <string name="load_attachment">@string/load_more</string>
   <string name="load_more">Load more</string>
   <string name="loading_conversation">Loading…</string>
   <string name="loading_conversations">Loading…</string>
@@ -546,7 +545,6 @@ CC: %4$s
   <string name="permission_access_provider_label">Access KingSoft email provider data</string>
   <string name="permission_read_attachment_desc">Allows the app to read your email attachments.</string>
   <string name="permission_read_attachment_label">Read email attachments</string>
-  <string name="phone">phone</string>
   <string name="photo_load_failed">"Couldn't load image"</string>
   <string name="photo_view_count" formatted="false">%d of %d</string>
   <string name="please_fill_in_your_mailbox_information">Please fill in your% s mailbox-related information:</string>
@@ -581,9 +579,6 @@ CC: %4$s
   <string name="policy_require_smime">Require SMIME messages</string>
   <string name="policy_screen_timeout">Require an idle device to lock its screen</string>
   <string name="policy_text_truncation">Restrict text email size</string>
-  <string name="pop3_name">POP3</string>
-  <string name="prefDefault_autoAdvance">list</string>
-  <string name="prefDefault_removal_action">archive</string>
   <string name="prefDialogTitle_conversationListIcon">Sender image</string>
   <string name="prefDialogTitle_removal_action">Archive &amp; delete actions</string>
   <string name="preference_removal_action_title">Archive &amp; delete actions</string>
@@ -601,10 +596,6 @@ CC: %4$s
   <string name="previous_action">Previous</string>
   <string name="prompt_title">Prompt</string>
   <string name="protocol">Protocol</string>
-  <string name="protocol_eas">eas</string>
-  <string name="protocol_imap">imap</string>
-  <string name="protocol_legacy_imap">imap</string>
-  <string name="protocol_pop3">pop3</string>
   <string name="provider_note_live">"Only some \"Plus\" accounts include POP access allowing this program to connect. If you're not able to sign in with your correct email address and password, you may not have a paid \"Plus\" account. Launch the web browser to gain access to these email accounts."</string>
   <string name="provider_note_t_online">Before setting up this email account, visit the T-Online website and create a password for POP3 email access.</string>
   <string name="pull_to_refresh">Pull to refresh</string>
@@ -615,8 +606,6 @@ CC: %4$s
   <string name="quick_responses_empty_view">No quick responses.</string>
   <string name="quote_begin">&lt;div class=\"quote\"&gt;</string>
   <string name="quoted_text">Include quoted text</string>
-  <string name="quoted_text_background_color_string">@*android:color/white</string>
-  <string name="quoted_text_font_color_string">@color/gray_text_color</string>
   <string name="quoted_text_label">Quote text</string>
   <string name="read_string">conversation read</string>
   <string name="recent_folders_heading">Recent folders</string>
