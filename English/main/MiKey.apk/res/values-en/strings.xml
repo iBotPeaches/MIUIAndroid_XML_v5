@@ -1,12 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about">About关</string>
   <string name="action_capture_video">Capture Video</string>
   <string name="action_clear_call_list">Clean call history</string>
   <string name="action_clear_memory">Clean RAM</string>
   <string name="action_clear_sms_inbox">Clean SMS Inbox</string>
   <string name="action_close">Close</string>
+  <string name="action_home">HOME</string>
   <string name="action_lock_screen">Lock screen</string>
   <string name="action_open_camera">Camera</string>
+  <string name="action_open_camera2">Camera</string>
   <string name="action_open_flashlight">Flashlight</string>
   <string name="action_open_or_close_motion">On/Off Motion</string>
   <string name="action_open_other_app">Other app</string>
@@ -15,11 +18,15 @@
   <string name="action_phone">Phone</string>
   <string name="action_screen_shot">Screenshot</string>
   <string name="action_send_text_message">Send SMS</string>
+  <string name="action_share_to_miliao">MiTalk</string>
+  <string name="action_share_to_miliao_wall">MiTalk Wall</string>
   <string name="action_share_to_moment">Share moment via  WeChat</string>
   <string name="action_share_to_wechat">Share via  WeChat</string>
   <string name="action_share_to_weibo">Share via Weibo</string>
+  <string name="action_zero_volume">Mute</string>
   <string name="add">Add</string>
   <string name="app_name">MiKey</string>
+  <string name="back_camera">Back camera</string>
   <string name="call_to">Call</string>
   <string name="cancel">Cancel</string>
   <string name="category_app">Apps</string>
@@ -43,19 +50,35 @@
   <string name="cn_8">8</string>
   <string name="cn_9">9</string>
   <string name="confirm">OK</string>
+  <string name="default_action_title">Default action</string>
   <string name="delete">Delete</string>
   <string name="delete_confirm">Delete?</string>
   <string name="delete_gesture">Delete settings?</string>
   <string name="device_not_recognized">Device not recognized. Try again.</string>
   <string name="earphone">Earphone</string>
+  <string name="front_camera">Front camera</string>
   <string name="input_phone">Input phone</string>
   <string name="long_click">Press and hold</string>
+  <string name="message_photo_end">Picture saved</string>
   <string name="no_usage">...</string>
   <string name="rank_prefix">"Rank: "</string>
   <string name="rank_suffix">points</string>
   <string name="recommend">Recommend</string>
   <string name="running_notification">Xiaomi MiKey</string>
-  <string name="select_device">Select device?</string>
+  <string name="select_camera">Select camera</string>
+  <string name="select_device">Select device</string>
+  <string name="setting_feedback">Feedback</string>
+  <string name="setting_instant_photo_desc">Focus before taking a photo</string>
+  <string name="setting_instant_photo_text">Focus before</string>
+  <string name="setting_keeplive_desc">"Allow application run at background.
+It can cause more battery consumption"</string>
+  <string name="setting_keeplive_text">Run at background</string>
+  <string name="setting_speed_desc">Speed of button press</string>
+  <string name="setting_speed_quick">Fast</string>
+  <string name="setting_speed_slow">Slow</string>
+  <string name="setting_speed_text">Speed</string>
+  <string name="setting_vibrate_text">Vibrate</string>
+  <string name="settings">Settings</string>
   <string name="short_click_1">1x</string>
   <string name="short_click_10">10x</string>
   <string name="short_click_2">2x</string>
@@ -70,6 +93,7 @@
   <string name="sms_template">SMS template</string>
   <string name="sms_to">Send SMS to:</string>
   <string name="splash_tip">Connect MiKey</string>
-  <string name="task_title_prefix">"Task: "</string>
+  <string name="task_title_prefix">"Task N: "</string>
   <string name="times">times</string>
+  <string name="write_pic_fail">Saving picture failed</string>
 </resources>
