@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about">About关</string>
+  <string name="about">About</string>
   <string name="action_capture_video">Capture Video</string>
   <string name="action_clear_call_list">Clean call history</string>
   <string name="action_clear_memory">Clean RAM</string>
