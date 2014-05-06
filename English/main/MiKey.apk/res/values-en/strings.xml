@@ -13,7 +13,7 @@
   <string name="action_open_flashlight">Flashlight</string>
   <string name="action_open_or_close_motion">On/Off Motion</string>
   <string name="action_open_other_app">Other app</string>
-  <string name="action_open_sound_recorder">Reocrd sound</string>
+  <string name="action_open_sound_recorder">Record sound</string>
   <string name="action_open_wechat">Open WeChat</string>
   <string name="action_phone">Phone</string>
   <string name="action_screen_shot">Screenshot</string>
@@ -62,7 +62,7 @@
   <string name="message_photo_end">Picture saved</string>
   <string name="no_usage">...</string>
   <string name="rank_prefix">"Rank: "</string>
-  <string name="rank_suffix">points</string>
+  <string name="rank_suffix">" points"</string>
   <string name="recommend">Recommend</string>
   <string name="running_notification">Xiaomi MiKey</string>
   <string name="select_camera">Select camera</string>
@@ -70,13 +70,14 @@
   <string name="setting_feedback">Feedback</string>
   <string name="setting_instant_photo_desc">Focus before taking a photo</string>
   <string name="setting_instant_photo_text">Focus before</string>
-  <string name="setting_keeplive_desc">"Allow application run at background.
-It can cause more battery consumption"</string>
+  <string name="setting_keeplive_desc">Allow application run at background.
+It can cause more battery consumption</string>
   <string name="setting_keeplive_text">Run at background</string>
   <string name="setting_speed_desc">Speed of button press</string>
   <string name="setting_speed_quick">Fast</string>
   <string name="setting_speed_slow">Slow</string>
   <string name="setting_speed_text">Speed</string>
+  <string name="setting_vibrate_desc">For feedback, phone will vibrate</string>
   <string name="setting_vibrate_text">Vibrate</string>
   <string name="settings">Settings</string>
   <string name="short_click_1">1x</string>
