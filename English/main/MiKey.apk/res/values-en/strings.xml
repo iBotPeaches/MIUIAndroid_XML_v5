@@ -13,7 +13,7 @@
   <string name="action_open_flashlight">Flashlight</string>
   <string name="action_open_or_close_motion">On/Off Motion</string>
   <string name="action_open_other_app">Other app</string>
-  <string name="action_open_sound_recorder">Record sound</string>
+  <string name="action_open_sound_recorder">Reocrd sound</string>
   <string name="action_open_wechat">Open WeChat</string>
   <string name="action_phone">Phone</string>
   <string name="action_screen_shot">Screenshot</string>
@@ -34,6 +34,7 @@
   <string name="clean_memory">Clean memory</string>
   <string name="click_to_open">Open</string>
   <string name="close_all">Close all</string>
+  <string name="close_recorder">Close recorder</string>
   <string name="cn_0">0</string>
   <string name="cn_1">1</string>
   <string name="cn_10">10</string>
@@ -56,28 +57,41 @@
   <string name="delete_gesture">Delete settings?</string>
   <string name="device_not_recognized">Device not recognized. Try again.</string>
   <string name="earphone">Earphone</string>
+  <string name="file_delimiter">／</string>
   <string name="front_camera">Front camera</string>
   <string name="input_phone">Input phone</string>
   <string name="long_click">Press and hold</string>
   <string name="message_photo_end">Picture saved</string>
   <string name="no_usage">...</string>
+  <string name="notification_control_play">Play</string>
+  <string name="notification_control_stop">Stop</string>
+  <string name="notification_recorder_file_location">File location:</string>
+  <string name="notification_recorder_start">Start recorder...</string>
   <string name="rank_prefix">"Rank: "</string>
   <string name="rank_suffix">" points"</string>
   <string name="recommend">Recommend</string>
   <string name="running_notification">Xiaomi MiKey</string>
-  <string name="select_camera">Select camera</string>
-  <string name="select_device">Select device</string>
+  <string name="sdcard">sdcard</string>
+  <string name="select_camera">Select camera?</string>
+  <string name="select_device">Select device?</string>
   <string name="setting_feedback">Feedback</string>
-  <string name="setting_instant_photo_desc">Focus before taking a photo</string>
+  <string name="setting_instant_photo_desc">"Focus before taking a photo"</string>
   <string name="setting_instant_photo_text">Focus before</string>
-  <string name="setting_keeplive_desc">Allow application run at background.
-It can cause more battery consumption</string>
+  <string name="setting_keeplive_desc">"Allow application run at background.
+It can cause more battery consumption"</string>
   <string name="setting_keeplive_text">Run at background</string>
+  <string name="setting_silent_mode">Silent mode</string>
   <string name="setting_speed_desc">Speed of button press</string>
+  <string name="setting_speed_max_time">1000</string>
+  <string name="setting_speed_middle_time">500ms</string>
+  <string name="setting_speed_min_time">0</string>
   <string name="setting_speed_quick">Fast</string>
   <string name="setting_speed_slow">Slow</string>
   <string name="setting_speed_text">Speed</string>
-  <string name="setting_vibrate_desc">For feedback, phone will vibrate</string>
+  <string name="setting_vibrate_desc">"The ability to feel the implementation of the functions are not repeated to give vibration feedback 
+The feedback function can not be delivered, such as "flash shot", "Mute" is through the vibration 
+Feedback implementation. 
+Users can use this switch to completely turn off the anti-vibration"</string>
   <string name="setting_vibrate_text">Vibrate</string>
   <string name="settings">Settings</string>
   <string name="short_click_1">1x</string>
@@ -90,6 +104,9 @@ It can cause more battery consumption</string>
   <string name="short_click_7">7x</string>
   <string name="short_click_8">8x</string>
   <string name="short_click_9">9x</string>
+  <string name="showSlip">View drop-down</string>
+  <string name="silent_mode_tip_main">Mute button is disabled</string>
+  <string name="silent_mode_tip_sub">Please turn on in the settings</string>
   <string name="sms_sent_done">SMS send</string>
   <string name="sms_template">SMS template</string>
   <string name="sms_to">Send SMS to:</string>
