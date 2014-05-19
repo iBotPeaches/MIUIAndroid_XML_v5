@@ -13,9 +13,10 @@
   <string name="action_open_flashlight">Flashlight</string>
   <string name="action_open_or_close_motion">On/Off Motion</string>
   <string name="action_open_other_app">Other app</string>
-  <string name="action_open_sound_recorder">Reocrd sound</string>
+  <string name="action_open_sound_recorder">Record sound</string>
   <string name="action_open_wechat">Open WeChat</string>
   <string name="action_phone">Phone</string>
+  <string name="action_qrcode">Scan QR Code</string>
   <string name="action_screen_shot">Screenshot</string>
   <string name="action_send_text_message">Send SMS</string>
   <string name="action_share_to_miliao">MiTalk</string>
@@ -23,6 +24,7 @@
   <string name="action_share_to_moment">Share moment via  WeChat</string>
   <string name="action_share_to_wechat">Share via  WeChat</string>
   <string name="action_share_to_weibo">Share via Weibo</string>
+  <string name="action_toolbox">Toolbox</string>
   <string name="action_zero_volume">Mute</string>
   <string name="add">Add</string>
   <string name="app_name">MiKey</string>
@@ -59,6 +61,7 @@
   <string name="earphone">Earphone</string>
   <string name="file_delimiter">／</string>
   <string name="front_camera">Front camera</string>
+  <string name="goto_update">Update</string>
   <string name="input_phone">Input phone</string>
   <string name="long_click">Press and hold</string>
   <string name="message_photo_end">Picture saved</string>
@@ -81,6 +84,9 @@
 It can cause more battery consumption"</string>
   <string name="setting_keeplive_text">Run at background</string>
   <string name="setting_silent_mode">Silent mode</string>
+  <string name="setting_silent_mode_default">Headphones Mode (Unplug MiKey)</string>
+  <string name="setting_silent_mode_desc">Select always headphones mode for unplug MiKey, otherwise it will cause no sound.</string>
+  <string name="setting_silent_mode_dust_cap">Dust cap (MiKey)</string>
   <string name="setting_speed_desc">Speed of button press</string>
   <string name="setting_speed_max_time">1000</string>
   <string name="setting_speed_middle_time">500ms</string>
@@ -112,6 +118,9 @@ Users can use this switch to completely turn off the anti-vibration"</string>
   <string name="sms_to">Send SMS to:</string>
   <string name="splash_tip">Connect MiKey</string>
   <string name="task_title_prefix">"Task N: "</string>
+  <string name="test_user_entry">Test</string>
   <string name="times">times</string>
+  <string name="toolbox_outer_desc">Select plus or existing function</string>
+  <string name="update_message">Update!</string>
   <string name="write_pic_fail">Saving picture failed</string>
 </resources>
