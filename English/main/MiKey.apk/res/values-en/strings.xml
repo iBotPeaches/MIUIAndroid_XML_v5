@@ -73,12 +73,12 @@
   <string name="faq_comp_title">What devices are compatible?</string>
   <string name="faq_focus_text">Flash extends the time of taking the picture, but the result picture is sharper. Although you can turn it off, but the picture might be blurred.</string>
   <string name="faq_focus_title">Slow taking the picture?</string>
-  <string name="faq_misreq_text">If the control of music on the lock screen doesn't respond, quit music, delete it from the RAM, reconnect the MiKey and start "MiKey" again. We know about this bug and we are working to remove it!</string>
+  <string name="faq_misreq_text">"If the control of music on the lock screen doesn't respond, quit music, delete it from the RAM, reconnect the MiKey and start "MiKey" again. We know about this bug and we are working to remove it!"</string>
   <string name="faq_misreq_title">How to solve problems?</string>
   <string name="faq_plug_text">This method of inserting MiKey will help prevent potential problems. Avoid pressing the button while inserting MiKey.</string>
   <string name="faq_plug_title">How to connect MiKey?</string>
   <string name="faq_quni_text">Button will last over 30000 clicks.</string>
-  <string name="faq_quni_title">What is the lafespan?</string>
+  <string name="faq_quni_title">What is the lifespan?</string>
   <string name="faq_slow_text">Set the frequency of clicks to "0"</string>
   <string name="faq_slow_title">Slow reaction?</string>
   <string name="faq_speed_text">Differences between the device causes a different reaction times. Set the time between clicks MiKey according to your needs.</string>
@@ -89,7 +89,7 @@
   <string name="faq_voice_text">Re-insert MiKey and choose from list you insert "MiKey" again.</string>
   <string name="faq_voice_title">No sound during a call?</string>
   <string name="faq_vsm_text">Make sure that you have disconnected MiKey before removing the back cover!</string>
-  <string name="faq_vsm_title">Attantion</string>
+  <string name="faq_vsm_title">Attention</string>
   <string name="file_delimiter">/</string>
   <string name="flash_lable">Flash</string>
   <string name="front_camera">Front camera</string>
@@ -104,7 +104,7 @@
   <string name="notification_control_play">Play</string>
   <string name="notification_control_stop">Stop</string>
   <string name="notification_recorder_file_location">Saved to:</string>
-  <string name="notification_recorder_start">Recored...</string>
+  <string name="notification_recorder_start">Recording...</string>
   <string name="open_flash_error">Turn on of flash failed</string>
   <string name="phone">Telefon:</string>
   <string name="picker_lable">Galery</string>
@@ -121,7 +121,7 @@
   <string name="select_device">What device is connected?</string>
   <string name="setting_feedback">Feedback</string>
   <string name="setting_instant_photo_desc">"Before taking a picture, the camera focuses"</string>
-  <string name="setting_instant_photo_text">Facus before taking picture</string>
+  <string name="setting_instant_photo_text">Focus before taking picture</string>
   <string name="setting_keeplive_desc">This option allows the application to run on the background and respond quickly to your commands. However, this can increase the battery consumption</string>
   <string name="setting_keeplive_text">Run on the background</string>
   <string name="setting_silent_mode">Silent mode</string>
@@ -155,8 +155,8 @@
   <string name="task_title_prefix">"Action N: "</string>
   <string name="test_user_entry">Test</string>
   <string name="times">times</string>
-  <string name="title">Titul:</string>
-  <string name="toolbox_outer_desc">Pres plus or existing function</string>
+  <string name="title">Title:</string>
+  <string name="toolbox_outer_desc">Press plus or existing function</string>
   <string name="update_message">Update!</string>
   <string name="vcard_prompt">Contact cannot be added because there is no name</string>
   <string name="web">Web:</string>
