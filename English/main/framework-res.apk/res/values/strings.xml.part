@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-    <string name="config_networkLocationProvider1">com.google.android.location.NetworkLocationProvider</string>
-    <string name="config_networkLocationProvider2">com.android.location.service.NetworkLocationProvider</string>
-    <string name="config_geocodeProvider">com.android.location.service.GeocodeProvider</string>  
-</resources>
